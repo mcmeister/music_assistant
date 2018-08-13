@@ -11,6 +11,6 @@ import urllib.request as urllib2
 a = input('Artist: ')
 b = input('Name: ')
 
-query = (a + ' ' + b + '.mp3')
+query = (a + ' ' + b + ' ' + 'mp3')
 for url in search(query, stop=10):
      print(url)
