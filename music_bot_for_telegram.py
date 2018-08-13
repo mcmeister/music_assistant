@@ -14,6 +14,3 @@ b = input('Название: ')
 query = (a + ' ' + b + '.mp3')
 for url in search(query, stop=10):
      print(url)
-     
-class MyHTMLParser(HTMLParser):
-     parser.feed(query)
