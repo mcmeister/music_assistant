@@ -8,8 +8,8 @@ from googlesearch import search
 from html.parser import HTMLParser
 import urllib.request as urllib2
 
-a = input('Исполнитель: ')
-b = input('Название: ')
+a = input('Artist: ')
+b = input('Name: ')
 
 query = (a + ' ' + b + '.mp3')
 for url in search(query, stop=10):
