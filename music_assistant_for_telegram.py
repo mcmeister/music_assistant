@@ -5,8 +5,6 @@
 ## 12.08.2018 @ 4:03
 
 from googlesearch import search
-from html.parser import HTMLParser
-import urllib.request as urllib2
 
 a = input('Artist: ')
 b = input('Name: ')
