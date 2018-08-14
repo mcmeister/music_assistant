@@ -13,4 +13,4 @@ else:
     query = (a + '_-_' + b + '_-_' + c)
 
 response = requests.get('http://mp3guild.com/mp3/' + query + '.html')
-print(response.url)
+print(response)
