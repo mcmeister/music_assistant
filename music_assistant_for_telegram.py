@@ -5,12 +5,16 @@
 ## 12.08.2018 @ 4:03
 
 from googlesearch import search
-from bs4 import BeautifulSoup
+import requests
 
 a = input('Artist: ')
 b = input('Name: ')
-c = input('Remix(Enter for blank): ')
+c = input('Remix("Enter" for blank): ')
 
 query = (a + ' ' + b + ' ' + c + ' ' + 'mp3')
-for url in search(query, stop=10):
-     soup = BeautifulSoup(url, 'html.parser')
+for url in search(query, stop=20):
+    response = requests.get('a_href' + '.mp3')
+
+file = open(parsed.txt, "w+")
+file.write(response.text)
+file.close()
