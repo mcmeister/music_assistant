@@ -5,10 +5,13 @@
 ## 12.08.2018 @ 4:03
 
 from googlesearch import search
+from bs4 import BeautifulSoup
 
 a = input('Artist: ')
 b = input('Name: ')
 
 query = (a + ' ' + b + ' ' + 'mp3')
 for url in search(query, stop=10):
-     print(url)
+     soup = BeautifulSoup(url, 'html.parser')
+
+soup.find_all('b')
