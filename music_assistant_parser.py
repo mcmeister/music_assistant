@@ -1,4 +1,4 @@
-## Music assistant HTML parser
+## Music Assistant HTML parser
 
 import requests
 
@@ -6,6 +6,7 @@ a = input('Artist: ')
 b = input('Name: ')
 c = input('Remix("Enter" for blank): ')
 
-query = (a + ' ' + b + ' ' + c + ' ' + 'mp3')
-response = requests.get('http://promodj.com/search?searchfor=' + query)
-print(response.url)
+query = (a + '_' + b + '_' + c)
+response = requests.get('http://mp3guild.com/mp3/' + query)
+song = response.url
+print(song)
