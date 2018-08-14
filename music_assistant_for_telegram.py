@@ -8,7 +8,8 @@ from googlesearch import search
 
 a = input('Artist: ')
 b = input('Name: ')
+c = input('Remix or Enter for blank:')
 
-query = (a + ' ' + b + ' ' + 'mp3')
+query = (a + ' ' + b + ' ' + c + ' ' + 'mp3')
 for url in search(query, stop=10):
      print(url)
