@@ -13,8 +13,4 @@ c = input('Remix("Enter" for blank): ')
 
 query = (a + ' ' + b + ' ' + c + ' ' + 'mp3')
 for url in search(query, stop=20):
-    response = requests.get('a_href' + '.mp3')
-
-file = open(parsed.txt, "w+")
-file.write(response.text)
-file.close()
+    print(url)
