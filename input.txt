@@ -1,0 +1,9 @@
+a = input('Artist: ')
+b = input('Name: ')
+c = input('Remix("Enter" for blank): ')
+s = str()
+
+if c == s:
+    query = (a + '_-_' + b)
+else:
+    query = (a + '_-_' + b + '_-_' + c)

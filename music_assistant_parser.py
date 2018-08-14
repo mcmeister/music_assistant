@@ -1,7 +1,6 @@
 ## Music Assistant HTML parser
 
 import requests
-import string
 
 a = input('Artist: ')
 b = input('Name: ')

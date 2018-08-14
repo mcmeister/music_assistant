@@ -10,7 +10,12 @@ import requests
 a = input('Artist: ')
 b = input('Name: ')
 c = input('Remix("Enter" for blank): ')
+s = str()
 
-query = (a + ' ' + b + ' ' + c + ' ' + 'mp3')
+if c == s:
+    query = (a + '_-_' + b)
+else:
+    query = (a + '_-_' + b + '_-_' + c)
+
 for url in search(query, stop=20):
     print(url)
