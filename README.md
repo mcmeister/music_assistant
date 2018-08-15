@@ -1,3 +1,6 @@
+Soon here will be something more specific. 
+Cheers! 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mcmeister/music_bot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
