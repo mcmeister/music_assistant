@@ -12,7 +12,7 @@ if c == s:
 else:
     query = (a + '_-_' + b + '_-_' + c)
 
-url = ('http://mp3guild.com/mp3/' + query + '.html')
+response = requests.get('http://mp3guild.com/mp3/' + query + '.html')
 r = requests.get(url)
 with open('request.html', 'w') as output_file:
     output_file.write(r.text.encode('cp1251'))
