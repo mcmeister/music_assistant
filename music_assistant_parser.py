@@ -31,4 +31,3 @@ soup = BeautifulSoup(open('test.txt'), 'html.parser')
 for link in soup.find_all('a'):
     url = link.get('href')
     print(url)
-    #wget.download(url, '/Users/SysAdmin/Downloads/mp3/')
