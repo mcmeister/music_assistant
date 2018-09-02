@@ -1,6 +1,7 @@
 ## Music Assistant HTML parser
 
 import requests
+from bs4 import BeautifulSoup
 
 a = input('Artist: ')
 b = input('Name: ')
@@ -12,7 +13,18 @@ if c == s:
 else:
     query = (a + '_-_' + b + '_-_' + c)
 
-url = 'http://mp3guild.com/mp3/' + query + '.html'
-r = requests.get(url)
-with open('request.html', 'w') as output_file:
-    output_file.write(r.text.encode('cp1251'))
+headers = {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:45.0) Gecko/20100101 Firefox/45.0'
+      }
+
+url = 'http://mp3guild.com/mp3/' +query +'.html'
+
+response = requests.get(url, headers=headers, stream=True)
+
+handle = open('test.txt', "wb")
+for chunk in response.iter_content(chunk_size=512):
+    if chunk:
+        handle.write(chunk)
+        
+soup = BeautifulSoup(open('test.txt'), 'html.parser')
+print(soup.prettify())
