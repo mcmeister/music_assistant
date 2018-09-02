@@ -1,0 +1,8 @@
+## Music Assistant Download Manager
+
+#import wget
+
+#print('Beginning file download with wget module')
+
+url = 'http://mp3guild.com/dl.php?type=get&s=4b40a52789af943da66b25e7a723d833&u=dklwN2dZVTZCRFFGdFpLeGcxNGp1d1hINzdCS1VJVnI3NmRxZFpvYXBoRTFVOE1CTk1RYXpGL2RUM05KVnJWMmNtdU9rSGM3dXRyMEZ2WGo3U1Mva1RlYys5UmUrVkE3RzFDcndqT3pWb3N5ZytrOWVSeENwTmdhT2Zra01yVUFZa0VleWhndnFadTIvM2JTaHRtMXltREFtVjlMZ0hFN05GbGZtU2ZxZWRkc0JsYXlOMVZUVG94alg5WXUzNFY0Y1R3Q3poK0hpbExlemo1ZTg4Mm1lTU4zRDZocVovMGxsaTRJemtYdENCSi9uREhrT1VFT0hienVhV3c1Vk5Eb01xY1k4Q0JycitzL25BMGtrTkU2UHc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNTc=&tid=371745432_456354881&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&tt=1&name=The_Prodigy_-_Diesel_Power'
+#wget.download(url, '/Users/SysAdmin/Downloads/mp3/')

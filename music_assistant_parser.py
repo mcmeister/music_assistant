@@ -6,7 +6,7 @@ import wget
 
 a = input('Artist: ')
 b = input('Name: ')
-c = input('Remix(Leave blank for Original): ')
+c = input('Mix(Blank for Original): ')
 s = str()
 
 if c == s:
@@ -28,4 +28,7 @@ for chunk in response.iter_content(chunk_size=512):
         handle.write(chunk)
 
 soup = BeautifulSoup(open('test.txt'), 'html.parser')
-print(soup.prettify())
+for link in soup.find_all('a'):
+    url = link.get('href')
+    print(url)
+    #wget.download(url, '/Users/SysAdmin/Downloads/mp3/')
