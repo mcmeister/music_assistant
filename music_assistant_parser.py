@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 a = input('Artist: ')
 b = input('Name: ')
-c = input('Remix("Enter" for blank): ')
+c = input('Remix(Leave blank for Original): ')
 s = str()
 
 if c == s:
@@ -25,10 +25,6 @@ handle = open('test.txt', "wb")
 for chunk in response.iter_content(chunk_size=512):
     if chunk:
         handle.write(chunk)
-
-##file = open("test.txt", "w+")
-##file.write(response.text)
-##file.close()
 
 soup = BeautifulSoup(open('test.txt'), 'html.parser')
 print(soup.prettify())
