@@ -1,23 +1,23 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Prodigy   Diesel Power download mp3 </title>
+<title>Madonna   Frozen download mp3 </title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta property="og:title" content="Found! Prodigy   Diesel Power.mp3 |  320kbps | (5.89MB)  | Download Free | Play | Cut ringtone or audio sample of Prodigy   Diesel Power song online" />
+<meta property="og:title" content="Found! Madonna   Frozen.mp3 |  320kbps | (5.81MB)  | Download Free | Play | Cut ringtone or audio sample of Madonna   Frozen song online" />
 <meta property="og:type" content="song" />
 <meta property="og:image" content="http://mp3guild.com/logo.png" />
-<meta property="og:url" content="http://mp3guild.com/mp3/Prodigy___Diesel_Power.html" />
-<meta property="og:description" content="Found! Prodigy   Diesel Power.mp3 |  320kbps | (5.89MB)  | Download Free | Play | Cut ringtone or audio sample of Prodigy   Diesel Power song online"/>
+<meta property="og:url" content="http://mp3guild.com/mp3/Madonna___Frozen.html" />
+<meta property="og:description" content="Found! Madonna   Frozen.mp3 |  320kbps | (5.81MB)  | Download Free | Play | Cut ringtone or audio sample of Madonna   Frozen song online"/>
 <meta property="og:app_id" content="299633666807478" />
 <meta property="og:site_name" content="mp3Clan"/><meta name="google-site-verification" content="bUxeODCAVRkNpwwCmG1t1H9wW54lDG_GbI82wx51hVg" /><meta name="msvalidate.01" content="BA88B91DC888526CB75A743D8170454D" />
 <meta name=viewport content="width=device-width, initial-scale=1">
 <meta name="msvalidate.01" content="256EF1B874D6823B4A443FF9500382EB" />
-<meta name="twitter:card" content="Prodigy   Diesel Power">
+<meta name="twitter:card" content="Madonna   Frozen">
 <meta name="twitter:site" content="@mp3Clan">
 <meta name="twitter:title" content="mp3Clan Free Download">
-<meta name="twitter:description" content="Found! Prodigy   Diesel Power.mp3 |  320kbps | (5.89MB)  | Download Free | Play | Cut ringtone or audio sample of Prodigy   Diesel Power song online">
-<meta name="description" content="Found! Prodigy   Diesel Power.mp3 |  320kbps | (5.89MB)  | Download Free | Play | Cut ringtone or audio sample of Prodigy   Diesel Power song online" />
-<!-- <meta name="keywords" content="Prodigy,,,Diesel,Powerdownload, no cost, free music, free download, free mp3, free songs, mp3, cut, zippy, lagu, music, mp3skull, song, indir, mobile, iphone, ipod, ringtone, gratis" />-->
+<meta name="twitter:description" content="Found! Madonna   Frozen.mp3 |  320kbps | (5.81MB)  | Download Free | Play | Cut ringtone or audio sample of Madonna   Frozen song online">
+<meta name="description" content="Found! Madonna   Frozen.mp3 |  320kbps | (5.81MB)  | Download Free | Play | Cut ringtone or audio sample of Madonna   Frozen song online" />
+<!-- <meta name="keywords" content="Madonna,,,Frozendownload, no cost, free music, free download, free mp3, free songs, mp3, cut, zippy, lagu, music, mp3skull, song, indir, mobile, iphone, ipod, ringtone, gratis" />-->
 <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
 <link rel="publisher" href="https://plus.google.com/+mp3Clan"><link rel="stylesheet" type="text/css" href="http://mp3guild.com/style/extractProgressBar.css" />
 <meta property="fb:app_id" content="1101938103181971" />
@@ -53,7 +53,7 @@ var autoplayz = false;
 </header>
 <div class="main">
 <div style="position:absolute;z-index:-10;">
-	<h1 class="hidden">Download Prodigy   Diesel Power mp3 free</h1>
+	<h1 class="hidden">Download Madonna   Frozen mp3 free</h1>
 	<h2>How to download free mp3</h2>
 </div>
 
@@ -294,18 +294,18 @@ function disqus() {
 		
 			
 	<div id="mp3list" class="unplaying">
-		<div class="mp3list-table" id="371745432_456354881">
+		<div class="mp3list-table" id="371745430_456388491">
 			<div id="mp3list-tr" data-iceapw="">
 				<li class="mp3list-play" id="playlist_0" data-track-nr="0">
-					<div class="unselectable" title="The Prodigy - Diesel Power">The Prodigy - Diesel Power <span class="dnldw_371745432_456354881" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
-					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=371745432_456354881&u=dklwN2dZVTZCRFFGdFpLeGcxNGp1d1hINzdCS1VJVnI3NmRxZFpvYXBoRTFVOE1CTk1RYXpGL2RUM05KVnJWMmNtdU9rSGM3dXRyMEZ2WGo3U1Mva1RlYys5UmUrVkE3RzFDcndqT3pWb3N5ZytrOWVSeENwTmdhT2Zra01yVUFZa0VleWhndnFadTIvM2JTaHRtMXltREFtVjlMZ0hFN05GbGZtU2ZxZWRkc0JsYXlOMVZUVG94alg5WXUzNFY0Y1R3Q3poK0hpbExlemo1ZTg4Mm1lTU4zRDZocVovMGxsaTRJemtYdENCSi9uREhrT1VFT0hienVhV3c1Vk5Eb01xY1k4Q0JycitzL25BMGtrTkU2UHc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNTc=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&name=The_Prodigy_-_Diesel_Power&.mp3" rel="nofollow" onclick="suggest_show('371745432_456354881','The Prodigy');" >
+					<div class="unselectable" title="Madonna - Frozen">Madonna - Frozen <span class="dnldw_371745430_456388491" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
+					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=371745430_456388491&u=cFBQdXVpQ2x1dFpsa1ZtY2pRbEdJd1hINzdCS1VJVnI3NmRxZFpvYXBoSE9MVXFHSnh4N0lmbFZtcDJuT2tpTjNyYTZPQVJPOVJuV1NoWlZZbTZKc1R2WW9mZjU0ZktnQ2Zid3dTSHBXamhkWWxTRW9oRGl3N3hYMFA5LzIreFAxV0oyRVpHT1Nicm9Fcmw1QjBCeFhoVkdEcHlNNzB3VkVSSmpWL0I0T0NpY21QREx3NDlhME9lc2tEUDg1SjkxSzhGVWd1Z1IyMDhWS3dUSHhwcTRvdWswT2JPSjhIMUFBODFMMzFrakRZQmUwRXpGTUZmak1aSnV4MUFtNmlKYUNxL29oRXNpT1QvMytFN09yUEJkZmc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNjc=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&name=Madonna_-_Frozen&.mp3" rel="nofollow" onclick="suggest_show('371745430_456388491','Madonna');" >
 						<div id="playbtn" ></div>
 					</a>
-					<div class="mp3list-bitrate bit_371745432_456354881" onclick="bitrate('371745432_456354881','dklwN2dZVTZCRFFGdFpLeGcxNGp1d1hINzdCS1VJVnI3NmRxZFpvYXBoRTFVOE1CTk1RYXpGL2RUM05KVnJWMmNtdU9rSGM3dXRyMEZ2WGo3U1Mva1RlYys5UmUrVkE3RzFDcndqT3pWb3N5ZytrOWVSeENwTmdhT2Zra01yVUFZa0VleWhndnFadTIvM2JTaHRtMXltREFtVjlMZ0hFN05GbGZtU2ZxZWRkc0JsYXlOMVZUVG94alg5WXUzNFY0Y1R3Q3poK0hpbExlemo1ZTg4Mm1lTU4zRDZocVovMGxsaTRJemtYdENCSi9uREhrT1VFT0hienVhV3c1Vk5Eb01xY1k4Q0JycitzL25BMGtrTkU2UHc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNTc=','257');" title="Click for Bitrate" style="cursor:pointer;">
-						Check <br>04:17 min
+					<div class="mp3list-bitrate bit_371745430_456388491" onclick="bitrate('371745430_456388491','cFBQdXVpQ2x1dFpsa1ZtY2pRbEdJd1hINzdCS1VJVnI3NmRxZFpvYXBoSE9MVXFHSnh4N0lmbFZtcDJuT2tpTjNyYTZPQVJPOVJuV1NoWlZZbTZKc1R2WW9mZjU0ZktnQ2Zid3dTSHBXamhkWWxTRW9oRGl3N3hYMFA5LzIreFAxV0oyRVpHT1Nicm9Fcmw1QjBCeFhoVkdEcHlNNzB3VkVSSmpWL0I0T0NpY21QREx3NDlhME9lc2tEUDg1SjkxSzhGVWd1Z1IyMDhWS3dUSHhwcTRvdWswT2JPSjhIMUFBODFMMzFrakRZQmUwRXpGTUZmak1aSnV4MUFtNmlKYUNxL29oRXNpT1QvMytFN09yUEJkZmc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNjc=','367');" title="Click for Bitrate" style="cursor:pointer;">
+						Check <br>06:07 min
 					</div>
 				</li>
-				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('371745432_456354881','The Prodigy')">
+				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('371745430_456388491','Madonna')">
 					<img src="http://mp3guild.com/style/images/embed.png" alt="embed music">
 				</div>-->
 				<!--<div style="display:none" class="mp3list-vip">
@@ -313,25 +313,25 @@ function disqus() {
 						<div title="Pro Users Only" id="vip"></div>
 				</div>-->
 				<div class="mp3list-ringtone">
-					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('0','dklwN2dZVTZCRFFGdFpLeGcxNGp1d1hINzdCS1VJVnI3NmRxZFpvYXBoRTFVOE1CTk1RYXpGL2RUM05KVnJWMmNtdU9rSGM3dXRyMEZ2WGo3U1Mva1RlYys5UmUrVkE3RzFDcndqT3pWb3N5ZytrOWVSeENwTmdhT2Zra01yVUFZa0VleWhndnFadTIvM2JTaHRtMXltREFtVjlMZ0hFN05GbGZtU2ZxZWRkc0JsYXlOMVZUVG94alg5WXUzNFY0Y1R3Q3poK0hpbExlemo1ZTg4Mm1lTU4zRDZocVovMGxsaTRJemtYdENCSi9uREhrT1VFT0hienVhV3c1Vk5Eb01xY1k4Q0JycitzL25BMGtrTkU2UHc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNTc=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
+					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('0','cFBQdXVpQ2x1dFpsa1ZtY2pRbEdJd1hINzdCS1VJVnI3NmRxZFpvYXBoSE9MVXFHSnh4N0lmbFZtcDJuT2tpTjNyYTZPQVJPOVJuV1NoWlZZbTZKc1R2WW9mZjU0ZktnQ2Zid3dTSHBXamhkWWxTRW9oRGl3N3hYMFA5LzIreFAxV0oyRVpHT1Nicm9Fcmw1QjBCeFhoVkdEcHlNNzB3VkVSSmpWL0I0T0NpY21QREx3NDlhME9lc2tEUDg1SjkxSzhGVWd1Z1IyMDhWS3dUSHhwcTRvdWswT2JPSjhIMUFBODFMMzFrakRZQmUwRXpGTUZmak1aSnV4MUFtNmlKYUNxL29oRXNpT1QvMytFN09yUEJkZmc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNjc=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
 				</div>
 				<!--<div  class="mp3list-share">
-					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/371745432_456354881.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
+					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/371745430_456388491.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
 						<div title="Share on Facebook" id="fbshare"><i class="fa fa-facebook-official" aria-hidden="true"></i></div>
 					</a>
 				</div>-->
-				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=dklwN2dZVTZCRFFGdFpLeGcxNGp1d1hINzdCS1VJVnI3NmRxZFpvYXBoRTFVOE1CTk1RYXpGL2RUM05KVnJWMmNtdU9rSGM3dXRyMEZ2WGo3U1Mva1RlYys5UmUrVkE3RzFDcndqT3pWb3N5ZytrOWVSeENwTmdhT2Zra01yVUFZa0VleWhndnFadTIvM2JTaHRtMXltREFtVjlMZ0hFN05GbGZtU2ZxZWRkc0JsYXlOMVZUVG94alg5WXUzNFY0Y1R3Q3poK0hpbExlemo1ZTg4Mm1lTU4zRDZocVovMGxsaTRJemtYdENCSi9uREhrT1VFT0hienVhV3c1Vk5Eb01xY1k4Q0JycitzL25BMGtrTkU2UHc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNTc=&tid=371745432_456354881&source=http://95.211.168.84/get.php&name=The+Prodigy+-+Diesel+Power.mp3&tt=1" class="dropbox-saver" data-filename="The Prodigy - Diesel Power.mp3" style="outline: none;"><div id="dropbox"></div></a></div>
+				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=cFBQdXVpQ2x1dFpsa1ZtY2pRbEdJd1hINzdCS1VJVnI3NmRxZFpvYXBoSE9MVXFHSnh4N0lmbFZtcDJuT2tpTjNyYTZPQVJPOVJuV1NoWlZZbTZKc1R2WW9mZjU0ZktnQ2Zid3dTSHBXamhkWWxTRW9oRGl3N3hYMFA5LzIreFAxV0oyRVpHT1Nicm9Fcmw1QjBCeFhoVkdEcHlNNzB3VkVSSmpWL0I0T0NpY21QREx3NDlhME9lc2tEUDg1SjkxSzhGVWd1Z1IyMDhWS3dUSHhwcTRvdWswT2JPSjhIMUFBODFMMzFrakRZQmUwRXpGTUZmak1aSnV4MUFtNmlKYUNxL29oRXNpT1QvMytFN09yUEJkZmc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNjc=&tid=371745430_456388491&source=http://95.211.162.98/get.php&name=Madonna+-+Frozen.mp3&tt=1" class="dropbox-saver" data-filename="Madonna - Frozen.mp3" style="outline: none;"><div id="dropbox"></div></a></div>
 				<div title="Download" class="mp3list-download">
-					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=dklwN2dZVTZCRFFGdFpLeGcxNGp1d1hINzdCS1VJVnI3NmRxZFpvYXBoRTFVOE1CTk1RYXpGL2RUM05KVnJWMmNtdU9rSGM3dXRyMEZ2WGo3U1Mva1RlYys5UmUrVkE3RzFDcndqT3pWb3N5ZytrOWVSeENwTmdhT2Zra01yVUFZa0VleWhndnFadTIvM2JTaHRtMXltREFtVjlMZ0hFN05GbGZtU2ZxZWRkc0JsYXlOMVZUVG94alg5WXUzNFY0Y1R3Q3poK0hpbExlemo1ZTg4Mm1lTU4zRDZocVovMGxsaTRJemtYdENCSi9uREhrT1VFT0hienVhV3c1Vk5Eb01xY1k4Q0JycitzL25BMGtrTkU2UHc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNTc=&tid=371745432_456354881&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&tt=1&name=The_Prodigy_-_Diesel_Power" rel="nofollow" download="The_Prodigy_-_Diesel_Power" onclick="return !window.open(this.href);" >
+					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=cFBQdXVpQ2x1dFpsa1ZtY2pRbEdJd1hINzdCS1VJVnI3NmRxZFpvYXBoSE9MVXFHSnh4N0lmbFZtcDJuT2tpTjNyYTZPQVJPOVJuV1NoWlZZbTZKc1R2WW9mZjU0ZktnQ2Zid3dTSHBXamhkWWxTRW9oRGl3N3hYMFA5LzIreFAxV0oyRVpHT1Nicm9Fcmw1QjBCeFhoVkdEcHlNNzB3VkVSSmpWL0I0T0NpY21QREx3NDlhME9lc2tEUDg1SjkxSzhGVWd1Z1IyMDhWS3dUSHhwcTRvdWswT2JPSjhIMUFBODFMMzFrakRZQmUwRXpGTUZmak1aSnV4MUFtNmlKYUNxL29oRXNpT1QvMytFN09yUEJkZmc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNjc=&tid=371745430_456388491&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&tt=1&name=Madonna_-_Frozen" rel="nofollow" download="Madonna_-_Frozen" onclick="return !window.open(this.href);" >
 						<div id="download"><i class="fa fa-download" aria-hidden="true"></i></div>
 					</a>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div id="embed_371745432_456354881" class="lyrics-txt" style="display:none"></div>
+	<div id="embed_371745430_456388491" class="lyrics-txt" style="display:none"></div>
 	<div id="ring_0" class="lyrics-txt" style="display:none"></div>
-	<div id="suggest_371745432_456354881" class="suggest-show"></div>
+	<div id="suggest_371745430_456388491" class="suggest-show"></div>
 	<!--<div id="notf_" style="position:relative; text-align:center; color:#fffff; display: none;margin:0 auto;height:20px;width:200px;overflow:hidden; background:#545454;padding-top:2px;align:center;border-radius:2px;border:2px solid #545454;"><font color=#FFF>No lyrics found! Try another..</font>
 	</div>--><script>
 $(document).ready(function () {
@@ -351,18 +351,18 @@ $(document).ready(function () {
 });
 </script>
 	<div id="mp3list" class="unplaying">
-		<div class="mp3list-table" id="371745455_456297826">
+		<div class="mp3list-table" id="371745435_456364605">
 			<div id="mp3list-tr" data-iceapw="">
 				<li class="mp3list-play" id="playlist_1" data-track-nr="1">
-					<div class="unselectable" title="Kool Keith Feat. Prodigy - Diesel Power">Kool Keith Feat. Prodigy - Diesel Power <span class="dnldw_371745455_456297826" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
-					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=371745455_456297826&u=d1pEZ0pzd052OXRWTUo5Q3licDFYZ1hINzdCS1VJVnI3NmRxZFpvYXBoSEpYSkVEK1B3MU4vUkhwc0I2RVl5N25LVm95ZCtnN29FejJDRk1BT0dHckQrdnNOZ1J3VDdpdWlWNDd1b0NBMUpvZFY2THlSOXRLT3I1N2YwWjFiSXNVdDZGZUtnNkhnc0N5SkVzNGtWcHRocUtNb0pBL01NaGkvZnpTNk1tWXRXZndjaHFodjVNcldwbDJ6M3RyM3UvK1RtUVg3d1l1TG5rVzJXWGptTy9FQlpzQS9xQ2dIYWo3ZW1KMmo2ZFRVN240eEhHb3BENFBEUFdNVGR0aEYyZjNhczdHSnNVeWlNcjRvY1ZCVzBaSkE9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNjA=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&name=Kool_Keith_Feat._Prodigy_-_Diesel_Power&.mp3" rel="nofollow" onclick="suggest_show('371745455_456297826','Kool Keith feat. Prodigy');" >
+					<div class="unselectable" title="Madonna - Frozen">Madonna - Frozen <span class="dnldw_371745435_456364605" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
+					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=371745435_456364605&u=enV1ckorNFVXVDFKcHpnbmxqdlNlUVhINzdCS1VJVnI3NmRxZFpvYXBoRlR1SEZYN0ZtUTdDVlJwNXVLYnlpeGxLN3J2NXEwUVlSWGtUL2RkWi9PblNLQjM2dWpVc1JPcmE2NTdleFNuQVRkNEY0QUNNenp6Z0VSZlI4VEpOMkhYTkxNMzlLWXlwZ04xQnMzK1VWZExWeXl6NmViZ2Q1NFV4cEhUbjFMQkVnVG10SlArOHpnNE5sRXZEdDdwaEpFMFR2YjBpMHVQTEorbWhwMUcyRDF5QjFibWlXSjR1OFUrMlMrSm5HU3dVdXZQWjcrdFgzcHlTcmQ2cWxOckhrZ2hpMlhWdlFpQ2FWZzhkMnJrUEgwcFE9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMTA=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&name=Madonna_-_Frozen&.mp3" rel="nofollow" onclick="suggest_show('371745435_456364605','Madonna');" >
 						<div id="playbtn" ></div>
 					</a>
-					<div class="mp3list-bitrate bit_371745455_456297826" onclick="bitrate('371745455_456297826','d1pEZ0pzd052OXRWTUo5Q3licDFYZ1hINzdCS1VJVnI3NmRxZFpvYXBoSEpYSkVEK1B3MU4vUkhwc0I2RVl5N25LVm95ZCtnN29FejJDRk1BT0dHckQrdnNOZ1J3VDdpdWlWNDd1b0NBMUpvZFY2THlSOXRLT3I1N2YwWjFiSXNVdDZGZUtnNkhnc0N5SkVzNGtWcHRocUtNb0pBL01NaGkvZnpTNk1tWXRXZndjaHFodjVNcldwbDJ6M3RyM3UvK1RtUVg3d1l1TG5rVzJXWGptTy9FQlpzQS9xQ2dIYWo3ZW1KMmo2ZFRVN240eEhHb3BENFBEUFdNVGR0aEYyZjNhczdHSnNVeWlNcjRvY1ZCVzBaSkE9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNjA=','260');" title="Click for Bitrate" style="cursor:pointer;">
-						Check <br>04:20 min
+					<div class="mp3list-bitrate bit_371745435_456364605" onclick="bitrate('371745435_456364605','enV1ckorNFVXVDFKcHpnbmxqdlNlUVhINzdCS1VJVnI3NmRxZFpvYXBoRlR1SEZYN0ZtUTdDVlJwNXVLYnlpeGxLN3J2NXEwUVlSWGtUL2RkWi9PblNLQjM2dWpVc1JPcmE2NTdleFNuQVRkNEY0QUNNenp6Z0VSZlI4VEpOMkhYTkxNMzlLWXlwZ04xQnMzK1VWZExWeXl6NmViZ2Q1NFV4cEhUbjFMQkVnVG10SlArOHpnNE5sRXZEdDdwaEpFMFR2YjBpMHVQTEorbWhwMUcyRDF5QjFibWlXSjR1OFUrMlMrSm5HU3dVdXZQWjcrdFgzcHlTcmQ2cWxOckhrZ2hpMlhWdlFpQ2FWZzhkMnJrUEgwcFE9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMTA=','310');" title="Click for Bitrate" style="cursor:pointer;">
+						Check <br>05:10 min
 					</div>
 				</li>
-				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('371745455_456297826','Kool Keith feat. Prodigy')">
+				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('371745435_456364605','Madonna')">
 					<img src="http://mp3guild.com/style/images/embed.png" alt="embed music">
 				</div>-->
 				<!--<div style="display:none" class="mp3list-vip">
@@ -370,25 +370,25 @@ $(document).ready(function () {
 						<div title="Pro Users Only" id="vip"></div>
 				</div>-->
 				<div class="mp3list-ringtone">
-					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('1','d1pEZ0pzd052OXRWTUo5Q3licDFYZ1hINzdCS1VJVnI3NmRxZFpvYXBoSEpYSkVEK1B3MU4vUkhwc0I2RVl5N25LVm95ZCtnN29FejJDRk1BT0dHckQrdnNOZ1J3VDdpdWlWNDd1b0NBMUpvZFY2THlSOXRLT3I1N2YwWjFiSXNVdDZGZUtnNkhnc0N5SkVzNGtWcHRocUtNb0pBL01NaGkvZnpTNk1tWXRXZndjaHFodjVNcldwbDJ6M3RyM3UvK1RtUVg3d1l1TG5rVzJXWGptTy9FQlpzQS9xQ2dIYWo3ZW1KMmo2ZFRVN240eEhHb3BENFBEUFdNVGR0aEYyZjNhczdHSnNVeWlNcjRvY1ZCVzBaSkE9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNjA=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
+					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('1','enV1ckorNFVXVDFKcHpnbmxqdlNlUVhINzdCS1VJVnI3NmRxZFpvYXBoRlR1SEZYN0ZtUTdDVlJwNXVLYnlpeGxLN3J2NXEwUVlSWGtUL2RkWi9PblNLQjM2dWpVc1JPcmE2NTdleFNuQVRkNEY0QUNNenp6Z0VSZlI4VEpOMkhYTkxNMzlLWXlwZ04xQnMzK1VWZExWeXl6NmViZ2Q1NFV4cEhUbjFMQkVnVG10SlArOHpnNE5sRXZEdDdwaEpFMFR2YjBpMHVQTEorbWhwMUcyRDF5QjFibWlXSjR1OFUrMlMrSm5HU3dVdXZQWjcrdFgzcHlTcmQ2cWxOckhrZ2hpMlhWdlFpQ2FWZzhkMnJrUEgwcFE9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMTA=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
 				</div>
 				<!--<div  class="mp3list-share">
-					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/371745455_456297826.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
+					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/371745435_456364605.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
 						<div title="Share on Facebook" id="fbshare"><i class="fa fa-facebook-official" aria-hidden="true"></i></div>
 					</a>
 				</div>-->
-				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=d1pEZ0pzd052OXRWTUo5Q3licDFYZ1hINzdCS1VJVnI3NmRxZFpvYXBoSEpYSkVEK1B3MU4vUkhwc0I2RVl5N25LVm95ZCtnN29FejJDRk1BT0dHckQrdnNOZ1J3VDdpdWlWNDd1b0NBMUpvZFY2THlSOXRLT3I1N2YwWjFiSXNVdDZGZUtnNkhnc0N5SkVzNGtWcHRocUtNb0pBL01NaGkvZnpTNk1tWXRXZndjaHFodjVNcldwbDJ6M3RyM3UvK1RtUVg3d1l1TG5rVzJXWGptTy9FQlpzQS9xQ2dIYWo3ZW1KMmo2ZFRVN240eEhHb3BENFBEUFdNVGR0aEYyZjNhczdHSnNVeWlNcjRvY1ZCVzBaSkE9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNjA=&tid=371745455_456297826&source=http://95.211.168.84/get.php&name=Kool+Keith+Feat.+Prodigy+-+Diesel+Power.mp3&tt=1" class="dropbox-saver" data-filename="Kool Keith Feat. Prodigy - Diesel Power.mp3" style="outline: none;"><div id="dropbox"></div></a></div>
+				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=enV1ckorNFVXVDFKcHpnbmxqdlNlUVhINzdCS1VJVnI3NmRxZFpvYXBoRlR1SEZYN0ZtUTdDVlJwNXVLYnlpeGxLN3J2NXEwUVlSWGtUL2RkWi9PblNLQjM2dWpVc1JPcmE2NTdleFNuQVRkNEY0QUNNenp6Z0VSZlI4VEpOMkhYTkxNMzlLWXlwZ04xQnMzK1VWZExWeXl6NmViZ2Q1NFV4cEhUbjFMQkVnVG10SlArOHpnNE5sRXZEdDdwaEpFMFR2YjBpMHVQTEorbWhwMUcyRDF5QjFibWlXSjR1OFUrMlMrSm5HU3dVdXZQWjcrdFgzcHlTcmQ2cWxOckhrZ2hpMlhWdlFpQ2FWZzhkMnJrUEgwcFE9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMTA=&tid=371745435_456364605&source=http://95.211.162.98/get.php&name=Madonna+-+Frozen.mp3&tt=1" class="dropbox-saver" data-filename="Madonna - Frozen.mp3" style="outline: none;"><div id="dropbox"></div></a></div>
 				<div title="Download" class="mp3list-download">
-					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=d1pEZ0pzd052OXRWTUo5Q3licDFYZ1hINzdCS1VJVnI3NmRxZFpvYXBoSEpYSkVEK1B3MU4vUkhwc0I2RVl5N25LVm95ZCtnN29FejJDRk1BT0dHckQrdnNOZ1J3VDdpdWlWNDd1b0NBMUpvZFY2THlSOXRLT3I1N2YwWjFiSXNVdDZGZUtnNkhnc0N5SkVzNGtWcHRocUtNb0pBL01NaGkvZnpTNk1tWXRXZndjaHFodjVNcldwbDJ6M3RyM3UvK1RtUVg3d1l1TG5rVzJXWGptTy9FQlpzQS9xQ2dIYWo3ZW1KMmo2ZFRVN240eEhHb3BENFBEUFdNVGR0aEYyZjNhczdHSnNVeWlNcjRvY1ZCVzBaSkE9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNjA=&tid=371745455_456297826&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&tt=1&name=Kool_Keith_Feat._Prodigy_-_Diesel_Power" rel="nofollow" download="Kool_Keith_Feat._Prodigy_-_Diesel_Power" onclick="return !window.open(this.href);" >
+					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=enV1ckorNFVXVDFKcHpnbmxqdlNlUVhINzdCS1VJVnI3NmRxZFpvYXBoRlR1SEZYN0ZtUTdDVlJwNXVLYnlpeGxLN3J2NXEwUVlSWGtUL2RkWi9PblNLQjM2dWpVc1JPcmE2NTdleFNuQVRkNEY0QUNNenp6Z0VSZlI4VEpOMkhYTkxNMzlLWXlwZ04xQnMzK1VWZExWeXl6NmViZ2Q1NFV4cEhUbjFMQkVnVG10SlArOHpnNE5sRXZEdDdwaEpFMFR2YjBpMHVQTEorbWhwMUcyRDF5QjFibWlXSjR1OFUrMlMrSm5HU3dVdXZQWjcrdFgzcHlTcmQ2cWxOckhrZ2hpMlhWdlFpQ2FWZzhkMnJrUEgwcFE9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMTA=&tid=371745435_456364605&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&tt=1&name=Madonna_-_Frozen" rel="nofollow" download="Madonna_-_Frozen" onclick="return !window.open(this.href);" >
 						<div id="download"><i class="fa fa-download" aria-hidden="true"></i></div>
 					</a>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div id="embed_371745455_456297826" class="lyrics-txt" style="display:none"></div>
+	<div id="embed_371745435_456364605" class="lyrics-txt" style="display:none"></div>
 	<div id="ring_1" class="lyrics-txt" style="display:none"></div>
-	<div id="suggest_371745455_456297826" class="suggest-show"></div>
+	<div id="suggest_371745435_456364605" class="suggest-show"></div>
 	<!--<div id="notf_" style="position:relative; text-align:center; color:#fffff; display: none;margin:0 auto;height:20px;width:200px;overflow:hidden; background:#545454;padding-top:2px;align:center;border-radius:2px;border:2px solid #545454;"><font color=#FFF>No lyrics found! Try another..</font>
 	</div>--><script>
 $(document).ready(function () {
@@ -408,18 +408,18 @@ $(document).ready(function () {
 });
 </script>
 	<div id="mp3list" class="unplaying">
-		<div class="mp3list-table" id="290420537_456245341">
+		<div class="mp3list-table" id="371745457_456425977">
 			<div id="mp3list-tr" data-iceapw="">
 				<li class="mp3list-play" id="playlist_2" data-track-nr="2">
-					<div class="unselectable" title="The Prodigy - Diesel Power (rob Almighty Edit Remix)">The Prodigy - Diesel Power (rob Almighty Edit Remix) <span class="dnldw_290420537_456245341" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
-					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=290420537_456245341&u=WEFpY3FjNEtYWm9IT09oMTUxdWozQVhINzdCS1VJVnI3NmRxZFpvYXBoRitHUUh5dmZUTTJZakJrSmE2bDl6eDhmTlJmUkYxdHNFek9obDlCZENNRDlyUzc2ajMxRytPZ1dQelFsYjM5QituRHBjYThuS3NLMmFKVWlJc1JJSDYwSGRQdjlBQjlOVXUvTFRBY2xRY2ZGSiszaXYyOUJXbHRhQVBhR2NhZ3orMXBwdW5HVWlLdWExdDFjdGpBdE5oelladHdLdHlMRUR0dCtPMU9YbzU0UjRCWDI1NnlaMWFucXpGaDNpR2lHc0lNVlZabkI2akdMaG1UdnJqc3hXVXI2SGl6T3F1NWR0SW1HNXgvTWtMcmc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyMjY=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&name=The_Prodigy_-_Diesel_Power_(rob_Almighty_Edit_Remix)&.mp3" rel="nofollow" onclick="suggest_show('290420537_456245341','The Prodigy');" >
+					<div class="unselectable" title="American Pie - Frozen">American Pie - Frozen <span class="dnldw_371745457_456425977" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
+					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=371745457_456425977&u=NnNIMzlrMEJadjlNMHFjT25MRmVOQVhINzdCS1VJVnI3NmRxZFpvYXBoRnNueFdUWEpMQUhQT2tRMWk1RGl6VVUxVmFkMjVVZzBFamYyM0VWdDQwYVdWZ1BvYVc3MDBNUWVmQjBObDBnNTBoLzNWYXBycVNLNGJWTGxYRGZveVJGbGZ6c1VPa3NKLzVlMVpjeU10QVRZT0lHTHJNY2VyNC91b3hxaG1ienhMTE5FdEliUTVOT1RpUFl5UVZWUmRzRllCdEl5bTMvQW9EVTJnY1hXbVdKdThyaW5UYStrWGN2NWhPMWV3SDZ1YWJQanNWVEllL00rM1VBdElhVlgzcTJ1T3NRSkJEZUQwSnFuQmpicVR2TEE9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMDg=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&name=American_Pie_-_Frozen&.mp3" rel="nofollow" onclick="suggest_show('371745457_456425977','American Pie');" >
 						<div id="playbtn" ></div>
 					</a>
-					<div class="mp3list-bitrate bit_290420537_456245341" onclick="bitrate('290420537_456245341','WEFpY3FjNEtYWm9IT09oMTUxdWozQVhINzdCS1VJVnI3NmRxZFpvYXBoRitHUUh5dmZUTTJZakJrSmE2bDl6eDhmTlJmUkYxdHNFek9obDlCZENNRDlyUzc2ajMxRytPZ1dQelFsYjM5QituRHBjYThuS3NLMmFKVWlJc1JJSDYwSGRQdjlBQjlOVXUvTFRBY2xRY2ZGSiszaXYyOUJXbHRhQVBhR2NhZ3orMXBwdW5HVWlLdWExdDFjdGpBdE5oelladHdLdHlMRUR0dCtPMU9YbzU0UjRCWDI1NnlaMWFucXpGaDNpR2lHc0lNVlZabkI2akdMaG1UdnJqc3hXVXI2SGl6T3F1NWR0SW1HNXgvTWtMcmc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyMjY=','226');" title="Click for Bitrate" style="cursor:pointer;">
-						Check <br>03:46 min
+					<div class="mp3list-bitrate bit_371745457_456425977" onclick="bitrate('371745457_456425977','NnNIMzlrMEJadjlNMHFjT25MRmVOQVhINzdCS1VJVnI3NmRxZFpvYXBoRnNueFdUWEpMQUhQT2tRMWk1RGl6VVUxVmFkMjVVZzBFamYyM0VWdDQwYVdWZ1BvYVc3MDBNUWVmQjBObDBnNTBoLzNWYXBycVNLNGJWTGxYRGZveVJGbGZ6c1VPa3NKLzVlMVpjeU10QVRZT0lHTHJNY2VyNC91b3hxaG1ienhMTE5FdEliUTVOT1RpUFl5UVZWUmRzRllCdEl5bTMvQW9EVTJnY1hXbVdKdThyaW5UYStrWGN2NWhPMWV3SDZ1YWJQanNWVEllL00rM1VBdElhVlgzcTJ1T3NRSkJEZUQwSnFuQmpicVR2TEE9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMDg=','308');" title="Click for Bitrate" style="cursor:pointer;">
+						Check <br>05:08 min
 					</div>
 				</li>
-				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('290420537_456245341','The Prodigy')">
+				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('371745457_456425977','American Pie')">
 					<img src="http://mp3guild.com/style/images/embed.png" alt="embed music">
 				</div>-->
 				<!--<div style="display:none" class="mp3list-vip">
@@ -427,25 +427,25 @@ $(document).ready(function () {
 						<div title="Pro Users Only" id="vip"></div>
 				</div>-->
 				<div class="mp3list-ringtone">
-					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('2','WEFpY3FjNEtYWm9IT09oMTUxdWozQVhINzdCS1VJVnI3NmRxZFpvYXBoRitHUUh5dmZUTTJZakJrSmE2bDl6eDhmTlJmUkYxdHNFek9obDlCZENNRDlyUzc2ajMxRytPZ1dQelFsYjM5QituRHBjYThuS3NLMmFKVWlJc1JJSDYwSGRQdjlBQjlOVXUvTFRBY2xRY2ZGSiszaXYyOUJXbHRhQVBhR2NhZ3orMXBwdW5HVWlLdWExdDFjdGpBdE5oelladHdLdHlMRUR0dCtPMU9YbzU0UjRCWDI1NnlaMWFucXpGaDNpR2lHc0lNVlZabkI2akdMaG1UdnJqc3hXVXI2SGl6T3F1NWR0SW1HNXgvTWtMcmc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyMjY=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
+					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('2','NnNIMzlrMEJadjlNMHFjT25MRmVOQVhINzdCS1VJVnI3NmRxZFpvYXBoRnNueFdUWEpMQUhQT2tRMWk1RGl6VVUxVmFkMjVVZzBFamYyM0VWdDQwYVdWZ1BvYVc3MDBNUWVmQjBObDBnNTBoLzNWYXBycVNLNGJWTGxYRGZveVJGbGZ6c1VPa3NKLzVlMVpjeU10QVRZT0lHTHJNY2VyNC91b3hxaG1ienhMTE5FdEliUTVOT1RpUFl5UVZWUmRzRllCdEl5bTMvQW9EVTJnY1hXbVdKdThyaW5UYStrWGN2NWhPMWV3SDZ1YWJQanNWVEllL00rM1VBdElhVlgzcTJ1T3NRSkJEZUQwSnFuQmpicVR2TEE9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMDg=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
 				</div>
 				<!--<div  class="mp3list-share">
-					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/290420537_456245341.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
+					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/371745457_456425977.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
 						<div title="Share on Facebook" id="fbshare"><i class="fa fa-facebook-official" aria-hidden="true"></i></div>
 					</a>
 				</div>-->
-				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=WEFpY3FjNEtYWm9IT09oMTUxdWozQVhINzdCS1VJVnI3NmRxZFpvYXBoRitHUUh5dmZUTTJZakJrSmE2bDl6eDhmTlJmUkYxdHNFek9obDlCZENNRDlyUzc2ajMxRytPZ1dQelFsYjM5QituRHBjYThuS3NLMmFKVWlJc1JJSDYwSGRQdjlBQjlOVXUvTFRBY2xRY2ZGSiszaXYyOUJXbHRhQVBhR2NhZ3orMXBwdW5HVWlLdWExdDFjdGpBdE5oelladHdLdHlMRUR0dCtPMU9YbzU0UjRCWDI1NnlaMWFucXpGaDNpR2lHc0lNVlZabkI2akdMaG1UdnJqc3hXVXI2SGl6T3F1NWR0SW1HNXgvTWtMcmc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyMjY=&tid=290420537_456245341&source=http://95.211.168.84/get.php&name=The+Prodigy+-+Diesel+Power+%28rob+Almighty+Edit+Remix%29.mp3&tt=1" class="dropbox-saver" data-filename="The Prodigy - Diesel Power (rob Almighty Edit Remix).mp3" style="outline: none;"><div id="dropbox"></div></a></div>
+				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=NnNIMzlrMEJadjlNMHFjT25MRmVOQVhINzdCS1VJVnI3NmRxZFpvYXBoRnNueFdUWEpMQUhQT2tRMWk1RGl6VVUxVmFkMjVVZzBFamYyM0VWdDQwYVdWZ1BvYVc3MDBNUWVmQjBObDBnNTBoLzNWYXBycVNLNGJWTGxYRGZveVJGbGZ6c1VPa3NKLzVlMVpjeU10QVRZT0lHTHJNY2VyNC91b3hxaG1ienhMTE5FdEliUTVOT1RpUFl5UVZWUmRzRllCdEl5bTMvQW9EVTJnY1hXbVdKdThyaW5UYStrWGN2NWhPMWV3SDZ1YWJQanNWVEllL00rM1VBdElhVlgzcTJ1T3NRSkJEZUQwSnFuQmpicVR2TEE9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMDg=&tid=371745457_456425977&source=http://95.211.162.98/get.php&name=American+Pie+-+Frozen.mp3&tt=1" class="dropbox-saver" data-filename="American Pie - Frozen.mp3" style="outline: none;"><div id="dropbox"></div></a></div>
 				<div title="Download" class="mp3list-download">
-					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=WEFpY3FjNEtYWm9IT09oMTUxdWozQVhINzdCS1VJVnI3NmRxZFpvYXBoRitHUUh5dmZUTTJZakJrSmE2bDl6eDhmTlJmUkYxdHNFek9obDlCZENNRDlyUzc2ajMxRytPZ1dQelFsYjM5QituRHBjYThuS3NLMmFKVWlJc1JJSDYwSGRQdjlBQjlOVXUvTFRBY2xRY2ZGSiszaXYyOUJXbHRhQVBhR2NhZ3orMXBwdW5HVWlLdWExdDFjdGpBdE5oelladHdLdHlMRUR0dCtPMU9YbzU0UjRCWDI1NnlaMWFucXpGaDNpR2lHc0lNVlZabkI2akdMaG1UdnJqc3hXVXI2SGl6T3F1NWR0SW1HNXgvTWtMcmc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyMjY=&tid=290420537_456245341&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&tt=1&name=The_Prodigy_-_Diesel_Power_(rob_Almighty_Edit_Remix)" rel="nofollow" download="The_Prodigy_-_Diesel_Power_(rob_Almighty_Edit_Remix)" onclick="return !window.open(this.href);" >
+					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=NnNIMzlrMEJadjlNMHFjT25MRmVOQVhINzdCS1VJVnI3NmRxZFpvYXBoRnNueFdUWEpMQUhQT2tRMWk1RGl6VVUxVmFkMjVVZzBFamYyM0VWdDQwYVdWZ1BvYVc3MDBNUWVmQjBObDBnNTBoLzNWYXBycVNLNGJWTGxYRGZveVJGbGZ6c1VPa3NKLzVlMVpjeU10QVRZT0lHTHJNY2VyNC91b3hxaG1ienhMTE5FdEliUTVOT1RpUFl5UVZWUmRzRllCdEl5bTMvQW9EVTJnY1hXbVdKdThyaW5UYStrWGN2NWhPMWV3SDZ1YWJQanNWVEllL00rM1VBdElhVlgzcTJ1T3NRSkJEZUQwSnFuQmpicVR2TEE9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMDg=&tid=371745457_456425977&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&tt=1&name=American_Pie_-_Frozen" rel="nofollow" download="American_Pie_-_Frozen" onclick="return !window.open(this.href);" >
 						<div id="download"><i class="fa fa-download" aria-hidden="true"></i></div>
 					</a>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div id="embed_290420537_456245341" class="lyrics-txt" style="display:none"></div>
+	<div id="embed_371745457_456425977" class="lyrics-txt" style="display:none"></div>
 	<div id="ring_2" class="lyrics-txt" style="display:none"></div>
-	<div id="suggest_290420537_456245341" class="suggest-show"></div>
+	<div id="suggest_371745457_456425977" class="suggest-show"></div>
 	<!--<div id="notf_" style="position:relative; text-align:center; color:#fffff; display: none;margin:0 auto;height:20px;width:200px;overflow:hidden; background:#545454;padding-top:2px;align:center;border-radius:2px;border:2px solid #545454;"><font color=#FFF>No lyrics found! Try another..</font>
 	</div>--><script>
 $(document).ready(function () {
@@ -465,18 +465,18 @@ $(document).ready(function () {
 });
 </script>
 	<div id="mp3list" class="unplaying">
-		<div class="mp3list-table" id="395881744_456240774">
+		<div class="mp3list-table" id="474499325_456277219">
 			<div id="mp3list-tr" data-iceapw="">
 				<li class="mp3list-play" id="playlist_3" data-track-nr="3">
-					<div class="unselectable" title="Prodigy - Diesel Power )">Prodigy - Diesel Power ) <span class="dnldw_395881744_456240774" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
-					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=395881744_456240774&u=NTY5Skc0RWdwQWZET3NiT0FuZzMyblJud3ZSUmpoNW8zVWIyUEU2NUYyS3h4QVRIc3Z4TEI5OE1NbXA0c3BzaHRzTXFNbVlBeG43azRzNVpLbzAzZjhCcGMzTWlBenA1cU5ETkRHWE9TaGR5V0o2UnJkaHRPUEUvdG5rVVplWEFaNkNDZDQvQkNhYVRoYWNXYUFKMGJYTkJyeEM1YTE2L3RZaDl4dmFXbEgxTnRGTjlFZUw2NFZQTm1ESWw1TSt3VllCN1JCS1hSOFIrSE9yM2dGZ2J0ckd6eEVqZGkxckJsdVFuTkgyb3NIRkh5cm9xa3FKSnl0dlFYQjlNWllxUHBrRlFIU1d6OXg5cmFQeksvTi9OVzAza1ZzeTA0Y0o2YThLNFhCNTlSeEU9IyMjNDU5Njg5NzU3MDQwMCMjIzIyNw==&tt=1&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&name=Prodigy_-_Diesel_Power_)&.mp3" rel="nofollow" onclick="suggest_show('395881744_456240774','Prodigy');" >
+					<div class="unselectable" title="Party Tyme Karaoke - Frozen (dance Remix) [made Popular By Madonna] [karaoke Version]">Party Tyme Karaoke - Frozen (dance Remix) [made Popular By Madonna] [karaoke Version] <span class="dnldw_474499325_456277219" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
+					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=474499325_456277219&u=ODBGd3d5NThzdmt5b211K2kzQjhQQVhINzdCS1VJVnI3NmRxZFpvYXBoRk8veGduZ3NIczJ6WWFITnpPcXV1OGFudEdtdU9uYzlPNk9aQmk1MjltUDhsejZRdnNvb2crZ0RyZWl0YzZjK2d2RE5jRjNwR3FvTVRLWnZrWkw2V0FnQWZKWnpVNjhTTTNyUVdYN1l6ZmtTZ24wblN5Y2tyd2U3OXlFQXZ3YUNjcWZNS01kbElQSEZRWlVHcDBXV3BrTFRlMFlnZkJFSzJoQUJzNXBMVkJVYzBqWFpyZFdFOGpLd1RQa3N1d2Z2VG5hUmtLWU1IbFJSRHNJV0JEaXZZaWNqMU9PUktuSXQwaGhhWDlVcDNBV1E9PSMjIzE3MTE1NzMyNzA0MDAjIyMyNzE=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&name=Party_Tyme_Karaoke_-_Frozen_(dance_Remix)_[made_Popular_By_Madonna]_[karaoke_Version]&.mp3" rel="nofollow" onclick="suggest_show('474499325_456277219','Party Tyme Karaoke');" >
 						<div id="playbtn" ></div>
 					</a>
-					<div class="mp3list-bitrate bit_395881744_456240774" onclick="bitrate('395881744_456240774','NTY5Skc0RWdwQWZET3NiT0FuZzMyblJud3ZSUmpoNW8zVWIyUEU2NUYyS3h4QVRIc3Z4TEI5OE1NbXA0c3BzaHRzTXFNbVlBeG43azRzNVpLbzAzZjhCcGMzTWlBenA1cU5ETkRHWE9TaGR5V0o2UnJkaHRPUEUvdG5rVVplWEFaNkNDZDQvQkNhYVRoYWNXYUFKMGJYTkJyeEM1YTE2L3RZaDl4dmFXbEgxTnRGTjlFZUw2NFZQTm1ESWw1TSt3VllCN1JCS1hSOFIrSE9yM2dGZ2J0ckd6eEVqZGkxckJsdVFuTkgyb3NIRkh5cm9xa3FKSnl0dlFYQjlNWllxUHBrRlFIU1d6OXg5cmFQeksvTi9OVzAza1ZzeTA0Y0o2YThLNFhCNTlSeEU9IyMjNDU5Njg5NzU3MDQwMCMjIzIyNw==','227');" title="Click for Bitrate" style="cursor:pointer;">
-						Check <br>03:47 min
+					<div class="mp3list-bitrate bit_474499325_456277219" onclick="bitrate('474499325_456277219','ODBGd3d5NThzdmt5b211K2kzQjhQQVhINzdCS1VJVnI3NmRxZFpvYXBoRk8veGduZ3NIczJ6WWFITnpPcXV1OGFudEdtdU9uYzlPNk9aQmk1MjltUDhsejZRdnNvb2crZ0RyZWl0YzZjK2d2RE5jRjNwR3FvTVRLWnZrWkw2V0FnQWZKWnpVNjhTTTNyUVdYN1l6ZmtTZ24wblN5Y2tyd2U3OXlFQXZ3YUNjcWZNS01kbElQSEZRWlVHcDBXV3BrTFRlMFlnZkJFSzJoQUJzNXBMVkJVYzBqWFpyZFdFOGpLd1RQa3N1d2Z2VG5hUmtLWU1IbFJSRHNJV0JEaXZZaWNqMU9PUktuSXQwaGhhWDlVcDNBV1E9PSMjIzE3MTE1NzMyNzA0MDAjIyMyNzE=','271');" title="Click for Bitrate" style="cursor:pointer;">
+						Check <br>04:31 min
 					</div>
 				</li>
-				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('395881744_456240774','Prodigy')">
+				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('474499325_456277219','Party Tyme Karaoke')">
 					<img src="http://mp3guild.com/style/images/embed.png" alt="embed music">
 				</div>-->
 				<!--<div style="display:none" class="mp3list-vip">
@@ -484,25 +484,25 @@ $(document).ready(function () {
 						<div title="Pro Users Only" id="vip"></div>
 				</div>-->
 				<div class="mp3list-ringtone">
-					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('3','NTY5Skc0RWdwQWZET3NiT0FuZzMyblJud3ZSUmpoNW8zVWIyUEU2NUYyS3h4QVRIc3Z4TEI5OE1NbXA0c3BzaHRzTXFNbVlBeG43azRzNVpLbzAzZjhCcGMzTWlBenA1cU5ETkRHWE9TaGR5V0o2UnJkaHRPUEUvdG5rVVplWEFaNkNDZDQvQkNhYVRoYWNXYUFKMGJYTkJyeEM1YTE2L3RZaDl4dmFXbEgxTnRGTjlFZUw2NFZQTm1ESWw1TSt3VllCN1JCS1hSOFIrSE9yM2dGZ2J0ckd6eEVqZGkxckJsdVFuTkgyb3NIRkh5cm9xa3FKSnl0dlFYQjlNWllxUHBrRlFIU1d6OXg5cmFQeksvTi9OVzAza1ZzeTA0Y0o2YThLNFhCNTlSeEU9IyMjNDU5Njg5NzU3MDQwMCMjIzIyNw==','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
+					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('3','ODBGd3d5NThzdmt5b211K2kzQjhQQVhINzdCS1VJVnI3NmRxZFpvYXBoRk8veGduZ3NIczJ6WWFITnpPcXV1OGFudEdtdU9uYzlPNk9aQmk1MjltUDhsejZRdnNvb2crZ0RyZWl0YzZjK2d2RE5jRjNwR3FvTVRLWnZrWkw2V0FnQWZKWnpVNjhTTTNyUVdYN1l6ZmtTZ24wblN5Y2tyd2U3OXlFQXZ3YUNjcWZNS01kbElQSEZRWlVHcDBXV3BrTFRlMFlnZkJFSzJoQUJzNXBMVkJVYzBqWFpyZFdFOGpLd1RQa3N1d2Z2VG5hUmtLWU1IbFJSRHNJV0JEaXZZaWNqMU9PUktuSXQwaGhhWDlVcDNBV1E9PSMjIzE3MTE1NzMyNzA0MDAjIyMyNzE=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
 				</div>
 				<!--<div  class="mp3list-share">
-					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/395881744_456240774.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
+					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/474499325_456277219.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
 						<div title="Share on Facebook" id="fbshare"><i class="fa fa-facebook-official" aria-hidden="true"></i></div>
 					</a>
 				</div>-->
-				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=NTY5Skc0RWdwQWZET3NiT0FuZzMyblJud3ZSUmpoNW8zVWIyUEU2NUYyS3h4QVRIc3Z4TEI5OE1NbXA0c3BzaHRzTXFNbVlBeG43azRzNVpLbzAzZjhCcGMzTWlBenA1cU5ETkRHWE9TaGR5V0o2UnJkaHRPUEUvdG5rVVplWEFaNkNDZDQvQkNhYVRoYWNXYUFKMGJYTkJyeEM1YTE2L3RZaDl4dmFXbEgxTnRGTjlFZUw2NFZQTm1ESWw1TSt3VllCN1JCS1hSOFIrSE9yM2dGZ2J0ckd6eEVqZGkxckJsdVFuTkgyb3NIRkh5cm9xa3FKSnl0dlFYQjlNWllxUHBrRlFIU1d6OXg5cmFQeksvTi9OVzAza1ZzeTA0Y0o2YThLNFhCNTlSeEU9IyMjNDU5Njg5NzU3MDQwMCMjIzIyNw==&tid=395881744_456240774&source=http://95.211.168.84/get.php&name=Prodigy+-+Diesel+Power+%29.mp3&tt=1" class="dropbox-saver" data-filename="Prodigy - Diesel Power ).mp3" style="outline: none;"><div id="dropbox"></div></a></div>
+				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=ODBGd3d5NThzdmt5b211K2kzQjhQQVhINzdCS1VJVnI3NmRxZFpvYXBoRk8veGduZ3NIczJ6WWFITnpPcXV1OGFudEdtdU9uYzlPNk9aQmk1MjltUDhsejZRdnNvb2crZ0RyZWl0YzZjK2d2RE5jRjNwR3FvTVRLWnZrWkw2V0FnQWZKWnpVNjhTTTNyUVdYN1l6ZmtTZ24wblN5Y2tyd2U3OXlFQXZ3YUNjcWZNS01kbElQSEZRWlVHcDBXV3BrTFRlMFlnZkJFSzJoQUJzNXBMVkJVYzBqWFpyZFdFOGpLd1RQa3N1d2Z2VG5hUmtLWU1IbFJSRHNJV0JEaXZZaWNqMU9PUktuSXQwaGhhWDlVcDNBV1E9PSMjIzE3MTE1NzMyNzA0MDAjIyMyNzE=&tid=474499325_456277219&source=http://95.211.162.98/get.php&name=Party+Tyme+Karaoke+-+Frozen+%28dance+Remix%29+%5Bmade+Popular+By+Madonna%5D+%5Bkaraoke+Version%5D.mp3&tt=1" class="dropbox-saver" data-filename="Party Tyme Karaoke - Frozen (dance Remix) [made Popular By Madonna] [karaoke Version].mp3" style="outline: none;"><div id="dropbox"></div></a></div>
 				<div title="Download" class="mp3list-download">
-					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=NTY5Skc0RWdwQWZET3NiT0FuZzMyblJud3ZSUmpoNW8zVWIyUEU2NUYyS3h4QVRIc3Z4TEI5OE1NbXA0c3BzaHRzTXFNbVlBeG43azRzNVpLbzAzZjhCcGMzTWlBenA1cU5ETkRHWE9TaGR5V0o2UnJkaHRPUEUvdG5rVVplWEFaNkNDZDQvQkNhYVRoYWNXYUFKMGJYTkJyeEM1YTE2L3RZaDl4dmFXbEgxTnRGTjlFZUw2NFZQTm1ESWw1TSt3VllCN1JCS1hSOFIrSE9yM2dGZ2J0ckd6eEVqZGkxckJsdVFuTkgyb3NIRkh5cm9xa3FKSnl0dlFYQjlNWllxUHBrRlFIU1d6OXg5cmFQeksvTi9OVzAza1ZzeTA0Y0o2YThLNFhCNTlSeEU9IyMjNDU5Njg5NzU3MDQwMCMjIzIyNw==&tid=395881744_456240774&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&tt=1&name=Prodigy_-_Diesel_Power_)" rel="nofollow" download="Prodigy_-_Diesel_Power_)" onclick="return !window.open(this.href);" >
+					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=ODBGd3d5NThzdmt5b211K2kzQjhQQVhINzdCS1VJVnI3NmRxZFpvYXBoRk8veGduZ3NIczJ6WWFITnpPcXV1OGFudEdtdU9uYzlPNk9aQmk1MjltUDhsejZRdnNvb2crZ0RyZWl0YzZjK2d2RE5jRjNwR3FvTVRLWnZrWkw2V0FnQWZKWnpVNjhTTTNyUVdYN1l6ZmtTZ24wblN5Y2tyd2U3OXlFQXZ3YUNjcWZNS01kbElQSEZRWlVHcDBXV3BrTFRlMFlnZkJFSzJoQUJzNXBMVkJVYzBqWFpyZFdFOGpLd1RQa3N1d2Z2VG5hUmtLWU1IbFJSRHNJV0JEaXZZaWNqMU9PUktuSXQwaGhhWDlVcDNBV1E9PSMjIzE3MTE1NzMyNzA0MDAjIyMyNzE=&tid=474499325_456277219&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&tt=1&name=Party_Tyme_Karaoke_-_Frozen_(dance_Remix)_[made_Popular_By_Madonna]_[karaoke_Version]" rel="nofollow" download="Party_Tyme_Karaoke_-_Frozen_(dance_Remix)_[made_Popular_By_Madonna]_[karaoke_Version]" onclick="return !window.open(this.href);" >
 						<div id="download"><i class="fa fa-download" aria-hidden="true"></i></div>
 					</a>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div id="embed_395881744_456240774" class="lyrics-txt" style="display:none"></div>
+	<div id="embed_474499325_456277219" class="lyrics-txt" style="display:none"></div>
 	<div id="ring_3" class="lyrics-txt" style="display:none"></div>
-	<div id="suggest_395881744_456240774" class="suggest-show"></div>
+	<div id="suggest_474499325_456277219" class="suggest-show"></div>
 	<!--<div id="notf_" style="position:relative; text-align:center; color:#fffff; display: none;margin:0 auto;height:20px;width:200px;overflow:hidden; background:#545454;padding-top:2px;align:center;border-radius:2px;border:2px solid #545454;"><font color=#FFF>No lyrics found! Try another..</font>
 	</div>--><script>
 $(document).ready(function () {
@@ -522,18 +522,18 @@ $(document).ready(function () {
 });
 </script>
 	<div id="mp3list" class="unplaying">
-		<div class="mp3list-table" id="2000219986_456240664">
+		<div class="mp3list-table" id="371745432_456512719">
 			<div id="mp3list-tr" data-iceapw="">
 				<li class="mp3list-play" id="playlist_4" data-track-nr="4">
-					<div class="unselectable" title="The Prodigy - Diesel Power (kool Keith Remix)">The Prodigy - Diesel Power (kool Keith Remix) <span class="dnldw_2000219986_456240664" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
-					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=2000219986_456240664&u=cW5oWTJHRDc3M3FvL1krMFFQcEZCd1hINzdCS1VJVnI3NmRxZFpvYXBoR1ZaZW15L2paM3d6RCtYR21TZlpQU3p6YmZUNDVkMFdqT1V4UlNpSDYrUllmcDZuelR3c3lPWkZOSWpOUm9KemM5TGtxbzZqOWJmNEwwRHRMTEp1UEp2ZUtTdDdnVFc4eWx3ZXMrRGZQNHRVRGFIeUYzbXJRZkRvdkRTTTBtWWpKcUZ5VHZXeGt5VzdyQnRrZkRiazZRWEtTaWEvMnVLNTZKUU1xNGU1TTdKRCtHSjI0eXRvTEhUaXhmQTFPWEJQTEZYMmpxaHk4ckJicjIxUUZnSFdaT3JMdnRJd2NBQU1CclVKVnYvbkF3V2c9PSMjIzQ1OTY4OTc1NzA0MDAjIyMzMzQ=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&name=The_Prodigy_-_Diesel_Power_(kool_Keith_Remix)&.mp3" rel="nofollow" onclick="suggest_show('2000219986_456240664','The Prodigy');" >
+					<div class="unselectable" title="Madonna - Frozen">Madonna - Frozen <span class="dnldw_371745432_456512719" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
+					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=371745432_456512719&u=dklwN2dZVTZCRFFGdFpLeGcxNGp1d1hINzdCS1VJVnI3NmRxZFpvYXBoRnphM0RGcXdNYUZGUVZDRnVEby9NOTBrcjRTQ3AvTkFERldmTDk1MWZ3S01zYkMrcjBIaGl6Mjk4OWVHRE1OTG55dzFBVjZ3ZGh0WEpKc1hyOGp5UllnOVhMelhxWE9QWkRybUl1ajYvMnRJaFpJd2RCUnVUZ2h4ODFrWFpQV2tkdkdsZDg0bWtSaWlzQWxsendWR2ZoUHhuZERGcGZNUUVtOUxEdmdVdTd3Mk01WSt5UDdYMGc0OW8wSU95c3E5aDNtT1ZyelR6YTJCNnlOcHRBcFNkRnh0ck00aVAwSmt1VkZvSng3OE1QM2c9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMDk=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&name=Madonna_-_Frozen&.mp3" rel="nofollow" onclick="suggest_show('371745432_456512719','Madonna');" >
 						<div id="playbtn" ></div>
 					</a>
-					<div class="mp3list-bitrate bit_2000219986_456240664" onclick="bitrate('2000219986_456240664','cW5oWTJHRDc3M3FvL1krMFFQcEZCd1hINzdCS1VJVnI3NmRxZFpvYXBoR1ZaZW15L2paM3d6RCtYR21TZlpQU3p6YmZUNDVkMFdqT1V4UlNpSDYrUllmcDZuelR3c3lPWkZOSWpOUm9KemM5TGtxbzZqOWJmNEwwRHRMTEp1UEp2ZUtTdDdnVFc4eWx3ZXMrRGZQNHRVRGFIeUYzbXJRZkRvdkRTTTBtWWpKcUZ5VHZXeGt5VzdyQnRrZkRiazZRWEtTaWEvMnVLNTZKUU1xNGU1TTdKRCtHSjI0eXRvTEhUaXhmQTFPWEJQTEZYMmpxaHk4ckJicjIxUUZnSFdaT3JMdnRJd2NBQU1CclVKVnYvbkF3V2c9PSMjIzQ1OTY4OTc1NzA0MDAjIyMzMzQ=','334');" title="Click for Bitrate" style="cursor:pointer;">
-						Check <br>05:34 min
+					<div class="mp3list-bitrate bit_371745432_456512719" onclick="bitrate('371745432_456512719','dklwN2dZVTZCRFFGdFpLeGcxNGp1d1hINzdCS1VJVnI3NmRxZFpvYXBoRnphM0RGcXdNYUZGUVZDRnVEby9NOTBrcjRTQ3AvTkFERldmTDk1MWZ3S01zYkMrcjBIaGl6Mjk4OWVHRE1OTG55dzFBVjZ3ZGh0WEpKc1hyOGp5UllnOVhMelhxWE9QWkRybUl1ajYvMnRJaFpJd2RCUnVUZ2h4ODFrWFpQV2tkdkdsZDg0bWtSaWlzQWxsendWR2ZoUHhuZERGcGZNUUVtOUxEdmdVdTd3Mk01WSt5UDdYMGc0OW8wSU95c3E5aDNtT1ZyelR6YTJCNnlOcHRBcFNkRnh0ck00aVAwSmt1VkZvSng3OE1QM2c9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMDk=','309');" title="Click for Bitrate" style="cursor:pointer;">
+						Check <br>05:09 min
 					</div>
 				</li>
-				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('2000219986_456240664','The Prodigy')">
+				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('371745432_456512719','Madonna')">
 					<img src="http://mp3guild.com/style/images/embed.png" alt="embed music">
 				</div>-->
 				<!--<div style="display:none" class="mp3list-vip">
@@ -541,25 +541,25 @@ $(document).ready(function () {
 						<div title="Pro Users Only" id="vip"></div>
 				</div>-->
 				<div class="mp3list-ringtone">
-					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('4','cW5oWTJHRDc3M3FvL1krMFFQcEZCd1hINzdCS1VJVnI3NmRxZFpvYXBoR1ZaZW15L2paM3d6RCtYR21TZlpQU3p6YmZUNDVkMFdqT1V4UlNpSDYrUllmcDZuelR3c3lPWkZOSWpOUm9KemM5TGtxbzZqOWJmNEwwRHRMTEp1UEp2ZUtTdDdnVFc4eWx3ZXMrRGZQNHRVRGFIeUYzbXJRZkRvdkRTTTBtWWpKcUZ5VHZXeGt5VzdyQnRrZkRiazZRWEtTaWEvMnVLNTZKUU1xNGU1TTdKRCtHSjI0eXRvTEhUaXhmQTFPWEJQTEZYMmpxaHk4ckJicjIxUUZnSFdaT3JMdnRJd2NBQU1CclVKVnYvbkF3V2c9PSMjIzQ1OTY4OTc1NzA0MDAjIyMzMzQ=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
+					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('4','dklwN2dZVTZCRFFGdFpLeGcxNGp1d1hINzdCS1VJVnI3NmRxZFpvYXBoRnphM0RGcXdNYUZGUVZDRnVEby9NOTBrcjRTQ3AvTkFERldmTDk1MWZ3S01zYkMrcjBIaGl6Mjk4OWVHRE1OTG55dzFBVjZ3ZGh0WEpKc1hyOGp5UllnOVhMelhxWE9QWkRybUl1ajYvMnRJaFpJd2RCUnVUZ2h4ODFrWFpQV2tkdkdsZDg0bWtSaWlzQWxsendWR2ZoUHhuZERGcGZNUUVtOUxEdmdVdTd3Mk01WSt5UDdYMGc0OW8wSU95c3E5aDNtT1ZyelR6YTJCNnlOcHRBcFNkRnh0ck00aVAwSmt1VkZvSng3OE1QM2c9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMDk=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
 				</div>
 				<!--<div  class="mp3list-share">
-					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/2000219986_456240664.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
+					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/371745432_456512719.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
 						<div title="Share on Facebook" id="fbshare"><i class="fa fa-facebook-official" aria-hidden="true"></i></div>
 					</a>
 				</div>-->
-				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=cW5oWTJHRDc3M3FvL1krMFFQcEZCd1hINzdCS1VJVnI3NmRxZFpvYXBoR1ZaZW15L2paM3d6RCtYR21TZlpQU3p6YmZUNDVkMFdqT1V4UlNpSDYrUllmcDZuelR3c3lPWkZOSWpOUm9KemM5TGtxbzZqOWJmNEwwRHRMTEp1UEp2ZUtTdDdnVFc4eWx3ZXMrRGZQNHRVRGFIeUYzbXJRZkRvdkRTTTBtWWpKcUZ5VHZXeGt5VzdyQnRrZkRiazZRWEtTaWEvMnVLNTZKUU1xNGU1TTdKRCtHSjI0eXRvTEhUaXhmQTFPWEJQTEZYMmpxaHk4ckJicjIxUUZnSFdaT3JMdnRJd2NBQU1CclVKVnYvbkF3V2c9PSMjIzQ1OTY4OTc1NzA0MDAjIyMzMzQ=&tid=2000219986_456240664&source=http://95.211.168.84/get.php&name=The+Prodigy+-+Diesel+Power+%28kool+Keith+Remix%29.mp3&tt=1" class="dropbox-saver" data-filename="The Prodigy - Diesel Power (kool Keith Remix).mp3" style="outline: none;"><div id="dropbox"></div></a></div>
+				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=dklwN2dZVTZCRFFGdFpLeGcxNGp1d1hINzdCS1VJVnI3NmRxZFpvYXBoRnphM0RGcXdNYUZGUVZDRnVEby9NOTBrcjRTQ3AvTkFERldmTDk1MWZ3S01zYkMrcjBIaGl6Mjk4OWVHRE1OTG55dzFBVjZ3ZGh0WEpKc1hyOGp5UllnOVhMelhxWE9QWkRybUl1ajYvMnRJaFpJd2RCUnVUZ2h4ODFrWFpQV2tkdkdsZDg0bWtSaWlzQWxsendWR2ZoUHhuZERGcGZNUUVtOUxEdmdVdTd3Mk01WSt5UDdYMGc0OW8wSU95c3E5aDNtT1ZyelR6YTJCNnlOcHRBcFNkRnh0ck00aVAwSmt1VkZvSng3OE1QM2c9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMDk=&tid=371745432_456512719&source=http://95.211.162.98/get.php&name=Madonna+-+Frozen.mp3&tt=1" class="dropbox-saver" data-filename="Madonna - Frozen.mp3" style="outline: none;"><div id="dropbox"></div></a></div>
 				<div title="Download" class="mp3list-download">
-					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=cW5oWTJHRDc3M3FvL1krMFFQcEZCd1hINzdCS1VJVnI3NmRxZFpvYXBoR1ZaZW15L2paM3d6RCtYR21TZlpQU3p6YmZUNDVkMFdqT1V4UlNpSDYrUllmcDZuelR3c3lPWkZOSWpOUm9KemM5TGtxbzZqOWJmNEwwRHRMTEp1UEp2ZUtTdDdnVFc4eWx3ZXMrRGZQNHRVRGFIeUYzbXJRZkRvdkRTTTBtWWpKcUZ5VHZXeGt5VzdyQnRrZkRiazZRWEtTaWEvMnVLNTZKUU1xNGU1TTdKRCtHSjI0eXRvTEhUaXhmQTFPWEJQTEZYMmpxaHk4ckJicjIxUUZnSFdaT3JMdnRJd2NBQU1CclVKVnYvbkF3V2c9PSMjIzQ1OTY4OTc1NzA0MDAjIyMzMzQ=&tid=2000219986_456240664&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&tt=1&name=The_Prodigy_-_Diesel_Power_(kool_Keith_Remix)" rel="nofollow" download="The_Prodigy_-_Diesel_Power_(kool_Keith_Remix)" onclick="return !window.open(this.href);" >
+					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=dklwN2dZVTZCRFFGdFpLeGcxNGp1d1hINzdCS1VJVnI3NmRxZFpvYXBoRnphM0RGcXdNYUZGUVZDRnVEby9NOTBrcjRTQ3AvTkFERldmTDk1MWZ3S01zYkMrcjBIaGl6Mjk4OWVHRE1OTG55dzFBVjZ3ZGh0WEpKc1hyOGp5UllnOVhMelhxWE9QWkRybUl1ajYvMnRJaFpJd2RCUnVUZ2h4ODFrWFpQV2tkdkdsZDg0bWtSaWlzQWxsendWR2ZoUHhuZERGcGZNUUVtOUxEdmdVdTd3Mk01WSt5UDdYMGc0OW8wSU95c3E5aDNtT1ZyelR6YTJCNnlOcHRBcFNkRnh0ck00aVAwSmt1VkZvSng3OE1QM2c9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMDk=&tid=371745432_456512719&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&tt=1&name=Madonna_-_Frozen" rel="nofollow" download="Madonna_-_Frozen" onclick="return !window.open(this.href);" >
 						<div id="download"><i class="fa fa-download" aria-hidden="true"></i></div>
 					</a>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div id="embed_2000219986_456240664" class="lyrics-txt" style="display:none"></div>
+	<div id="embed_371745432_456512719" class="lyrics-txt" style="display:none"></div>
 	<div id="ring_4" class="lyrics-txt" style="display:none"></div>
-	<div id="suggest_2000219986_456240664" class="suggest-show"></div>
+	<div id="suggest_371745432_456512719" class="suggest-show"></div>
 	<!--<div id="notf_" style="position:relative; text-align:center; color:#fffff; display: none;margin:0 auto;height:20px;width:200px;overflow:hidden; background:#545454;padding-top:2px;align:center;border-radius:2px;border:2px solid #545454;"><font color=#FFF>No lyrics found! Try another..</font>
 	</div>--><script>
 $(document).ready(function () {
@@ -579,18 +579,18 @@ $(document).ready(function () {
 });
 </script>
 	<div id="mp3list" class="unplaying">
-		<div class="mp3list-table" id="345316229_456239032">
+		<div class="mp3list-table" id="371745464_456318009">
 			<div id="mp3list-tr" data-iceapw="">
 				<li class="mp3list-play" id="playlist_5" data-track-nr="5">
-					<div class="unselectable" title="The Prodigy - Diesel Power">The Prodigy - Diesel Power <span class="dnldw_345316229_456239032" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
-					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=345316229_456239032&u=YVcyMllSYWJFLysxVUE4MUdGTXVNd1hINzdCS1VJVnI3NmRxZFpvYXBoR0RoRXJpRHArVEpZZGNKUEdCOXhXRnkwZlVRelRsWFNPdjNWa2JuQVBQdUViYlJKd2hUWWRiZEtrOThMd0FoRnc3VitoZ3FuYjRCTkFXMkNrK0ZpTnV5VG1VNTBFK0JiVUlyd1dZYU5oMUs3c0ViTXI2T1NPS1Z4Q0huU0NpMXZWcWlLT3NIWXJ6bS9XeGpMeWszajhEMXZNQ3pOVkVGYVV1Vm5VWGlmMFZybGk5cmNMTHB2NVp6MjBnN0hLOHZZeFNKZG1walQxOVBHcGltVGdlSFdBaDd5YlJzR1pEOTJyWEVPMlZnZllNWGc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMzMzk=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&name=The_Prodigy_-_Diesel_Power&.mp3" rel="nofollow" onclick="suggest_show('345316229_456239032','The Prodigy');" >
+					<div class="unselectable" title="Madonna - Frozen">Madonna - Frozen <span class="dnldw_371745464_456318009" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
+					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=371745464_456318009&u=bEFZSnd4TFZDbUZmeE5XVEt4cldIUVhINzdCS1VJVnI3NmRxZFpvYXBoR1ZZZytJeHNkckFzYnBMeC9tUzhMTjFIOTlXZm5QN3J2dFZqZ3dnMitGNEJ2QUFycHZYUis2Nkp2NkFLcjQwaFZmVkhwSWJLZ1hQZ1RFZHluY0xvQys2U0VWQ00zUWFGNWtVWGhLMlBiZHVNZHdGTFZhZFoyRlR1Y2ROU2VTQS9aNDIxM1pDMkpmUzNsN0s4UHh2cXNtemtZZFRONnlnS0ZGTGZlR2N0ekRQTlV0M0NkajlTRnlyWTRQc08zd3ppUytLUHd1UVNlaHBkdkI0YzZkRzdsVGluV1I5WU82dU1IVjBRREgvQk43eWc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNzg=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&name=Madonna_-_Frozen&.mp3" rel="nofollow" onclick="suggest_show('371745464_456318009','Madonna');" >
 						<div id="playbtn" ></div>
 					</a>
-					<div class="mp3list-bitrate bit_345316229_456239032" onclick="bitrate('345316229_456239032','YVcyMllSYWJFLysxVUE4MUdGTXVNd1hINzdCS1VJVnI3NmRxZFpvYXBoR0RoRXJpRHArVEpZZGNKUEdCOXhXRnkwZlVRelRsWFNPdjNWa2JuQVBQdUViYlJKd2hUWWRiZEtrOThMd0FoRnc3VitoZ3FuYjRCTkFXMkNrK0ZpTnV5VG1VNTBFK0JiVUlyd1dZYU5oMUs3c0ViTXI2T1NPS1Z4Q0huU0NpMXZWcWlLT3NIWXJ6bS9XeGpMeWszajhEMXZNQ3pOVkVGYVV1Vm5VWGlmMFZybGk5cmNMTHB2NVp6MjBnN0hLOHZZeFNKZG1walQxOVBHcGltVGdlSFdBaDd5YlJzR1pEOTJyWEVPMlZnZllNWGc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMzMzk=','339');" title="Click for Bitrate" style="cursor:pointer;">
-						Check <br>05:39 min
+					<div class="mp3list-bitrate bit_371745464_456318009" onclick="bitrate('371745464_456318009','bEFZSnd4TFZDbUZmeE5XVEt4cldIUVhINzdCS1VJVnI3NmRxZFpvYXBoR1ZZZytJeHNkckFzYnBMeC9tUzhMTjFIOTlXZm5QN3J2dFZqZ3dnMitGNEJ2QUFycHZYUis2Nkp2NkFLcjQwaFZmVkhwSWJLZ1hQZ1RFZHluY0xvQys2U0VWQ00zUWFGNWtVWGhLMlBiZHVNZHdGTFZhZFoyRlR1Y2ROU2VTQS9aNDIxM1pDMkpmUzNsN0s4UHh2cXNtemtZZFRONnlnS0ZGTGZlR2N0ekRQTlV0M0NkajlTRnlyWTRQc08zd3ppUytLUHd1UVNlaHBkdkI0YzZkRzdsVGluV1I5WU82dU1IVjBRREgvQk43eWc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNzg=','378');" title="Click for Bitrate" style="cursor:pointer;">
+						Check <br>06:18 min
 					</div>
 				</li>
-				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('345316229_456239032','The Prodigy')">
+				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('371745464_456318009','Madonna')">
 					<img src="http://mp3guild.com/style/images/embed.png" alt="embed music">
 				</div>-->
 				<!--<div style="display:none" class="mp3list-vip">
@@ -598,25 +598,25 @@ $(document).ready(function () {
 						<div title="Pro Users Only" id="vip"></div>
 				</div>-->
 				<div class="mp3list-ringtone">
-					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('5','YVcyMllSYWJFLysxVUE4MUdGTXVNd1hINzdCS1VJVnI3NmRxZFpvYXBoR0RoRXJpRHArVEpZZGNKUEdCOXhXRnkwZlVRelRsWFNPdjNWa2JuQVBQdUViYlJKd2hUWWRiZEtrOThMd0FoRnc3VitoZ3FuYjRCTkFXMkNrK0ZpTnV5VG1VNTBFK0JiVUlyd1dZYU5oMUs3c0ViTXI2T1NPS1Z4Q0huU0NpMXZWcWlLT3NIWXJ6bS9XeGpMeWszajhEMXZNQ3pOVkVGYVV1Vm5VWGlmMFZybGk5cmNMTHB2NVp6MjBnN0hLOHZZeFNKZG1walQxOVBHcGltVGdlSFdBaDd5YlJzR1pEOTJyWEVPMlZnZllNWGc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMzMzk=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
+					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('5','bEFZSnd4TFZDbUZmeE5XVEt4cldIUVhINzdCS1VJVnI3NmRxZFpvYXBoR1ZZZytJeHNkckFzYnBMeC9tUzhMTjFIOTlXZm5QN3J2dFZqZ3dnMitGNEJ2QUFycHZYUis2Nkp2NkFLcjQwaFZmVkhwSWJLZ1hQZ1RFZHluY0xvQys2U0VWQ00zUWFGNWtVWGhLMlBiZHVNZHdGTFZhZFoyRlR1Y2ROU2VTQS9aNDIxM1pDMkpmUzNsN0s4UHh2cXNtemtZZFRONnlnS0ZGTGZlR2N0ekRQTlV0M0NkajlTRnlyWTRQc08zd3ppUytLUHd1UVNlaHBkdkI0YzZkRzdsVGluV1I5WU82dU1IVjBRREgvQk43eWc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNzg=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
 				</div>
 				<!--<div  class="mp3list-share">
-					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/345316229_456239032.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
+					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/371745464_456318009.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
 						<div title="Share on Facebook" id="fbshare"><i class="fa fa-facebook-official" aria-hidden="true"></i></div>
 					</a>
 				</div>-->
-				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=YVcyMllSYWJFLysxVUE4MUdGTXVNd1hINzdCS1VJVnI3NmRxZFpvYXBoR0RoRXJpRHArVEpZZGNKUEdCOXhXRnkwZlVRelRsWFNPdjNWa2JuQVBQdUViYlJKd2hUWWRiZEtrOThMd0FoRnc3VitoZ3FuYjRCTkFXMkNrK0ZpTnV5VG1VNTBFK0JiVUlyd1dZYU5oMUs3c0ViTXI2T1NPS1Z4Q0huU0NpMXZWcWlLT3NIWXJ6bS9XeGpMeWszajhEMXZNQ3pOVkVGYVV1Vm5VWGlmMFZybGk5cmNMTHB2NVp6MjBnN0hLOHZZeFNKZG1walQxOVBHcGltVGdlSFdBaDd5YlJzR1pEOTJyWEVPMlZnZllNWGc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMzMzk=&tid=345316229_456239032&source=http://95.211.168.84/get.php&name=The+Prodigy+-+Diesel+Power.mp3&tt=1" class="dropbox-saver" data-filename="The Prodigy - Diesel Power.mp3" style="outline: none;"><div id="dropbox"></div></a></div>
+				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=bEFZSnd4TFZDbUZmeE5XVEt4cldIUVhINzdCS1VJVnI3NmRxZFpvYXBoR1ZZZytJeHNkckFzYnBMeC9tUzhMTjFIOTlXZm5QN3J2dFZqZ3dnMitGNEJ2QUFycHZYUis2Nkp2NkFLcjQwaFZmVkhwSWJLZ1hQZ1RFZHluY0xvQys2U0VWQ00zUWFGNWtVWGhLMlBiZHVNZHdGTFZhZFoyRlR1Y2ROU2VTQS9aNDIxM1pDMkpmUzNsN0s4UHh2cXNtemtZZFRONnlnS0ZGTGZlR2N0ekRQTlV0M0NkajlTRnlyWTRQc08zd3ppUytLUHd1UVNlaHBkdkI0YzZkRzdsVGluV1I5WU82dU1IVjBRREgvQk43eWc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNzg=&tid=371745464_456318009&source=http://95.211.162.98/get.php&name=Madonna+-+Frozen.mp3&tt=1" class="dropbox-saver" data-filename="Madonna - Frozen.mp3" style="outline: none;"><div id="dropbox"></div></a></div>
 				<div title="Download" class="mp3list-download">
-					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=YVcyMllSYWJFLysxVUE4MUdGTXVNd1hINzdCS1VJVnI3NmRxZFpvYXBoR0RoRXJpRHArVEpZZGNKUEdCOXhXRnkwZlVRelRsWFNPdjNWa2JuQVBQdUViYlJKd2hUWWRiZEtrOThMd0FoRnc3VitoZ3FuYjRCTkFXMkNrK0ZpTnV5VG1VNTBFK0JiVUlyd1dZYU5oMUs3c0ViTXI2T1NPS1Z4Q0huU0NpMXZWcWlLT3NIWXJ6bS9XeGpMeWszajhEMXZNQ3pOVkVGYVV1Vm5VWGlmMFZybGk5cmNMTHB2NVp6MjBnN0hLOHZZeFNKZG1walQxOVBHcGltVGdlSFdBaDd5YlJzR1pEOTJyWEVPMlZnZllNWGc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMzMzk=&tid=345316229_456239032&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&tt=1&name=The_Prodigy_-_Diesel_Power" rel="nofollow" download="The_Prodigy_-_Diesel_Power" onclick="return !window.open(this.href);" >
+					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=bEFZSnd4TFZDbUZmeE5XVEt4cldIUVhINzdCS1VJVnI3NmRxZFpvYXBoR1ZZZytJeHNkckFzYnBMeC9tUzhMTjFIOTlXZm5QN3J2dFZqZ3dnMitGNEJ2QUFycHZYUis2Nkp2NkFLcjQwaFZmVkhwSWJLZ1hQZ1RFZHluY0xvQys2U0VWQ00zUWFGNWtVWGhLMlBiZHVNZHdGTFZhZFoyRlR1Y2ROU2VTQS9aNDIxM1pDMkpmUzNsN0s4UHh2cXNtemtZZFRONnlnS0ZGTGZlR2N0ekRQTlV0M0NkajlTRnlyWTRQc08zd3ppUytLUHd1UVNlaHBkdkI0YzZkRzdsVGluV1I5WU82dU1IVjBRREgvQk43eWc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNzg=&tid=371745464_456318009&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&tt=1&name=Madonna_-_Frozen" rel="nofollow" download="Madonna_-_Frozen" onclick="return !window.open(this.href);" >
 						<div id="download"><i class="fa fa-download" aria-hidden="true"></i></div>
 					</a>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div id="embed_345316229_456239032" class="lyrics-txt" style="display:none"></div>
+	<div id="embed_371745464_456318009" class="lyrics-txt" style="display:none"></div>
 	<div id="ring_5" class="lyrics-txt" style="display:none"></div>
-	<div id="suggest_345316229_456239032" class="suggest-show"></div>
+	<div id="suggest_371745464_456318009" class="suggest-show"></div>
 	<!--<div id="notf_" style="position:relative; text-align:center; color:#fffff; display: none;margin:0 auto;height:20px;width:200px;overflow:hidden; background:#545454;padding-top:2px;align:center;border-radius:2px;border:2px solid #545454;"><font color=#FFF>No lyrics found! Try another..</font>
 	</div>--><script>
 $(document).ready(function () {
@@ -636,18 +636,18 @@ $(document).ready(function () {
 });
 </script>
 	<div id="mp3list" class="unplaying">
-		<div class="mp3list-table" id="4826008_456239089">
+		<div class="mp3list-table" id="371745461_456410388">
 			<div id="mp3list-tr" data-iceapw="">
 				<li class="mp3list-play" id="playlist_6" data-track-nr="6">
-					<div class="unselectable" title="The Prodigy - Diesel Power">The Prodigy - Diesel Power <span class="dnldw_4826008_456239089" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
-					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=4826008_456239089&u=bFJoMnpJbkV5V05tL2JURjlDSjEzZ1hINzdCS1VJVnI3NmRxZFpvYXBoRWNTYXJDOWNJZEJpY3lqTXV1M0lEYlZXaWY0M0lpSWE1TjhLTm0yM1VJaGxNcmo4c0E4TUlicDJVSlYzeGJsdVh3YnpHbnV3Tk5tcGlJRzJKK05YWlZDWDBxaFlzUUhuRjZhU2Z5a29aTktYem8xbkM2Ykd2eGx0Q2RRejlTSEdYYm1OSXFxdmtyWEpma1VCQ0VsaEVZRk1RWkZUNjBmTWQxTDBnWnhraWhtMEZDdnNUemU0V0ZRMmFvQ21aR0xBdzByVldNYTRlcFlxTStaNWhML0FNcmlQNTRFZk5USkVVSUdia281T3lkcmc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMxMTg=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&name=The_Prodigy_-_Diesel_Power&.mp3" rel="nofollow" onclick="suggest_show('4826008_456239089','The Prodigy');" >
+					<div class="unselectable" title="Ameritz - Frozen (in The Style Of Madonna) [karaoke Version]">Ameritz - Frozen (in The Style Of Madonna) [karaoke Version] <span class="dnldw_371745461_456410388" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
+					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=371745461_456410388&u=enV1ckorNFVXVDFKcHpnbmxqdlNlUVhINzdCS1VJVnI3NmRxZFpvYXBoRVFBMkJ2SVlRZm80QVRYVDZLU3RZUTQ2MUIxaVF4NW1wY25xK3QrWFZET0NUeTFTNWNLL2VicXRZUlp6NjFBOUJqSm14b1ZCU0V2YTNyaDc0Qm9BRys0RmNySHdxNGhtVnM1a1RLVFpkWm53MjRLaGx4ZGRpNTBsZlBXYWJuYmJiWXlITVlWS3FURGg1ZVFTaVFSekZhak1xbzBPTll4K0pKTXU4ZlpWNjVEZkJyanYzR1FqZFJGUFdzcWUweHRweExGeU5DS0x3eDJYcm9tVlkrTGYwQ1UxRkR2VUZOcS9LdjJWWHplc3czTGc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNjE=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&name=Ameritz_-_Frozen_(in_The_Style_Of_Madonna)_[karaoke_Version]&.mp3" rel="nofollow" onclick="suggest_show('371745461_456410388','Ameritz');" >
 						<div id="playbtn" ></div>
 					</a>
-					<div class="mp3list-bitrate bit_4826008_456239089" onclick="bitrate('4826008_456239089','bFJoMnpJbkV5V05tL2JURjlDSjEzZ1hINzdCS1VJVnI3NmRxZFpvYXBoRWNTYXJDOWNJZEJpY3lqTXV1M0lEYlZXaWY0M0lpSWE1TjhLTm0yM1VJaGxNcmo4c0E4TUlicDJVSlYzeGJsdVh3YnpHbnV3Tk5tcGlJRzJKK05YWlZDWDBxaFlzUUhuRjZhU2Z5a29aTktYem8xbkM2Ykd2eGx0Q2RRejlTSEdYYm1OSXFxdmtyWEpma1VCQ0VsaEVZRk1RWkZUNjBmTWQxTDBnWnhraWhtMEZDdnNUemU0V0ZRMmFvQ21aR0xBdzByVldNYTRlcFlxTStaNWhML0FNcmlQNTRFZk5USkVVSUdia281T3lkcmc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMxMTg=','118');" title="Click for Bitrate" style="cursor:pointer;">
-						Check <br>01:58 min
+					<div class="mp3list-bitrate bit_371745461_456410388" onclick="bitrate('371745461_456410388','enV1ckorNFVXVDFKcHpnbmxqdlNlUVhINzdCS1VJVnI3NmRxZFpvYXBoRVFBMkJ2SVlRZm80QVRYVDZLU3RZUTQ2MUIxaVF4NW1wY25xK3QrWFZET0NUeTFTNWNLL2VicXRZUlp6NjFBOUJqSm14b1ZCU0V2YTNyaDc0Qm9BRys0RmNySHdxNGhtVnM1a1RLVFpkWm53MjRLaGx4ZGRpNTBsZlBXYWJuYmJiWXlITVlWS3FURGg1ZVFTaVFSekZhak1xbzBPTll4K0pKTXU4ZlpWNjVEZkJyanYzR1FqZFJGUFdzcWUweHRweExGeU5DS0x3eDJYcm9tVlkrTGYwQ1UxRkR2VUZOcS9LdjJWWHplc3czTGc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNjE=','361');" title="Click for Bitrate" style="cursor:pointer;">
+						Check <br>06:01 min
 					</div>
 				</li>
-				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('4826008_456239089','The Prodigy')">
+				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('371745461_456410388','Ameritz')">
 					<img src="http://mp3guild.com/style/images/embed.png" alt="embed music">
 				</div>-->
 				<!--<div style="display:none" class="mp3list-vip">
@@ -655,25 +655,25 @@ $(document).ready(function () {
 						<div title="Pro Users Only" id="vip"></div>
 				</div>-->
 				<div class="mp3list-ringtone">
-					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('6','bFJoMnpJbkV5V05tL2JURjlDSjEzZ1hINzdCS1VJVnI3NmRxZFpvYXBoRWNTYXJDOWNJZEJpY3lqTXV1M0lEYlZXaWY0M0lpSWE1TjhLTm0yM1VJaGxNcmo4c0E4TUlicDJVSlYzeGJsdVh3YnpHbnV3Tk5tcGlJRzJKK05YWlZDWDBxaFlzUUhuRjZhU2Z5a29aTktYem8xbkM2Ykd2eGx0Q2RRejlTSEdYYm1OSXFxdmtyWEpma1VCQ0VsaEVZRk1RWkZUNjBmTWQxTDBnWnhraWhtMEZDdnNUemU0V0ZRMmFvQ21aR0xBdzByVldNYTRlcFlxTStaNWhML0FNcmlQNTRFZk5USkVVSUdia281T3lkcmc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMxMTg=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
+					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('6','enV1ckorNFVXVDFKcHpnbmxqdlNlUVhINzdCS1VJVnI3NmRxZFpvYXBoRVFBMkJ2SVlRZm80QVRYVDZLU3RZUTQ2MUIxaVF4NW1wY25xK3QrWFZET0NUeTFTNWNLL2VicXRZUlp6NjFBOUJqSm14b1ZCU0V2YTNyaDc0Qm9BRys0RmNySHdxNGhtVnM1a1RLVFpkWm53MjRLaGx4ZGRpNTBsZlBXYWJuYmJiWXlITVlWS3FURGg1ZVFTaVFSekZhak1xbzBPTll4K0pKTXU4ZlpWNjVEZkJyanYzR1FqZFJGUFdzcWUweHRweExGeU5DS0x3eDJYcm9tVlkrTGYwQ1UxRkR2VUZOcS9LdjJWWHplc3czTGc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNjE=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
 				</div>
 				<!--<div  class="mp3list-share">
-					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/4826008_456239089.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
+					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/371745461_456410388.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
 						<div title="Share on Facebook" id="fbshare"><i class="fa fa-facebook-official" aria-hidden="true"></i></div>
 					</a>
 				</div>-->
-				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=bFJoMnpJbkV5V05tL2JURjlDSjEzZ1hINzdCS1VJVnI3NmRxZFpvYXBoRWNTYXJDOWNJZEJpY3lqTXV1M0lEYlZXaWY0M0lpSWE1TjhLTm0yM1VJaGxNcmo4c0E4TUlicDJVSlYzeGJsdVh3YnpHbnV3Tk5tcGlJRzJKK05YWlZDWDBxaFlzUUhuRjZhU2Z5a29aTktYem8xbkM2Ykd2eGx0Q2RRejlTSEdYYm1OSXFxdmtyWEpma1VCQ0VsaEVZRk1RWkZUNjBmTWQxTDBnWnhraWhtMEZDdnNUemU0V0ZRMmFvQ21aR0xBdzByVldNYTRlcFlxTStaNWhML0FNcmlQNTRFZk5USkVVSUdia281T3lkcmc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMxMTg=&tid=4826008_456239089&source=http://95.211.168.84/get.php&name=The+Prodigy+-+Diesel+Power.mp3&tt=1" class="dropbox-saver" data-filename="The Prodigy - Diesel Power.mp3" style="outline: none;"><div id="dropbox"></div></a></div>
+				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=enV1ckorNFVXVDFKcHpnbmxqdlNlUVhINzdCS1VJVnI3NmRxZFpvYXBoRVFBMkJ2SVlRZm80QVRYVDZLU3RZUTQ2MUIxaVF4NW1wY25xK3QrWFZET0NUeTFTNWNLL2VicXRZUlp6NjFBOUJqSm14b1ZCU0V2YTNyaDc0Qm9BRys0RmNySHdxNGhtVnM1a1RLVFpkWm53MjRLaGx4ZGRpNTBsZlBXYWJuYmJiWXlITVlWS3FURGg1ZVFTaVFSekZhak1xbzBPTll4K0pKTXU4ZlpWNjVEZkJyanYzR1FqZFJGUFdzcWUweHRweExGeU5DS0x3eDJYcm9tVlkrTGYwQ1UxRkR2VUZOcS9LdjJWWHplc3czTGc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNjE=&tid=371745461_456410388&source=http://95.211.162.98/get.php&name=Ameritz+-+Frozen+%28in+The+Style+Of+Madonna%29+%5Bkaraoke+Version%5D.mp3&tt=1" class="dropbox-saver" data-filename="Ameritz - Frozen (in The Style Of Madonna) [karaoke Version].mp3" style="outline: none;"><div id="dropbox"></div></a></div>
 				<div title="Download" class="mp3list-download">
-					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=bFJoMnpJbkV5V05tL2JURjlDSjEzZ1hINzdCS1VJVnI3NmRxZFpvYXBoRWNTYXJDOWNJZEJpY3lqTXV1M0lEYlZXaWY0M0lpSWE1TjhLTm0yM1VJaGxNcmo4c0E4TUlicDJVSlYzeGJsdVh3YnpHbnV3Tk5tcGlJRzJKK05YWlZDWDBxaFlzUUhuRjZhU2Z5a29aTktYem8xbkM2Ykd2eGx0Q2RRejlTSEdYYm1OSXFxdmtyWEpma1VCQ0VsaEVZRk1RWkZUNjBmTWQxTDBnWnhraWhtMEZDdnNUemU0V0ZRMmFvQ21aR0xBdzByVldNYTRlcFlxTStaNWhML0FNcmlQNTRFZk5USkVVSUdia281T3lkcmc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMxMTg=&tid=4826008_456239089&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&tt=1&name=The_Prodigy_-_Diesel_Power" rel="nofollow" download="The_Prodigy_-_Diesel_Power" onclick="return !window.open(this.href);" >
+					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=enV1ckorNFVXVDFKcHpnbmxqdlNlUVhINzdCS1VJVnI3NmRxZFpvYXBoRVFBMkJ2SVlRZm80QVRYVDZLU3RZUTQ2MUIxaVF4NW1wY25xK3QrWFZET0NUeTFTNWNLL2VicXRZUlp6NjFBOUJqSm14b1ZCU0V2YTNyaDc0Qm9BRys0RmNySHdxNGhtVnM1a1RLVFpkWm53MjRLaGx4ZGRpNTBsZlBXYWJuYmJiWXlITVlWS3FURGg1ZVFTaVFSekZhak1xbzBPTll4K0pKTXU4ZlpWNjVEZkJyanYzR1FqZFJGUFdzcWUweHRweExGeU5DS0x3eDJYcm9tVlkrTGYwQ1UxRkR2VUZOcS9LdjJWWHplc3czTGc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNjE=&tid=371745461_456410388&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&tt=1&name=Ameritz_-_Frozen_(in_The_Style_Of_Madonna)_[karaoke_Version]" rel="nofollow" download="Ameritz_-_Frozen_(in_The_Style_Of_Madonna)_[karaoke_Version]" onclick="return !window.open(this.href);" >
 						<div id="download"><i class="fa fa-download" aria-hidden="true"></i></div>
 					</a>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div id="embed_4826008_456239089" class="lyrics-txt" style="display:none"></div>
+	<div id="embed_371745461_456410388" class="lyrics-txt" style="display:none"></div>
 	<div id="ring_6" class="lyrics-txt" style="display:none"></div>
-	<div id="suggest_4826008_456239089" class="suggest-show"></div>
+	<div id="suggest_371745461_456410388" class="suggest-show"></div>
 	<!--<div id="notf_" style="position:relative; text-align:center; color:#fffff; display: none;margin:0 auto;height:20px;width:200px;overflow:hidden; background:#545454;padding-top:2px;align:center;border-radius:2px;border:2px solid #545454;"><font color=#FFF>No lyrics found! Try another..</font>
 	</div>--><script>
 $(document).ready(function () {
@@ -693,18 +693,18 @@ $(document).ready(function () {
 });
 </script>
 	<div id="mp3list" class="unplaying">
-		<div class="mp3list-table" id="137606894_112142090">
+		<div class="mp3list-table" id="371745435_456416844">
 			<div id="mp3list-tr" data-iceapw="">
 				<li class="mp3list-play" id="playlist_7" data-track-nr="7">
-					<div class="unselectable" title="The Prodigy - Diesel Power">The Prodigy - Diesel Power <span class="dnldw_137606894_112142090" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
-					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=137606894_112142090&u=NTY5Skc0RWdwQWZET3NiT0FuZzMyZ25hMWNSdHJZLzFXQmFjb2lHeWJUeWpESWVuUmtFUkZsMDNyRXJHbC9SRzlXYmZWRno1OGJRZzJ2NjBsNlN2K0N0QW9XSGhwVWw1NEV0NGliY2k0Z2VLWGliRnhURzFsTm93QUxWamdvU1hiTlpCbTRkL2QySjA0QlZKamNtdE5TOVF4Q280VGxVY1FYVEJQQ2IxQitUMmdOZVVtSG5pM0lGd3p4Vnp3TmQ0L2NIM3pjSjJkMXJtalJqV0dhUVhxTDFQMzUrbkh4YXZiUGV6bmxBY0VRMm1EcU5nWCtGNlAwRVB2MWhBTUZuMnY1bTM1Ym1tR1Rqbnh2S2IvcXlJdXZ5SXBXcGp4YXhDTkRnOTd5M3FzN0E9IyMjNDU5Njg5NzU3MDQwMCMjIzI1OQ==&tt=1&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&name=The_Prodigy_-_Diesel_Power&.mp3" rel="nofollow" onclick="suggest_show('137606894_112142090','The Prodigy');" >
+					<div class="unselectable" title="Tregenza - Frozen">Tregenza - Frozen <span class="dnldw_371745435_456416844" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
+					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=371745435_456416844&u=VlBnajVXelVQYk1ZcGY2UGVnclFUd1hINzdCS1VJVnI3NmRxZFpvYXBoRk1vWkMzTGlJZmdSWmhHUjNyaWJYSi8rdnNuSkRZcDdBdGREeUZUSllyeHJBUkZLamRsaUhkSDVyMytjQ3J3cVJwcnE2T2lmRHBPKzByTHNlU2tYTVhMMW9rZndGR3dUeWdXU3pRK1ZhV2M1bjE3TVYrbVFacUs1WmU1RmFhQUN1cGd5ZVFMZWhycXFRQTl2RE51TWwrMkdaa2dmYkk3dmJkQVdLQUU4dHEzRC9mTURud1psalRQQWVCRDJrakVnN1BSOHl4YzNjZ0xSdEtTV1N6OEFESmdLSFliZFRwSTdKSzV5UGc2STc4OEE9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNTg=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&name=Tregenza_-_Frozen&.mp3" rel="nofollow" onclick="suggest_show('371745435_456416844','Tregenza');" >
 						<div id="playbtn" ></div>
 					</a>
-					<div class="mp3list-bitrate bit_137606894_112142090" onclick="bitrate('137606894_112142090','NTY5Skc0RWdwQWZET3NiT0FuZzMyZ25hMWNSdHJZLzFXQmFjb2lHeWJUeWpESWVuUmtFUkZsMDNyRXJHbC9SRzlXYmZWRno1OGJRZzJ2NjBsNlN2K0N0QW9XSGhwVWw1NEV0NGliY2k0Z2VLWGliRnhURzFsTm93QUxWamdvU1hiTlpCbTRkL2QySjA0QlZKamNtdE5TOVF4Q280VGxVY1FYVEJQQ2IxQitUMmdOZVVtSG5pM0lGd3p4Vnp3TmQ0L2NIM3pjSjJkMXJtalJqV0dhUVhxTDFQMzUrbkh4YXZiUGV6bmxBY0VRMm1EcU5nWCtGNlAwRVB2MWhBTUZuMnY1bTM1Ym1tR1Rqbnh2S2IvcXlJdXZ5SXBXcGp4YXhDTkRnOTd5M3FzN0E9IyMjNDU5Njg5NzU3MDQwMCMjIzI1OQ==','259');" title="Click for Bitrate" style="cursor:pointer;">
-						Check <br>04:19 min
+					<div class="mp3list-bitrate bit_371745435_456416844" onclick="bitrate('371745435_456416844','VlBnajVXelVQYk1ZcGY2UGVnclFUd1hINzdCS1VJVnI3NmRxZFpvYXBoRk1vWkMzTGlJZmdSWmhHUjNyaWJYSi8rdnNuSkRZcDdBdGREeUZUSllyeHJBUkZLamRsaUhkSDVyMytjQ3J3cVJwcnE2T2lmRHBPKzByTHNlU2tYTVhMMW9rZndGR3dUeWdXU3pRK1ZhV2M1bjE3TVYrbVFacUs1WmU1RmFhQUN1cGd5ZVFMZWhycXFRQTl2RE51TWwrMkdaa2dmYkk3dmJkQVdLQUU4dHEzRC9mTURud1psalRQQWVCRDJrakVnN1BSOHl4YzNjZ0xSdEtTV1N6OEFESmdLSFliZFRwSTdKSzV5UGc2STc4OEE9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNTg=','358');" title="Click for Bitrate" style="cursor:pointer;">
+						Check <br>05:58 min
 					</div>
 				</li>
-				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('137606894_112142090','The Prodigy')">
+				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('371745435_456416844','Tregenza')">
 					<img src="http://mp3guild.com/style/images/embed.png" alt="embed music">
 				</div>-->
 				<!--<div style="display:none" class="mp3list-vip">
@@ -712,25 +712,25 @@ $(document).ready(function () {
 						<div title="Pro Users Only" id="vip"></div>
 				</div>-->
 				<div class="mp3list-ringtone">
-					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('7','NTY5Skc0RWdwQWZET3NiT0FuZzMyZ25hMWNSdHJZLzFXQmFjb2lHeWJUeWpESWVuUmtFUkZsMDNyRXJHbC9SRzlXYmZWRno1OGJRZzJ2NjBsNlN2K0N0QW9XSGhwVWw1NEV0NGliY2k0Z2VLWGliRnhURzFsTm93QUxWamdvU1hiTlpCbTRkL2QySjA0QlZKamNtdE5TOVF4Q280VGxVY1FYVEJQQ2IxQitUMmdOZVVtSG5pM0lGd3p4Vnp3TmQ0L2NIM3pjSjJkMXJtalJqV0dhUVhxTDFQMzUrbkh4YXZiUGV6bmxBY0VRMm1EcU5nWCtGNlAwRVB2MWhBTUZuMnY1bTM1Ym1tR1Rqbnh2S2IvcXlJdXZ5SXBXcGp4YXhDTkRnOTd5M3FzN0E9IyMjNDU5Njg5NzU3MDQwMCMjIzI1OQ==','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
+					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('7','VlBnajVXelVQYk1ZcGY2UGVnclFUd1hINzdCS1VJVnI3NmRxZFpvYXBoRk1vWkMzTGlJZmdSWmhHUjNyaWJYSi8rdnNuSkRZcDdBdGREeUZUSllyeHJBUkZLamRsaUhkSDVyMytjQ3J3cVJwcnE2T2lmRHBPKzByTHNlU2tYTVhMMW9rZndGR3dUeWdXU3pRK1ZhV2M1bjE3TVYrbVFacUs1WmU1RmFhQUN1cGd5ZVFMZWhycXFRQTl2RE51TWwrMkdaa2dmYkk3dmJkQVdLQUU4dHEzRC9mTURud1psalRQQWVCRDJrakVnN1BSOHl4YzNjZ0xSdEtTV1N6OEFESmdLSFliZFRwSTdKSzV5UGc2STc4OEE9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNTg=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
 				</div>
 				<!--<div  class="mp3list-share">
-					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/137606894_112142090.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
+					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/371745435_456416844.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
 						<div title="Share on Facebook" id="fbshare"><i class="fa fa-facebook-official" aria-hidden="true"></i></div>
 					</a>
 				</div>-->
-				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=NTY5Skc0RWdwQWZET3NiT0FuZzMyZ25hMWNSdHJZLzFXQmFjb2lHeWJUeWpESWVuUmtFUkZsMDNyRXJHbC9SRzlXYmZWRno1OGJRZzJ2NjBsNlN2K0N0QW9XSGhwVWw1NEV0NGliY2k0Z2VLWGliRnhURzFsTm93QUxWamdvU1hiTlpCbTRkL2QySjA0QlZKamNtdE5TOVF4Q280VGxVY1FYVEJQQ2IxQitUMmdOZVVtSG5pM0lGd3p4Vnp3TmQ0L2NIM3pjSjJkMXJtalJqV0dhUVhxTDFQMzUrbkh4YXZiUGV6bmxBY0VRMm1EcU5nWCtGNlAwRVB2MWhBTUZuMnY1bTM1Ym1tR1Rqbnh2S2IvcXlJdXZ5SXBXcGp4YXhDTkRnOTd5M3FzN0E9IyMjNDU5Njg5NzU3MDQwMCMjIzI1OQ==&tid=137606894_112142090&source=http://95.211.168.84/get.php&name=The+Prodigy+-+Diesel+Power.mp3&tt=1" class="dropbox-saver" data-filename="The Prodigy - Diesel Power.mp3" style="outline: none;"><div id="dropbox"></div></a></div>
+				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=VlBnajVXelVQYk1ZcGY2UGVnclFUd1hINzdCS1VJVnI3NmRxZFpvYXBoRk1vWkMzTGlJZmdSWmhHUjNyaWJYSi8rdnNuSkRZcDdBdGREeUZUSllyeHJBUkZLamRsaUhkSDVyMytjQ3J3cVJwcnE2T2lmRHBPKzByTHNlU2tYTVhMMW9rZndGR3dUeWdXU3pRK1ZhV2M1bjE3TVYrbVFacUs1WmU1RmFhQUN1cGd5ZVFMZWhycXFRQTl2RE51TWwrMkdaa2dmYkk3dmJkQVdLQUU4dHEzRC9mTURud1psalRQQWVCRDJrakVnN1BSOHl4YzNjZ0xSdEtTV1N6OEFESmdLSFliZFRwSTdKSzV5UGc2STc4OEE9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNTg=&tid=371745435_456416844&source=http://95.211.162.98/get.php&name=Tregenza+-+Frozen.mp3&tt=1" class="dropbox-saver" data-filename="Tregenza - Frozen.mp3" style="outline: none;"><div id="dropbox"></div></a></div>
 				<div title="Download" class="mp3list-download">
-					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=NTY5Skc0RWdwQWZET3NiT0FuZzMyZ25hMWNSdHJZLzFXQmFjb2lHeWJUeWpESWVuUmtFUkZsMDNyRXJHbC9SRzlXYmZWRno1OGJRZzJ2NjBsNlN2K0N0QW9XSGhwVWw1NEV0NGliY2k0Z2VLWGliRnhURzFsTm93QUxWamdvU1hiTlpCbTRkL2QySjA0QlZKamNtdE5TOVF4Q280VGxVY1FYVEJQQ2IxQitUMmdOZVVtSG5pM0lGd3p4Vnp3TmQ0L2NIM3pjSjJkMXJtalJqV0dhUVhxTDFQMzUrbkh4YXZiUGV6bmxBY0VRMm1EcU5nWCtGNlAwRVB2MWhBTUZuMnY1bTM1Ym1tR1Rqbnh2S2IvcXlJdXZ5SXBXcGp4YXhDTkRnOTd5M3FzN0E9IyMjNDU5Njg5NzU3MDQwMCMjIzI1OQ==&tid=137606894_112142090&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&tt=1&name=The_Prodigy_-_Diesel_Power" rel="nofollow" download="The_Prodigy_-_Diesel_Power" onclick="return !window.open(this.href);" >
+					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=VlBnajVXelVQYk1ZcGY2UGVnclFUd1hINzdCS1VJVnI3NmRxZFpvYXBoRk1vWkMzTGlJZmdSWmhHUjNyaWJYSi8rdnNuSkRZcDdBdGREeUZUSllyeHJBUkZLamRsaUhkSDVyMytjQ3J3cVJwcnE2T2lmRHBPKzByTHNlU2tYTVhMMW9rZndGR3dUeWdXU3pRK1ZhV2M1bjE3TVYrbVFacUs1WmU1RmFhQUN1cGd5ZVFMZWhycXFRQTl2RE51TWwrMkdaa2dmYkk3dmJkQVdLQUU4dHEzRC9mTURud1psalRQQWVCRDJrakVnN1BSOHl4YzNjZ0xSdEtTV1N6OEFESmdLSFliZFRwSTdKSzV5UGc2STc4OEE9PSMjIzE3MTE1NzMyNzA0MDAjIyMzNTg=&tid=371745435_456416844&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&tt=1&name=Tregenza_-_Frozen" rel="nofollow" download="Tregenza_-_Frozen" onclick="return !window.open(this.href);" >
 						<div id="download"><i class="fa fa-download" aria-hidden="true"></i></div>
 					</a>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div id="embed_137606894_112142090" class="lyrics-txt" style="display:none"></div>
+	<div id="embed_371745435_456416844" class="lyrics-txt" style="display:none"></div>
 	<div id="ring_7" class="lyrics-txt" style="display:none"></div>
-	<div id="suggest_137606894_112142090" class="suggest-show"></div>
+	<div id="suggest_371745435_456416844" class="suggest-show"></div>
 	<!--<div id="notf_" style="position:relative; text-align:center; color:#fffff; display: none;margin:0 auto;height:20px;width:200px;overflow:hidden; background:#545454;padding-top:2px;align:center;border-radius:2px;border:2px solid #545454;"><font color=#FFF>No lyrics found! Try another..</font>
 	</div>--><script>
 $(document).ready(function () {
@@ -750,18 +750,18 @@ $(document).ready(function () {
 });
 </script>
 	<div id="mp3list" class="unplaying">
-		<div class="mp3list-table" id="17477778_456239074">
+		<div class="mp3list-table" id="371745452_456473867">
 			<div id="mp3list-tr" data-iceapw="">
 				<li class="mp3list-play" id="playlist_8" data-track-nr="8">
-					<div class="unselectable" title="Prodigy - Diesel Power">Prodigy - Diesel Power <span class="dnldw_17477778_456239074" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
-					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=17477778_456239074&u=bHdSMUlNQzV4ME95aXhvODRmTStlUVhINzdCS1VJVnI3NmRxZFpvYXBoRUtiTmZvZXQwRGNwckphc3RSRlRSRWpJdU1sRGdMankrTVk2OG15VmQzb2RqKzJzSWV0MVFwT294TXBLS2hEd1pYb0ZwdjVNYnhUb0pIc3hzWDBBV1plMzNNOGhhV0RJbEhRaVV3cS8wQXM5TDhBdnFJNUFTUHVVcjBOeHM2QVVpYVJ2V1dtUXlOUXJzb1MrWTV6TDRUUnE0MHlUWE8vdncybE9JSTlWWXA4VnVzYk15WEE5NUZLaVBrclhJQ0hZdUxtcFJjQzdWeFd0MGlMZmlXeStxSnpta0xqenNDQ3VjVzJSWjZnQ20zYnc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNzI=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&name=Prodigy_-_Diesel_Power&.mp3" rel="nofollow" onclick="suggest_show('17477778_456239074','Prodigy');" >
+					<div class="unselectable" title="Exit Eden - Frozen">Exit Eden - Frozen <span class="dnldw_371745452_456473867" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
+					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=371745452_456473867&u=Q2I5T0cwek9XcTRwbVFSWWJVbnlZZ1hINzdCS1VJVnI3NmRxZFpvYXBoSGJOdEMvcmxkSlljbHg0TUd0SmlCVm9hcG5TeEhwNlJVdS8zZGlBWjZxWHBHNE9TSElTb0NqNTRMRm9OdkdBeHI3bGFSVzBld3RicC9STDhDeUcwWU5vbVVueGNwN0FvMXo4a1RRWFNKUk1WclBkcUsrVHBtdXZVRHJybFM5KzEwK0pLL1JXdm1NaFBuMjBqMEpOaE9GdXg5RWJ1MXlGRTlZYlFLQ0h1Q1hWTE5heG52ckhXcDVMaHpWT0xjSVRrOVZ0eEFNNUdGZ01ZWG5NVWFBUStvM0xQQUtJaTUzdTJOVitjN1NQdG5UVHc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMzY=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&name=Exit_Eden_-_Frozen&.mp3" rel="nofollow" onclick="suggest_show('371745452_456473867','Exit Eden');" >
 						<div id="playbtn" ></div>
 					</a>
-					<div class="mp3list-bitrate bit_17477778_456239074" onclick="bitrate('17477778_456239074','bHdSMUlNQzV4ME95aXhvODRmTStlUVhINzdCS1VJVnI3NmRxZFpvYXBoRUtiTmZvZXQwRGNwckphc3RSRlRSRWpJdU1sRGdMankrTVk2OG15VmQzb2RqKzJzSWV0MVFwT294TXBLS2hEd1pYb0ZwdjVNYnhUb0pIc3hzWDBBV1plMzNNOGhhV0RJbEhRaVV3cS8wQXM5TDhBdnFJNUFTUHVVcjBOeHM2QVVpYVJ2V1dtUXlOUXJzb1MrWTV6TDRUUnE0MHlUWE8vdncybE9JSTlWWXA4VnVzYk15WEE5NUZLaVBrclhJQ0hZdUxtcFJjQzdWeFd0MGlMZmlXeStxSnpta0xqenNDQ3VjVzJSWjZnQ20zYnc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNzI=','272');" title="Click for Bitrate" style="cursor:pointer;">
-						Check <br>04:32 min
+					<div class="mp3list-bitrate bit_371745452_456473867" onclick="bitrate('371745452_456473867','Q2I5T0cwek9XcTRwbVFSWWJVbnlZZ1hINzdCS1VJVnI3NmRxZFpvYXBoSGJOdEMvcmxkSlljbHg0TUd0SmlCVm9hcG5TeEhwNlJVdS8zZGlBWjZxWHBHNE9TSElTb0NqNTRMRm9OdkdBeHI3bGFSVzBld3RicC9STDhDeUcwWU5vbVVueGNwN0FvMXo4a1RRWFNKUk1WclBkcUsrVHBtdXZVRHJybFM5KzEwK0pLL1JXdm1NaFBuMjBqMEpOaE9GdXg5RWJ1MXlGRTlZYlFLQ0h1Q1hWTE5heG52ckhXcDVMaHpWT0xjSVRrOVZ0eEFNNUdGZ01ZWG5NVWFBUStvM0xQQUtJaTUzdTJOVitjN1NQdG5UVHc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMzY=','336');" title="Click for Bitrate" style="cursor:pointer;">
+						Check <br>05:36 min
 					</div>
 				</li>
-				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('17477778_456239074','Prodigy')">
+				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('371745452_456473867','Exit Eden')">
 					<img src="http://mp3guild.com/style/images/embed.png" alt="embed music">
 				</div>-->
 				<!--<div style="display:none" class="mp3list-vip">
@@ -769,25 +769,25 @@ $(document).ready(function () {
 						<div title="Pro Users Only" id="vip"></div>
 				</div>-->
 				<div class="mp3list-ringtone">
-					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('8','bHdSMUlNQzV4ME95aXhvODRmTStlUVhINzdCS1VJVnI3NmRxZFpvYXBoRUtiTmZvZXQwRGNwckphc3RSRlRSRWpJdU1sRGdMankrTVk2OG15VmQzb2RqKzJzSWV0MVFwT294TXBLS2hEd1pYb0ZwdjVNYnhUb0pIc3hzWDBBV1plMzNNOGhhV0RJbEhRaVV3cS8wQXM5TDhBdnFJNUFTUHVVcjBOeHM2QVVpYVJ2V1dtUXlOUXJzb1MrWTV6TDRUUnE0MHlUWE8vdncybE9JSTlWWXA4VnVzYk15WEE5NUZLaVBrclhJQ0hZdUxtcFJjQzdWeFd0MGlMZmlXeStxSnpta0xqenNDQ3VjVzJSWjZnQ20zYnc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNzI=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
+					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('8','Q2I5T0cwek9XcTRwbVFSWWJVbnlZZ1hINzdCS1VJVnI3NmRxZFpvYXBoSGJOdEMvcmxkSlljbHg0TUd0SmlCVm9hcG5TeEhwNlJVdS8zZGlBWjZxWHBHNE9TSElTb0NqNTRMRm9OdkdBeHI3bGFSVzBld3RicC9STDhDeUcwWU5vbVVueGNwN0FvMXo4a1RRWFNKUk1WclBkcUsrVHBtdXZVRHJybFM5KzEwK0pLL1JXdm1NaFBuMjBqMEpOaE9GdXg5RWJ1MXlGRTlZYlFLQ0h1Q1hWTE5heG52ckhXcDVMaHpWT0xjSVRrOVZ0eEFNNUdGZ01ZWG5NVWFBUStvM0xQQUtJaTUzdTJOVitjN1NQdG5UVHc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMzY=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
 				</div>
 				<!--<div  class="mp3list-share">
-					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/17477778_456239074.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
+					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/371745452_456473867.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
 						<div title="Share on Facebook" id="fbshare"><i class="fa fa-facebook-official" aria-hidden="true"></i></div>
 					</a>
 				</div>-->
-				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=bHdSMUlNQzV4ME95aXhvODRmTStlUVhINzdCS1VJVnI3NmRxZFpvYXBoRUtiTmZvZXQwRGNwckphc3RSRlRSRWpJdU1sRGdMankrTVk2OG15VmQzb2RqKzJzSWV0MVFwT294TXBLS2hEd1pYb0ZwdjVNYnhUb0pIc3hzWDBBV1plMzNNOGhhV0RJbEhRaVV3cS8wQXM5TDhBdnFJNUFTUHVVcjBOeHM2QVVpYVJ2V1dtUXlOUXJzb1MrWTV6TDRUUnE0MHlUWE8vdncybE9JSTlWWXA4VnVzYk15WEE5NUZLaVBrclhJQ0hZdUxtcFJjQzdWeFd0MGlMZmlXeStxSnpta0xqenNDQ3VjVzJSWjZnQ20zYnc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNzI=&tid=17477778_456239074&source=http://95.211.168.84/get.php&name=Prodigy+-+Diesel+Power.mp3&tt=1" class="dropbox-saver" data-filename="Prodigy - Diesel Power.mp3" style="outline: none;"><div id="dropbox"></div></a></div>
+				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=Q2I5T0cwek9XcTRwbVFSWWJVbnlZZ1hINzdCS1VJVnI3NmRxZFpvYXBoSGJOdEMvcmxkSlljbHg0TUd0SmlCVm9hcG5TeEhwNlJVdS8zZGlBWjZxWHBHNE9TSElTb0NqNTRMRm9OdkdBeHI3bGFSVzBld3RicC9STDhDeUcwWU5vbVVueGNwN0FvMXo4a1RRWFNKUk1WclBkcUsrVHBtdXZVRHJybFM5KzEwK0pLL1JXdm1NaFBuMjBqMEpOaE9GdXg5RWJ1MXlGRTlZYlFLQ0h1Q1hWTE5heG52ckhXcDVMaHpWT0xjSVRrOVZ0eEFNNUdGZ01ZWG5NVWFBUStvM0xQQUtJaTUzdTJOVitjN1NQdG5UVHc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMzY=&tid=371745452_456473867&source=http://95.211.162.98/get.php&name=Exit+Eden+-+Frozen.mp3&tt=1" class="dropbox-saver" data-filename="Exit Eden - Frozen.mp3" style="outline: none;"><div id="dropbox"></div></a></div>
 				<div title="Download" class="mp3list-download">
-					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=bHdSMUlNQzV4ME95aXhvODRmTStlUVhINzdCS1VJVnI3NmRxZFpvYXBoRUtiTmZvZXQwRGNwckphc3RSRlRSRWpJdU1sRGdMankrTVk2OG15VmQzb2RqKzJzSWV0MVFwT294TXBLS2hEd1pYb0ZwdjVNYnhUb0pIc3hzWDBBV1plMzNNOGhhV0RJbEhRaVV3cS8wQXM5TDhBdnFJNUFTUHVVcjBOeHM2QVVpYVJ2V1dtUXlOUXJzb1MrWTV6TDRUUnE0MHlUWE8vdncybE9JSTlWWXA4VnVzYk15WEE5NUZLaVBrclhJQ0hZdUxtcFJjQzdWeFd0MGlMZmlXeStxSnpta0xqenNDQ3VjVzJSWjZnQ20zYnc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNzI=&tid=17477778_456239074&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&tt=1&name=Prodigy_-_Diesel_Power" rel="nofollow" download="Prodigy_-_Diesel_Power" onclick="return !window.open(this.href);" >
+					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=Q2I5T0cwek9XcTRwbVFSWWJVbnlZZ1hINzdCS1VJVnI3NmRxZFpvYXBoSGJOdEMvcmxkSlljbHg0TUd0SmlCVm9hcG5TeEhwNlJVdS8zZGlBWjZxWHBHNE9TSElTb0NqNTRMRm9OdkdBeHI3bGFSVzBld3RicC9STDhDeUcwWU5vbVVueGNwN0FvMXo4a1RRWFNKUk1WclBkcUsrVHBtdXZVRHJybFM5KzEwK0pLL1JXdm1NaFBuMjBqMEpOaE9GdXg5RWJ1MXlGRTlZYlFLQ0h1Q1hWTE5heG52ckhXcDVMaHpWT0xjSVRrOVZ0eEFNNUdGZ01ZWG5NVWFBUStvM0xQQUtJaTUzdTJOVitjN1NQdG5UVHc9PSMjIzE3MTE1NzMyNzA0MDAjIyMzMzY=&tid=371745452_456473867&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&tt=1&name=Exit_Eden_-_Frozen" rel="nofollow" download="Exit_Eden_-_Frozen" onclick="return !window.open(this.href);" >
 						<div id="download"><i class="fa fa-download" aria-hidden="true"></i></div>
 					</a>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div id="embed_17477778_456239074" class="lyrics-txt" style="display:none"></div>
+	<div id="embed_371745452_456473867" class="lyrics-txt" style="display:none"></div>
 	<div id="ring_8" class="lyrics-txt" style="display:none"></div>
-	<div id="suggest_17477778_456239074" class="suggest-show"></div>
+	<div id="suggest_371745452_456473867" class="suggest-show"></div>
 	<!--<div id="notf_" style="position:relative; text-align:center; color:#fffff; display: none;margin:0 auto;height:20px;width:200px;overflow:hidden; background:#545454;padding-top:2px;align:center;border-radius:2px;border:2px solid #545454;"><font color=#FFF>No lyrics found! Try another..</font>
 	</div>--><script>
 $(document).ready(function () {
@@ -807,18 +807,18 @@ $(document).ready(function () {
 });
 </script>
 	<div id="mp3list" class="unplaying">
-		<div class="mp3list-table" id="43047111_64731094">
+		<div class="mp3list-table" id="474499270_456278548">
 			<div id="mp3list-tr" data-iceapw="">
 				<li class="mp3list-play" id="playlist_9" data-track-nr="9">
-					<div class="unselectable" title="Prodigy, The - Diesel Power">Prodigy, The - Diesel Power <span class="dnldw_43047111_64731094" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
-					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=43047111_64731094&u=eXd5VksyTitKMFpQK0pPRWhuSkhxQVhINzdCS1VJVnI3NmRxZFpvYXBoR1N6NlVUbnVMcVlvSnN3dWRKQmw0SW5sRnFDNktWYkp5aDFpWG1sVVpnS2MvKzZvNkJMQmlJd3VUNm0rQTBpajBnc05QOXZPcHBnZFhNU3FtZ3lna2hwaGRCQ1h0UG5rSllodDRoT2FUN24wQ0ZPRWpuV3VXdU1JVzFWTEtVSHlqUTdndmxOZmhScnFCTC9ERmRjSDBrdDVNSEd1NTQ3L0ZuUU4yRS8wNkg2R0VYU0JFM3JoRWpWVVVaTEwraENTVVJvQlZiVUgvOUxyNStrTFpvMDlZWjliWDVTaXJ5SXlRb2tEK1creU5LcHc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNTc=&tt=1&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&name=Prodigy,_The_-_Diesel_Power&.mp3" rel="nofollow" onclick="suggest_show('43047111_64731094','Prodigy, The');" >
+					<div class="unselectable" title="Party Tyme Karaoke - Frozen (made Popular By Madonna) [karaoke Version]">Party Tyme Karaoke - Frozen (made Popular By Madonna) [karaoke Version] <span class="dnldw_474499270_456278548" style="z-index:-10;float: right;color:#e7e7e7"></span></div>
+					<a href="http://mp3guild.com/play.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&tid=474499270_456278548&u=NTY5Skc0RWdwQWZET3NiT0FuZzMyaUtXNTVyUGNRalJIOGpOL3ltQXExanRCaVFzRnBXUlhoRDRMT3BETU11K0JXMTJySmdyRitSYlZpREI0bkpuN3BtR0dwK25OVG0rOE9aanhXcTVVM0tFOGJJQ2Z4Y2ExY3hyUDI2S01jenZkM2VwMkh5aE9BUHR1aURZWjA2Vkpla0ZQekZZWFN1U1RPc2xpdldwREZENVlsN2ZpdWY5SXVZNDhkOUxxVXRuL0dYbEI0NVZCT3J0OC9qbzBIQ0VWRG51eTU5N3BEaGxmdUw1WUtCcmpmVnhqdUFhbVdkMGdXWFpVNytONjhuQTVPQkh1S3ZmaW9SbjQwOFJoaG1Pc0RXdFY3N2hJcHQwN2p6ZGRBdTNhWDg9IyMjMTcxMTU3MzI3MDQwMCMjIzM2Mg==&tt=1&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&name=Party_Tyme_Karaoke_-_Frozen_(made_Popular_By_Madonna)_[karaoke_Version]&.mp3" rel="nofollow" onclick="suggest_show('474499270_456278548','Party Tyme Karaoke');" >
 						<div id="playbtn" ></div>
 					</a>
-					<div class="mp3list-bitrate bit_43047111_64731094" onclick="bitrate('43047111_64731094','eXd5VksyTitKMFpQK0pPRWhuSkhxQVhINzdCS1VJVnI3NmRxZFpvYXBoR1N6NlVUbnVMcVlvSnN3dWRKQmw0SW5sRnFDNktWYkp5aDFpWG1sVVpnS2MvKzZvNkJMQmlJd3VUNm0rQTBpajBnc05QOXZPcHBnZFhNU3FtZ3lna2hwaGRCQ1h0UG5rSllodDRoT2FUN24wQ0ZPRWpuV3VXdU1JVzFWTEtVSHlqUTdndmxOZmhScnFCTC9ERmRjSDBrdDVNSEd1NTQ3L0ZuUU4yRS8wNkg2R0VYU0JFM3JoRWpWVVVaTEwraENTVVJvQlZiVUgvOUxyNStrTFpvMDlZWjliWDVTaXJ5SXlRb2tEK1creU5LcHc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNTc=','257');" title="Click for Bitrate" style="cursor:pointer;">
-						Check <br>04:17 min
+					<div class="mp3list-bitrate bit_474499270_456278548" onclick="bitrate('474499270_456278548','NTY5Skc0RWdwQWZET3NiT0FuZzMyaUtXNTVyUGNRalJIOGpOL3ltQXExanRCaVFzRnBXUlhoRDRMT3BETU11K0JXMTJySmdyRitSYlZpREI0bkpuN3BtR0dwK25OVG0rOE9aanhXcTVVM0tFOGJJQ2Z4Y2ExY3hyUDI2S01jenZkM2VwMkh5aE9BUHR1aURZWjA2Vkpla0ZQekZZWFN1U1RPc2xpdldwREZENVlsN2ZpdWY5SXVZNDhkOUxxVXRuL0dYbEI0NVZCT3J0OC9qbzBIQ0VWRG51eTU5N3BEaGxmdUw1WUtCcmpmVnhqdUFhbVdkMGdXWFpVNytONjhuQTVPQkh1S3ZmaW9SbjQwOFJoaG1Pc0RXdFY3N2hJcHQwN2p6ZGRBdTNhWDg9IyMjMTcxMTU3MzI3MDQwMCMjIzM2Mg==','362');" title="Click for Bitrate" style="cursor:pointer;">
+						Check <br>06:02 min
 					</div>
 				</li>
-				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('43047111_64731094','Prodigy, The')">
+				<!--<div class="embed-song"  title="Embed song on your website" onclick="embed('474499270_456278548','Party Tyme Karaoke')">
 					<img src="http://mp3guild.com/style/images/embed.png" alt="embed music">
 				</div>-->
 				<!--<div style="display:none" class="mp3list-vip">
@@ -826,25 +826,25 @@ $(document).ready(function () {
 						<div title="Pro Users Only" id="vip"></div>
 				</div>-->
 				<div class="mp3list-ringtone">
-					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('9','eXd5VksyTitKMFpQK0pPRWhuSkhxQVhINzdCS1VJVnI3NmRxZFpvYXBoR1N6NlVUbnVMcVlvSnN3dWRKQmw0SW5sRnFDNktWYkp5aDFpWG1sVVpnS2MvKzZvNkJMQmlJd3VUNm0rQTBpajBnc05QOXZPcHBnZFhNU3FtZ3lna2hwaGRCQ1h0UG5rSllodDRoT2FUN24wQ0ZPRWpuV3VXdU1JVzFWTEtVSHlqUTdndmxOZmhScnFCTC9ERmRjSDBrdDVNSEd1NTQ3L0ZuUU4yRS8wNkg2R0VYU0JFM3JoRWpWVVVaTEwraENTVVJvQlZiVUgvOUxyNStrTFpvMDlZWjliWDVTaXJ5SXlRb2tEK1creU5LcHc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNTc=','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
+					<div title="Cut ringtone/Cut a sample" id="ringtone" onclick="ring_show('9','NTY5Skc0RWdwQWZET3NiT0FuZzMyaUtXNTVyUGNRalJIOGpOL3ltQXExanRCaVFzRnBXUlhoRDRMT3BETU11K0JXMTJySmdyRitSYlZpREI0bkpuN3BtR0dwK25OVG0rOE9aanhXcTVVM0tFOGJJQ2Z4Y2ExY3hyUDI2S01jenZkM2VwMkh5aE9BUHR1aURZWjA2Vkpla0ZQekZZWFN1U1RPc2xpdldwREZENVlsN2ZpdWY5SXVZNDhkOUxxVXRuL0dYbEI0NVZCT3J0OC9qbzBIQ0VWRG51eTU5N3BEaGxmdUw1WUtCcmpmVnhqdUFhbVdkMGdXWFpVNytONjhuQTVPQkh1S3ZmaW9SbjQwOFJoaG1Pc0RXdFY3N2hJcHQwN2p6ZGRBdTNhWDg9IyMjMTcxMTU3MzI3MDQwMCMjIzM2Mg==','1')"><i class="fa fa-scissors" aria-hidden="true"></i></div>
 				</div>
 				<!--<div  class="mp3list-share">
-					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/43047111_64731094.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
+					<a href="https://www.facebook.com/sharer/sharer.php?app_id=1101938103181971&sdk=joey&u=http://mp3guild.com/share/474499270_456278548.html&redirect_uri=http://facebook.com/mp3clan" target="_blank">
 						<div title="Share on Facebook" id="fbshare"><i class="fa fa-facebook-official" aria-hidden="true"></i></div>
 					</a>
 				</div>-->
-				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=eXd5VksyTitKMFpQK0pPRWhuSkhxQVhINzdCS1VJVnI3NmRxZFpvYXBoR1N6NlVUbnVMcVlvSnN3dWRKQmw0SW5sRnFDNktWYkp5aDFpWG1sVVpnS2MvKzZvNkJMQmlJd3VUNm0rQTBpajBnc05QOXZPcHBnZFhNU3FtZ3lna2hwaGRCQ1h0UG5rSllodDRoT2FUN24wQ0ZPRWpuV3VXdU1JVzFWTEtVSHlqUTdndmxOZmhScnFCTC9ERmRjSDBrdDVNSEd1NTQ3L0ZuUU4yRS8wNkg2R0VYU0JFM3JoRWpWVVVaTEwraENTVVJvQlZiVUgvOUxyNStrTFpvMDlZWjliWDVTaXJ5SXlRb2tEK1creU5LcHc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNTc=&tid=43047111_64731094&source=http://95.211.168.84/get.php&name=Prodigy%2C+The+-+Diesel+Power.mp3&tt=1" class="dropbox-saver" data-filename="Prodigy, The - Diesel Power.mp3" style="outline: none;"><div id="dropbox"></div></a></div>
+				<div title="Save to Dropbox" class="dropbox-download"><a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=NTY5Skc0RWdwQWZET3NiT0FuZzMyaUtXNTVyUGNRalJIOGpOL3ltQXExanRCaVFzRnBXUlhoRDRMT3BETU11K0JXMTJySmdyRitSYlZpREI0bkpuN3BtR0dwK25OVG0rOE9aanhXcTVVM0tFOGJJQ2Z4Y2ExY3hyUDI2S01jenZkM2VwMkh5aE9BUHR1aURZWjA2Vkpla0ZQekZZWFN1U1RPc2xpdldwREZENVlsN2ZpdWY5SXVZNDhkOUxxVXRuL0dYbEI0NVZCT3J0OC9qbzBIQ0VWRG51eTU5N3BEaGxmdUw1WUtCcmpmVnhqdUFhbVdkMGdXWFpVNytONjhuQTVPQkh1S3ZmaW9SbjQwOFJoaG1Pc0RXdFY3N2hJcHQwN2p6ZGRBdTNhWDg9IyMjMTcxMTU3MzI3MDQwMCMjIzM2Mg==&tid=474499270_456278548&source=http://95.211.162.98/get.php&name=Party+Tyme+Karaoke+-+Frozen+%28made+Popular+By+Madonna%29+%5Bkaraoke+Version%5D.mp3&tt=1" class="dropbox-saver" data-filename="Party Tyme Karaoke - Frozen (made Popular By Madonna) [karaoke Version].mp3" style="outline: none;"><div id="dropbox"></div></a></div>
 				<div title="Download" class="mp3list-download">
-					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=eXd5VksyTitKMFpQK0pPRWhuSkhxQVhINzdCS1VJVnI3NmRxZFpvYXBoR1N6NlVUbnVMcVlvSnN3dWRKQmw0SW5sRnFDNktWYkp5aDFpWG1sVVpnS2MvKzZvNkJMQmlJd3VUNm0rQTBpajBnc05QOXZPcHBnZFhNU3FtZ3lna2hwaGRCQ1h0UG5rSllodDRoT2FUN24wQ0ZPRWpuV3VXdU1JVzFWTEtVSHlqUTdndmxOZmhScnFCTC9ERmRjSDBrdDVNSEd1NTQ3L0ZuUU4yRS8wNkg2R0VYU0JFM3JoRWpWVVVaTEwraENTVVJvQlZiVUgvOUxyNStrTFpvMDlZWjliWDVTaXJ5SXlRb2tEK1creU5LcHc9PSMjIzQ1OTY4OTc1NzA0MDAjIyMyNTc=&tid=43047111_64731094&source=aHR0cDovLzk1LjIxMS4xNjguODQvZ2V0LnBocA==&tt=1&name=Prodigy,_The_-_Diesel_Power" rel="nofollow" download="Prodigy,_The_-_Diesel_Power" onclick="return !window.open(this.href);" >
+					<a href="http://mp3guild.com/dl.php?type=get&s=1e646d2119fbc2284c49ec7b2ee4e288&u=NTY5Skc0RWdwQWZET3NiT0FuZzMyaUtXNTVyUGNRalJIOGpOL3ltQXExanRCaVFzRnBXUlhoRDRMT3BETU11K0JXMTJySmdyRitSYlZpREI0bkpuN3BtR0dwK25OVG0rOE9aanhXcTVVM0tFOGJJQ2Z4Y2ExY3hyUDI2S01jenZkM2VwMkh5aE9BUHR1aURZWjA2Vkpla0ZQekZZWFN1U1RPc2xpdldwREZENVlsN2ZpdWY5SXVZNDhkOUxxVXRuL0dYbEI0NVZCT3J0OC9qbzBIQ0VWRG51eTU5N3BEaGxmdUw1WUtCcmpmVnhqdUFhbVdkMGdXWFpVNytONjhuQTVPQkh1S3ZmaW9SbjQwOFJoaG1Pc0RXdFY3N2hJcHQwN2p6ZGRBdTNhWDg9IyMjMTcxMTU3MzI3MDQwMCMjIzM2Mg==&tid=474499270_456278548&source=aHR0cDovLzk1LjIxMS4xNjIuOTgvZ2V0LnBocA==&tt=1&name=Party_Tyme_Karaoke_-_Frozen_(made_Popular_By_Madonna)_[karaoke_Version]" rel="nofollow" download="Party_Tyme_Karaoke_-_Frozen_(made_Popular_By_Madonna)_[karaoke_Version]" onclick="return !window.open(this.href);" >
 						<div id="download"><i class="fa fa-download" aria-hidden="true"></i></div>
 					</a>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div id="embed_43047111_64731094" class="lyrics-txt" style="display:none"></div>
+	<div id="embed_474499270_456278548" class="lyrics-txt" style="display:none"></div>
 	<div id="ring_9" class="lyrics-txt" style="display:none"></div>
-	<div id="suggest_43047111_64731094" class="suggest-show"></div>
+	<div id="suggest_474499270_456278548" class="suggest-show"></div>
 	<!--<div id="notf_" style="position:relative; text-align:center; color:#fffff; display: none;margin:0 auto;height:20px;width:200px;overflow:hidden; background:#545454;padding-top:2px;align:center;border-radius:2px;border:2px solid #545454;"><font color=#FFF>No lyrics found! Try another..</font>
 	</div>--><script>
 $(document).ready(function () {
@@ -880,7 +880,7 @@ $(document).ready(function () {
 				</script>							<script>
 				$.ajax({
 				  type: 'GET',
-				  url: 'http://mp3guild.com/librarie/albumAd.php?album=500162485&tara=',
+				  url: 'http://mp3guild.com/librarie/albumAd.php?album=511415302&tara=',
 				  success: function(msg) {
 					$("#banner-album").html(msg);
 					
@@ -891,7 +891,7 @@ $(document).ready(function () {
 
 <div class="results-msg" id="msg1" style="height:23px" id="loadmore" >
 	
-	<a style="color:#ffffff" onclick="page0('prodigy - diesel power')">End of Results</a>
+	<a style="color:#ffffff" onclick="page0('madonna - frozen')">End of Results</a>
 </div>
 <script>
 $('.orange-normal').removeClass('bar-animationG');
@@ -977,12 +977,12 @@ $('.mp3list-play').each(function() {
 	</div>
 
 	<div itemscope itemtype="http://data-vocabulary.org/Recipe" class="footer-review">
-		<span itemprop="name" style="display:none;">Prodigy   Diesel Power download mp3 </span>
+		<span itemprop="name" style="display:none;">Madonna   Frozen download mp3 </span>
 		<img itemprop="photo" rel="bookmark" style="display:none;" src="http://mp3guild.com/logo.jpg"/>
 		<span itemprop="review" itemscope itemtype="http://data-vocabulary.org/Review-aggregate">
-		<span itemprop="itemreviewed">Prodigy   Diesel Power download mp3</span>,
+		<span itemprop="itemreviewed">Madonna   Frozen download mp3</span>,
 		<span itemprop="rating">
-		Rating:<span itemprop="average">96</span>/<span itemprop="best">100</span>
+		Rating:<span itemprop="average">98</span>/<span itemprop="best">100</span>
 		</span>
 		&amp;
 		<span itemprop="count">135</span> views.

@@ -2,6 +2,7 @@
 
 import requests
 from bs4 import BeautifulSoup
+import wget
 
 a = input('Artist: ')
 b = input('Name: ')
