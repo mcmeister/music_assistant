@@ -15,7 +15,7 @@ songName = input('Name: ')
 mixVer = input('Mix Version(Blank for Original): ')
 blank = str() #string variable for blank input (space)
 
-#appropriate to website Search query (including or excluding Mix Version)
+#appropriate to website's Search query (including or excluding Mix Version)
 if mixVer == blank:
     query = (artistName + '_-_' + songName)
 else:
