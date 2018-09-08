@@ -1,24 +1,25 @@
 ## Music Assistant HTML parser
 
 import requests
+import urllib2
 from bs4 import BeautifulSoup
 import wget
 
-a = input('Artist: ')
-b = input('Name: ')
-c = input('Mix(Blank for Original): ')
-s = str()
+artistName = input('Artist: ')
+songName = input('Name: ')
+mixName = input('Mix(Blank for Original): ')
+blank = str()
 
-if c == s:
-    query = (a + '_-_' + b)
+if mixName == blank:
+    query = (artistName + '_-_' + songName)
 else:
-    query = (a + '_-_' + b + '_-_' + c)
+    query = (artistName + '_-_' + songName + '_-_' + mixName)
 
 headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:45.0) Gecko/20100101 Firefox/45.0'
       }
 
-url = 'http://mp3guild.com/mp3/' +query +'.html'
+url = 'http://mp3guild.com/mp3/'+query+'.html'
 
 response = requests.get(url, headers=headers, stream=True)
 
