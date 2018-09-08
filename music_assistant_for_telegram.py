@@ -13,7 +13,7 @@ import wget
 artistName = input('Artist: ')
 songName = input('Name: ')
 mixVer = input('Mix Version(Blank for Original): ')
-blank = str() #string variable (space)
+blank = str() #string variable for blank input (space)
 
 #appropriate query (including or excluding Mix Version)
 if mixName == blank:
