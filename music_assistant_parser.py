@@ -23,12 +23,12 @@ url = 'http://mp3guild.com/mp3/'+query+'.html'
 
 response = requests.get(url, headers=headers, stream=True)
 
-handle = open('test.txt', "wb")
+handle = open('parse.txt', "wb")
 for chunk in response.iter_content(chunk_size=512):
     if chunk:
         handle.write(chunk)
 
-with open("test.txt") as fp:
+with open("parse.txt", "r") as fp:
     soup = BeautifulSoup(fp, 'html.parser')
     link = soup.find(href=re.compile("dl.php?"))
     file = link.get('href')
