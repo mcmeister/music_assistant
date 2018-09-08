@@ -1,7 +1,7 @@
 ## Music Assistant HTML parser
 
 import requests
-import urllib2
+import re
 from bs4 import BeautifulSoup
 import wget
 
@@ -28,7 +28,8 @@ for chunk in response.iter_content(chunk_size=512):
     if chunk:
         handle.write(chunk)
 
-soup = BeautifulSoup(open('test.txt'), 'html.parser')
-for link in soup.find_all('a'):
-    url = link.get('href')
-    print(url)
+with open("test.txt") as fp:
+    soup = BeautifulSoup(fp, 'html.parser')
+    link = soup.find(href=re.compile("dl.php?"))
+    file = link.get('href')
+    wget.download(file)
