@@ -80,4 +80,4 @@ else:
 tb.send_message(chat_id, text)
 
 tb.polling()
-sys.exit("Everything Done!")
+sys.exit("Everything's Done!")
