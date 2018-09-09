@@ -4,9 +4,9 @@
 ## Let's Go! :)
 ## 12.08.2018 @ 4:03
 
-import requests
-import wget
 import re
+import wget
+import requests
 from bs4 import BeautifulSoup
 
 ## User Input Section
