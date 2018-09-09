@@ -48,3 +48,11 @@ with open("parse.txt", "r") as fp:
     link = soup.find(href=re.compile("dl.php?"))
     file = link.get('href')
     wget.download(file)
+
+## Send message to Telegram Channel
+
+token = 'my_bot_token'
+id = '@my_channel_id'
+text = (artistName + ' - ' + songName + '(' + mixVer + ')')
+urlText = 'https://api.telegram.org/bot'+token+'/sendMessage?chat_id='+id+'&text='+text
+r = requests.post(urlText)
