@@ -16,7 +16,7 @@ from bs4 import BeautifulSoup
 artistName = input('Artist: ')
 songName = input('Name: ')
 mixVer = input('Mix Version(Blank for Original): ')
-blank = str() ## String Variable for blank input (Space)
+blank = str() ## String Variable for blank input
 
 ## Appropriate to Website's Search Query (including or excluding Mix Version)
 
