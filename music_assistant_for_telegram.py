@@ -16,7 +16,7 @@ from bs4 import BeautifulSoup
 artistName = input('Artist: ')
 songName = input('Name: ')
 mixVer = input('Mix Version(Blank for Original): ')
-blank = str() ## String Variable for blank input
+blank = str() ## String Variable for blank input (Space)
 
 ## Appropriate to Website's Search Query (including or excluding Mix Version)
 
@@ -50,3 +50,11 @@ with open("parse.txt", "r") as fp:
     link = soup.find(href=re.compile("dl.php?"))
     file = link.get('href')
     wget.download(file)
+
+## Send message to Telegram Channel
+
+token = 'my_bot_token'
+id = '@my_channel_id'
+text = (artistName + ' - ' + songName + '(' + mixVer + ')')
+urlText = 'https://api.telegram.org/bot'+token+'/sendMessage?chat_id='+id+'&text='+text
+r = requests.post(urlText)
