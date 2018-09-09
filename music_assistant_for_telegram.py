@@ -62,27 +62,22 @@ TOKEN = '658217975:AAGpMceHLVj7M3PyJHXEMqIeqSDWzeT1E24'
 tb = telebot.TeleBot(TOKEN)
 chat_id = '@mc_meister'
 audio = open(mp3, 'rb')
+user = tb.get_me()
 
-'''
+## Send audio file to Telegram Channel
+
+print('Uploading to Music Meister Channel...')
+tb.send_audio(chat_id, audio)
+print('File Upload Completed!')
+
+## Send message to Telegram Channel
+
 if mixVer == blank:
     text = (artistName + ' - ' + songName)
 else:
     text = (artistName + ' - ' + songName + '(' + mixVer + ')')
-'''
-
-## Send audio file to Telegram Channel
-
-print('Uploading File...')
-tb.send_audio(chat_id, audio)
-print('File Upload Completed!')
-
-'''
-## Send message to Telegram Channel
 
 tb.send_message(chat_id, text)
-'''
-
-## Run & Stop the Bot
 
 tb.polling()
-sys.exit()
+sys.exit("Everything Done!")
