@@ -1,8 +1,10 @@
-## We're going to search for music(done) 
-## Download as mp3-file(done)
-## And upload to Telegram channel
-## Let's Go! :)
-## 12.08.2018 @ 4:03
+'''
+We're going to search for music(done) 
+Download as mp3-file(done)
+And upload it to Telegram channel
+Let's Go! :)
+12.08.2018 @ 4:03
+'''
 
 import re
 import wget
