@@ -1,7 +1,7 @@
 '''
-We're going to search for music(done)
-Download as mp3-file(done)
-And upload to Telegram channel(done)
+We're going to search for the music(done)
+Download track as mp3-file(done)
+And upload it to Telegram channel(done)
 Let's Go! :)
 12.08.2018 @ 4:03
 All done! 09.09.2018 @ 18:09
