@@ -58,9 +58,9 @@ with open("parse.txt", "r") as fp:
 
 ## Telegram Bot Section
 
-TOKEN = '658217975:AAGpMceHLVj7M3PyJHXEMqIeqSDWzeT1E24'
+TOKEN = 'my_token'
 tb = telebot.TeleBot(TOKEN)
-chat_id = '@mc_meister'
+chat_id = '@my_channel'
 audio = open(mp3, 'rb')
 user = tb.get_me()
 
