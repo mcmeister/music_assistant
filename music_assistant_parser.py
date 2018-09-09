@@ -7,13 +7,13 @@ import wget
 
 artistName = input('Artist: ')
 songName = input('Name: ')
-mixName = input('Mix(Blank for Original): ')
+mixVer = input('Mix Version(Blank for Original): ')
 blank = str()
 
-if mixName == blank:
+if mixVer == blank:
     query = (artistName + '_-_' + songName)
 else:
-    query = (artistName + '_-_' + songName + '_-_' + mixName)
+    query = (artistName + '_-_' + songName + '_-_' + mixVer)
 
 headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:45.0) Gecko/20100101 Firefox/45.0'
