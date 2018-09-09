@@ -1,13 +1,16 @@
 '''
 We're going to search for music(done)
 Download as mp3-file(done)
-And upload to Telegram channel
+And upload to Telegram channel(done)
 Let's Go! :)
 12.08.2018 @ 4:03
+All done! 09.09.2018 @ 18:09
 '''
 
 import re
+import sys
 import wget
+import telebot
 import requests
 from bs4 import BeautifulSoup
 
@@ -49,12 +52,37 @@ with open("parse.txt", "r") as fp:
     soup = BeautifulSoup(fp, 'html.parser')
     link = soup.find(href=re.compile("dl.php?"))
     file = link.get('href')
-    wget.download(file)
+    print('Downloading File...')
+    mp3 = wget.download(file)
+    print('Download Complete!')
 
+## Telegram Bot Section
+
+TOKEN = '658217975:AAGpMceHLVj7M3PyJHXEMqIeqSDWzeT1E24'
+tb = telebot.TeleBot(TOKEN)
+chat_id = '@mc_meister'
+audio = open(mp3, 'rb')
+
+'''
+if mixVer == blank:
+    text = (artistName + ' - ' + songName)
+else:
+    text = (artistName + ' - ' + songName + '(' + mixVer + ')')
+'''
+
+## Send audio file to Telegram Channel
+
+print('Uploading File...')
+tb.send_audio(chat_id, audio)
+print('File Upload Completed!')
+
+'''
 ## Send message to Telegram Channel
 
-token = 'my_bot_token'
-id = '@my_channel_id'
-text = (artistName + ' - ' + songName + '(' + mixVer + ')')
-urlText = 'https://api.telegram.org/bot'+token+'/sendMessage?chat_id='+id+'&text='+text
-r = requests.post(urlText)
+tb.send_message(chat_id, text)
+'''
+
+## Run & Stop the Bot
+
+tb.polling()
+sys.exit()
