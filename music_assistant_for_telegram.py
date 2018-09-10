@@ -17,18 +17,25 @@ from bs4 import BeautifulSoup
 
 ## User Input Section
 
-artistName = input('Artist: ')
-songName = input('Name: ')
-mixVer = input('Mix Version(Blank for Original): ')
-blank = str() ## String Variable for blank input
+class __init__(function):
+    artistName = input('Artist: ')
+    songName = input('Name: ')
+    mixVer = input('Mix Version(Blank for Original): ')
+    blank = str() ## String Variable for blank input
+    hyphen = str( - ) ## String Variable for hyphen
+    underS = str(_-_) ## String Variable for underscore
 
 ## Appropriate to Website's Search Query
 ## (including or excluding Mix Version)
 
-if mixVer == blank:
-    query = (artistName + '_-_' + songName)
-else:
-    query = (artistName + '_-_' + songName + '_-_' + mixVer)
+    def query(self):
+        if mixVer == blank:
+            query = (artistName + underS + songName)
+        else:
+            query = {
+                artistName + underS + songName \
+                + underS + mixVer
+            }
 
 ## Headers to access Website
 
@@ -62,26 +69,30 @@ with open("parse.txt", "r") as fp:
 
 ## Telegram Bot Section
 
-TOKEN = 'my_token'
-tb = telebot.TeleBot(TOKEN)
-chat_id = '@my_channel'
-audio = open(mp3, 'rb')
-user = tb.get_me()
+class __bot__(function):
+    TOKEN = 'my_token'
+    tb = telebot.TeleBot(TOKEN)
+    chat_id = '@my_channel'
+    audio = open(mp3, 'rb')
+    user = tb.get_me()
 
 ## Send audio file to Telegram Channel
 
-print('Uploading to Music Meister Channel...')
-tb.send_audio(chat_id, audio)
-print('File Upload Completed!')
+    print('Uploading to Music Meister Channel...')
+    tb.send_audio(chat_id, audio)
+    print('File Upload Completed!')
 
 ## Send message to Telegram Channel
-
-if mixVer == blank:
-    text = '<code>artistName + ' - ' + songName</code>'
-else:
-    text = '<code>artistName + ' - ' + songName + '(' + mixVer + ')'</code>'
-
-tb.send_message(chat_id, text, parse_mode='HTML')
+    def text(self):
+        if mixVer == blank:
+            text = (artistName + hyphen + songName)
+        else:
+            text ={
+                artistName + hyphen + songName +\
+                '(' + mixVer + ')'
+            }
+        tb.send_message(chat_id, text=text)
 
 tb.polling()
+tb.stop_polling()
 sys.exit("Everything's Done!")
