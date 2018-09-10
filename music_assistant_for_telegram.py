@@ -22,7 +22,8 @@ songName = input('Name: ')
 mixVer = input('Mix Version(Blank for Original): ')
 blank = str() ## String Variable for blank input
 
-## Appropriate to Website's Search Query (including or excluding Mix Version)
+## Appropriate to Website's Search Query
+## (including or excluding Mix Version)
 
 if mixVer == blank:
     query = (artistName + '_-_' + songName)
@@ -32,8 +33,10 @@ else:
 ## Headers to access Website
 
 headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:45.0) Gecko/20100101 Firefox/45.0'
-      }
+    'User-Agent': 'Mozilla/5.0 (Macintosh; \
+    Intel Mac OS X 10.9; \
+    rv:45.0) Gecko/20100101 Firefox/45.0'
+}
 
 ## Appropriate url-string to access Website's Search
 
@@ -74,11 +77,11 @@ print('File Upload Completed!')
 ## Send message to Telegram Channel
 
 if mixVer == blank:
-    text = (artistName + ' - ' + songName)
+    text = '<code>artistName + ' - ' + songName</code>'
 else:
-    text = (artistName + ' - ' + songName + '(' + mixVer + ')')
+    text = '<code>artistName + ' - ' + songName + '(' + mixVer + ')'</code>'
 
-tb.send_message(chat_id, text)
+tb.send_message(chat_id, text, parse_mode='HTML')
 
 tb.polling()
 sys.exit("Everything's Done!")
