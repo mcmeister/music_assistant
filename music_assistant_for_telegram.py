@@ -23,6 +23,8 @@ banner = '''
 '''
 print(banner)
 
+## Module Section
+
 import re
 import wget
 import telebot
@@ -51,7 +53,7 @@ codeClose = '</code>'                           ## Variable for Text-Formatting
 boldOpen = '<b>'                                ## Variable for Text-Formatting
 boldClose = '</b>'                              ## Variable for Text-Formatting
 
-## Appropriate to Website's Search Query (Including or Excluding Remix Version)
+## Appropriate to Website's Search Query: Including or Excluding Remix Version
 
 if mixName == blankInt:
     query = (artistName + spaceInt + songName)
@@ -66,9 +68,8 @@ print(query + "\n")
 ## Headers to Access Website
 
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Macintosh; \
-    Intel Mac OS X 10.9; \
-    rv:45.0) Gecko/20100101 Firefox/45.0'
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:45.0) \
+    Gecko/20100101 Firefox/45.0'
 }
 
 ## Appropriate URL-String to Access Website's Search
@@ -106,10 +107,10 @@ class shrinkApp(Shortener):
 
     def shrinkTheUrl(self):
         self.shrinkUrl = self.shortener.short(self.url)
-        print("Downloading File via Short URL => " + self.shrinkUrl + "\n")
 
 ## Download Mp3-File with Tinyurl
 
+        print("Downloading File via Short URL => " + self.shrinkUrl + "\n")
         mp3 = wget.download(self.shrinkUrl, out='/temp/')
         print('File Downloaded!' + "\n")
 
@@ -120,7 +121,7 @@ class shrinkApp(Shortener):
         chat_id = '@my_channel'
         audio = open(mp3, 'rb')
 
-## Send audio file to Telegram Channel
+## Send Audio File to Telegram Channel
 
         tb.send_message(chat_id, text='<i>Uploading Audio...</i>', parse_mode='HTML')
         print('Uploading File to Telegram Channel...' + "\n")
@@ -130,7 +131,7 @@ class shrinkApp(Shortener):
         tb.send_message(chat_id, text='<b>Upload Completed!</b>', parse_mode='HTML')
         print('File Uploaded!' + "\n")
 
-## Send message to Telegram Channel
+## Send Message to Telegram Channel
 
         tb.send_message(chat_id, text=text, parse_mode='HTML')
 
@@ -144,4 +145,5 @@ else:
 
 app = shrinkApp()
 
+## Delete Downloaded Mp3-File
 import delete_mp3
