@@ -8,29 +8,63 @@ All done!
 09.09.2018 @ 18:09
 '''
 
+## Banner Section
+
+banner = '''
+--------------------------------------------------------------------------------------------------
+  __  __                 _                                   _         _                     _    
+ |  \/  |               (_)              /\                 (_)       | |                   | |   
+ | \  / |  _   _   ___   _    ___       /  \     ___   ___   _   ___  | |_    __ _   _ __   | |_  
+ | |\/| | | | | | / __| | |  / __|     / /\ \   / __| / __| | | / __| | __|  / _` | | '_ \  | __| 
+ | |  | | | |_| | \__ \ | | | (__     / ____ \  \__ \ \__ \ | | \__ \ | |_  | (_| | | | | | | |_  
+ |_|  |_|  \__,_| |___/ |_|  \___|   /_/    \_\ |___/ |___/ |_| |___/  \__|  \__,_| |_| |_|  \__| 
+                                                                                                                                                                                                 
+--------------------------------------------------------------------------------------------------
+'''
+print(banner)
+
+import os
 import re
-import sys
 import wget
 import telebot
 import requests
 from bs4 import BeautifulSoup
+from pyshorteners import Shortener
 
 ## User Input Section
 
-artistName = input('Artist: ')
-songName = input('Name: ')
-mixVer = input('Mix Version(Blank for Original): ')
-blank = str() ## String Variable for blank input
+artistName = input('Artist: ')                  ## Variable for Artist Name
+songName = input('Name: ')                      ## Variable for Song Name
+mixName = input('Mix Name: ')                   ## Variable for Remix Version
+blankInt = str()                                ## String Variable for Blank Input
 
-## Appropriate to Website's Search Query
-## (including or excluding Mix Version)
+## Programm Input Section
 
-if mixVer == blank:
-    query = (artistName + '_-_' + songName)
+'''
+plusInt = '+'                                   ## Variable for a Plus [+]
+underInt = '_'                                  ## Variable for an Underscore [_]
+'''
+
+spaceInt = ' '                                  ## Variable for a Space [ ]
+hyphenInt = '-'                                 ## Variable for a Hyphen [-]
+codeOpen = '<code>'                             ## Variable for Text-Formatting
+codeClose = '</code>'                           ## Variable for Text-Formatting
+boldOpen = '<b>'                                ## Variable for Text-Formatting
+boldClose = '</b>'                              ## Variable for Text-Formatting
+
+## Appropriate to Website's Search Query (Including or Excluding Remix Version)
+
+if mixName == blankInt:
+    query = (artistName + spaceInt + songName)
+elif songName == blankInt:
+    query = (artistName + spaceInt + mixName)
+elif artistName == blankInt:
+    query = (songName + spaceInt + mixName)
 else:
-    query = (artistName + '_-_' + songName + '_-_' + mixVer)
+    query = (artistName + spaceInt + songName + spaceInt + mixName)
+print(query + "\n")
 
-## Headers to access Website
+## Headers to Access Website
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; \
@@ -38,50 +72,77 @@ headers = {
     rv:45.0) Gecko/20100101 Firefox/45.0'
 }
 
-## Appropriate url-string to access Website's Search
+## Appropriate URL-String to Access Website's Search
 
-url = 'http://mp3guild.com/mp3/'+query+'.html'
+url = 'https://mp3cc.biz/search/f/' + query + '/'
 
-## Save Search results to Text-File
+## Save Search Results to Text-File
 
-response = requests.get(url, headers=headers, stream=True)
-handle = open('parse.txt', "wb")
-for chunk in response.iter_content(chunk_size=512):
-    if chunk:
-        handle.write(chunk)
+with open('parse.txt', "wb") as lf:
+    response = requests.get(url, headers=headers, stream=True)
+    lf.write(response.content)
+    lf.close()
 
-## Parse & Download mp3-link from Text-File
+## Parse Mp3-Link from Text-File
 
-with open("parse.txt", "r") as fp:
+with open('parse.txt', "r", encoding='UTF-8') as fp:
     soup = BeautifulSoup(fp, 'html.parser')
-    link = soup.find(href=re.compile("dl.php?"))
+    link = soup.find(href=re.compile("download"))
     file = link.get('href')
-    print('Downloading File...')
-    mp3 = wget.download(file)
-    print('Download Complete!')
+    print("Long URL => " + file + "\n")
+    print(len(file))
+
+## shrinkApp - URL-Shortener Section
+
+class shrinkApp(Shortener):
+    def __init__(self):
+        self.option = int(1)
+        self.url = str(file)
+        self.shortener = Shortener('Tinyurl')
+
+        if self.option == 1:
+            self.shrinkTheUrl()
+        else:
+            pass
+
+    def shrinkTheUrl(self):
+        self.shrinkUrl = self.shortener.short(self.url)
+        print("Downloading File via Short URL => " + self.shrinkUrl + "\n")
+
+## Download Mp3-File with Tinyurl
+
+        mp3 = wget.download(self.shrinkUrl, out='/temp/')
+        print('File Downloaded!' + "\n")
 
 ## Telegram Bot Section
 
-TOKEN = 'my_token'
-tb = telebot.TeleBot(TOKEN)
-chat_id = '@my_channel'
-audio = open(mp3, 'rb')
-user = tb.get_me()
+        TOKEN = '658217975:AAGpMceHLVj7M3PyJHXEMqIeqSDWzeT1E24'
+        tb = telebot.TeleBot(TOKEN)
+        chat_id = '@testing_now'
+        audio = open(mp3, 'rb')
 
 ## Send audio file to Telegram Channel
 
-print('Uploading to Music Meister Channel...')
-tb.send_audio(chat_id, audio)
-print('File Upload Completed!')
+        tb.send_message(chat_id, text='<i>Uploading Audio...</i>', parse_mode='HTML')
+        print('Uploading File to Telegram Channel...' + "\n")
+
+        tb.send_audio(chat_id, audio)
+
+        tb.send_message(chat_id, text='<b>Upload Completed!</b>', parse_mode='HTML')
+        print('File Uploaded!' + "\n")
 
 ## Send message to Telegram Channel
 
-if mixVer == blank:
-    text = '<code>artistName + ' - ' + songName</code>'
+        tb.send_message(chat_id, text=text, parse_mode='HTML')
+
+if mixName == blankInt:
+    text = (codeOpen + artistName + spaceInt + hyphenInt + spaceInt + songName + codeClose)
 else:
-    text = '<code>artistName + ' - ' + songName + '(' + mixVer + ')'</code>'
+    text = {
+    codeOpen + artistName + spaceInt + hyphenInt + spaceInt + songName \
+    + spaceInt + '(' + mixName + ')' + codeClose
+}
 
-tb.send_message(chat_id, text, parse_mode='HTML')
+app = shrinkApp()
 
-tb.polling()
-sys.exit("Everything's Done!")
+import delete_mp3
