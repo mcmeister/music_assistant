@@ -23,7 +23,6 @@ banner = '''
 '''
 print(banner)
 
-import os
 import re
 import wget
 import telebot
@@ -116,9 +115,9 @@ class shrinkApp(Shortener):
 
 ## Telegram Bot Section
 
-        TOKEN = '658217975:AAGpMceHLVj7M3PyJHXEMqIeqSDWzeT1E24'
+        TOKEN = 'MY_TOKEN'
         tb = telebot.TeleBot(TOKEN)
-        chat_id = '@testing_now'
+        chat_id = '@my_channel'
         audio = open(mp3, 'rb')
 
 ## Send audio file to Telegram Channel
