@@ -123,17 +123,21 @@ class shrinkApp(Shortener):
 
 ## Send Audio File to Telegram Channel
 
-        tb.send_message(chat_id, text='<i>Uploading Audio...</i>', parse_mode='HTML')
+        tb.send_message(chat_id, text='<i>Uploading New Music...</i>', parse_mode='HTML')
         print('Uploading File to Telegram Channel...' + "\n")
 
         tb.send_audio(chat_id, audio)
 
-        tb.send_message(chat_id, text='<b>Upload Completed!</b>', parse_mode='HTML')
+        tb.send_message(chat_id, text='<b>Music Uploaded!</b>', parse_mode='HTML')
         print('File Uploaded!' + "\n")
+
+app = shrinkApp()
 
 ## Send Message to Telegram Channel
 
         tb.send_message(chat_id, text=text, parse_mode='HTML')
+
+## Appropriate Text to Post Message to the Channel After Upload
 
 if mixName == blankInt:
     text = (codeOpen + artistName + spaceInt + hyphenInt + spaceInt + songName + codeClose)
@@ -143,7 +147,6 @@ else:
     + spaceInt + '(' + mixName + ')' + codeClose
 }
 
-app = shrinkApp()
-
 ## Delete Downloaded Mp3-File
+
 import delete_mp3
