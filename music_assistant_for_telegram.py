@@ -18,7 +18,7 @@ banner = '''
  | |\/| | | | | | / __| | |  / __|     / /\ \   / __| / __| | | / __| | __|  / _` | | '_ \  | __| 
  | |  | | | |_| | \__ \ | | | (__     / ____ \  \__ \ \__ \ | | \__ \ | |_  | (_| | | | | | | |_  
  |_|  |_|  \__,_| |___/ |_|  \___|   /_/    \_\ |___/ |___/ |_| |___/  \__|  \__,_| |_| |_|  \__| 
-                                                                                                                                                                                                 
+         FOR TELEGRAM           v.1.01b         by Vorotilin Viacheslav aka "music meister"      
 --------------------------------------------------------------------------------------------------
 '''
 print(banner)
@@ -37,17 +37,17 @@ from pyshorteners import Shortener
 artistName = input('Artist: ')                  ## Variable for Artist Name
 songName = input('Name: ')                      ## Variable for Song Name
 mixName = input('Mix Name: ')                   ## Variable for Remix Version
-blankInt = str()                                ## String Variable for Blank Input
+blankInput = str()                              ## String Variable for Blank Input
 
-## Programm Input Section
+## Program Input Section
 
 '''
-plusInt = '+'                                   ## Variable for a Plus [+]
-underInt = '_'                                  ## Variable for an Underscore [_]
+plusInput = '+'                                 ## Variable for a Plus [+]
+underInput = '_'                                ## Variable for an Underscore [_]
 '''
 
-spaceInt = ' '                                  ## Variable for a Space [ ]
-hyphenInt = '-'                                 ## Variable for a Hyphen [-]
+spaceInput = ' '                                ## Variable for a Space [ ]
+hyphenInput = '-'                               ## Variable for a Hyphen [-]
 codeOpen = '<code>'                             ## Variable for Text-Formatting
 codeClose = '</code>'                           ## Variable for Text-Formatting
 boldOpen = '<b>'                                ## Variable for Text-Formatting
@@ -55,14 +55,14 @@ boldClose = '</b>'                              ## Variable for Text-Formatting
 
 ## Appropriate to Website's Search Query: Including or Excluding Remix Version
 
-if mixName == blankInt:
-    query = (artistName + spaceInt + songName)
-elif songName == blankInt:
-    query = (artistName + spaceInt + mixName)
-elif artistName == blankInt:
-    query = (songName + spaceInt + mixName)
+if mixName == blankInput:
+    query = (artistName + spaceInput + songName)
+elif songName == blankInput:
+    query = (artistName + spaceInput + mixName)
+elif artistName == blankInput:
+    query = (songName + spaceInput + mixName)
 else:
-    query = (artistName + spaceInt + songName + spaceInt + mixName)
+    query = (artistName + spaceInput + songName + spaceInput + mixName)
 print(query + "\n")
 
 ## Headers to Access Website
@@ -90,7 +90,6 @@ with open('parse.txt', "r", encoding='UTF-8') as fp:
     link = soup.find(href=re.compile("download"))
     file = link.get('href')
     print("Long URL => " + file + "\n")
-    print(len(file))
 
 ## shrinkApp - URL-Shortener Section
 
@@ -131,20 +130,20 @@ class shrinkApp(Shortener):
         tb.send_message(chat_id, text='<b>Music Uploaded!</b>', parse_mode='HTML')
         print('File Uploaded!' + "\n")
 
-app = shrinkApp()
-
 ## Send Message to Telegram Channel
 
         tb.send_message(chat_id, text=text, parse_mode='HTML')
 
-## Appropriate Text to Post Message to the Channel After Upload
+app = shrinkApp()
 
-if mixName == blankInt:
-    text = (codeOpen + artistName + spaceInt + hyphenInt + spaceInt + songName + codeClose)
+## Appropriate Text Message to Post After Upload Completed
+
+if mixName == blankInput:
+    text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName + codeClose)
 else:
     text = {
-    codeOpen + artistName + spaceInt + hyphenInt + spaceInt + songName \
-    + spaceInt + '(' + mixName + ')' + codeClose
+    codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName \
+    + spaceInput + '(' + mixName + ')' + codeClose
 }
 
 ## Delete Downloaded Mp3-File
