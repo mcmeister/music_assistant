@@ -88,16 +88,22 @@ with open('parse.txt', "wb") as lf:
 with open('parse.txt', "r", encoding='UTF-8') as fp:
     soup = BeautifulSoup(fp, 'html.parser')
     link = soup.find(href=re.compile("download"))
-    file = link.get('href')
-    print("Long URL => " + file + "\n")
+    try:
+        file = link.get('href')
+        print("Long URL => " + file + "\n")
+    except:
+        pass
 
 ## shrinkApp - URL-Shortener Section
 
 class shrinkApp(Shortener):
     def __init__(self):
-        self.option = int(1)
-        self.url = str(file)
-        self.shortener = Shortener('Tinyurl')
+        try:
+            self.option = int(1)
+            self.url = str(file)
+            self.shortener = Shortener('Tinyurl')
+        except:
+            pass
 
         if self.option == 1:
             self.shrinkTheUrl()
@@ -142,9 +148,9 @@ if mixName == blankInput:
     text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName + codeClose)
 else:
     text = {
-    codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName \
-    + spaceInput + '(' + mixName + ')' + codeClose
-}
+        codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName \
+        + spaceInput + '(' + mixName + ')' + codeClose
+    }
 
 ## Delete Downloaded Mp3-File
 
