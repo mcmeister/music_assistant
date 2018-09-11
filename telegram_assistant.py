@@ -18,7 +18,7 @@ banner = '''
  | |\/| | | | | | / __| | |  / __|     / /\ \   / __| / __| | | / __| | __|  / _` | | '_ \  | __| 
  | |  | | | |_| | \__ \ | | | (__     / ____ \  \__ \ \__ \ | | \__ \ | |_  | (_| | | | | | | |_  
  |_|  |_|  \__,_| |___/ |_|  \___|   /_/    \_\ |___/ |___/ |_| |___/  \__|  \__,_| |_| |_|  \__| 
-         FOR TELEGRAM           v.1.01b         by Vorotilin Viacheslav aka "music meister"      
+         FOR TELEGRAM           v.1.01b         by Viacheslav Vorotilin aka "music meister"      
 --------------------------------------------------------------------------------------------------
 '''
 print(banner)
@@ -36,7 +36,7 @@ from pyshorteners import Shortener
 
 artistName = input('Artist: ')                  ## Variable for Artist Name
 songName = input('Name: ')                      ## Variable for Song Name
-mixName = input('Mix Name: ')                   ## Variable for Remix Version
+mixName = input('Mix Name: ')                   ## Variable for Remix Name
 blankInput = str()                              ## String Variable for Blank Input
 
 ## Program Input Section
