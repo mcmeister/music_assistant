@@ -126,7 +126,7 @@ class shrinkApp(Shortener):
 
         TOKEN = '658217975:AAGpMceHLVj7M3PyJHXEMqIeqSDWzeT1E24'
         tb = telebot.TeleBot(TOKEN)
-        chat_id = '@mc_meister'
+        chat_id = '@testing_now'
         audio = open(mp3, 'rb')
 
 ## Send Audio File to Telegram Channel
