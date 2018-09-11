@@ -2,8 +2,8 @@
 <html id="desktop" class="">
 <head>
 		<meta charset="utf-8" />
-		<title>bohemian rhapsody | mp3 скачать бесплатно | Скачать бесплатно музыку, скачать mp3</title>
-		<meta name="description" content="Bohemian - Rhapsody Bohemian - Rhapsody  - Bohemian Rhapsody Bohemian - Rhapsody Bohemian - Rhapsody Bohemian Rhapsody - Queen(Alex Goot, Sam Tsui, Kurt Schneider, Tyler Ward) - Bohemian Rha 1rm" />
+		<title>g h i | mp3 скачать бесплатно | Скачать бесплатно музыку, скачать mp3</title>
+		<meta name="description" content="ÿþI r o n M a i d e n - ÿþG e n g h i s K h a n ►☢H I R U R G☢ - ►☢H I R U R G☢ O.n.e. .j.a.z.z. .b.a.n.d.. - B.i.r.d.s. .f.l.y.i.n.g. .h.i.g.h.,. .y.o.u .kn.o.w. .h.o.w. .I. .f.e.e.l. .(.b. mky" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 		<link rel="search" type="application/opensearchdescription+xml" title="mp3CC.biz" href="/i/etc/opensearch.xml">
 		<link rel="dns-prefetch" href="//storage.mp3cc.biz">
@@ -11,8 +11,8 @@
 		<meta property="og:site_name" content="mp3CC.biz" />
 		<meta property="og:image" content="https://mp3cc.biz/i/img/site_prw0002.png" />
 		<meta property="og:type" content="music.song" />
-		<meta property="og:url" content="https://mp3cc.biz/search/f/bohemian+rhapsody/" />
-		<meta property="og:title" content="bohemian rhapsody" />
+		<meta property="og:url" content="https://mp3cc.biz/search/f/g+h+i/" />
+		<meta property="og:title" content="g h i" />
 
 
 		<link rel="stylesheet" href="/i/css/_main_min.92db4fe7.css" />
@@ -21,7 +21,7 @@
 		<meta name="robots" content="noarchive" />
 		
 		
-		<link rel="next" href="https://mp3cc.biz/search/f/bohemian+rhapsody/page/2/" />
+		<link rel="next" href="https://mp3cc.biz/search/f/g+h+i/page/2/" />
 		 
 				<script src="//cdn.sendpulse.com/9dae6d62c816560a842268bde2cd317d/js/push/ca0599be0f0d52aad4a0d91f0af373eb_1.js" async></script>
 		 
@@ -36,7 +36,7 @@
 		<!-- player-page-title -->
 		<div id="player-page-title" class="hidden">
 			<b>mp3CC.biz</b>
-			<span>bohemian rhapsody</span>
+			<span>g h i</span>
 		</div>
 		<!-- / player-page-title -->
 
@@ -70,7 +70,7 @@
 					
 						<form id="he-search" action="/api/search" method="post">
 							<div>
-								<input type="text" name="q" id="he-search-text" value="bohemian rhapsody" placeholder="Поиск &mdash; введите название песни или исполнителя" />
+								<input type="text" name="q" id="he-search-text" value="g h i" placeholder="Поиск &mdash; введите название песни или исполнителя" />
 								<input type="submit" id="he-search-submit" value="" />
 							
 								<a href="#" class="hidden" id="search-submitter"></a>
@@ -106,1030 +106,34 @@
 				<aside id="xbody-content">
 										
 			<div class="xblock">
-				<h1 class="title">bohemian rhapsody</h1>
+				<h1 class="title">g h i</h1>
 				<div class="xblock-p">
 		<!-- == search_settings -->
 		<div class="search_settings">
 			<select name="mode" class="ajaxify_select_option_go">
-				<option value="f" data-url="/search/f/bohemian+rhapsody/" selected="selected">поиск везде</option><option value="a" data-url="/search/a/bohemian+rhapsody/">по исполнителю</option><option value="t" data-url="/search/t/bohemian+rhapsody/">по названии песни</option>
+				<option value="f" data-url="/search/f/g+h+i/" selected="selected">поиск везде</option><option value="a" data-url="/search/a/g+h+i/">по исполнителю</option><option value="t" data-url="/search/t/g+h+i/">по названии песни</option>
 			</select>
 			
 			<label>
-				<input type="checkbox" id="search-filter-remix" data-url="/search/f/bohemian+rhapsody/" />
+				<input type="checkbox" id="search-filter-remix" data-url="/search/f/g+h+i/" />
 				Скрыть копии\ремиксы и т.д.
 			</label>
 
 			<label>
-				<input type="checkbox" id="search-filter-strict" data-url="/search/f/bohemian+rhapsody/" />
+				<input type="checkbox" id="search-filter-strict" data-url="/search/f/g+h+i/" />
 				Точный поиск
 			</label>
 		</div>
 		<!-- / == search_settings -->
 	
 		<ul class="playlist">
-		<li class="track" data-index="0" data-id="69403867" data-mp3="https://storage.mp3cc.biz/listen/69403867/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bEpTTUlhdGJSNXp2MENBd29iRDBDWkNTdnc2YXhUNGV1Z0hQSFcrd0xXcXc1Y2xzb251azNzREJORGd1cGdUTmpjRURFSHprQTgxQTQ3UlFBYW0zdHU/bohemian-rhapsody_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/3532585-bohemian/69403867-rhapsody/" data-duration="152000">
+		<li class="track" data-index="0" data-id="45928164" data-mp3="https://storage.mp3cc.biz/listen/45928164/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bEdINnVrL1ROVlhBRE9jU2xNWE1XakFWNy81aGNINUxDMW12b2ZFZ1lqa05VcW9tRWYwSXFFcGVmeFU1L29Ucnc1U21xeTUwQnRqYWdDSzZsSUdkWi8/i-r-o-n-m-a-i-d-e-n-g-e-n-g-h-i-s-k-h-a-n_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/79558-i-r-o-n-m-a-i-d-e-n/45928164-g-e-n-g-h-i-s-k-h-a-n/" data-duration="186000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/69403867/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bEpTTUlhdGJSNXp2MENBd29iRDBDWkNTdnc2YXhUNGV1Z0hQSFcrd0xXcXc1Y2xzb251azNzREJORGd1cGdUTmpjRURFSHprQTgxQTQ3UlFBYW0zdHU/bohemian-rhapsody_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian - Rhapsody (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">02:32</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/3532585-bohemian/">Bohemian</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/3532585-bohemian/69403867-rhapsody/">Rhapsody</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="1" data-id="75014917" data-mp3="https://storage.mp3cc.biz/listen/75014917/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bmNvQk0zUW5aTkR5enBzREszRTJIMkpUSmhHOGJ3SCtFM0k1NjI0eXdEVzN2UkRvOHBhQmFlWCtwaUlEQ20zZllsak8yQjJyTHZoaGthZ2F3S1VDejg/bohemian-rhapsody_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/3532585-bohemian/75014917-rhapsody/" data-duration="351000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/75014917/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bmNvQk0zUW5aTkR5enBzREszRTJIMkpUSmhHOGJ3SCtFM0k1NjI0eXdEVzN2UkRvOHBhQmFlWCtwaUlEQ20zZllsak8yQjJyTHZoaGthZ2F3S1VDejg/bohemian-rhapsody_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian - Rhapsody (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:51</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/3532585-bohemian/">Bohemian</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/3532585-bohemian/75014917-rhapsody/">Rhapsody</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="2" data-id="88379967" data-mp3="https://storage.mp3cc.biz/listen/88379967/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1hFQ2lTRWN4d09RUGFDd3FvbFlPcVJZdGZwNVZGT1c0ZHREdUp1R2piSklNWWpjMW1xR0lWVElUdGdsQnlXZS9Ba0FzOGtEbS8yRzJFWm1Gc2ZGVWI/-bohemian-rhapsody_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/57-57/88379967-bohemian-rhapsody/" data-duration="349000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/88379967/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1hFQ2lTRWN4d09RUGFDd3FvbFlPcVJZdGZwNVZGT1c0ZHREdUp1R2piSklNWWpjMW1xR0lWVElUdGdsQnlXZS9Ba0FzOGtEbS8yRzJFWm1Gc2ZGVWI/-bohemian-rhapsody_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download=" - Bohemian Rhapsody (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:49</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/57-57/"></a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/57-57/88379967-bohemian-rhapsody/">Bohemian Rhapsody</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="3" data-id="100030137" data-mp3="https://storage.mp3cc.biz/listen/100030137/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a3VaTTB5bUtqRjlISnJENElyYXNsY0dPRlVmVkgxRTFPNHEvbEFxRHNkTjJQeHdlaFgxVHpUUjB1SFJMUjUrSEoxWU1waStTY2FjczdFQzhQcHdMZE4/bohemian-rhapsody_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/3532585-bohemian/100030137-rhapsody/" data-duration="244000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/100030137/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a3VaTTB5bUtqRjlISnJENElyYXNsY0dPRlVmVkgxRTFPNHEvbEFxRHNkTjJQeHdlaFgxVHpUUjB1SFJMUjUrSEoxWU1waStTY2FjczdFQzhQcHdMZE4/bohemian-rhapsody_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian - Rhapsody (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:04</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/3532585-bohemian/">Bohemian</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/3532585-bohemian/100030137-rhapsody/">Rhapsody</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="4" data-id="115529565" data-mp3="https://storage.mp3cc.biz/listen/115529565/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bFNPUlZqdGRRSGE4Qko3ZE9uZ25aNmxjUFBsbVlpMDZrWUY3UG8rVUZiK3dzVDNid09ZR1dCcHU3Unh4aDNoZzhVQTZDRzVEaWtlOGNIdE5ucm8zNng/bohemian-rhapsody_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/3532585-bohemian/115529565-rhapsody/" data-duration="353000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/115529565/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bFNPUlZqdGRRSGE4Qko3ZE9uZ25aNmxjUFBsbVlpMDZrWUY3UG8rVUZiK3dzVDNid09ZR1dCcHU3Unh4aDNoZzhVQTZDRzVEaWtlOGNIdE5ucm8zNng/bohemian-rhapsody_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian - Rhapsody (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:53</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/3532585-bohemian/">Bohemian</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/3532585-bohemian/115529565-rhapsody/">Rhapsody</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="5" data-id="22527112" data-mp3="https://storage.mp3cc.biz/listen/22527112/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkZDam9NTlN5SjRZeU1aUkdXOFpPMXE5YVFxQ1ZEaDlUT25sc0kvL2hFMklFcFlldkxCL25pUElpczR5dGk1NjZCQ21CVmxOSWwrZXNTUmVvK25TdEU/bohemian-rhapsody-queen-alex-goot-sam-tsui-kurt-schneider-tyler-ward-bohemian-rhapsody-queen-alex-goot-sam-tsui-kurt-schneider-tyler-ward_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/4545345-bohemian-rhapsody-queen-alex-goot-sam-tsui-kurt-schneider-tyler-ward/22527112-bohemian-rhapsody-queen-alex-goot-sam-tsui-kurt-schneider-tyler-ward/" data-duration="348000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/22527112/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkZDam9NTlN5SjRZeU1aUkdXOFpPMXE5YVFxQ1ZEaDlUT25sc0kvL2hFMklFcFlldkxCL25pUElpczR5dGk1NjZCQ21CVmxOSWwrZXNTUmVvK25TdEU/bohemian-rhapsody-queen-alex-goot-sam-tsui-kurt-schneider-tyler-ward-bohemian-rhapsody-queen-alex-goot-sam-tsui-kurt-schneider-tyler-ward_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Queen(Alex Goot, Sam Tsui, Kurt Schneider, Tyler Ward) - Bohemian Rhapsody - Queen(Alex Goot, Sam Tsui, Kurt Schneider, Tyler Ward) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:48</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/4545345-bohemian-rhapsody-queen-alex-goot-sam-tsui-kurt-schneider-tyler-ward/">Bohemian Rhapsody - Queen(Alex Goot, Sam Tsui, Kurt Schneider, Tyler Ward)</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/4545345-bohemian-rhapsody-queen-alex-goot-sam-tsui-kurt-schneider-tyler-ward/22527112-bohemian-rhapsody-queen-alex-goot-sam-tsui-kurt-schneider-tyler-ward/">Bohemian Rhapsody - Queen(Alex Goot, Sam Tsui, Kurt Schneider, Tyler Ward)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="6" data-id="40607476" data-mp3="https://storage.mp3cc.biz/listen/40607476/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bUhTallLZnpmeHNZRVpRVWZuOXU0QkcybkU0bjd5ZDdWUlFMTU9WdG9Ib2hIYkJtVVl5cWFjNHdQRzlPQXkzVkhRQ3NLVGRqY1BuRUw1R3dUNDNXU1I/bohemian-rhapsody-bohemian-rhapsody-piano_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/40607476-bohemian-rhapsody-piano/" data-duration="357000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/40607476/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bUhTallLZnpmeHNZRVpRVWZuOXU0QkcybkU0bjd5ZDdWUlFMTU9WdG9Ib2hIYkJtVVl5cWFjNHdQRzlPQXkzVkhRQ3NLVGRqY1BuRUw1R3dUNDNXU1I/bohemian-rhapsody-bohemian-rhapsody-piano_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Bohemian Rhapsody (Piano) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:57</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/40607476-bohemian-rhapsody-piano/">Bohemian Rhapsody (Piano)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="7" data-id="73359922" data-mp3="https://storage.mp3cc.biz/listen/73359922/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONUw5Q3ZOU24vQ0NiTStOWE1jVDhDY3FDdkNCMXJIVk5oME9uS0dqK212TGtWYklQSS9QaTVUVWF4NVRoN1l5OEw/bohemian-rhapsody-bohemian-rhapsody_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359922-bohemian-rhapsody/" data-duration="360000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/73359922/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONUw5Q3ZOU24vQ0NiTStOWE1jVDhDY3FDdkNCMXJIVk5oME9uS0dqK212TGtWYklQSS9QaTVUVWF4NVRoN1l5OEw/bohemian-rhapsody-bohemian-rhapsody_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Bohemian Rhapsody (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">06:00</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359922-bohemian-rhapsody/">Bohemian Rhapsody</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="8" data-id="12565850" data-mp3="https://storage.mp3cc.biz/listen/12565850/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a25uK2ZaRGJTL1R6NGsrbmtXNHN0WDR3aE9QY0VqM09qRnR6WkVTUk9GeXMvdFNIbDhKT2VHMFFaSTNDTUtMYXIyRzAxalRaZ0piWWZnUFVNdDZIZk4/bohemian-rhapsody-part1-bariton_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2519860-bohemian-rhapsody-part1/12565850-bariton/" data-duration="63000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/12565850/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a25uK2ZaRGJTL1R6NGsrbmtXNHN0WDR3aE9QY0VqM09qRnR6WkVTUk9GeXMvdFNIbDhKT2VHMFFaSTNDTUtMYXIyRzAxalRaZ0piWWZnUFVNdDZIZk4/bohemian-rhapsody-part1-bariton_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian rhapsody part1 - Bariton (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">01:03</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2519860-bohemian-rhapsody-part1/">Bohemian rhapsody part1</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2519860-bohemian-rhapsody-part1/12565850-bariton/">Bariton</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="9" data-id="14358667" data-mp3="https://storage.mp3cc.biz/listen/14358667/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bW9MK1VLU1lHOUFJdnJMOHBkclo5Vm1DWWNlY01MM05QbG1nN1piM2FFd1NzVHptTThFanNlM1JnOFBVNzhSaVN4YlplWFJmQlVHRXlFcWJIdXJqT2k/bohemian-rhapsody-chill-out-version_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/14358667-chill-out-version/" data-duration="244000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/14358667/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bW9MK1VLU1lHOUFJdnJMOHBkclo5Vm1DWWNlY01MM05QbG1nN1piM2FFd1NzVHptTThFanNlM1JnOFBVNzhSaVN4YlplWFJmQlVHRXlFcWJIdXJqT2k/bohemian-rhapsody-chill-out-version_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Chill Out Version (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:04</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/14358667-chill-out-version/">Chill Out Version</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="10" data-id="14912276" data-mp3="https://storage.mp3cc.biz/listen/14912276/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWZxcFc5ZTlOYnRpdEkyRWg2alF0WWtlck9QcklObUxkMU45b2RnU3NEbjl6QzhiZ3Znd3FsVGpyVXBtdUhyQjVvY0hzM2FwOC9QL0RvZzNnc1RvSDI/bohemian-rhapsody-queen-a-day-at-the-races-1975-freddie-mercury-agp_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/14912276-queen-a-day-at-the-races-1975-freddie-mercury-agp/" data-duration="354000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/14912276/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWZxcFc5ZTlOYnRpdEkyRWg2alF0WWtlck9QcklObUxkMU45b2RnU3NEbjl6QzhiZ3Znd3FsVGpyVXBtdUhyQjVvY0hzM2FwOC9QL0RvZzNnc1RvSDI/bohemian-rhapsody-queen-a-day-at-the-races-1975-freddie-mercury-agp_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Queen (A Day At The Races; 1975; Freddie Mercury; AGP) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:54</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/14912276-queen-a-day-at-the-races-1975-freddie-mercury-agp/">Queen (A Day At The Races; 1975; Freddie Mercury; AGP)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="11" data-id="14912283" data-mp3="https://storage.mp3cc.biz/listen/14912283/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWZxcFc5ZTlOYnRpdEkyRWg2alF0WUh4ZEpxUVF3TTNUL1Vjekd5TVdWc0VOS3NqdFV3MVFrbi9CbjllT3Nicy8vdmNWUEttazlCZmxQajFuaDM5Ykw/bohemian-rhapsody-queen-1975-a-night-at-the-opera-freddie-mercury-agp_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/14912283-queen-1975-a-night-at-the-opera-freddie-mercury-agp/" data-duration="358000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/14912283/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWZxcFc5ZTlOYnRpdEkyRWg2alF0WUh4ZEpxUVF3TTNUL1Vjekd5TVdWc0VOS3NqdFV3MVFrbi9CbjllT3Nicy8vdmNWUEttazlCZmxQajFuaDM5Ykw/bohemian-rhapsody-queen-1975-a-night-at-the-opera-freddie-mercury-agp_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Queen ٠ 1975 ٠ A Night At The Opera ٠ Freddie Mercury ٠ AGP (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:58</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/14912283-queen-1975-a-night-at-the-opera-freddie-mercury-agp/">Queen ٠ 1975 ٠ A Night At The Opera ٠ Freddie Mercury ٠ AGP</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="12" data-id="23742813" data-mp3="https://storage.mp3cc.biz/listen/23742813/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6azBVdnMwNkpNZUUrYjVLMUpXTFBsTTc1SFhTOE5UZmtmZTVBTmMxeEhNZzROaFVQMDBJMGh5anFnUlFXTDh6ekw5ZHhVS2RvTGl6MndlUGxuZDE0am8/bohemian-rhapsody-quuen-life_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/23742813-quuen-life/" data-duration="331000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/23742813/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6azBVdnMwNkpNZUUrYjVLMUpXTFBsTTc1SFhTOE5UZmtmZTVBTmMxeEhNZzROaFVQMDBJMGh5anFnUlFXTDh6ekw5ZHhVS2RvTGl6MndlUGxuZDE0am8/bohemian-rhapsody-quuen-life_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - quuen (LIFE) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:31</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/23742813-quuen-life/">quuen (LIFE)</a></em>
-			</h2>
-		</li>
-			<li class="playlist-ad" id="in_playlist_1Banner">
-			<div>
-				<iframe src="/api/iframe/in_playlist_1"></iframe>
-			</div>
-		</li>
-		
-		
-		<li class="track" data-index="13" data-id="24187071" data-mp3="https://storage.mp3cc.biz/listen/24187071/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bXhKMlZ0bitwVDN2S0ZRQ3FwMFR1WGVWazZYcEExOW5kZ1ZSQ1VJVEVMQnE0dlVKNnNpenozSUhBMG1MeXhzaGpud0hqaXpuSE1qU2k0eFJUNlQ1eTM/bohemian-rhapsody-queen-alex-goot-sam-tsui-kurt-schneider-tyler-ward_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/24187071-queen-alex-goot-sam-tsui-kurt-schneider-tyler-ward/" data-duration="178000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/24187071/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bXhKMlZ0bitwVDN2S0ZRQ3FwMFR1WGVWazZYcEExOW5kZ1ZSQ1VJVEVMQnE0dlVKNnNpenozSUhBMG1MeXhzaGpud0hqaXpuSE1qU2k0eFJUNlQ1eTM/bohemian-rhapsody-queen-alex-goot-sam-tsui-kurt-schneider-tyler-ward_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Queen(Alex Goot, Sam Tsui, Kurt Schneider, Tyler Ward) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">02:58</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/24187071-queen-alex-goot-sam-tsui-kurt-schneider-tyler-ward/">Queen(Alex Goot, Sam Tsui, Kurt Schneider, Tyler Ward)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="14" data-id="25862808" data-mp3="https://storage.mp3cc.biz/listen/25862808/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bmpscDZValFSUkdnUmlQNk5ZMTBWaFVGenF6VEN1YlZ0aFF5QWx6ODdRYm9pUzg1bVB1NWJXR1hLZzJqQTlieTQ3Y2NleDVjNHdpSEJ6eWFFc2tHajg/bohemian-rhapsody-we-will-rock-you-we-are-the-champions-05_who-wants-to-live-forever_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/5313768-bohemian-rhapsody-we-will-rock-you-we-are-the-champions/25862808-05_who-wants-to-live-forever/" data-duration="774000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/25862808/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bmpscDZValFSUkdnUmlQNk5ZMTBWaFVGenF6VEN1YlZ0aFF5QWx6ODdRYm9pUzg1bVB1NWJXR1hLZzJqQTlieTQ3Y2NleDVjNHdpSEJ6eWFFc2tHajg/bohemian-rhapsody-we-will-rock-you-we-are-the-champions-05_who-wants-to-live-forever_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - We Will Rock You - We Are The Champions - 05_Who Wants To Live Forever (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">12:54</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/5313768-bohemian-rhapsody-we-will-rock-you-we-are-the-champions/">Bohemian Rhapsody - We Will Rock You - We Are The Champions</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/5313768-bohemian-rhapsody-we-will-rock-you-we-are-the-champions/25862808-05_who-wants-to-live-forever/">05_Who Wants To Live Forever</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="15" data-id="26295927" data-mp3="https://storage.mp3cc.biz/listen/26295927/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bGVPTjMvOU9NR1UvcjUrbkwvOWNSRnhMQTdGUnBiblpMQUtjV2JvMXRpN2VuZFZZMXhnTWU5bmJGOVpHN0JhUEFXZDJuOGpXaEoranVWdnhhc2VyYkI/bohemian-rhapsody-queen-1975-a-night-at-the-opera_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/26295927-queen-1975-a-night-at-the-opera/" data-duration="354000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/26295927/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bGVPTjMvOU9NR1UvcjUrbkwvOWNSRnhMQTdGUnBiblpMQUtjV2JvMXRpN2VuZFZZMXhnTWU5bmJGOVpHN0JhUEFXZDJuOGpXaEoranVWdnhhc2VyYkI/bohemian-rhapsody-queen-1975-a-night-at-the-opera_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Queen ٠ 1975 ٠ A Night At The Opera (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:54</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/26295927-queen-1975-a-night-at-the-opera/">Queen ٠ 1975 ٠ A Night At The Opera</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="16" data-id="29412220" data-mp3="https://storage.mp3cc.biz/listen/29412220/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bmszV21XRDRLSmxWL1NqWDhpRVRqaHdjWFBWZ2ZCWGUrUStBTXIwaVBZU0s5L0J2b2p2UlllU0lZblp0Zk1XSWhzb1k3cWZ0eEFrTzRScVdaUzZHV0w/bohemian-rhapsody-queen-a-night-at-the-opera-1975-freddie-mercury-agp_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/29412220-queen-a-night-at-the-opera-1975-freddie-mercury-agp/" data-duration="358000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/29412220/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bmszV21XRDRLSmxWL1NqWDhpRVRqaHdjWFBWZ2ZCWGUrUStBTXIwaVBZU0s5L0J2b2p2UlllU0lZblp0Zk1XSWhzb1k3cWZ0eEFrTzRScVdaUzZHV0w/bohemian-rhapsody-queen-a-night-at-the-opera-1975-freddie-mercury-agp_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Queen (A Night At The Opera; 1975; Freddie Mercury; AGP) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:58</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/29412220-queen-a-night-at-the-opera-1975-freddie-mercury-agp/">Queen (A Night At The Opera; 1975; Freddie Mercury; AGP)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="17" data-id="31280872" data-mp3="https://storage.mp3cc.biz/listen/31280872/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1d1MUVFSjRjcnpIZ1dLcnhSajEwR052bXNQL2lQL3o4MUdwZjBJejZTRWNxOENuZllBd3VVd0dDYkpUTmlDcC80OENwOC9LS04vaGg4Wmo1NlpsYzA/bohemian-rhapsody-queen-bez-nazvaniya_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/6504892-bohemian-rhapsody-queen/31280872-bez-nazvaniya/" data-duration="378000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/31280872/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1d1MUVFSjRjcnpIZ1dLcnhSajEwR052bXNQL2lQL3o4MUdwZjBJejZTRWNxOENuZllBd3VVd0dDYkpUTmlDcC80OENwOC9LS04vaGg4Wmo1NlpsYzA/bohemian-rhapsody-queen-bez-nazvaniya_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Queen - Без названия (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">06:18</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/6504892-bohemian-rhapsody-queen/">Bohemian Rhapsody - Queen</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/6504892-bohemian-rhapsody-queen/31280872-bez-nazvaniya/">Без названия</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="18" data-id="34784276" data-mp3="https://storage.mp3cc.biz/listen/34784276/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bURweXBSaW1QUk9Da0xzcVdnQTJGYjNzQlRqcXA1RXdYTVN0VU81MDBJcVhWaUswbDB1aTNKWE94ekFhQlJhaG5XMG1HZDNxYThyM0RpUVR1dG1Yblc/bohemian-rhapsody-queen-_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/6504892-bohemian-rhapsody-queen/34784276-34784276/" data-duration="281000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/34784276/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bURweXBSaW1QUk9Da0xzcVdnQTJGYjNzQlRqcXA1RXdYTVN0VU81MDBJcVhWaUswbDB1aTNKWE94ekFhQlJhaG5XMG1HZDNxYThyM0RpUVR1dG1Yblc/bohemian-rhapsody-queen-_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Queen -  (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:41</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/6504892-bohemian-rhapsody-queen/">Bohemian Rhapsody - Queen</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/6504892-bohemian-rhapsody-queen/34784276-34784276/"></a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="19" data-id="38402770" data-mp3="https://storage.mp3cc.biz/listen/38402770/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6azZFNnp0M2luVlNiay8ra0tNWXNtd3EzUmhZSWRIWU1aVWNvNnF3YTc1c0hWU0J1NkVidVlPdjBHS1N2dlAxTGZyZ0JmN1BLdGFkcTlxUENla0toK3A/-bohemian-rhapsody-queen-cover_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2213741-2213741/38402770-bohemian-rhapsody-queen-cover/" data-duration="350000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/38402770/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6azZFNnp0M2luVlNiay8ra0tNWXNtd3EzUmhZSWRIWU1aVWNvNnF3YTc1c0hWU0J1NkVidVlPdjBHS1N2dlAxTGZyZ0JmN1BLdGFkcTlxUENla0toK3A/-bohemian-rhapsody-queen-cover_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="小野正利 - Bohemian Rhapsody (Queen cover) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:50</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2213741-2213741/">小野正利</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2213741-2213741/38402770-bohemian-rhapsody-queen-cover/">Bohemian Rhapsody (Queen cover)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="20" data-id="40486203" data-mp3="https://storage.mp3cc.biz/listen/40486203/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bjhpN04vaCtaTUhYREllbzkzNFA1eUF3RVN3bmVyMHFralRCQkFNbklmanRiSmozTFhMa3JIejE1OHhabnB3Vmx4cjdxWitYQVRUaCtYMzY0TGxmYTE/bohemian-rhapsody-priznana-luchshej-pesnej-za-istoriyu-britanskoj-muzyki.-klip-na-etu-pesnyu-v-rezultate-vsemirnogo-op_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/40486203-priznana-luchshej-pesnej-za-istoriyu-britanskoj-muzyki.-klip-na-etu-pesnyu-v-rezultate-vsemirnogo-op/" data-duration="363000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/40486203/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bjhpN04vaCtaTUhYREllbzkzNFA1eUF3RVN3bmVyMHFralRCQkFNbklmanRiSmozTFhMa3JIejE1OHhabnB3Vmx4cjdxWitYQVRUaCtYMzY0TGxmYTE/bohemian-rhapsody-priznana-luchshej-pesnej-za-istoriyu-britanskoj-muzyki.-klip-na-etu-pesnyu-v-rezultate-vsemirnogo-op_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Признана лучшей песней за историю британской музыки. Клип на эту песню в результате всемирного опрос (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">06:03</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/40486203-priznana-luchshej-pesnej-za-istoriyu-britanskoj-muzyki.-klip-na-etu-pesnyu-v-rezultate-vsemirnogo-op/">Признана лучшей песней за историю британской музыки. Клип на эту песню в результате всемирного опрос</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="21" data-id="40607488" data-mp3="https://storage.mp3cc.biz/listen/40607488/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bUhTallLZnpmeHNZRVpRVWZuOXU0Qi9MMTNnZSttODd6U1VrM1lISUJHazBHU1NETUEwbEwxR3hGNnNmZTIzQ3dGR0M1Q1dheUpBdDdMVFdGdnREY08/bohemian-rhapsody-double-speed_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/40607488-double-speed/" data-duration="178000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/40607488/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bUhTallLZnpmeHNZRVpRVWZuOXU0Qi9MMTNnZSttODd6U1VrM1lISUJHazBHU1NETUEwbEwxR3hGNnNmZTIzQ3dGR0M1Q1dheUpBdDdMVFdGdnREY08/bohemian-rhapsody-double-speed_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="bohemian rhapsody - double speed (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">02:58</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">bohemian rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/40607488-double-speed/">double speed</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="22" data-id="46606260" data-mp3="https://storage.mp3cc.biz/listen/46606260/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0tLWVVBWTNheGF2Tmk1ZVBVNU5mdTdacUpkUEdvYlN1eUt2TUcyQ2ZEOGxMZW80UlFpYk9od2FRRktYN0JqVXBtdHFWME5MSlM0WUNUQWVrRWE1Y2I/bohemian-rhapsody-with-lyrics-queen_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/9408838-bohemian-rhapsody-with-lyrics/46606260-queen/" data-duration="354000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/46606260/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0tLWVVBWTNheGF2Tmk1ZVBVNU5mdTdacUpkUEdvYlN1eUt2TUcyQ2ZEOGxMZW80UlFpYk9od2FRRktYN0JqVXBtdHFWME5MSlM0WUNUQWVrRWE1Y2I/bohemian-rhapsody-with-lyrics-queen_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody (with Lyrics) - Queen (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:54</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/9408838-bohemian-rhapsody-with-lyrics/">Bohemian Rhapsody (with Lyrics)</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/9408838-bohemian-rhapsody-with-lyrics/46606260-queen/">Queen</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="23" data-id="47877289" data-mp3="https://storage.mp3cc.biz/listen/47877289/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blhkS25qMzFNYnhqNk53KzN0aHNDN1poa2pCZjhXSFY1LzJobHhubkF2dHY0dXM3SUtON2lJQTNLWUpIcVk3WVcwSkpQMFR6QnhJYnBmYmtHOXc1TDU/-bohemian-rhapsody-on-electric-guitars-instrumental_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/57-57/47877289-bohemian-rhapsody-on-electric-guitars-instrumental/" data-duration="278000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/47877289/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blhkS25qMzFNYnhqNk53KzN0aHNDN1poa2pCZjhXSFY1LzJobHhubkF2dHY0dXM3SUtON2lJQTNLWUpIcVk3WVcwSkpQMFR6QnhJYnBmYmtHOXc1TDU/-bohemian-rhapsody-on-electric-guitars-instrumental_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download=" - Bohemian Rhapsody On Electric Guitars - Instrumental (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:38</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/57-57/"></a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/57-57/47877289-bohemian-rhapsody-on-electric-guitars-instrumental/">Bohemian Rhapsody On Electric Guitars - Instrumental</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="24" data-id="54268364" data-mp3="https://storage.mp3cc.biz/listen/54268364/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1pUQ3cxYW1HT25RbW5KZndKMkxwMUg4bVFSNkxXby9MMDRiS0RBaWp4QkVxa1loL1JBWTA3VHhEM2lsN2VCYnN4cWdDKzR4ZDg5SFRwRkg3UzJsWXk/bohemian-rhapsody-queen_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/54268364-queen/" data-duration="286000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/54268364/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1pUQ3cxYW1HT25RbW5KZndKMkxwMUg4bVFSNkxXby9MMDRiS0RBaWp4QkVxa1loL1JBWTA3VHhEM2lsN2VCYnN4cWdDKzR4ZDg5SFRwRkg3UzJsWXk/bohemian-rhapsody-queen_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Queen (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:46</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/54268364-queen/">Queen</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="25" data-id="57446098" data-mp3="https://storage.mp3cc.biz/listen/57446098/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bjBKbW9FUnIveU5VUVd1eGZJbjVvQlFEb2FpSkM5enJZQm92TTAwdGQ0ZDUwcnhKY2dDS0xiL2tCNWtJeG9KMEVQLzZ6YlByNzhmTUFFcVRXcm5KeEw/bohemian-rhapsody-for-symphony-orchestra-and-solo-viola-the-studio-recording_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/11288780-bohemian-rhapsody-for-symphony-orchestra-and-solo-viola/57446098-the-studio-recording/" data-duration="425000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/57446098/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bjBKbW9FUnIveU5VUVd1eGZJbjVvQlFEb2FpSkM5enJZQm92TTAwdGQ0ZDUwcnhKY2dDS0xiL2tCNWtJeG9KMEVQLzZ6YlByNzhmTUFFcVRXcm5KeEw/bohemian-rhapsody-for-symphony-orchestra-and-solo-viola-the-studio-recording_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody for Symphony Orchestra and Solo Viola - THE STUDIO RECORDING (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">07:05</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/11288780-bohemian-rhapsody-for-symphony-orchestra-and-solo-viola/">Bohemian Rhapsody for Symphony Orchestra and Solo Viola</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/11288780-bohemian-rhapsody-for-symphony-orchestra-and-solo-viola/57446098-the-studio-recording/">THE STUDIO RECORDING</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="26" data-id="58263268" data-mp3="https://storage.mp3cc.biz/listen/58263268/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bHlpOXF5VVdpSU9Fd1RXSjhNYkwwQzhicC9HZXUwRmMzTkZKUnArcTdyaWEzOGQ5K3EwMFZSQXhTYU9HUWNPTHBHMlNpM3gzcWRMNnovNSt0dkwrOEg/bohemian-rhapsody-ballada-0-49-2-36_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/58263268-ballada-0-49-2-36/" data-duration="107000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/58263268/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bHlpOXF5VVdpSU9Fd1RXSjhNYkwwQzhicC9HZXUwRmMzTkZKUnArcTdyaWEzOGQ5K3EwMFZSQXhTYU9HUWNPTHBHMlNpM3gzcWRMNnovNSt0dkwrOEg/bohemian-rhapsody-ballada-0-49-2-36_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Баллада (0:49-2:36) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">01:47</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/58263268-ballada-0-49-2-36/">Баллада (0:49-2:36)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="27" data-id="59812317" data-mp3="https://storage.mp3cc.biz/listen/59812317/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blhFc0FXZkdZMFNFVG40N0ZGdWRvUjJDSTljZm9zbjU0SzRZTEtzSll0VkIzSkcxL2VLOUhoRmszU1VBazVJaFZ3ajZENW10MnRiLzdyUU9NZ3FmdUI/bohemian-rhapsody-gitarnoe-solo-2-36-3-03_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/59812317-gitarnoe-solo-2-36-3-03/" data-duration="27000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/59812317/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blhFc0FXZkdZMFNFVG40N0ZGdWRvUjJDSTljZm9zbjU0SzRZTEtzSll0VkIzSkcxL2VLOUhoRmszU1VBazVJaFZ3ajZENW10MnRiLzdyUU9NZ3FmdUI/bohemian-rhapsody-gitarnoe-solo-2-36-3-03_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Гитарное соло (2:36-3:03) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">00:27</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/59812317-gitarnoe-solo-2-36-3-03/">Гитарное соло (2:36-3:03)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="28" data-id="61429571" data-mp3="https://storage.mp3cc.biz/listen/61429571/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0RYeWdDendjSUV3b0VCaTB4T3VzN3huYlVlQlIxZ1M4WDV1S2hKZ01zT3ByVkIzajB4MkNNcjJodEhYRjRBNnpLckZvRFUwNHhVMHRKQkthRlViNGg/-bohemian-rhapsody-freddie-mercury-.html_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/57-57/61429571-bohemian-rhapsody-freddie-mercury-.html/" data-duration="350000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/61429571/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0RYeWdDendjSUV3b0VCaTB4T3VzN3huYlVlQlIxZ1M4WDV1S2hKZ01zT3ByVkIzajB4MkNNcjJodEhYRjRBNnpLckZvRFUwNHhVMHRKQkthRlViNGg/-bohemian-rhapsody-freddie-mercury-.html_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download=" - Bohemian Rhapsody (Freddie Mercury) -&gt;&gt;&gt;&gt;&gt;&gt; .html (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:50</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/57-57/"></a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/57-57/61429571-bohemian-rhapsody-freddie-mercury-.html/">Bohemian Rhapsody (Freddie Mercury) -&gt;&gt;&gt;&gt;&gt;&gt; .html</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="29" data-id="62199475" data-mp3="https://storage.mp3cc.biz/listen/62199475/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a3IxN1RFRVJZTmd3T0gyd0t6QVhHUlRXazdrc1E1MmRHTjlyVGVJOFp2V014T0JNWlkyd0NtY29vK3FJZVp6UzBZQ1ZFU00xN1RSemZLNlFyZkNISXM/bohemian-rhapsody-live-in-montreale_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/62199475-live-in-montreale/" data-duration="329000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/62199475/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a3IxN1RFRVJZTmd3T0gyd0t6QVhHUlRXazdrc1E1MmRHTjlyVGVJOFp2V014T0JNWlkyd0NtY29vK3FJZVp6UzBZQ1ZFU00xN1RSemZLNlFyZkNISXM/bohemian-rhapsody-live-in-montreale_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Live In Montreale (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:29</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/62199475-live-in-montreale/">Live In Montreale</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="30" data-id="70618980" data-mp3="https://storage.mp3cc.biz/listen/70618980/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkVrV09WYlBLUkhvUHMrcmZ6STRvQ09Cci9VbnUraG1rWnFqZkxsMUREcTZpTmlBbVFzdXFBdHFyTnVtM21yKzA5bHBOK1lYWE5hR3RJRmIxbnRZalY/bohemian-rhapsody-solo-cover_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/70618980-solo-cover/" data-duration="31000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/70618980/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkVrV09WYlBLUkhvUHMrcmZ6STRvQ09Cci9VbnUraG1rWnFqZkxsMUREcTZpTmlBbVFzdXFBdHFyTnVtM21yKzA5bHBOK1lYWE5hR3RJRmIxbnRZalY/bohemian-rhapsody-solo-cover_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Solo(Cover) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">00:31</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/70618980-solo-cover/">Solo(Cover)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="31" data-id="73334760" data-mp3="https://storage.mp3cc.biz/listen/73334760/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a3ZYZ2ROc0JaSW5mUWEwWVN0UUJoVUxFdEtvNHVHT08yVFVRSHpUKzNPRlk5RnhYOWZ6UkZ3NWJQckEzMEFoa0FJa3NJVEw0ekJhbG1hNEt6VW1wMnM/bohemian-rhapsody-one-vision_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73334760-one-vision/" data-duration="309000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/73334760/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a3ZYZ2ROc0JaSW5mUWEwWVN0UUJoVUxFdEtvNHVHT08yVFVRSHpUKzNPRlk5RnhYOWZ6UkZ3NWJQckEzMEFoa0FJa3NJVEw0ekJhbG1hNEt6VW1wMnM/bohemian-rhapsody-one-vision_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - One Vision (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:09</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73334760-one-vision/">One Vision</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="32" data-id="73334764" data-mp3="https://storage.mp3cc.biz/listen/73334764/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a3ZYZ2ROc0JaSW5mUWEwWVN0UUJoVUdPUURaeWMrSGUvQUtxa3VUeUp3OHhpemptMGN5V2x2NHVUR2d6VzZHa2ZsOHlqemMxRDltS1NGOFZITUJUMDQ/bohemian-rhapsody-a-kind-of-magic_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73334764-a-kind-of-magic/" data-duration="268000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/73334764/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a3ZYZ2ROc0JaSW5mUWEwWVN0UUJoVUdPUURaeWMrSGUvQUtxa3VUeUp3OHhpemptMGN5V2x2NHVUR2d6VzZHa2ZsOHlqemMxRDltS1NGOFZITUJUMDQ/bohemian-rhapsody-a-kind-of-magic_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - A Kind of Magic (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:28</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73334764-a-kind-of-magic/">A Kind of Magic</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="33" data-id="73335104" data-mp3="https://storage.mp3cc.biz/listen/73335104/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0F3aDQvT0xiSDBoSFZ1TnZRWTNnSXY2L0lxQ21lTXM4YzBPNHIvSDlWYTQ3V3l6cU55VTNFSlZnNm1hbVNxbEpNY2pwQ0dqMkdRK3pycE9Mbkw5SUg/bohemian-rhapsody-somebody-to-love_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73335104-somebody-to-love/" data-duration="294000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/73335104/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0F3aDQvT0xiSDBoSFZ1TnZRWTNnSXY2L0lxQ21lTXM4YzBPNHIvSDlWYTQ3V3l6cU55VTNFSlZnNm1hbVNxbEpNY2pwQ0dqMkdRK3pycE9Mbkw5SUg/bohemian-rhapsody-somebody-to-love_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Somebody to Love (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:54</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73335104-somebody-to-love/">Somebody to Love</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="34" data-id="73344185" data-mp3="https://storage.mp3cc.biz/listen/73344185/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bGhteDFXUFNORHU1ajltcURVcmlqWDFrWkRDVUhEZk5LMDJpdzl5ck1JQmtYblFPTWFKMGlMbGJhd0lpNUFlcm50TExYRXh5WWtaSjJvYU9FcmgvTXc/bohemian-rhapsody-save-me_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73344185-save-me/" data-duration="237000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/73344185/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bGhteDFXUFNORHU1ajltcURVcmlqWDFrWkRDVUhEZk5LMDJpdzl5ck1JQmtYblFPTWFKMGlMbGJhd0lpNUFlcm50TExYRXh5WWtaSjJvYU9FcmgvTXc/bohemian-rhapsody-save-me_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Save Me (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:57</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73344185-save-me/">Save Me</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="35" data-id="73356492" data-mp3="https://storage.mp3cc.biz/listen/73356492/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bXV0YUlUK3BYMGtLWDZLNWZJNzBaR2h1cnNrV3oySHZWWFJaUzlVT1VQdEs0TUNmcUlaUG5FRk1OazR2VFh5djhreVozU3AyenJxNWNjRmoydFJZb2c/bohemian-rhapsody-we-are-the-champions_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73356492-we-are-the-champions/" data-duration="180000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/73356492/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bXV0YUlUK3BYMGtLWDZLNWZJNzBaR2h1cnNrV3oySHZWWFJaUzlVT1VQdEs0TUNmcUlaUG5FRk1OazR2VFh5djhreVozU3AyenJxNWNjRmoydFJZb2c/bohemian-rhapsody-we-are-the-champions_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - We Are the Champions (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:00</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73356492-we-are-the-champions/">We Are the Champions</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="36" data-id="73359050" data-mp3="https://storage.mp3cc.biz/listen/73359050/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6azB3bWZzVkRFYnJoVjY5b096K3JGTDlNUEFRYk01TElhVXY5YUxDOFlwemFLQ2h6eUh5dUpOOHZkVHVwR3dZbDcvR3pxZFluTDdrY1F2QlR5S2FLbWw/bohemian-rhapsody-radio-gaga_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359050-radio-gaga/" data-duration="344000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/73359050/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6azB3bWZzVkRFYnJoVjY5b096K3JGTDlNUEFRYk01TElhVXY5YUxDOFlwemFLQ2h6eUh5dUpOOHZkVHVwR3dZbDcvR3pxZFluTDdrY1F2QlR5S2FLbWw/bohemian-rhapsody-radio-gaga_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Radio Gaga (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:44</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359050-radio-gaga/">Radio Gaga</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="37" data-id="73359923" data-mp3="https://storage.mp3cc.biz/listen/73359923/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONWVSeHpjaDJPa1JRbVhZVGxUR25zQUtVNHZBd3BkVjdwOFdCOU1heW5rTnpXaW5KT3hwMGQvbk1NK2R0aTFOM2s/bohemian-rhapsody-my-life-has-been-saved-bonus-track_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359923-my-life-has-been-saved-bonus-track/" data-duration="196000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/73359923/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONWVSeHpjaDJPa1JRbVhZVGxUR25zQUtVNHZBd3BkVjdwOFdCOU1heW5rTnpXaW5KT3hwMGQvbk1NK2R0aTFOM2s/bohemian-rhapsody-my-life-has-been-saved-bonus-track_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - My Life Has Been Saved (Bonus Track) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:16</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359923-my-life-has-been-saved-bonus-track/">My Life Has Been Saved (Bonus Track)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="38" data-id="73359924" data-mp3="https://storage.mp3cc.biz/listen/73359924/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONTlTY0NzU3hic2xiMmNnNVZiNmthWjVIMnp3MzBQVnlrNDZYSUxxUTZtU0dNU2xjQXZGQVV2dFZYOGp2bWNGaGo/bohemian-rhapsody-barcelona-feat.-sara-di-bella-bonus-track_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359924-barcelona-feat.-sara-di-bella-bonus-track/" data-duration="268000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/73359924/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONTlTY0NzU3hic2xiMmNnNVZiNmthWjVIMnp3MzBQVnlrNDZYSUxxUTZtU0dNU2xjQXZGQVV2dFZYOGp2bWNGaGo/bohemian-rhapsody-barcelona-feat.-sara-di-bella-bonus-track_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Barcelona (feat. Sara Di Bella) [Bonus Track] (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:28</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359924-barcelona-feat.-sara-di-bella-bonus-track/">Barcelona (feat. Sara Di Bella) [Bonus Track]</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="39" data-id="73359925" data-mp3="https://storage.mp3cc.biz/listen/73359925/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONTM5ejlyaDdWQkNUQktBMVYxK0JjRVdTNFU5b1pHbjlsRUd1aGtHMFpnV0gxQ2ZPSmExU1dscmRNMTBqSjFjWTc/bohemian-rhapsody-fat-bottomed-girls_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359925-fat-bottomed-girls/" data-duration="215000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/73359925/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONTM5ejlyaDdWQkNUQktBMVYxK0JjRVdTNFU5b1pHbjlsRUd1aGtHMFpnV0gxQ2ZPSmExU1dscmRNMTBqSjFjWTc/bohemian-rhapsody-fat-bottomed-girls_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Fat Bottomed Girls (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:35</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359925-fat-bottomed-girls/">Fat Bottomed Girls</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="40" data-id="73359927" data-mp3="https://storage.mp3cc.biz/listen/73359927/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONU45Qkw5V0pDOUNZNExFMnZ2KzFqKy9STWpWYXhsQ3BERmZaU016WTNwbzFXKzg1RmdUNlV5Vi9sc2tYR3pIOWk/bohemian-rhapsody-tie-your-mother-down_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359927-tie-your-mother-down/" data-duration="230000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/73359927/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONU45Qkw5V0pDOUNZNExFMnZ2KzFqKy9STWpWYXhsQ3BERmZaU016WTNwbzFXKzg1RmdUNlV5Vi9sc2tYR3pIOWk/bohemian-rhapsody-tie-your-mother-down_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Tie Your Mother Down (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:50</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359927-tie-your-mother-down/">Tie Your Mother Down</a></em>
-			</h2>
-		</li>
-			<li class="playlist-ad" id="in_playlist_2Banner">
-			<div>
-				<iframe src="/api/iframe/in_playlist_2"></iframe>
-			</div>
-		</li>
-		
-		
-		<li class="track" data-index="41" data-id="73359929" data-mp3="https://storage.mp3cc.biz/listen/73359929/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONU5FbmwwaUdqejNIRm5Xbnc3V1ZtZ3d0akh5Y3FCWlJpK09IYk04b2hGVlRZOENRZUhxbU9TMjE5bmE3TFBxcU0/bohemian-rhapsody-killer-queen_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359929-killer-queen/" data-duration="186000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/73359929/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONU5FbmwwaUdqejNIRm5Xbnc3V1ZtZ3d0akh5Y3FCWlJpK09IYk04b2hGVlRZOENRZUhxbU9TMjE5bmE3TFBxcU0/bohemian-rhapsody-killer-queen_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Killer Queen (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/45928164/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bEdINnVrL1ROVlhBRE9jU2xNWE1XakFWNy81aGNINUxDMW12b2ZFZ1lqa05VcW9tRWYwSXFFcGVmeFU1L29Ucnc1U21xeTUwQnRqYWdDSzZsSUdkWi8/i-r-o-n-m-a-i-d-e-n-g-e-n-g-h-i-s-k-h-a-n_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="ÿþI r o n M a i d e n - ÿþG e n g h i s K h a n (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
@@ -1141,204 +145,1200 @@
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
+				<b><a href="/m/79558-i-r-o-n-m-a-i-d-e-n/">ÿþI r o n M a i d e n</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359929-killer-queen/">Killer Queen</a></em>
+				<em><a href="https://mp3cc.biz/m/79558-i-r-o-n-m-a-i-d-e-n/45928164-g-e-n-g-h-i-s-k-h-a-n/">ÿþG e n g h i s K h a n</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="42" data-id="73359930" data-mp3="https://storage.mp3cc.biz/listen/73359930/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONTRGTDUvSERGTWVUWUJ3Mzh0ZXpKTk82SjMxcnBNSzVIT2h5dHVLd1pGV1hSREIzUnVGbHcwdmJKNjJHUUg2dk4/bohemian-rhapsody-too-much-love-will-kill-you_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359930-too-much-love-will-kill-you/" data-duration="270000">
+		<li class="track" data-index="1" data-id="95087647" data-mp3="https://storage.mp3cc.biz/listen/95087647/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blJWN3g5QkliS2hjNk5CRVAxa0trQmRLQ2NUZWZML241WjBMWjlkZDhkcVluMTl6ci9QaFdkTTF0RGhrNW1Zajl6MEpiUStkcWpRTEZNcDlWVU1HYmU/h-i-r-u-r-g-h-i-r-u-r-g_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/16598134-h-i-r-u-r-g/95087647-h-i-r-u-r-g/" data-duration="31000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/73359930/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONTRGTDUvSERGTWVUWUJ3Mzh0ZXpKTk82SjMxcnBNSzVIT2h5dHVLd1pGV1hSREIzUnVGbHcwdmJKNjJHUUg2dk4/bohemian-rhapsody-too-much-love-will-kill-you_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Too Much Love Will Kill You (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/95087647/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blJWN3g5QkliS2hjNk5CRVAxa0trQmRLQ2NUZWZML241WjBMWjlkZDhkcVluMTl6ci9QaFdkTTF0RGhrNW1Zajl6MEpiUStkcWpRTEZNcDlWVU1HYmU/h-i-r-u-r-g-h-i-r-u-r-g_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="[►]☢H I R U R G☢ - [►]☢H I R U R G☢ (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">04:30</span>
+				<span class="playlist-duration">00:31</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
+				<b><a href="/m/16598134-h-i-r-u-r-g/">[►]☢H I R U R G☢</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359930-too-much-love-will-kill-you/">Too Much Love Will Kill You</a></em>
+				<em><a href="https://mp3cc.biz/m/16598134-h-i-r-u-r-g/95087647-h-i-r-u-r-g/">[►]☢H I R U R G☢</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="43" data-id="73359932" data-mp3="https://storage.mp3cc.biz/listen/73359932/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONU9MTmRaMlQ5cG80cWVPdWcwOWIzWTZmTUtUalhUWCtjSTVYWFQvWXRoM05QVDR6NXRpeDhNclU1WlJjS05VRHI/bohemian-rhapsody-no-one-but-you-feat.-ilenia-martinez-bonus-track_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359932-no-one-but-you-feat.-ilenia-martinez-bonus-track/" data-duration="326000">
+		<li class="track" data-index="2" data-id="10584969" data-mp3="https://storage.mp3cc.biz/listen/10584969/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0k3ak1GRVB4aTRYS0NVcEFERDhvaSs4d1JzWlhLWVF3SEY5L1JpYktqZkxNeXV1K0tVUnl2cjlaQkVNNUQyRWxzQzFQZVUvT3pMajYrUnVkWUl0RVY/o.n.e.-.j.a.z.z.-.b.a.n.d..-b.i.r.d.s.-.f.l.y.i.n.g.-.h.i.g.h.-.-.y.o.u-.kn.o.w.-.h.o.w.-.i.-.f.e.e.l.-.-.b.y.-.v.i.p.z.o.n.e._(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2130857-o.n.e.-.j.a.z.z.-.b.a.n.d../10584969-b.i.r.d.s.-.f.l.y.i.n.g.-.h.i.g.h.-.-.y.o.u-.kn.o.w.-.h.o.w.-.i.-.f.e.e.l.-.-.b.y.-.v.i.p.z.o.n.e./" data-duration="226000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/73359932/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONU9MTmRaMlQ5cG80cWVPdWcwOWIzWTZmTUtUalhUWCtjSTVYWFQvWXRoM05QVDR6NXRpeDhNclU1WlJjS05VRHI/bohemian-rhapsody-no-one-but-you-feat.-ilenia-martinez-bonus-track_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - No One But You (feat. Ilenia Martinez) [Bonus Track] (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/10584969/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0k3ak1GRVB4aTRYS0NVcEFERDhvaSs4d1JzWlhLWVF3SEY5L1JpYktqZkxNeXV1K0tVUnl2cjlaQkVNNUQyRWxzQzFQZVUvT3pMajYrUnVkWUl0RVY/o.n.e.-.j.a.z.z.-.b.a.n.d..-b.i.r.d.s.-.f.l.y.i.n.g.-.h.i.g.h.-.-.y.o.u-.kn.o.w.-.h.o.w.-.i.-.f.e.e.l.-.-.b.y.-.v.i.p.z.o.n.e._(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="O.n.e. .j.a.z.z. .b.a.n.d.. - B.i.r.d.s. .f.l.y.i.n.g. .h.i.g.h.,. .y.o.u .kn.o.w. .h.o.w. .I. .f.e.e.l. .(.b.y. .v.i.p.z.o.n.e.) (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">05:26</span>
+				<span class="playlist-duration">03:46</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
+				<b><a href="/m/2130857-o.n.e.-.j.a.z.z.-.b.a.n.d../">O.n.e. .j.a.z.z. .b.a.n.d..</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359932-no-one-but-you-feat.-ilenia-martinez-bonus-track/">No One But You (feat. Ilenia Martinez) [Bonus Track]</a></em>
+				<em><a href="https://mp3cc.biz/m/2130857-o.n.e.-.j.a.z.z.-.b.a.n.d../10584969-b.i.r.d.s.-.f.l.y.i.n.g.-.h.i.g.h.-.-.y.o.u-.kn.o.w.-.h.o.w.-.i.-.f.e.e.l.-.-.b.y.-.v.i.p.z.o.n.e./">B.i.r.d.s. .f.l.y.i.n.g. .h.i.g.h.,. .y.o.u .kn.o.w. .h.o.w. .I. .f.e.e.l. .(.b.y. .v.i.p.z.o.n.e.)</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="44" data-id="73359934" data-mp3="https://storage.mp3cc.biz/listen/73359934/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONWUrdWZkU0oxS0VCSlFrRzg3ZVByQzQ5WFViU0FIKzkrWkp4TXhVbDd3SmpFVThNOUQ1ek5UTzViRTdnaFYvVlA/bohemian-rhapsody-who-wants-to-live-forever_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359934-who-wants-to-live-forever/" data-duration="308000">
+		<li class="track" data-index="3" data-id="68381339" data-mp3="https://storage.mp3cc.biz/listen/68381339/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a2Z2VXBSZk54Rmc1QkhqWFpqSW9rUFJzUXhqcHoyTHJpbXBGcUJKUWtYazBoT00yc1F5NlE0T1lubHVEMnNMNk5QWEZCVzNvYVRaNlVZTUVhblF1ODI/hypocrisy-2009-a-taste-of-extreme-divinity-h-a-n-g-h-i-m-h-i-g-h_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/690537-hypocrisy-2009-a-taste-of-extreme-divinity/68381339-h-a-n-g-h-i-m-h-i-g-h/" data-duration="277000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/73359934/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkh1VzNTbzMzR2ozYzRmK2tWRjVONWUrdWZkU0oxS0VCSlFrRzg3ZVByQzQ5WFViU0FIKzkrWkp4TXhVbDd3SmpFVThNOUQ1ek5UTzViRTdnaFYvVlA/bohemian-rhapsody-who-wants-to-live-forever_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Who Wants to Live Forever (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/68381339/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a2Z2VXBSZk54Rmc1QkhqWFpqSW9rUFJzUXhqcHoyTHJpbXBGcUJKUWtYazBoT00yc1F5NlE0T1lubHVEMnNMNk5QWEZCVzNvYVRaNlVZTUVhblF1ODI/hypocrisy-2009-a-taste-of-extreme-divinity-h-a-n-g-h-i-m-h-i-g-h_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Hypocrisy [2009] A Taste Of Extreme Divinity - H a n g H i m H i g h (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">05:08</span>
+				<span class="playlist-duration">04:37</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
+				<b><a href="/m/690537-hypocrisy-2009-a-taste-of-extreme-divinity/">Hypocrisy [2009] A Taste Of Extreme Divinity</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/73359934-who-wants-to-live-forever/">Who Wants to Live Forever</a></em>
+				<em><a href="https://mp3cc.biz/m/690537-hypocrisy-2009-a-taste-of-extreme-divinity/68381339-h-a-n-g-h-i-m-h-i-g-h/">H a n g H i m H i g h</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="45" data-id="77206802" data-mp3="https://storage.mp3cc.biz/listen/77206802/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bW1aWmpoNlp5R0NkaGp0M3U3Uy9GbUczRWRNWE1FMlR5ZWh5VVcwRzJZUUNBOUJTNEVHQStuM0xtSjF5Uk9xaExEVEo4L0dnZDJZV2YzcmJyZXJkMkM/bohemian-rhapsody-don-t-stop-me-now_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/77206802-don-t-stop-me-now/" data-duration="211000">
+		<li class="track" data-index="4" data-id="12506236" data-mp3="https://storage.mp3cc.biz/listen/12506236/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bDByM1YvYzJqSlplbGFqWUg2SlF4cVZUbzZEUWI3VGdLMmlTc3Q1MGNsNEZ0ZnhrRDJzK0toaitkSEk2Z211bUltbEJhNWVyZnh1bnU2T3VCU0FSb1I/1-l-i-z-z-y-m-e-r-c-i-e-r-d-e-s-c-l-o-u-x-m-o-r-n-i-n-g-h-i-g-h_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/1640586-1-l-i-z-z-y-m-e-r-c-i-e-r-d-e-s-c-l-o-u-x/12506236-m-o-r-n-i-n-g-h-i-g-h/" data-duration="183000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/77206802/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bW1aWmpoNlp5R0NkaGp0M3U3Uy9GbUczRWRNWE1FMlR5ZWh5VVcwRzJZUUNBOUJTNEVHQStuM0xtSjF5Uk9xaExEVEo4L0dnZDJZV2YzcmJyZXJkMkM/bohemian-rhapsody-don-t-stop-me-now_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Don't Stop Me Now (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/12506236/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bDByM1YvYzJqSlplbGFqWUg2SlF4cVZUbzZEUWI3VGdLMmlTc3Q1MGNsNEZ0ZnhrRDJzK0toaitkSEk2Z211bUltbEJhNWVyZnh1bnU2T3VCU0FSb1I/1-l-i-z-z-y-m-e-r-c-i-e-r-d-e-s-c-l-o-u-x-m-o-r-n-i-n-g-h-i-g-h_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="1 ÿþL i z z y M e r c i e r D e s c l o u x - ÿþM o r n i n g H i g h (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">03:31</span>
+				<span class="playlist-duration">03:03</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
+				<b><a href="/m/1640586-1-l-i-z-z-y-m-e-r-c-i-e-r-d-e-s-c-l-o-u-x/">1 ÿþL i z z y M e r c i e r D e s c l o u x</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/77206802-don-t-stop-me-now/">Don't Stop Me Now</a></em>
+				<em><a href="https://mp3cc.biz/m/1640586-1-l-i-z-z-y-m-e-r-c-i-e-r-d-e-s-c-l-o-u-x/12506236-m-o-r-n-i-n-g-h-i-g-h/">ÿþM o r n i n g H i g h</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="46" data-id="78913948" data-mp3="https://storage.mp3cc.biz/listen/78913948/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkJLQWRVU1FxeWdSQ0VXVWxKcVFEMmR5WDJzRmpSK3FzSUM3Y3ZHa09JRFlMeGd2d29nNUNVaisxK1JVY2c3SjVsRENHK25ORGNWVm5ObXMyOXJvSnI/bohemian-rhapsody-queen-a-night-at-the-opera-1975-freddie-mercury-agp_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/78913948-queen-a-night-at-the-opera-1975-freddie-mercury-agp/" data-duration="354000">
+		<li class="track" data-index="5" data-id="47587896" data-mp3="https://storage.mp3cc.biz/listen/47587896/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bm1OZ01KRGhxaHVZVytUU2p5T2REVU1Mblc1N1IwbENjZFlqQnRKbndWWTRmY1VyRjBmRWV3a1QxOFE2cUJHZjVVMW9DRTBBaytzdDl2anJ2WUo5cHY/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-l-e-e-c-h_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/47587896-l-e-e-c-h/" data-duration="146000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/78913948/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkJLQWRVU1FxeWdSQ0VXVWxKcVFEMmR5WDJzRmpSK3FzSUM3Y3ZHa09JRFlMeGd2d29nNUNVaisxK1JVY2c3SjVsRENHK25ORGNWVm5ObXMyOXJvSnI/bohemian-rhapsody-queen-a-night-at-the-opera-1975-freddie-mercury-agp_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Queen (A Night At The Opera; 1975; Freddie Mercury; AGP) (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/47587896/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bm1OZ01KRGhxaHVZVytUU2p5T2REVU1Mblc1N1IwbENjZFlqQnRKbndWWTRmY1VyRjBmRWV3a1QxOFE2cUJHZjVVMW9DRTBBaytzdDl2anJ2WUo5cHY/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-l-e-e-c-h_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþL e e c h (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">05:54</span>
+				<span class="playlist-duration">02:26</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
+				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/78913948-queen-a-night-at-the-opera-1975-freddie-mercury-agp/">Queen (A Night At The Opera; 1975; Freddie Mercury; AGP)</a></em>
+				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/47587896-l-e-e-c-h/">ÿþL e e c h</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="47" data-id="81422703" data-mp3="https://storage.mp3cc.biz/listen/81422703/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVF3NEhVeExmR1RzRm1WQVljdS94S0dwU3hEV2NjQ05NRkdqNy9NSE1IeXNrTk9SVE0wRmYxd3NqZlpaZGEzczIwZ1VQL2JHK0NLRlIyS2daVk1jdUQ/bohemian-rhapsody-queen-1975-a-night-at-the-opera-freddie-mercury-agp-beat-maker-vakit_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/81422703-queen-1975-a-night-at-the-opera-freddie-mercury-agp-beat-maker-vakit/" data-duration="358000">
+		<li class="track" data-index="6" data-id="74222024" data-mp3="https://storage.mp3cc.biz/listen/74222024/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1R2bE9GVXZPQ0RyWWdJdndZczVBMlZOMG1tdkxQelVzTW8wSmRUOVUvMmFoUnVteWtnaUxXbW01dFJ5QkQwU0paamZBWEwzMGFLWmthaE5naEwvc24/j-a-h-k-h-a-l-i-b-s-g-h-i-g-a-y-a-d-o-t-l-a_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/1120620-j-a-h-k-h-a-l-i-b/74222024-s-g-h-i-g-a-y-a-d-o-t-l-a/" data-duration="224000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/81422703/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVF3NEhVeExmR1RzRm1WQVljdS94S0dwU3hEV2NjQ05NRkdqNy9NSE1IeXNrTk9SVE0wRmYxd3NqZlpaZGEzczIwZ1VQL2JHK0NLRlIyS2daVk1jdUQ/bohemian-rhapsody-queen-1975-a-night-at-the-opera-freddie-mercury-agp-beat-maker-vakit_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Queen 1975 A Night At The Opera Freddie Mercury AGP Beat Maker Vakit (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/74222024/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1R2bE9GVXZPQ0RyWWdJdndZczVBMlZOMG1tdkxQelVzTW8wSmRUOVUvMmFoUnVteWtnaUxXbW01dFJ5QkQwU0paamZBWEwzMGFLWmthaE5naEwvc24/j-a-h-k-h-a-l-i-b-s-g-h-i-g-a-y-a-d-o-t-l-a_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="J A H K H A L I B - S G H I G A Y A D O T L A (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">05:58</span>
+				<span class="playlist-duration">03:44</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
+				<b><a href="/m/1120620-j-a-h-k-h-a-l-i-b/">J A H K H A L I B</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/81422703-queen-1975-a-night-at-the-opera-freddie-mercury-agp-beat-maker-vakit/">Queen 1975 A Night At The Opera Freddie Mercury AGP Beat Maker Vakit</a></em>
+				<em><a href="https://mp3cc.biz/m/1120620-j-a-h-k-h-a-l-i-b/74222024-s-g-h-i-g-a-y-a-d-o-t-l-a/">S G H I G A Y A D O T L A</a></em>
 			</h2>
 		</li>
-	
-		<li class="track" data-index="48" data-id="82357086" data-mp3="https://storage.mp3cc.biz/listen/82357086/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVFPMmhWK29DL3pDeFhqbkZCY3BXay93YlhGbzI5ZXZGWGJYM0V2dzFzM0kxK2RZM0hzYTVFUjJPWktHQmlBOUZiN2oxOHBvSDlCSXhDWDZuVkRZZjg/bohemian-rhapsody-orchestral-2011-mix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/82357086-orchestral-2011-mix/" data-duration="398000">
+			<li class="playlist-ad" id="in_playlist_1Banner">
+			<div>
+				<iframe src="/api/iframe/in_playlist_1"></iframe>
+			</div>
+		</li>
+		
+		
+		<li class="track" data-index="7" data-id="40033943" data-mp3="https://storage.mp3cc.biz/listen/40033943/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bmIvUTczMGYxNUJST3o5OVFHZC9SRzduNjRpWDRUYWJXVVZaYnIvNWNzNDA4emhER2xvSHl6L1lacVN1QzBNVWlVSlBsbm9Dd2R3Qi9rMGxvNVhXMlU/s-a-d-s-o-n-g-h-i-g-h-f-l-y-i-n_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/8221679-s-a-d-s-o-n-g/40033943-h-i-g-h-f-l-y-i-n/" data-duration="254000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/82357086/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVFPMmhWK29DL3pDeFhqbkZCY3BXay93YlhGbzI5ZXZGWGJYM0V2dzFzM0kxK2RZM0hzYTVFUjJPWktHQmlBOUZiN2oxOHBvSDlCSXhDWDZuVkRZZjg/bohemian-rhapsody-orchestral-2011-mix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - (Orchestral 2011 Mix) (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/40033943/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bmIvUTczMGYxNUJST3o5OVFHZC9SRzduNjRpWDRUYWJXVVZaYnIvNWNzNDA4emhER2xvSHl6L1lacVN1QzBNVWlVSlBsbm9Dd2R3Qi9rMGxvNVhXMlU/s-a-d-s-o-n-g-h-i-g-h-f-l-y-i-n_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="s a d s o n g - H I G H F L Y I ` N (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">06:38</span>
+				<span class="playlist-duration">04:14</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
+				<b><a href="/m/8221679-s-a-d-s-o-n-g/">s a d s o n g</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/82357086-orchestral-2011-mix/">(Orchestral 2011 Mix)</a></em>
+				<em><a href="https://mp3cc.biz/m/8221679-s-a-d-s-o-n-g/40033943-h-i-g-h-f-l-y-i-n/">H I G H F L Y I ` N</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="49" data-id="84277072" data-mp3="https://storage.mp3cc.biz/listen/84277072/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bmwwbFE4MEpFTkk0akxuTjhyUVV3THpWYkphMGFzTzhxeTNFQzRNaWVKMmJkU0ttNDI0RVZZbjhGMG4rUE5mU29mTlhuOFpRaEhtTmdicWIwdG1GWi8/bohemian-rhapsody-panic-at-the-disco_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2875806-bohemian-rhapsody/84277072-panic-at-the-disco/" data-duration="363000">
+		<li class="track" data-index="8" data-id="51709686" data-mp3="https://storage.mp3cc.biz/listen/51709686/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0hCdGFHdWlFdDVBZjd6VVpQSnFKcmNkMDQ5aGl3dEhMQUcwb1p0UkY0TWwwY09vZG9mbHhiNmNQVXlVdHBMSVBHbW5XajBuUktJRERiTXRpTFhlZ2s/a-u-t-e-a-m-f-l-y-i-n-g-h-i-g-h_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/10290551-a-u-t-e-a-m/51709686-f-l-y-i-n-g-h-i-g-h/" data-duration="476000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/84277072/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bmwwbFE4MEpFTkk0akxuTjhyUVV3THpWYkphMGFzTzhxeTNFQzRNaWVKMmJkU0ttNDI0RVZZbjhGMG4rUE5mU29mTlhuOFpRaEhtTmdicWIwdG1GWi8/bohemian-rhapsody-panic-at-the-disco_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bohemian Rhapsody - Panic! At The Disco (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/51709686/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0hCdGFHdWlFdDVBZjd6VVpQSnFKcmNkMDQ5aGl3dEhMQUcwb1p0UkY0TWwwY09vZG9mbHhiNmNQVXlVdHBMSVBHbW5XajBuUktJRERiTXRpTFhlZ2s/a-u-t-e-a-m-f-l-y-i-n-g-h-i-g-h_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="A U T E A M - F L Y I N G H I G H (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">06:03</span>
+				<span class="playlist-duration">07:56</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/2875806-bohemian-rhapsody/">Bohemian Rhapsody</a></b>
+				<b><a href="/m/10290551-a-u-t-e-a-m/">A U T E A M</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2875806-bohemian-rhapsody/84277072-panic-at-the-disco/">Panic! At The Disco</a></em>
+				<em><a href="https://mp3cc.biz/m/10290551-a-u-t-e-a-m/51709686-f-l-y-i-n-g-h-i-g-h/">F L Y I N G H I G H</a></em>
 			</h2>
 		</li>
-	</ul><div class="ctr-listalka"><ul class="listalka" data-next-page="/search/f/bohemian+rhapsody/page/2/"><li class="listalka-arrow-back"><em>&larr;</em></li><li class="listalka-numbers"><em>1</em></li><li class="listalka-numbers"><a href="/search/f/bohemian+rhapsody/page/2/">2</a></li><li class="listalka-numbers"><a href="/search/f/bohemian+rhapsody/page/3/">3</a></li><li class="listalka-numbers"><a href="/search/f/bohemian+rhapsody/page/4/">4</a></li><li class="listalka-numbers"><a href="/search/f/bohemian+rhapsody/page/5/">5</a></li><li class="listalka-numbers"><a href="/search/f/bohemian+rhapsody/page/6/">6</a></li><li class="listalka-numbers"><i>...</i></li><li class="listalka-numbers"><a href="/search/f/bohemian+rhapsody/page/20/">20</a></li><li class="listalka-arrow-next"><a href="/search/f/bohemian+rhapsody/page/2/">&rarr;</a></li></ul></div>
+	
+		<li class="track" data-index="9" data-id="63630535" data-mp3="https://storage.mp3cc.biz/listen/63630535/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a2FnaDZuWWhWbHVvb1o5R2xpSVlHRUtuemh1ai85K1FuTmFMUWRpNXhWY1dkTUdBTllFcGROOTJ2b2FjOWpzNmZIKzlvZDdQUUJYR2JEZFlJRGhOZjI/a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/63630535-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/" data-duration="187000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/63630535/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a2FnaDZuWWhWbHVvb1o5R2xpSVlHRUtuemh1ai85K1FuTmFMUWRpNXhWY1dkTUdBTllFcGROOTJ2b2FjOWpzNmZIKzlvZDdQUUJYR2JEZFlJRGhOZjI/a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="A B C D E F G H I J K L M N O P Q R S T U V W X Y Z - A B C D E F G H I J K L M N O P Q R S T U V W X Y Z (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:07</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/63630535-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="10" data-id="68706063" data-mp3="https://storage.mp3cc.biz/listen/68706063/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1Jzd3ExUkFtYy9jY3pKZSswMHA4UTljMjNudUdBNVNaNXZyNTdHWE9vWDBsUGMwb0tOeTN2S213SGpwV2ZnY3BPb3Q3VnlQTnp3eGIrb283WHY3K1g/j.e.s.s.i.e-j-w.h.o-s-l.a.u.g.h.i.n.g.-n.o.w_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/6899531-j.e.s.s.i.e-j/68706063-w.h.o-s-l.a.u.g.h.i.n.g.-n.o.w/" data-duration="234000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/68706063/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1Jzd3ExUkFtYy9jY3pKZSswMHA4UTljMjNudUdBNVNaNXZyNTdHWE9vWDBsUGMwb0tOeTN2S213SGpwV2ZnY3BPb3Q3VnlQTnp3eGIrb283WHY3K1g/j.e.s.s.i.e-j-w.h.o-s-l.a.u.g.h.i.n.g.-n.o.w_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="J.e.s.s.i.e J - W.h.o's L.a.u.g.h.i.n.g. N.o.w (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:54</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/6899531-j.e.s.s.i.e-j/">J.e.s.s.i.e J</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/6899531-j.e.s.s.i.e-j/68706063-w.h.o-s-l.a.u.g.h.i.n.g.-n.o.w/">W.h.o's L.a.u.g.h.i.n.g. N.o.w</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="11" data-id="79879318" data-mp3="https://storage.mp3cc.biz/listen/79879318/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVc2YUhYSU1kOGZsNXRlQkF6QTh1T0huTlcwT2JmeFhCU2NmWnRXVWlKblZwZlMvUytOZk5KOHFMdzdDb0N4cHM3TzlTSTF1K2doZzU2R1Z2SzlCeHI/a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/79879318-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/" data-duration="241000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/79879318/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVc2YUhYSU1kOGZsNXRlQkF6QTh1T0huTlcwT2JmeFhCU2NmWnRXVWlKblZwZlMvUytOZk5KOHFMdzdDb0N4cHM3TzlTSTF1K2doZzU2R1Z2SzlCeHI/a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="A B C D E F G H I J K L M N O P Q R S T U V W X Y Z - A B C D E F G H I J K L M N O P Q R S T U V W X Y Z (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">04:01</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/79879318-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="12" data-id="79879319" data-mp3="https://storage.mp3cc.biz/listen/79879319/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVc2YUhYSU1kOGZsNXRlQkF6QTh1T0NhazhOVXlDaXdCWGIwRVdWbnMwME1YeERNcHp1Z0VhL1ZxRmNqd3V1cHZJWmR6cDVSWi9oMW5CMVVPOHBkeDQ/a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/79879319-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/" data-duration="163000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/79879319/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVc2YUhYSU1kOGZsNXRlQkF6QTh1T0NhazhOVXlDaXdCWGIwRVdWbnMwME1YeERNcHp1Z0VhL1ZxRmNqd3V1cHZJWmR6cDVSWi9oMW5CMVVPOHBkeDQ/a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="A B C D E F G H I J K L M N O P Q R S T U V W X Y Z - A B C D E F G H I J K L M N O P Q R S T U V W X Y Z (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">02:43</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/79879319-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="13" data-id="10724817" data-mp3="https://storage.mp3cc.biz/listen/10724817/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6azRpS1E4M3hjS24wcnNRU2VRNm5MNUpjbFhlclQzd0o1aGJkVWR5UnZmUGd1UXhqeklERHlPc1hWbEFsZlFpaW8xd0xFWmRlNXhjQ21zSkFQdzBTY3I/f-r-a-n-k-s-l-e-e-p-i-n-g-d-a-n-c-i-n-g-l-a-u-g-h-i-n-g_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/139231-f-r-a-n-k/10724817-s-l-e-e-p-i-n-g-d-a-n-c-i-n-g-l-a-u-g-h-i-n-g/" data-duration="380000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/10724817/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6azRpS1E4M3hjS24wcnNRU2VRNm5MNUpjbFhlclQzd0o1aGJkVWR5UnZmUGd1UXhqeklERHlPc1hWbEFsZlFpaW8xd0xFWmRlNXhjQ21zSkFQdzBTY3I/f-r-a-n-k-s-l-e-e-p-i-n-g-d-a-n-c-i-n-g-l-a-u-g-h-i-n-g_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="♔ F r a n K ♔ - s l e e p i n g , d a n c i n g , l a u g h i n g (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">06:20</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/139231-f-r-a-n-k/">♔ F r a n K ♔</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/139231-f-r-a-n-k/10724817-s-l-e-e-p-i-n-g-d-a-n-c-i-n-g-l-a-u-g-h-i-n-g/">s l e e p i n g , d a n c i n g , l a u g h i n g</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="14" data-id="123179184" data-mp3="https://storage.mp3cc.biz/listen/123179184/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a240dGF3RGhnSE10ejFoWVlmNGpZaTB6c3I1Zmo2MVU0TVFxYklOcTR3M3NRMEcvdHc3cTdtWUNyL0tEa0Rzd3ZYY3Bhd3NsQjl0V05EZTVaMmZSaHg/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-a-g-o-n-y_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/123179184-a-g-o-n-y/" data-duration="136000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/123179184/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a240dGF3RGhnSE10ejFoWVlmNGpZaTB6c3I1Zmo2MVU0TVFxYklOcTR3M3NRMEcvdHc3cTdtWUNyL0tEa0Rzd3ZYY3Bhd3NsQjl0V05EZTVaMmZSaHg/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-a-g-o-n-y_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþA g o n y (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">02:16</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/123179184-a-g-o-n-y/">ÿþA g o n y</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="15" data-id="124296227" data-mp3="https://storage.mp3cc.biz/listen/124296227/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bExaaEJuaFVnOVExU3FrcmZMWEhMcXp3SXJzME91R2E3T0o1MGNFMEc0N2Mwbm0ySjRob3ZBNWp3SlltT1BWcUl1dWcvYVkrbVphQS9DdzRDRnYvdXA/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-e-d-g-e_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/124296227-e-d-g-e/" data-duration="104000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/124296227/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bExaaEJuaFVnOVExU3FrcmZMWEhMcXp3SXJzME91R2E3T0o1MGNFMEc0N2Mwbm0ySjRob3ZBNWp3SlltT1BWcUl1dWcvYVkrbVphQS9DdzRDRnYvdXA/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-e-d-g-e_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþE d g e (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">01:44</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/124296227-e-d-g-e/">ÿþE d g e</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="16" data-id="48731471" data-mp3="https://storage.mp3cc.biz/listen/48731471/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bFZjRzJscGxlZ0JyMDFkT3EvQndNdDdKT0djS2c0V2N4M205QnpjRHZGanZ4WlVuN3JUSGltOVZFK0N2a2xTVEFQZmdEbGlValNuZHF0MXEyREt1dVg/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-w-i-l-l-o-w_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/48731471-w-i-l-l-o-w/" data-duration="69000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/48731471/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bFZjRzJscGxlZ0JyMDFkT3EvQndNdDdKT0djS2c0V2N4M205QnpjRHZGanZ4WlVuN3JUSGltOVZFK0N2a2xTVEFQZmdEbGlValNuZHF0MXEyREt1dVg/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-w-i-l-l-o-w_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþW i l l o w (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">01:09</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/48731471-w-i-l-l-o-w/">ÿþW i l l o w</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="17" data-id="55903714" data-mp3="https://storage.mp3cc.biz/listen/55903714/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bmVuTEZMTS9CWmtaZktDQ0ErRkhuTmt6TUdUb2FTQjE0VjNPVmdpbnpROFYrTis5aEdFUHA0MW5vUEprSXRHd3liQUQxZ1RNWWJEOGNtaDB5cGhud3o/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-r-e-q-u-i-e-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/55903714-r-e-q-u-i-e-m/" data-duration="90000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/55903714/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bmVuTEZMTS9CWmtaZktDQ0ErRkhuTmt6TUdUb2FTQjE0VjNPVmdpbnpROFYrTis5aEdFUHA0MW5vUEprSXRHd3liQUQxZ1RNWWJEOGNtaDB5cGhud3o/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-r-e-q-u-i-e-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþR e q u i e m (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">01:30</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/55903714-r-e-q-u-i-e-m/">ÿþR e q u i e m</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="18" data-id="66649324" data-mp3="https://storage.mp3cc.biz/listen/66649324/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0ErdUR2cXZxTTJIajVYN2owWjh4ZHRJYTZxZTk0K1lXR2lyTUU2clVoNFpyTXR3d2NRKzN3Y2dFZk13UXFQajUxcHIwRVYvQktMd3BtK1VEN0ZrVGM/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-c-o-n-d-u-i-t_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/66649324-c-o-n-d-u-i-t/" data-duration="64000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/66649324/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0ErdUR2cXZxTTJIajVYN2owWjh4ZHRJYTZxZTk0K1lXR2lyTUU2clVoNFpyTXR3d2NRKzN3Y2dFZk13UXFQajUxcHIwRVYvQktMd3BtK1VEN0ZrVGM/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-c-o-n-d-u-i-t_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþC o n d u i t (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">01:04</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/66649324-c-o-n-d-u-i-t/">ÿþC o n d u i t</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="19" data-id="90510179" data-mp3="https://storage.mp3cc.biz/listen/90510179/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bTZQb1hSNkF3QkVzUnB6VUVsbjhHazBERUYwRStBcDNvS0pZOFl1VTdOVXN5NzN6NHFWZkJ0aEJRcEp5V0lhUi9KTFJ1V2t1Z002alBUV09mM3NDeUU/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-v-o-i-d_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/90510179-v-o-i-d/" data-duration="106000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/90510179/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bTZQb1hSNkF3QkVzUnB6VUVsbjhHazBERUYwRStBcDNvS0pZOFl1VTdOVXN5NzN6NHFWZkJ0aEJRcEp5V0lhUi9KTFJ1V2t1Z002alBUV09mM3NDeUU/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-v-o-i-d_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþV o i d (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">01:46</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/90510179-v-o-i-d/">ÿþV o i d</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="20" data-id="38156350" data-mp3="https://storage.mp3cc.biz/listen/38156350/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bG1pQUJrRFptb3JHV1JCTW5OOExzSCtxZnZBdndGNzA5YTg1OXpTeFFUd0Y1OXdoVWMzS0IySUhXUFhKb2VFdUVRV3NDR1FYVTNDSmRmTmE4SVhLM0U/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-f-o-r-c-e-f-e-d_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/38156350-f-o-r-c-e-f-e-d/" data-duration="71000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/38156350/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bG1pQUJrRFptb3JHV1JCTW5OOExzSCtxZnZBdndGNzA5YTg1OXpTeFFUd0Y1OXdoVWMzS0IySUhXUFhKb2VFdUVRV3NDR1FYVTNDSmRmTmE4SVhLM0U/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-f-o-r-c-e-f-e-d_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþF o r c e - F e d (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">01:11</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/38156350-f-o-r-c-e-f-e-d/">ÿþF o r c e - F e d</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="21" data-id="45028083" data-mp3="https://storage.mp3cc.biz/listen/45028083/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bC9BY0Jzc2czUXdZZ1BkbHk0M0Uxak0yN1JuZzRNSjBkRWpZalA1UU96U3JtZm9qQ3YwZFRKMnFjVDJuamgxd2Y4cHg0WnVvcElRUDl1T0pBeUVoeE4/arch-enemy-a-c-e-s-h-i-g-h-i-r-o-n-m-a-i-d-e-n-c-o-v-e-r_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/67109-arch-enemy/45028083-a-c-e-s-h-i-g-h-i-r-o-n-m-a-i-d-e-n-c-o-v-e-r/" data-duration="264000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/45028083/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bC9BY0Jzc2czUXdZZ1BkbHk0M0Uxak0yN1JuZzRNSjBkRWpZalA1UU96U3JtZm9qQ3YwZFRKMnFjVDJuamgxd2Y4cHg0WnVvcElRUDl1T0pBeUVoeE4/arch-enemy-a-c-e-s-h-i-g-h-i-r-o-n-m-a-i-d-e-n-c-o-v-e-r_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Arch Enemy - ? ÿþA c e s H i g h [ I r o n M a i d e n C o v e r ] (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">04:24</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/67109-arch-enemy/">Arch Enemy</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/67109-arch-enemy/45028083-a-c-e-s-h-i-g-h-i-r-o-n-m-a-i-d-e-n-c-o-v-e-r/">? ÿþA c e s H i g h [ I r o n M a i d e n C o v e r ]</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="22" data-id="46199810" data-mp3="https://storage.mp3cc.biz/listen/46199810/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWowd0dNN2RKWXNCV01QVjNpZ2tDZ3lEbkJ2S081Y0szdlhQS1FDWWtqa2h3RGZ4bzJQRUxHcVdENUFHeGxVS2dIV05MR1ZBdTBLM1JpUWJJWk91K1c/nation-_-trap-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/9339320-nation-_-trap/46199810-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m/" data-duration="224000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/46199810/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWowd0dNN2RKWXNCV01QVjNpZ2tDZ3lEbkJ2S081Y0szdlhQS1FDWWtqa2h3RGZ4bzJQRUxHcVdENUFHeGxVS2dIV05MR1ZBdTBLM1JpUWJJWk91K1c/nation-_-trap-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Nation-_-TRAP - T R V P x M U S I C -C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:44</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/9339320-nation-_-trap/">Nation-_-TRAP</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/9339320-nation-_-trap/46199810-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m/">T R V P x M U S I C -C H O K I N G H I M</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="23" data-id="49135182" data-mp3="https://storage.mp3cc.biz/listen/49135182/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bklXNEFqYUNWVlVZZC9lQ1h5Z0tPZnV1dC80YWoyWWxocldVdnNlSmRKTTF1MkZjYzNvMXVuekorRDZoOUV5OFVkR2tNWmxnTGFKSDlmNGtBblNCU1Y/zd-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/45938-zd/49135182-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m/" data-duration="224000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/49135182/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bklXNEFqYUNWVlVZZC9lQ1h5Z0tPZnV1dC80YWoyWWxocldVdnNlSmRKTTF1MkZjYzNvMXVuekorRDZoOUV5OFVkR2tNWmxnTGFKSDlmNGtBblNCU1Y/zd-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="ZD⚡️ - T R V P x M U S I C -C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:44</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/45938-zd/">ZD⚡️</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/45938-zd/49135182-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m/">T R V P x M U S I C -C H O K I N G H I M</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="24" data-id="52236122" data-mp3="https://storage.mp3cc.biz/listen/52236122/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bW5JN3daSGsraGkxbFZyZkdUNlpBYUZCcjV0dU40UHpSU2lBdDlZeHZVVnNoRzJtTlBOL0RGdk9YdkFFL2tENGN2S3plWHhSU0JWdEtRcE04VTNRMDE/chagor-night-club-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/10170595-chagor-night-club/52236122-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m/" data-duration="224000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/52236122/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bW5JN3daSGsraGkxbFZyZkdUNlpBYUZCcjV0dU40UHpSU2lBdDlZeHZVVnNoRzJtTlBOL0RGdk9YdkFFL2tENGN2S3plWHhSU0JWdEtRcE04VTNRMDE/chagor-night-club-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="CHAGOR NIGHT CLUB - T R V P x M U S I C -C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:44</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/10170595-chagor-night-club/">CHAGOR NIGHT CLUB</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/10170595-chagor-night-club/52236122-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m/">T R V P x M U S I C -C H O K I N G H I M</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="25" data-id="59731171" data-mp3="https://storage.mp3cc.biz/listen/59731171/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bm5LYW51N3U5bEN6Q2RuUWpHU1pzMmpZVmhCYnFPbDYvcGZCemRHKzR6RnpsdDFib3YyRGZxTnpNWEM2WnJ0RjFFdXpidnBFL00zZERaUzBSSkovcDA/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-1-6-1_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/59731171-1-6-1/" data-duration="117000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/59731171/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bm5LYW51N3U5bEN6Q2RuUWpHU1pzMmpZVmhCYnFPbDYvcGZCemRHKzR6RnpsdDFib3YyRGZxTnpNWEM2WnJ0RjFFdXpidnBFL00zZERaUzBSSkovcDA/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-1-6-1_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþ1 6 1 (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">01:57</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/59731171-1-6-1/">ÿþ1 6 1</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="26" data-id="80532921" data-mp3="https://storage.mp3cc.biz/listen/80532921/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bTJIWTU3eVQ0dDNkb2xqVnJPbEVKRUxHaGx2eFFHOGFuaDFJTWZoNDhUVVAwUUkvV3JNVGVwV3cxWFd6MUJUMFd5c1ZVYlJZRE9uOHMzNU9ucjNCdlg/t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/293187-t-r-v-p-x-m-u-s-i-c/80532921-c-h-o-k-i-n-g-h-i-m/" data-duration="224000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/80532921/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bTJIWTU3eVQ0dDNkb2xqVnJPbEVKRUxHaGx2eFFHOGFuaDFJTWZoNDhUVVAwUUkvV3JNVGVwV3cxWFd6MUJUMFd5c1ZVYlJZRE9uOHMzNU9ucjNCdlg/t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="T R V P x M U S I C - C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:44</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/293187-t-r-v-p-x-m-u-s-i-c/">T R V P x M U S I C</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/293187-t-r-v-p-x-m-u-s-i-c/80532921-c-h-o-k-i-n-g-h-i-m/">C H O K I N G H I M</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="27" data-id="107595946" data-mp3="https://storage.mp3cc.biz/listen/107595946/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVd0UTlMNWF0SjQvbW1lU3J0MXhDYTNtajlSbXhHWWhlMEFyV25EakcxcGFSaG1QcU9FZHNENU1VeUVzSll3N3pGN05ydEJYQXhDaGJWU2YyTVFHdEg/t-r-v-pm-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/8936058-t-r-v-pm-u-s-i-c/107595946-c-h-o-k-i-n-g-h-i-m/" data-duration="224000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/107595946/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVd0UTlMNWF0SjQvbW1lU3J0MXhDYTNtajlSbXhHWWhlMEFyV25EakcxcGFSaG1QcU9FZHNENU1VeUVzSll3N3pGN05ydEJYQXhDaGJWU2YyTVFHdEg/t-r-v-pm-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="T R V PM U S I C - C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:44</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/8936058-t-r-v-pm-u-s-i-c/">T R V PM U S I C</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/8936058-t-r-v-pm-u-s-i-c/107595946-c-h-o-k-i-n-g-h-i-m/">C H O K I N G H I M</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="28" data-id="10540963" data-mp3="https://storage.mp3cc.biz/listen/10540963/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blZUSWkzNDlnaXp4M0VHTEk3OWRkaWl6T25DM1lBVm5FWXlFT2lpSzN3WkowTHdIYmZWOXlGUW52MXBMbFZZa1R3blUwVmpVbWtZTFJXZGQ2V3EwaDE/original-london-cast-b-r-i-n-g-h-i-m-h-o-m-e_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/222753-original-london-cast/10540963-b-r-i-n-g-h-i-m-h-o-m-e/" data-duration="207000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/10540963/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blZUSWkzNDlnaXp4M0VHTEk3OWRkaWl6T25DM1lBVm5FWXlFT2lpSzN3WkowTHdIYmZWOXlGUW52MXBMbFZZa1R3blUwVmpVbWtZTFJXZGQ2V3EwaDE/original-london-cast-b-r-i-n-g-h-i-m-h-o-m-e_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Original London Cast - B r i n g H i m H o m e (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:27</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/222753-original-london-cast/">Original London Cast</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/222753-original-london-cast/10540963-b-r-i-n-g-h-i-m-h-o-m-e/">B r i n g H i m H o m e</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="29" data-id="54876262" data-mp3="https://storage.mp3cc.biz/listen/54876262/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bDFZRFJ3U0YzQmdaTUdCajh0cGVQRVFqZERYZWZjWGZLMS9EUjR1eGZkWFJqeS9hVE1kdTMvanc2ZndJUDh3Sm1ScjFiQ2RWc2xoeDBOaUlNU2JrSm4/trap-music-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/19024-trap-music/54876262-c-h-o-k-i-n-g-h-i-m/" data-duration="224000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/54876262/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bDFZRFJ3U0YzQmdaTUdCajh0cGVQRVFqZERYZWZjWGZLMS9EUjR1eGZkWFJqeS9hVE1kdTMvanc2ZndJUDh3Sm1ScjFiQ2RWc2xoeDBOaUlNU2JrSm4/trap-music-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="▲TRAP✖MUSIC▼ - C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:44</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/19024-trap-music/">▲TRAP✖MUSIC▼</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/19024-trap-music/54876262-c-h-o-k-i-n-g-h-i-m/">C H O K I N G H I M</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="30" data-id="56892813" data-mp3="https://storage.mp3cc.biz/listen/56892813/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1N3bUx5Z0lmSjczTlU2OVd6VkxyeXhJSml6NjdzTDZURE41SjJHdzBzMXZsdEZZN1dvelVZN2w0TjVrY3hhZjN3UlY5UTB3WkhBR0xWNlJNUE5kZHI/fap-girls-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/8502477-fap-girls/56892813-c-h-o-k-i-n-g-h-i-m/" data-duration="224000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/56892813/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1N3bUx5Z0lmSjczTlU2OVd6VkxyeXhJSml6NjdzTDZURE41SjJHdzBzMXZsdEZZN1dvelVZN2w0TjVrY3hhZjN3UlY5UTB3WkhBR0xWNlJNUE5kZHI/fap-girls-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Fap Girls - C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:44</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/8502477-fap-girls/">Fap Girls</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/8502477-fap-girls/56892813-c-h-o-k-i-n-g-h-i-m/">C H O K I N G H I M</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="31" data-id="70031071" data-mp3="https://storage.mp3cc.biz/listen/70031071/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWRLaGh5L0pxNnVCUGVaMFE3UzhLVHU0Q1hQOWVFQnFIbmR2Z0UvUitEWHZKa0pDWGZnNHhPaUJMYmZFRFJkVFBJeTducnRBYnltZUNaUzd1bnFvVHQ/pvrtxcisum-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/13219450-pvrtxcisum/70031071-c-h-o-k-i-n-g-h-i-m/" data-duration="222000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/70031071/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWRLaGh5L0pxNnVCUGVaMFE3UzhLVHU0Q1hQOWVFQnFIbmR2Z0UvUitEWHZKa0pDWGZnNHhPaUJMYmZFRFJkVFBJeTducnRBYnltZUNaUzd1bnFvVHQ/pvrtxcisum-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="PVRTxCISUM - C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:42</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/13219450-pvrtxcisum/">PVRTxCISUM</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/13219450-pvrtxcisum/70031071-c-h-o-k-i-n-g-h-i-m/">C H O K I N G H I M</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="32" data-id="87871635" data-mp3="https://storage.mp3cc.biz/listen/87871635/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bEZjR3ZkNVh5Q2NSb3paT3dqNldycmNaMlFDc0pHKzEzUmFMbmp0MlViaktEUFdTTmtqMUhmT1YyeHlyNm9QRC83ZlQwdFFNZXFJNG5pLzZkU1BkU04/x-m-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/5986521-x-m/87871635-c-h-o-k-i-n-g-h-i-m/" data-duration="224000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/87871635/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bEZjR3ZkNVh5Q2NSb3paT3dqNldycmNaMlFDc0pHKzEzUmFMbmp0MlViaktEUFdTTmtqMUhmT1YyeHlyNm9QRC83ZlQwdFFNZXFJNG5pLzZkU1BkU04/x-m-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="x M - C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:44</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/5986521-x-m/">x M</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/5986521-x-m/87871635-c-h-o-k-i-n-g-h-i-m/">C H O K I N G H I M</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="33" data-id="43196271" data-mp3="https://storage.mp3cc.biz/listen/43196271/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bW5WVVNLRUhzc3ArYzZ4NXYxN0VyNHFpMnJURlYyYW52dzFubFphNlBPYVRLU2ovLzVRc1kwNkUrZkhJKzN5MGFPTGxkbm1WMlUyTDB3VFZxQUdWSlI/q-y-n-m-g-h-i-like-to-think-i-m-stronger-nowvictim-of-common-sensethe-truth-is-that-i-know-i-stillconfuse-the-pa_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/8810682-q-y-n-m-g-h/43196271-i-like-to-think-i-m-stronger-nowvictim-of-common-sensethe-truth-is-that-i-know-i-stillconfuse-the-pa/" data-duration="280000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/43196271/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bW5WVVNLRUhzc3ArYzZ4NXYxN0VyNHFpMnJURlYyYW52dzFubFphNlBPYVRLU2ovLzVRc1kwNkUrZkhJKzN5MGFPTGxkbm1WMlUyTDB3VFZxQUdWSlI/q-y-n-m-g-h-i-like-to-think-i-m-stronger-nowvictim-of-common-sensethe-truth-is-that-i-know-i-stillconfuse-the-pa_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Q Y N M G H - I like to think I'm stronger nowVictim of common senseThe truth is that I know I stillConfuse the pa (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">04:40</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/8810682-q-y-n-m-g-h/">Q Y N M G H</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/8810682-q-y-n-m-g-h/43196271-i-like-to-think-i-m-stronger-nowvictim-of-common-sensethe-truth-is-that-i-know-i-stillconfuse-the-pa/">I like to think I'm stronger nowVictim of common senseThe truth is that I know I stillConfuse the pa</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="34" data-id="46050883" data-mp3="https://storage.mp3cc.biz/listen/46050883/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bldGMzB4N3gyQ0dLMUV6UHRLRHl5RzNIdnFqS0pKMEZCdTdNeG1rS2RpZHpOeFZXcm9rSUkySFpSOVYxQ2lQL2RoTjZ4TDVNWHlOWGhUSzBUaHdxdEU/s-vi-iy-s-h-i-g-h-i_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/8044580-s-vi-iy/46050883-s-h-i-g-h-i/" data-duration="208000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/46050883/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bldGMzB4N3gyQ0dLMUV6UHRLRHl5RzNIdnFqS0pKMEZCdTdNeG1rS2RpZHpOeFZXcm9rSUkySFpSOVYxQ2lQL2RoTjZ4TDVNWHlOWGhUSzBUaHdxdEU/s-vi-iy-s-h-i-g-h-i_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="S∆VIŁIY∆ - S H ∆ И G H ∆ I (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:28</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/8044580-s-vi-iy/">S∆VIŁIY∆</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/8044580-s-vi-iy/46050883-s-h-i-g-h-i/">S H ∆ И G H ∆ I</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="35" data-id="10912043" data-mp3="https://storage.mp3cc.biz/listen/10912043/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a3ZpR2N1azlMWXBZeHJZeDR4Syt0Njc2QjdQcmgyb05mVkxPcWtqb3hRU1Z4NFpGVnVyc2o5Wmp5TDAzazh5UDdpekprMjhzaXFRMlFJTUdXSStPYUE/_-_-richard-wells-a-wonderful-thing-la-divina-commedia-di-d-a-n-t-e-a-l-i-g-h-i-e-r-i-damon-salvatore-_-__(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/746516-_-_-richard-wells/10912043-a-wonderful-thing-la-divina-commedia-di-d-a-n-t-e-a-l-i-g-h-i-e-r-i-damon-salvatore-_-_/" data-duration="142000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/10912043/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a3ZpR2N1azlMWXBZeHJZeDR4Syt0Njc2QjdQcmgyb05mVkxPcWtqb3hRU1Z4NFpGVnVyc2o5Wmp5TDAzazh5UDdpekprMjhzaXFRMlFJTUdXSStPYUE/_-_-richard-wells-a-wonderful-thing-la-divina-commedia-di-d-a-n-t-e-a-l-i-g-h-i-e-r-i-damon-salvatore-_-__(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="†_☜|☞_ † Richard Wells - A Wonderful Thing [La Divina Commedia di̶D̶a̶n̶t̶e̶ ̶A̶l̶i̶g̶h̶i̶e̶r̶i Damon Salvatore™ ® ©] †_☜|☞_  (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">02:22</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/746516-_-_-richard-wells/">†_☜|☞_ † Richard Wells</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/746516-_-_-richard-wells/10912043-a-wonderful-thing-la-divina-commedia-di-d-a-n-t-e-a-l-i-g-h-i-e-r-i-damon-salvatore-_-_/">A Wonderful Thing [La Divina Commedia di̶D̶a̶n̶t̶e̶ ̶A̶l̶i̶g̶h̶i̶e̶r̶i Damon Salvatore™ ® ©] †_☜|☞_ </a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="36" data-id="21420678" data-mp3="https://storage.mp3cc.biz/listen/21420678/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bjFUcThranlhQTZ5Tkx2ZllndkJ3ay9MSHJ4RDV0bnlkYTRud3BmWDY1VlFKQi9TUEM3b3F5THhXdHhvV0VpQXIvU3dNelM3WDFub1lxZXI1dGppY0I/_-_-la-divina-commedia-di-d-a-n-t-e-a-l-i-g-h-i-e-r-i-damon-salvatore-_-__(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2200898-_-_-la-divina-commedia/21420678-di-d-a-n-t-e-a-l-i-g-h-i-e-r-i-damon-salvatore-_-_/" data-duration="38000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/21420678/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bjFUcThranlhQTZ5Tkx2ZllndkJ3ay9MSHJ4RDV0bnlkYTRud3BmWDY1VlFKQi9TUEM3b3F5THhXdHhvV0VpQXIvU3dNelM3WDFub1lxZXI1dGppY0I/_-_-la-divina-commedia-di-d-a-n-t-e-a-l-i-g-h-i-e-r-i-damon-salvatore-_-__(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="†_☜|☞_ † La Divina Commedia - di̶D̶a̶n̶t̶e̶ ̶A̶l̶i̶g̶h̶i̶e̶r̶i Damon Salvatore™ ® © †_☜|☞_ † (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">00:38</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/2200898-_-_-la-divina-commedia/">†_☜|☞_ † La Divina Commedia</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/2200898-_-_-la-divina-commedia/21420678-di-d-a-n-t-e-a-l-i-g-h-i-e-r-i-damon-salvatore-_-_/">di̶D̶a̶n̶t̶e̶ ̶A̶l̶i̶g̶h̶i̶e̶r̶i Damon Salvatore™ ® © †_☜|☞_ †</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="37" data-id="31371248" data-mp3="https://storage.mp3cc.biz/listen/31371248/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bElkQ2QrVjcvQzQ2OUU0akdlUEYxNUtJTTNuNG0rYVJTVmd5SlRXS2R5L3hOcFBVMCtPZkxrQXZGcytvODcwelFudU1uanpNM3h0a0hkQTVxaUREckk/l-a-u-g-h-i-n-g-o-u-t-l-o-u-d-heart-on-fire_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/6524671-l-a-u-g-h-i-n-g-o-u-t-l-o-u-d/31371248-heart-on-fire/" data-duration="240000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/31371248/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bElkQ2QrVjcvQzQ2OUU0akdlUEYxNUtJTTNuNG0rYVJTVmd5SlRXS2R5L3hOcFBVMCtPZkxrQXZGcytvODcwelFudU1uanpNM3h0a0hkQTVxaUREckk/l-a-u-g-h-i-n-g-o-u-t-l-o-u-d-heart-on-fire_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="l a u g h i n g o u t l o u d - Heart On Fire (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">04:00</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/6524671-l-a-u-g-h-i-n-g-o-u-t-l-o-u-d/">l a u g h i n g o u t l o u d</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/6524671-l-a-u-g-h-i-n-g-o-u-t-l-o-u-d/31371248-heart-on-fire/">Heart On Fire</a></em>
+			</h2>
+		</li>
+			<li class="playlist-ad" id="in_playlist_2Banner">
+			<div>
+				<iframe src="/api/iframe/in_playlist_2"></iframe>
+			</div>
+		</li>
+		
+		
+		<li class="track" data-index="38" data-id="42903349" data-mp3="https://storage.mp3cc.biz/listen/42903349/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bnhuci9GQU9pTVdaVzNaODFUTFhrVXV3T21YMmVmWi8zcFdSUWlyVXFRZk1rQVNNbk92ZjVOUUx6RTFUUk5yeUp0T2pPQWtlTFhaakRXQTh1RFkxYW8/st.-vincent-l-a-u-g-h-i-n-g-with-a-mouth-full-of-blood_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/15968-st.-vincent/42903349-l-a-u-g-h-i-n-g-with-a-mouth-full-of-blood/" data-duration="181000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/42903349/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bnhuci9GQU9pTVdaVzNaODFUTFhrVXV3T21YMmVmWi8zcFdSUWlyVXFRZk1rQVNNbk92ZjVOUUx6RTFUUk5yeUp0T2pPQWtlTFhaakRXQTh1RFkxYW8/st.-vincent-l-a-u-g-h-i-n-g-with-a-mouth-full-of-blood_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="st. vincent - L A U G H I N G with a mouth full of blood (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:01</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/15968-st.-vincent/">st. vincent</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/15968-st.-vincent/42903349-l-a-u-g-h-i-n-g-with-a-mouth-full-of-blood/">L A U G H I N G with a mouth full of blood</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="39" data-id="287960" data-mp3="https://storage.mp3cc.biz/listen/287960/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bitKdHZUQ0JyMG1VUzZnaEtRcGhGajVGSnAzUkt1a1VTakp5TWtLRW5jMmx4U05rVEU3K1hac0xCckNqZWx1cjVsMU9vZlRUckcvOUowNWdiNThoSVM/abc-the-alphabet-song-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-and-z-now-i-know-my-abc-next-tim_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/79186-abc/287960-the-alphabet-song-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-and-z-now-i-know-my-abc-next-tim/" data-duration="92000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/287960/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bitKdHZUQ0JyMG1VUzZnaEtRcGhGajVGSnAzUkt1a1VTakp5TWtLRW5jMmx4U05rVEU3K1hac0xCckNqZWx1cjVsMU9vZlRUckcvOUowNWdiNThoSVM/abc-the-alphabet-song-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-and-z-now-i-know-my-abc-next-tim_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="ABC - The alphabet song A B C D E F G H I J K L M N O P Q R S T U V W X Y and Z Now I know my ABC Next tim (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">01:32</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/79186-abc/">ABC</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/79186-abc/287960-the-alphabet-song-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-and-z-now-i-know-my-abc-next-tim/">The alphabet song A B C D E F G H I J K L M N O P Q R S T U V W X Y and Z Now I know my ABC Next tim</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="40" data-id="15904585" data-mp3="https://storage.mp3cc.biz/listen/15904585/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVRLSjE2Sy9oQVVYWXBkK2h2a1dKdkRid2QyTi8wejU3aFFXN0RiRXp1SVQxbzBaQ1NiY3RZOUpBa1BnQXdML0xUWFVLUnoyNlZGMGRmMHpuVTFnSEI/d-r-b-r-o-w-s-i-n-g-h-i-s-t-o-r-y_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/293178-d-r/15904585-b-r-o-w-s-i-n-g-h-i-s-t-o-r-y/" data-duration="256000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/15904585/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVRLSjE2Sy9oQVVYWXBkK2h2a1dKdkRid2QyTi8wejU3aFFXN0RiRXp1SVQxbzBaQ1NiY3RZOUpBa1BnQXdML0xUWFVLUnoyNlZGMGRmMHpuVTFnSEI/d-r-b-r-o-w-s-i-n-g-h-i-s-t-o-r-y_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="D∑∆▲° R∆▼ǝ✝ - b r o w s i n g h i s t o r y (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">04:16</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/293178-d-r/">D∑∆▲° R∆▼ǝ✝</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/293178-d-r/15904585-b-r-o-w-s-i-n-g-h-i-s-t-o-r-y/">b r o w s i n g h i s t o r y</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="41" data-id="41780968" data-mp3="https://storage.mp3cc.biz/listen/41780968/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWFvM09POHpCMTZUM0Ywcjc3b0ptSTJlODlWZS9YNjlFcVdsbk02VG14RCtWYllrZlVNdCttczFTOUgvWkRNYXFtbjlra1VZTlUwRkF4RU1GTnRVWHA/m-v-l-a-m-b-o-r-g-h-i-n-i_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/1803916-m-v/41780968-l-a-m-b-o-r-g-h-i-n-i/" data-duration="279000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/41780968/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWFvM09POHpCMTZUM0Ywcjc3b0ptSTJlODlWZS9YNjlFcVdsbk02VG14RCtWYllrZlVNdCttczFTOUgvWkRNYXFtbjlra1VZTlUwRkF4RU1GTnRVWHA/m-v-l-a-m-b-o-r-g-h-i-n-i_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="▲M∀ŘVłŇ - L A M B O R G H I N I (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">04:39</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/1803916-m-v/">▲M∀ŘVłŇ</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/1803916-m-v/41780968-l-a-m-b-o-r-g-h-i-n-i/">L A M B O R G H I N I</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="42" data-id="44668134" data-mp3="https://storage.mp3cc.biz/listen/44668134/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkxOUmdDYkFKU05UOFJscHhwUUphVEpqNjlRRmFqdXNYV1o4NWVQNml0aUNURVlvUXVSYUt6akVZbjROSDZSNDVPenNLbVF1QnFIeUF5cndIdmpLV2Q/rambo-k-kutta-squirm-g-h.i.d.i._(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/8923953-rambo-k-kutta-squirm-g/44668134-h.i.d.i./" data-duration="196000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/44668134/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkxOUmdDYkFKU05UOFJscHhwUUphVEpqNjlRRmFqdXNYV1o4NWVQNml0aUNURVlvUXVSYUt6akVZbjROSDZSNDVPenNLbVF1QnFIeUF5cndIdmpLV2Q/rambo-k-kutta-squirm-g-h.i.d.i._(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Rambo K Kutta &amp; Squirm G - H.I.D.I. (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:16</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/8923953-rambo-k-kutta-squirm-g/">Rambo K Kutta &amp; Squirm G</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/8923953-rambo-k-kutta-squirm-g/44668134-h.i.d.i./">H.I.D.I.</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="43" data-id="47087110" data-mp3="https://storage.mp3cc.biz/listen/47087110/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bUpWcUNFbzVCeGdON1dkQ2pXdjVkMjNIZ3Rqb3VUeGJMS3drNzROZU1iL1pRN1dXZTVSYTJYRFV2bzhqMmdVTk9wcEI2bjJJL29UREdCcGpSZHNtOHY/a_m_e_d_e_o-m_i_n_g_h_i-ost-edera_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/9492596-a_m_e_d_e_o-m_i_n_g_h_i/47087110-ost-edera/" data-duration="238000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/47087110/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bUpWcUNFbzVCeGdON1dkQ2pXdjVkMjNIZ3Rqb3VUeGJMS3drNzROZU1iL1pRN1dXZTVSYTJYRFV2bzhqMmdVTk9wcEI2bjJJL29UREdCcGpSZHNtOHY/a_m_e_d_e_o-m_i_n_g_h_i-ost-edera_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="A_m_e_d_e_o M_i_n_g_h_i - (OST Эдера) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:58</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/9492596-a_m_e_d_e_o-m_i_n_g_h_i/">A_m_e_d_e_o M_i_n_g_h_i</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/9492596-a_m_e_d_e_o-m_i_n_g_h_i/47087110-ost-edera/">(OST Эдера)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="44" data-id="48301978" data-mp3="https://storage.mp3cc.biz/listen/48301978/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blJnUFI1T25jSDdJV0thK2U4M0E5K09hdGpIaFRXMEh1RXZBVjRXSDdwYkZDRDNhZGY4ZTZUZWJxeXpYMXRNUGxZclZnM00zTVNhOFZaTFBaWUttekk/voice-ask-g-h-i-b-l-i-so-privetstvie_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/9703652-voice-ask-g-h-i-b-l-i-so/48301978-privetstvie/" data-duration="35000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/48301978/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blJnUFI1T25jSDdJV0thK2U4M0E5K09hdGpIaFRXMEh1RXZBVjRXSDdwYkZDRDNhZGY4ZTZUZWJxeXpYMXRNUGxZclZnM00zTVNhOFZaTFBaWUttekk/voice-ask-g-h-i-b-l-i-so-privetstvie_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Voice Ask  [ G H I B L I ]|So - Приветствие (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">00:35</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/9703652-voice-ask-g-h-i-b-l-i-so/">Voice Ask  [ G H I B L I ]|So</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/9703652-voice-ask-g-h-i-b-l-i-so/48301978-privetstvie/">Приветствие</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="45" data-id="54473929" data-mp3="https://storage.mp3cc.biz/listen/54473929/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWw2Mlp1dFBTWFgrK1k5bkgrYlp5U2xQcnN0SFdWOUVTWWFCSVRlOVkvOERHSndORHZONFAvR1RpbzVHNUxxMDZaM0FwbWlvemtRa3hCYmlVSkRkUWM/voice-ask-g-h-i-b-l-i.-san-2_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/10773333-voice-ask-g-h-i-b-l-i./54473929-san-2/" data-duration="9000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/54473929/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWw2Mlp1dFBTWFgrK1k5bkgrYlp5U2xQcnN0SFdWOUVTWWFCSVRlOVkvOERHSndORHZONFAvR1RpbzVHNUxxMDZaM0FwbWlvemtRa3hCYmlVSkRkUWM/voice-ask-g-h-i-b-l-i.-san-2_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Voice Ask — G H I B L I. - Сан (2) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">00:09</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/10773333-voice-ask-g-h-i-b-l-i./">Voice Ask — G H I B L I.</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/10773333-voice-ask-g-h-i-b-l-i./54473929-san-2/">Сан (2)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="46" data-id="54473937" data-mp3="https://storage.mp3cc.biz/listen/54473937/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWw2Mlp1dFBTWFgrK1k5bkgrYlp5U1NrYWRTK2xIWXNDaS9kOWROeHJMYXl2Q21yREJJWnN4VkFwWTlScDlUOHBmM3U4MnBGZTBsYmZ4cm5OdE40Q24/voice-ask-g-h-i-b-l-i.-otvet-san-1_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/10773333-voice-ask-g-h-i-b-l-i./54473937-otvet-san-1/" data-duration="20000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/54473937/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWw2Mlp1dFBTWFgrK1k5bkgrYlp5U1NrYWRTK2xIWXNDaS9kOWROeHJMYXl2Q21yREJJWnN4VkFwWTlScDlUOHBmM3U4MnBGZTBsYmZ4cm5OdE40Q24/voice-ask-g-h-i-b-l-i.-otvet-san-1_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Voice Ask — G H I B L I. - Ответ Сан (1) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">00:20</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/10773333-voice-ask-g-h-i-b-l-i./">Voice Ask — G H I B L I.</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/10773333-voice-ask-g-h-i-b-l-i./54473937-otvet-san-1/">Ответ Сан (1)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="47" data-id="59297087" data-mp3="https://storage.mp3cc.biz/listen/59297087/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bFZxYWkxTTluSGtoS1FGZnhXenZoN3pWbWpJS0kxOHNwd2hYT0ZzZDFDb0hZckJXMHBDS0NlU0lSMUM3NDVqS3FReDdGd2pjcHppSjliSFk5WXVKT1Y/skrillex-rickross-p-u-r-p-l-e-l-a-m-b-o-r-g-h-i-n-i_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/11603020-skrillex-rickross/59297087-p-u-r-p-l-e-l-a-m-b-o-r-g-h-i-n-i/" data-duration="210000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/59297087/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bFZxYWkxTTluSGtoS1FGZnhXenZoN3pWbWpJS0kxOHNwd2hYT0ZzZDFDb0hZckJXMHBDS0NlU0lSMUM3NDVqS3FReDdGd2pjcHppSjliSFk5WXVKT1Y/skrillex-rickross-p-u-r-p-l-e-l-a-m-b-o-r-g-h-i-n-i_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="SKRILLEX RICKROSS - P U R P L E L A M B O R G H I N I (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:30</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/11603020-skrillex-rickross/">SKRILLEX RICKROSS</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/11603020-skrillex-rickross/59297087-p-u-r-p-l-e-l-a-m-b-o-r-g-h-i-n-i/">P U R P L E L A M B O R G H I N I</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="48" data-id="66143823" data-mp3="https://storage.mp3cc.biz/listen/66143823/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blhybTc4THNCKzlCdGtFaUFueU5TSlIrMm9KanBodFhhV0F5TzdCblhMZk9MejZVSEZ5Y0xoSmJnZXpBNm9jQ3hQVWlXTjkrNVYvMVJkME91RlMwMHU/vbots.ru-a-b-c-d-e-f-g-h-i-j-k-l-m-n-i-p-q-r-a-tic-jf-and-the-other-is-the-not-a_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/9617916-vbots.ru/66143823-a-b-c-d-e-f-g-h-i-j-k-l-m-n-i-p-q-r-a-tic-jf-and-the-other-is-the-not-a/" data-duration="6000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/66143823/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blhybTc4THNCKzlCdGtFaUFueU5TSlIrMm9KanBodFhhV0F5TzdCblhMZk9MejZVSEZ5Y0xoSmJnZXpBNm9jQ3hQVWlXTjkrNVYvMVJkME91RlMwMHU/vbots.ru-a-b-c-d-e-f-g-h-i-j-k-l-m-n-i-p-q-r-a-tic-jf-and-the-other-is-the-not-a_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="vbots.ru - a b c d e f g h I j k l m n I p q r a tic jf and the other is the not a (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">00:06</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/9617916-vbots.ru/">vbots.ru</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/9617916-vbots.ru/66143823-a-b-c-d-e-f-g-h-i-j-k-l-m-n-i-p-q-r-a-tic-jf-and-the-other-is-the-not-a/">a b c d e f g h I j k l m n I p q r a tic jf and the other is the not a</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="49" data-id="68362739" data-mp3="https://storage.mp3cc.biz/listen/68362739/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1Jrb0dnTTR2QnMzZWpNN1ZHRWFrd25heHVpdmViS2xESmxEeGhMWjNrT08wR200eGRrTWNLajlqb01XLzBUbTJMak5qNkhCMVFPUUNpdWxzVG5oS0w/b-l-o-w-p-u-r-l-el-a-m-b-o-r-g-h-i-n-i_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7640945-b-l-o-w/68362739-p-u-r-l-el-a-m-b-o-r-g-h-i-n-i/" data-duration="236000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/68362739/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1Jrb0dnTTR2QnMzZWpNN1ZHRWFrd25heHVpdmViS2xESmxEeGhMWjNrT08wR200eGRrTWNLajlqb01XLzBUbTJMak5qNkhCMVFPUUNpdWxzVG5oS0w/b-l-o-w-p-u-r-l-el-a-m-b-o-r-g-h-i-n-i_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="B L O W - P U R L EL A M B O R G H I N I (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:56</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/7640945-b-l-o-w/">B L O W</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/7640945-b-l-o-w/68362739-p-u-r-l-el-a-m-b-o-r-g-h-i-n-i/">P U R L EL A M B O R G H I N I</a></em>
+			</h2>
+		</li>
+	</ul><div class="ctr-listalka"><ul class="listalka" data-next-page="/search/f/g+h+i/page/2/"><li class="listalka-arrow-back"><em>&larr;</em></li><li class="listalka-numbers"><em>1</em></li><li class="listalka-numbers"><a href="/search/f/g+h+i/page/2/">2</a></li><li class="listalka-numbers"><a href="/search/f/g+h+i/page/3/">3</a></li><li class="listalka-numbers"><a href="/search/f/g+h+i/page/4/">4</a></li><li class="listalka-numbers"><a href="/search/f/g+h+i/page/5/">5</a></li><li class="listalka-numbers"><a href="/search/f/g+h+i/page/6/">6</a></li><li class="listalka-numbers"><i>...</i></li><li class="listalka-numbers"><a href="/search/f/g+h+i/page/20/">20</a></li><li class="listalka-arrow-next"><a href="/search/f/g+h+i/page/2/">&rarr;</a></li></ul></div>
 	</div>
 				
 			</div>
@@ -1429,7 +1429,7 @@
 							<div id="fixplayer-title"><span>
 								<b>mp3CC.biz</b>
 								<i>&ndash;</i>
-								<em>bohemian rhapsody</em>
+								<em>g h i</em>
 							</span></div>
 							<div id="fixplayer-notification"></div>
 						</div>
@@ -1463,4 +1463,4 @@
 		
 </body>
 </html>
-<!-- 0,026413; 0 (0); 4 (0,009984016418457); 0 (0). -->
+<!-- 0,015909; 0 (0); 3 (0,0051877498626709); 0 (0). -->
