@@ -39,7 +39,7 @@ songName = input('Name: ')                      ## Variable for Song Name
 mixName = input('Mix Name: ')                   ## Variable for Remix Name
 blankInput = str()                              ## String Variable for Blank Input
 
-## Program Input Section
+## Programm Input Section
 
 '''
 plusInput = '+'                                 ## Variable for a Plus [+]
@@ -86,9 +86,9 @@ with open('parse.txt', "wb") as lf:
 ## Parse Mp3-Link from Text-File
 
 with open('parse.txt', "r", encoding='UTF-8') as fp:
-    soup = BeautifulSoup(fp, 'html.parser')
-    link = soup.find(href=re.compile("download"))
-    try:
+        try:
+        soup = BeautifulSoup(fp, 'html.parser')
+        link = soup.find(href=re.compile("download"))
         file = link.get('href')
         print("Long URL => " + file + "\n")
     except:
