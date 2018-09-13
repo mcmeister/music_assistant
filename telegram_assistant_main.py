@@ -86,7 +86,7 @@ with open('parse.txt', "wb") as lf:
 ## Parse Mp3-Link from Text-File
 
 with open('parse.txt', "r", encoding='UTF-8') as fp:
-        try:
+    try:
         soup = BeautifulSoup(fp, 'html.parser')
         link = soup.find(href=re.compile("download"))
         file = link.get('href')
