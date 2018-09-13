@@ -79,21 +79,21 @@ url = 'https://mp3cc.biz/search/f/' + query + '/'
 ## Save Search Results to Text-File
 
 with open('parse.txt', "wb") as lf:
-  try:
-      response = requests.get(url, headers=headers, stream=True)
-      lf.write(response.content)
-      lf.close()
-  except:
-      pass
+    try:
+        response = requests.get(url, headers=headers, stream=True)
+        lf.write(response.content)
+        lf.close()
+    except:
+        pass
 
 ## Parse Mp3-Link from Text-File
 
 with open('parse.txt', "r", encoding='UTF-8') as fp:
-  try:
-      soup = BeautifulSoup(fp, 'html.parser')
-      link = soup.find(href=re.compile("download"))
-      file = link.get('href')
-      print("Long URL => " + file + "\n")
+    try:
+        soup = BeautifulSoup(fp, 'html.parser')
+        link = soup.find(href=re.compile("download"))
+        file = link.get('href')
+        print("Long URL => " + file + "\n")
     except:
         pass
 
