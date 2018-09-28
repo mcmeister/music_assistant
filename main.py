@@ -106,4 +106,4 @@ except:
     print("Downloaded: " + artistName + hyphenInput + songName)
     print("Uploaded to: " + chat_id)
 
-import delete_mp3
+import cleaner
