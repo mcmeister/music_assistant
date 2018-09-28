@@ -90,8 +90,8 @@ except HTTPConnectionPool(host='tinyurl.com', port=80) as e:
 try:
     mp3 = wget.download(shrink_url, out='/tmp/')
     print(mp3 + ' Downloaded!' + '\n')
-    chat_id = '@testing_now'
-    token = '658217975:AAEmtIoL3SX-Cf8budKCQHpd99BDNlEMnRg'
+    chat_id = '@my_id'
+    token = 'my_token'
     tb = telebot.TeleBot(token)
     user = tb.get_me()
     print(user)
