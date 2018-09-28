@@ -8,6 +8,15 @@ All done!
 09.09.2018 @ 18:09
 '''
 
+## Module Section
+
+import re
+import wget
+import telebot
+import requests
+from bs4 import BeautifulSoup
+from pyshorteners import Shortener
+
 ## Banner Section
 
 banner = '''
@@ -22,15 +31,6 @@ banner = '''
 --------------------------------------------------------------------------------------------------
 '''
 print(banner)
-
-## Module Section
-
-import re
-import wget
-import telebot
-import requests
-from bs4 import BeautifulSoup
-from pyshorteners import Shortener
 
 ## User Input Section
 
@@ -124,26 +124,22 @@ class shrinkApp(Shortener):
 
 ## Telegram Bot Section
 
-        TOKEN = '658217975:AAGpMceHLVj7M3PyJHXEMqIeqSDWzeT1E24'
+        TOKEN = 'MY_TOKEN'
         tb = telebot.TeleBot(TOKEN)
-        chat_id = '@testing_now'
+        chat_id = '@my_chat'
         audio = open(mp3, 'rb')
 
 ## Send Audio File to Telegram Channel
 
-        tb.send_message(chat_id, text='<i>Uploading New Music...</i>', parse_mode='HTML')
         print('Uploading File to Telegram Channel...' + "\n")
-
         tb.send_audio(chat_id, audio)
-
-        tb.send_message(chat_id, text='<b>Music Uploaded!</b>', parse_mode='HTML')
         print('File Uploaded!' + "\n")
 
 ## Send Message to Telegram Channel
 
         tb.send_message(chat_id, text=text, parse_mode='HTML')
 
-## Appropriate Text Message to Post After Upload Completed
+## Appropriate Text Message to Post After Upload
 
 if mixName == blankInput:
     text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName + codeClose)
@@ -157,4 +153,4 @@ app = shrinkApp()
 
 ## Delete Downloaded Mp3-File
 
-import delete_mp3
+import cleaner
