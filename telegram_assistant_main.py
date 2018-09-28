@@ -81,9 +81,13 @@ with open('parse.txt', 'r', encoding='UTF-8') as p:
     get_link = link.get('href')
 try:
     shorten = Shortener('Tinyurl')
+except HTTPConnectionPool(host='tinyurl.com', port=80) as e:
+  raise requests.exceptions.ReadTimeout
+  pass
     shrink_url = shorten.short(get_link)
     print('Downloading: ' + '(' + artistName + spaceInput + hyphenInput + spaceInput + songName + ')' +
           ' via Short URL => ' + shrink_url + '\n')
+try:
     mp3 = wget.download(shrink_url, out='/tmp/')
     print(mp3 + ' Downloaded!' + '\n')
     chat_id = '@testing_now'
@@ -92,15 +96,14 @@ try:
     user = tb.get_me()
     print(user)
     audio = open(mp3, 'rb')
-    tb.send_audio(chat_id, audio)
     print('Uploading File to Telegram Channel...\n')
+    tb.send_audio(chat_id, audio)
+except:
+  pass
     print('File Uploaded!\n')
     tb.send_message(chat_id, text)
-    print("Found: " + artistName + hyphenInput + songName + '\n')
-    print("Downloaded: " + artistName + hyphenInput + songName + '\n')
-    print("Uploaded to: " + chat_id + '\n')
-except HTTPConnectionPool(host='tinyurl.com', port=80) as e:
-    raise requests.exceptions.ReadTimeout
-    pass
+    print("Found: " + artistName + hyphenInput + songName)
+    print("Downloaded: " + artistName + hyphenInput + songName)
+    print("Uploaded to: " + chat_id)
 
 import delete_mp3
