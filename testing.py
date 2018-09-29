@@ -118,10 +118,18 @@ class shrinkApp(Shortener):
 
 ## Download Mp3-File with Tinyurl
 
+    try:
         print("Downloading File via Short URL => " + self.shrinkUrl + "\n")
         mp3 = wget.download(self.shrinkUrl, out='/temp/')
         print('File Downloaded!' + "\n")
-
+    except OSError as err:
+        print("OS error: {0}".format(err))
+    except ValueError:
+        print("Could not convert data to an integer.")
+    except:
+        print("Unexpected error:", sys.exc_info()[0])
+        raise
+    
 ## Telegram Bot Section
 
         TOKEN = 'MY_TOKEN'
@@ -131,10 +139,18 @@ class shrinkApp(Shortener):
 
 ## Send Audio File to Telegram Channel
 
+    try:
         print('Uploading File to Telegram Channel...' + "\n")
         tb.send_audio(chat_id, audio)
         print('File Uploaded!' + "\n")
-
+    except OSError as err:
+        print("OS error: {0}".format(err))
+    except ValueError:
+        print("Could not convert data to an integer.")
+    except:
+        print("Unexpected error:", sys.exc_info()[0])
+        raise
+        
 ## Send Message to Telegram Channel
 
         tb.send_message(chat_id, text=text, parse_mode='HTML')
