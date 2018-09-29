@@ -16,7 +16,6 @@ from bs4 import BeautifulSoup
 from pyshorteners import Shortener
 from requests.packages.urllib3 import HTTPConnectionPool
 
-
 banner = '''
 --------------------------------------------------------------------------------------------------
   __  __                 _                                   _         _                     _    
@@ -30,22 +29,27 @@ banner = '''
 '''
 print(banner + '\n')
 
+# UserInput
+
 artistName = input('Artist: ')  # Variable for Artist Name
 songName = input('Name: ')      # Variable for Song Name
 mixName = input('Mix Name: ')   # Variable for Remix Name
 blankInput = str()              # String Variable for Blank Input
 
+# ProgramInput
+
 '''
 plusInput = '+'                 # Variable for a Plus [+]
 underInput = '_'                # Variable for an Underscore [_]
 '''
-
 spaceInput = ' '                # Variable for a Space [ ]
 hyphenInput = '-'               # Variable for a Hyphen [-]
 codeOpen = '<code>'             # Variable for Text-Formatting
 codeClose = '</code>'           # Variable for Text-Formatting
 boldOpen = '<b>'                # Variable for Text-Formatting
 boldClose = '</b>'              # Variable for Text-Formatting
+
+# CuteQueries
 
 if mixName == blankInput:
     query = (artistName + spaceInput + songName)
@@ -62,12 +66,18 @@ else:
     text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName
             + spaceInput + '(' + mixName + ')' + codeClose)
 
+# ProxySoon
+
 headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:45.0) \
     Gecko/20100101 Firefox/45.0'
 }
 
+# SomeLink
+
 url = 'https://mp3cc.biz/search/f/' + query + '/'
+
+# MessBegins
 
 with open('parse.txt', 'wb') as lf:
     response = requests.get(url, headers=headers, stream=True)
@@ -105,5 +115,7 @@ except:
     print("Found: " + artistName + hyphenInput + songName)
     print("Downloaded: " + artistName + hyphenInput + songName)
     print("Uploaded to: " + chat_id)
+
+#MessCleans
 
 import cleaner
