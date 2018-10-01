@@ -15,7 +15,7 @@ import wget
 from bs4 import BeautifulSoup
 from pyshorteners import Shortener
 from requests.packages.urllib3 import HTTPConnectionPool
-
+from mp3_tagger import MP3File, VERSION_1, VERSION_2, VERSION_BOTH
 
 banner = '''
 --------------------------------------------------------------------------------------------------
@@ -30,22 +30,27 @@ banner = '''
 '''
 print(banner + '\n')
 
+# UserInput
+
 artistName = input('Artist: ')  # Variable for Artist Name
 songName = input('Name: ')      # Variable for Song Name
 mixName = input('Mix Name: ')   # Variable for Remix Name
 blankInput = str()              # String Variable for Blank Input
 
+# ProgramInput
+
 '''
 plusInput = '+'                 # Variable for a Plus [+]
 underInput = '_'                # Variable for an Underscore [_]
 '''
-
 spaceInput = ' '                # Variable for a Space [ ]
 hyphenInput = '-'               # Variable for a Hyphen [-]
 codeOpen = '<code>'             # Variable for Text-Formatting
 codeClose = '</code>'           # Variable for Text-Formatting
 boldOpen = '<b>'                # Variable for Text-Formatting
 boldClose = '</b>'              # Variable for Text-Formatting
+
+# CuteQueries
 
 if mixName == blankInput:
     query = (artistName + spaceInput + songName)
@@ -62,12 +67,18 @@ else:
     text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName
             + spaceInput + '(' + mixName + ')' + codeClose)
 
+# ProxySoon
+
 headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:45.0) \
     Gecko/20100101 Firefox/45.0'
 }
 
+# SomeLink
+
 url = 'https://mp3cc.biz/search/f/' + query + '/'
+
+# MessBegins
 
 with open('parse.txt', 'wb') as lf:
     response = requests.get(url, headers=headers, stream=True)
@@ -79,28 +90,50 @@ with open('parse.txt', 'r', encoding='UTF-8') as p:
     link = s.find(href=re.compile('download'))
     print(type(link))
     get_link = link.get('href')
+    
 try:
     shorten = Shortener('Tinyurl')
     shrink_url = shorten.short(get_link)
-    print('Downloading: ' + '(' + artistName + spaceInput + hyphenInput + spaceInput + songName + ')' +
-          ' via Short URL => ' + shrink_url + '\n')
+except HTTPConnectionPool(host='tinyurl.com', port=80) as e:
+  repeat
+else:
+  pass
+
+print('Downloading: ' + '(' + artistName + spaceInput + hyphenInput + spaceInput + songName + ')' +
+      ' via Short URL => ' + shrink_url + '\n')
+    
+try:
     mp3 = wget.download(shrink_url, out='/tmp/')
-    print(mp3 + ' Downloaded!' + '\n')
-    chat_id = '@testing_now'
-    token = '658217975:AAEmtIoL3SX-Cf8budKCQHpd99BDNlEMnRg'
+except:
+  pass
+
+print(mp3 + ' Downloaded!' + '\n')
+    tags = mp3.get_tags()
+    del tags
+    mp3.set_version(VERSION_BOTH)
+    mp3.artist = artistName
+    mp3.song = songName
+    mp3.album = mixName
+    mp3.save()
+    chat_id = '@my_id'
+    token = 'my_token'
     tb = telebot.TeleBot(token)
     user = tb.get_me()
-    print(user)
+print(user)
     audio = open(mp3, 'rb')
-    tb.send_audio(chat_id, audio)
-    print('Uploading File to Telegram Channel...\n')
-    print('File Uploaded!\n')
-    tb.send_message(chat_id, text)
-    print("Found: " + artistName + hyphenInput + songName + '\n')
-    print("Downloaded: " + artistName + hyphenInput + songName + '\n')
-    print("Uploaded to: " + chat_id + '\n')
-except HTTPConnectionPool(host='tinyurl.com', port=80) as e:
-    raise requests.exceptions.ReadTimeout
-    pass
+print('Uploading File to Telegram Channel...\n')
 
-import delete_mp3
+try:
+    tb.send_audio(chat_id, audio)
+except:
+  pass
+
+print('File Uploaded!\n')
+    tb.send_message(chat_id, text)
+print("Found: " + artistName + hyphenInput + songName)
+print("Downloaded: " + artistName + hyphenInput + songName)
+print("Uploaded to: " + chat_id)
+
+#MessCleans
+
+import cleaner
