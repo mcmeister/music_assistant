@@ -91,33 +91,21 @@ with open('parse.txt', 'r', encoding='UTF-8') as p:
     print(type(link))
     get_link = link.get('href')
     
-try:
-    shorten = Shortener('Tinyurl')
-    shrink_url = shorten.short(get_link)
-except HTTPConnectionPool(host='tinyurl.com', port=80) as e:
-  raise
-else:
-  pass
-
+shorten = Shortener('Tinyurl')
+shrink_url = shorten.short(get_link)
 print('Downloading: ' + '(' + artistName + spaceInput + hyphenInput + spaceInput + songName + ')' +
       ' via Short URL => ' + shrink_url + '\n')
-    
-try:
-    mp3 = wget.download(shrink_url, out='/tmp/')
-except:
-  pass
+file = wget.download(shrink_url, out='/tmp/')
+print(file + ' Downloaded!' + '\n')
 
-print(mp3 + ' Downloaded!' + '\n')
-
-tags = mp3.get_tags()
-del tags
+mp3 = MP3File(file)
 art = mp3.artist
 sng = mp3.song
 alb = mp3.album
 mp3.set_version(VERSION_BOTH)
 mp3.artist = artistName
 mp3.song = songName
-mp3.album = mixName
+mp3.album = 'Telegram'
 mp3.save()
 
 chat_id = '@my_id'
@@ -125,15 +113,12 @@ token = 'my_token'
 tb = telebot.TeleBot(token)
 user = tb.get_me()
 print(user)
-audio = open(mp3, 'rb')
+
+audio = open(file, 'rb')
 print('Uploading File to Telegram Channel...\n')
-
-try:
-    tb.send_audio(chat_id, audio)
-except:
-  pass
-
+tb.send_audio(chat_id, audio)
 print('File Uploaded!\n')
+
 tb.send_message(chat_id, text)
 print("Found: " + artistName + hyphenInput + songName)
 print("Downloaded: " + artistName + hyphenInput + songName)
