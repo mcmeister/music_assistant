@@ -2,8 +2,8 @@
 <html id="desktop" class="">
 <head>
 		<meta charset="utf-8" />
-		<title>coolio paradise | mp3 скачать бесплатно | Скачать бесплатно музыку, скачать mp3</title>
-		<meta name="description" content="Coolio - Paradise Coolio - paradise Coolio - Paradise Coolio - Paradise Coolio - Paradise Coolio - Paradise Coolio - paradise Coolio - Paradise Coolio - Paradise «Coolio - Paradise (Bombs Aw 1o4" />
+		<title>bassbin twins stone lions | mp3 скачать бесплатно | Скачать бесплатно музыку, скачать mp3</title>
+		<meta name="description" content="Bassbin Twins - Stone Lions - Snow Over Arizona Bassbin Twins vs. Marine Parade - Stone Lions - Snow Over Arizona (Bassbin Edit) Stone Lions - Snow Over Arizona (Bassbin Twins Edit) Stone Li lq1" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 		<link rel="search" type="application/opensearchdescription+xml" title="mp3CC.biz" href="/i/etc/opensearch.xml">
 		<link rel="dns-prefetch" href="//storage.mp3cc.biz">
@@ -11,8 +11,8 @@
 		<meta property="og:site_name" content="mp3CC.biz" />
 		<meta property="og:image" content="https://mp3cc.biz/i/img/site_prw0002.png" />
 		<meta property="og:type" content="music.song" />
-		<meta property="og:url" content="https://mp3cc.biz/search/f/coolio+paradise/" />
-		<meta property="og:title" content="coolio paradise" />
+		<meta property="og:url" content="https://mp3cc.biz/search/f/bassbin+twins+stone+lions/" />
+		<meta property="og:title" content="bassbin twins stone lions" />
 
 
 		<link rel="stylesheet" href="/i/css/_main_min.92db4fe7.css" />
@@ -21,7 +21,7 @@
 		<meta name="robots" content="noarchive" />
 		
 		
-		<link rel="next" href="https://mp3cc.biz/search/f/coolio+paradise/page/2/" />
+		
 		 
 				<script src="//cdn.sendpulse.com/9dae6d62c816560a842268bde2cd317d/js/push/ca0599be0f0d52aad4a0d91f0af373eb_1.js" async></script>
 		 
@@ -36,7 +36,7 @@
 		<!-- player-page-title -->
 		<div id="player-page-title" class="hidden">
 			<b>mp3CC.biz</b>
-			<span>coolio paradise</span>
+			<span>bassbin twins stone lions</span>
 		</div>
 		<!-- / player-page-title -->
 
@@ -70,7 +70,7 @@
 					
 						<form id="he-search" action="/api/search" method="post">
 							<div>
-								<input type="text" name="q" id="he-search-text" value="coolio paradise" placeholder="Поиск &mdash; введите название песни или исполнителя" />
+								<input type="text" name="q" id="he-search-text" value="bassbin twins stone lions" placeholder="Поиск &mdash; введите название песни или исполнителя" />
 								<input type="submit" id="he-search-submit" value="" />
 							
 								<a href="#" class="hidden" id="search-submitter"></a>
@@ -106,568 +106,34 @@
 				<aside id="xbody-content">
 										
 			<div class="xblock">
-				<h1 class="title">coolio paradise</h1>
+				<h1 class="title">bassbin twins stone lions</h1>
 				<div class="xblock-p">
 		<!-- == search_settings -->
 		<div class="search_settings">
 			<select name="mode" class="ajaxify_select_option_go">
-				<option value="f" data-url="/search/f/coolio+paradise/" selected="selected">поиск везде</option><option value="a" data-url="/search/a/coolio+paradise/">по исполнителю</option><option value="t" data-url="/search/t/coolio+paradise/">по названии песни</option>
+				<option value="f" data-url="/search/f/bassbin+twins+stone+lions/" selected="selected">поиск везде</option><option value="a" data-url="/search/a/bassbin+twins+stone+lions/">по исполнителю</option><option value="t" data-url="/search/t/bassbin+twins+stone+lions/">по названии песни</option>
 			</select>
 			
 			<label>
-				<input type="checkbox" id="search-filter-remix" data-url="/search/f/coolio+paradise/" />
+				<input type="checkbox" id="search-filter-remix" data-url="/search/f/bassbin+twins+stone+lions/" />
 				Скрыть копии\ремиксы и т.д.
 			</label>
 
 			<label>
-				<input type="checkbox" id="search-filter-strict" data-url="/search/f/coolio+paradise/" />
+				<input type="checkbox" id="search-filter-strict" data-url="/search/f/bassbin+twins+stone+lions/" />
 				Точный поиск
 			</label>
 		</div>
 		<!-- / == search_settings -->
 	
 		<ul class="playlist">
-		<li class="track" data-index="0" data-id="85651250" data-mp3="https://storage.mp3cc.biz/listen/85651250/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SXZHMmJFNWxOTXVpR2w5NU5tOGl1dXBvOFdjODZJMDdpNVRBa3NMN01RWUFXT2hnM1BzZjRQbndmNGNyYjlCWklkSzNSZjVDYmFqUFlyeVFiV2ZjYms/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/85651250-paradise/" data-duration="249000">
+		<li class="track" data-index="0" data-id="8072227" data-mp3="https://storage.mp3cc.biz/listen/8072227/dXhuZ09ZOURHWDBUdjMrYzFWM01WeFJVUHFoVnZSOG1pYWNTODJPaXlUSkVYcldHRkNpU1FUV3FSOTdvdHFnUEwxYTIrZldzcFBlT1VoYW1aY3hMaEhBZmVnVXR0NmNJaGt1a2hDU3J6WTNUNlJ4ejRONFVXNGdybVlpWXNhTE4/bassbin-twins-stone-lions-snow-over-arizona_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/275168-bassbin-twins/8072227-stone-lions-snow-over-arizona/" data-duration="217000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/85651250/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SXZHMmJFNWxOTXVpR2w5NU5tOGl1dXBvOFdjODZJMDdpNVRBa3NMN01RWUFXT2hnM1BzZjRQbndmNGNyYjlCWklkSzNSZjVDYmFqUFlyeVFiV2ZjYms/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:09</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/85651250-paradise/">Paradise</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="1" data-id="85830480" data-mp3="https://storage.mp3cc.biz/listen/85830480/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3YvYjhLaW05V2kyc01aS0tUeFVMTFlUQzJLT1Q4TC9LU1N2YjNJSFdxdUlsV3ZGUnRtTWJsNXBlWVlPb053R25iS003bXpVWjBtbUN0ZHFMQ2h0K0k/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/85830480-paradise/" data-duration="243000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/85830480/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3YvYjhLaW05V2kyc01aS0tUeFVMTFlUQzJLT1Q4TC9LU1N2YjNJSFdxdUlsV3ZGUnRtTWJsNXBlWVlPb053R25iS003bXpVWjBtbUN0ZHFMQ2h0K0k/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - paradise (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:03</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/85830480-paradise/">paradise</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="2" data-id="86410263" data-mp3="https://storage.mp3cc.biz/listen/86410263/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TGJFaVEra0lRaHZ6R3lUUjF1dEQxL3RseHhaY2FyYWhoSm9uU2dNb0QzR1BGYkJocCtrWXV3VHdsaTQ4K0lkWER3RUR0ajZHRVhkMEZNZWkwU2hjdFE/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/86410263-paradise/" data-duration="303000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/86410263/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TGJFaVEra0lRaHZ6R3lUUjF1dEQxL3RseHhaY2FyYWhoSm9uU2dNb0QzR1BGYkJocCtrWXV3VHdsaTQ4K0lkWER3RUR0ajZHRVhkMEZNZWkwU2hjdFE/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:03</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/86410263-paradise/">Paradise</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="3" data-id="87488028" data-mp3="https://storage.mp3cc.biz/listen/87488028/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SlJ3V1NFMW1zcmI3K2lIYVRiMm5hempsVnJ2SExmN3NGUzhWYURZQnVPNVRyV3N3UStuTHRtYzdsM1JscmQ5aEx3S0VWWG5ZenFNcEJIMDdlOW5qUng/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/87488028-paradise/" data-duration="247000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/87488028/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SlJ3V1NFMW1zcmI3K2lIYVRiMm5hempsVnJ2SExmN3NGUzhWYURZQnVPNVRyV3N3UStuTHRtYzdsM1JscmQ5aEx3S0VWWG5ZenFNcEJIMDdlOW5qUng/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:07</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/87488028-paradise/">Paradise</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="4" data-id="92404869" data-mp3="https://storage.mp3cc.biz/listen/92404869/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SUJyZmwzR0xwalhjRHowbGpGeEEyT1E2eUVZVEJFTHY5TEtENDIxaWI3VFlGM2R2b0IxNzA4U2JBWGg0clN2VHJrV0svMVlzc1FLZldDbkNtV29ZYnc/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/92404869-paradise/" data-duration="200000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/92404869/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SUJyZmwzR0xwalhjRHowbGpGeEEyT1E2eUVZVEJFTHY5TEtENDIxaWI3VFlGM2R2b0IxNzA4U2JBWGg0clN2VHJrV0svMVlzc1FLZldDbkNtV29ZYnc/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:20</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/92404869-paradise/">Paradise</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="5" data-id="93084145" data-mp3="https://storage.mp3cc.biz/listen/93084145/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SW1XaXJEekV3Ykd3NXZrbmt5TjBzWkdjcmNvOHBnZ3RHbEYzZktGa3g1R2hialkya1NMNCtLZ3ZHeitWRzREanQyV051TzhDNTY3TG03TFZUZm1xaEk/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/93084145-paradise/" data-duration="219000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/93084145/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SW1XaXJEekV3Ykd3NXZrbmt5TjBzWkdjcmNvOHBnZ3RHbEYzZktGa3g1R2hialkya1NMNCtLZ3ZHeitWRzREanQyV051TzhDNTY3TG03TFZUZm1xaEk/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:39</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/93084145-paradise/">Paradise</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="6" data-id="99513002" data-mp3="https://storage.mp3cc.biz/listen/99513002/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SnBTUXVLQ2tOK2xDUjNvWEJTR1luZVptdW5VaFN5ZTNXUUNRK3A1Si95ZkUzMDBCZk1wVVB2ZHJicjNQMUl5MDVna2REQ0h4NllWOS9OV3RoUDFtTW0/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/99513002-paradise/" data-duration="174000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/99513002/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SnBTUXVLQ2tOK2xDUjNvWEJTR1luZVptdW5VaFN5ZTNXUUNRK3A1Si95ZkUzMDBCZk1wVVB2ZHJicjNQMUl5MDVna2REQ0h4NllWOS9OV3RoUDFtTW0/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - paradise (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">02:54</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/99513002-paradise/">paradise</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="7" data-id="110470553" data-mp3="https://storage.mp3cc.biz/listen/110470553/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SUlyRXRsb3pta2lTUkdwdnVkWFVNdlBHTDRnZkRtVmVMaEN6R0xQWFhvUGYwNi9hQzVwQXBOYWFTUFNxQzUzcnRBZnRJM3JUWGhxLzRReEhsemhFaFo/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/110470553-paradise/" data-duration="252000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/110470553/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SUlyRXRsb3pta2lTUkdwdnVkWFVNdlBHTDRnZkRtVmVMaEN6R0xQWFhvUGYwNi9hQzVwQXBOYWFTUFNxQzUzcnRBZnRJM3JUWGhxLzRReEhsemhFaFo/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:12</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/110470553-paradise/">Paradise</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="8" data-id="111504826" data-mp3="https://storage.mp3cc.biz/listen/111504826/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S0ljL1grRDJDcTU4RkJOOEN1eHZuTUlLQ2FBUXNDTWU5aU15czhma1RjT2pXSkF4MHZQVGJlQkNaUU5MQVBsaUdBRUpTV1E0MmlndUc0RC85bzU2V0c/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/111504826-paradise/" data-duration="237000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/111504826/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S0ljL1grRDJDcTU4RkJOOEN1eHZuTUlLQ2FBUXNDTWU5aU15czhma1RjT2pXSkF4MHZQVGJlQkNaUU5MQVBsaUdBRUpTV1E0MmlndUc0RC85bzU2V0c/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:57</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/111504826-paradise/">Paradise</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="9" data-id="96922372" data-mp3="https://storage.mp3cc.biz/listen/96922372/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TFFwVU4waEYvL25jcXRvZ3Q1YUl0NCtJSDhoVEg3Q1Q2U3N3MmIralB0a1FzM2JUQmc1TksyRVdBL21sQ2t5V2RySVpERGdMd0lmUWNyYmhHaGhDaWk/coolio-paradise-bombs-away_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/96922372-paradise-bombs-away/" data-duration="200000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/96922372/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TFFwVU4waEYvL25jcXRvZ3Q1YUl0NCtJSDhoVEg3Q1Q2U3N3MmIralB0a1FzM2JUQmc1TksyRVdBL21sQ2t5V2RySVpERGdMd0lmUWNyYmhHaGhDaWk/coolio-paradise-bombs-away_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="«Coolio - Paradise (Bombs Away)» (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:20</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">«Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/96922372-paradise-bombs-away/">Paradise (Bombs Away)»</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="10" data-id="104095632" data-mp3="https://storage.mp3cc.biz/listen/104095632/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TGlJU0FlK0RVdUNyNWhHa3M3dlBmNjJFL0pQcTJWWkVldk9VSk1FUHlpUWtMZXY3Tm9XaGNRUEZoUEg3eis2L1RFakdPZFdFUU9aVWlCMmYrREZCU2Q/coolio-paradise-madbet-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/104095632-paradise-madbet-remix/" data-duration="327000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/104095632/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TGlJU0FlK0RVdUNyNWhHa3M3dlBmNjJFL0pQcTJWWkVldk9VSk1FUHlpUWtMZXY3Tm9XaGNRUEZoUEg3eis2L1RFakdPZFdFUU9aVWlCMmYrREZCU2Q/coolio-paradise-madbet-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise (MADBET Remix) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:27</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/104095632-paradise-madbet-remix/">Paradise (MADBET Remix)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="11" data-id="112856836" data-mp3="https://storage.mp3cc.biz/listen/112856836/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SWR4dWdsOStPbVQ1NFVmQU9oc1A5K0wyVTZNM2ZmZmZwZ2tSQ1p1NldWTkNNcWZycEJhdFFCdGMyU3dzSlFmSENiWjVrUUVDZG1LUWJWeG44V2t4Ni8/coolio-paradise-1995_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/112856836-paradise-1995/" data-duration="242000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/112856836/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SWR4dWdsOStPbVQ1NFVmQU9oc1A5K0wyVTZNM2ZmZmZwZ2tSQ1p1NldWTkNNcWZycEJhdFFCdGMyU3dzSlFmSENiWjVrUUVDZG1LUWJWeG44V2t4Ni8/coolio-paradise-1995_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise [1995] (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:02</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/112856836-paradise-1995/">Paradise [1995]</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="12" data-id="32592742" data-mp3="https://storage.mp3cc.biz/listen/32592742/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SnlhWGJnTU5OOCtjaDBYQldBZTYvb0hBb3RQTFhPVlBKTlI3WG5Za1FaVmxmVjY5WjQzR0E1MWdqR0lGODFjRnovWTZsVFZEQ3lQcEtsNWpJYW4xVHY/need-for-speed-cover-piano-coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/6785526-need-for-speed-cover-piano-coolio/32592742-paradise/" data-duration="50000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/32592742/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SnlhWGJnTU5OOCtjaDBYQldBZTYvb0hBb3RQTFhPVlBKTlI3WG5Za1FaVmxmVjY5WjQzR0E1MWdqR0lGODFjRnovWTZsVFZEQ3lQcEtsNWpJYW4xVHY/need-for-speed-cover-piano-coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Need For Speed (Cover piano) Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">00:50</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/6785526-need-for-speed-cover-piano-coolio/">Need For Speed (Cover piano) Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/6785526-need-for-speed-cover-piano-coolio/32592742-paradise/">Paradise</a></em>
-			</h2>
-		</li>
-			<li class="playlist-ad" id="in_playlist_1Banner">
-			<div>
-				<iframe src="/api/iframe/in_playlist_1"></iframe>
-			</div>
-		</li>
-		
-		
-		<li class="track" data-index="13" data-id="46266499" data-mp3="https://storage.mp3cc.biz/listen/46266499/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SkRRNEFYcXBHaTd4RWlEb25QZXhnMnpWQzdIZkpSdGlNdkJXcmFDSE8reTFlYWt0QmVIOEowNEdNdm91dG83dWUvRzB0ZHhiMVVrVExLNjJMV0hPckU/dj-asetin-and-coolio-paradise-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/9350676-dj-asetin-and-coolio/46266499-paradise-remix/" data-duration="196000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/46266499/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SkRRNEFYcXBHaTd4RWlEb25QZXhnMnpWQzdIZkpSdGlNdkJXcmFDSE8reTFlYWt0QmVIOEowNEdNdm91dG83dWUvRzB0ZHhiMVVrVExLNjJMV0hPckU/dj-asetin-and-coolio-paradise-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="DJ ASETIN and Coolio - Paradise (REMIX) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:16</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/9350676-dj-asetin-and-coolio/">DJ ASETIN and Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/9350676-dj-asetin-and-coolio/46266499-paradise-remix/">Paradise (REMIX)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="14" data-id="88947080" data-mp3="https://storage.mp3cc.biz/listen/88947080/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S1ZLbjduY3E5ZTdOYWd6bndtb1l3RWU2WVJPMUlERDBEVmNBTnJHYzZnU3VzRTAvdVRUdUlXVW5QdlcxMWhUTDRSbVNLS096Q2xVeStQVDQyY0VMVmE/cover-piano-coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/15830486-cover-piano-coolio/88947080-paradise/" data-duration="50000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/88947080/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S1ZLbjduY3E5ZTdOYWd6bndtb1l3RWU2WVJPMUlERDBEVmNBTnJHYzZnU3VzRTAvdVRUdUlXVW5QdlcxMWhUTDRSbVNLS096Q2xVeStQVDQyY0VMVmE/cover-piano-coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="(Cover piano) Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">00:50</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/15830486-cover-piano-coolio/">(Cover piano) Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/15830486-cover-piano-coolio/88947080-paradise/">Paradise</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="15" data-id="24856438" data-mp3="https://storage.mp3cc.biz/listen/24856438/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TEZJdkVza3JoVWtIVTVhTThuNXgxY3YrTlhKSUlZTnMrNzFaV3BTUzYzc05SY2R0NUtmakthQXArKzdVRUdKeUVaSzVkdXdQbldjTnRYOVpsODdaamo/coolio-gangster-s-paradise-eurodance-rave-remix-coolio-gangster-s-paradise-eurodance-rave-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/5084757-coolio-gangster-s-paradise-eurodance-rave-remix/24856438-coolio-gangster-s-paradise-eurodance-rave-remix/" data-duration="488000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/24856438/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TEZJdkVza3JoVWtIVTVhTThuNXgxY3YrTlhKSUlZTnMrNzFaV3BTUzYzc05SY2R0NUtmakthQXArKzdVRUdKeUVaSzVkdXdQbldjTnRYOVpsODdaamo/coolio-gangster-s-paradise-eurodance-rave-remix-coolio-gangster-s-paradise-eurodance-rave-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio-Gangster's Paradise(Eurodance Rave Remix) - Coolio-Gangster's Paradise(Eurodance Rave Remix) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">08:08</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/5084757-coolio-gangster-s-paradise-eurodance-rave-remix/">Coolio-Gangster's Paradise(Eurodance Rave Remix)</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/5084757-coolio-gangster-s-paradise-eurodance-rave-remix/24856438-coolio-gangster-s-paradise-eurodance-rave-remix/">Coolio-Gangster's Paradise(Eurodance Rave Remix)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="16" data-id="50261690" data-mp3="https://storage.mp3cc.biz/listen/50261690/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SXFFT2NudXRKUWtqYmx1Uk5YQjVsZG42blF1a3NDRk5PWXpoWTlqWkV5QVVtSWtCbkdETjNpdy81Z2hFQTY1cU5RSXN5ZHpLdzhPZkNMcWpDcHh3Zlk/coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-...-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-..._(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/10038565-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../50261690-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../" data-duration="167000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/50261690/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SXFFT2NudXRKUWtqYmx1Uk5YQjVsZG42blF1a3NDRk5PWXpoWTlqWkV5QVVtSWtCbkdETjNpdy81Z2hFQTY1cU5RSXN5ZHpLdzhPZkNMcWpDcHh3Zlk/coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-...-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-..._(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="COOLIO vs. KYLIAN MASH &amp; RICO BERNASCONI Gangsta's Paradise 2011 (Bernasconi ... - COOLIO vs. KYLIAN MASH &amp; RICO BERNASCONI Gangsta's Paradise 2011 (Bernasconi ... (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">02:47</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/10038565-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../">COOLIO vs. KYLIAN MASH &amp; RICO BERNASCONI Gangsta's Paradise 2011 (Bernasconi ...</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/10038565-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../50261690-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../">COOLIO vs. KYLIAN MASH &amp; RICO BERNASCONI Gangsta's Paradise 2011 (Bernasconi ...</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="17" data-id="85727762" data-mp3="https://storage.mp3cc.biz/listen/85727762/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TGc2eEZNZjhtbHl5QkJOYVc0WGV0dVlGdm1FZDR4eE03QVpuUk42aVA4MG5MUElRZTYwVXBBRXA0SFVNVC9GeGFnaXMvWitHeE5mRnExNXk1MXVjR04/coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-dj-amada-mash-up-sax-version_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/15448165-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise/85727762-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-dj-amada-mash-up-sax-version/" data-duration="197000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/85727762/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TGc2eEZNZjhtbHl5QkJOYVc0WGV0dVlGdm1FZDR4eE03QVpuUk42aVA4MG5MUElRZTYwVXBBRXA0SFVNVC9GeGFnaXMvWitHeE5mRnExNXk1MXVjR04/coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-dj-amada-mash-up-sax-version_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio Feat. DJ Pitchugin &amp; TPaul - Gangsta's Paradise - Coolio Feat. DJ Pitchugin &amp; TPaul - Gangsta's Paradise (DJ Amada Mash Up Sax Version) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:17</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/15448165-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise/">Coolio Feat. DJ Pitchugin &amp; TPaul - Gangsta's Paradise</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/15448165-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise/85727762-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-dj-amada-mash-up-sax-version/">Coolio Feat. DJ Pitchugin &amp; TPaul - Gangsta's Paradise (DJ Amada Mash Up Sax Version)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="18" data-id="87342044" data-mp3="https://storage.mp3cc.biz/listen/87342044/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5Sm5jUVFQVGREVmk0TW1NYkVqZjR2QlNKcnIvV2VkUFp1ckFYdkNkNXEvQlVQdnhDY3g5dTlKb0JZU1NhYlo2Yk1VYks5RlVERVNPS0RzdDlxWWZGMU4/coolio-gangsta-s-paradise-kulkid-remix-coolio-gangsta-s-paradise-kulkid-remix-revolution-radio_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/15633803-coolio-gangsta-s-paradise-kulkid-remix/87342044-coolio-gangsta-s-paradise-kulkid-remix-revolution-radio/" data-duration="334000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/87342044/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5Sm5jUVFQVGREVmk0TW1NYkVqZjR2QlNKcnIvV2VkUFp1ckFYdkNkNXEvQlVQdnhDY3g5dTlKb0JZU1NhYlo2Yk1VYks5RlVERVNPS0RzdDlxWWZGMU4/coolio-gangsta-s-paradise-kulkid-remix-coolio-gangsta-s-paradise-kulkid-remix-revolution-radio_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio – Gangsta's Paradise (Kulkid Remix) - Coolio – Gangsta's Paradise (Kulkid Remix) [Revolution Radio] (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:34</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/15633803-coolio-gangsta-s-paradise-kulkid-remix/">Coolio – Gangsta's Paradise (Kulkid Remix)</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/15633803-coolio-gangsta-s-paradise-kulkid-remix/87342044-coolio-gangsta-s-paradise-kulkid-remix-revolution-radio/">Coolio – Gangsta's Paradise (Kulkid Remix) [Revolution Radio]</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="19" data-id="88947073" data-mp3="https://storage.mp3cc.biz/listen/88947073/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SnF1dFNJbHdvUm9MWnNzUU5VbzdtM2FZZUwySUhMRG83MlRnSldTdkFXZEYraG16dloxY0NwVEt3bVRPUEdLYU1CT1RWN2NySWdJd3cxNGpha3AxTHY/coolio-feat.-l.-v.-gangsta-s-paradise-piano-coolio-feat.-l.-v.-gangsta-s-paradise-piano_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/15830484-coolio-feat.-l.-v.-gangsta-s-paradise-piano/88947073-coolio-feat.-l.-v.-gangsta-s-paradise-piano/" data-duration="297000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/88947073/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SnF1dFNJbHdvUm9MWnNzUU5VbzdtM2FZZUwySUhMRG83MlRnSldTdkFXZEYraG16dloxY0NwVEt3bVRPUEdLYU1CT1RWN2NySWdJd3cxNGpha3AxTHY/coolio-feat.-l.-v.-gangsta-s-paradise-piano-coolio-feat.-l.-v.-gangsta-s-paradise-piano_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio feat. L. V. – Gangsta s Paradise (Piano) - Coolio feat. L. V. – Gangsta s Paradise (Piano) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:57</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/15830484-coolio-feat.-l.-v.-gangsta-s-paradise-piano/">Coolio feat. L. V. – Gangsta s Paradise (Piano)</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/15830484-coolio-feat.-l.-v.-gangsta-s-paradise-piano/88947073-coolio-feat.-l.-v.-gangsta-s-paradise-piano/">Coolio feat. L. V. – Gangsta s Paradise (Piano)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="20" data-id="89083751" data-mp3="https://storage.mp3cc.biz/listen/89083751/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SmJTTHhlZ2hXZHpNSFd0cnQ2MVA2UnIwdkdQdGNEdUIyUnEvRDV0b0I2dmMrakpVVVUxeVd4V1Z5WDRXOThNTm1GUU51YUNHbGdFR3ExT2hCNlNTTkc/coolio-feat-l.v.-gangsta-s-paradise-coolio-feat-l.v.-gangsta-s-paradise-ost-krovyu-i-potom-anaboliki-2013-pain_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/60744-coolio-feat-l.v./89083751-gangsta-s-paradise-coolio-feat-l.v.-gangsta-s-paradise-ost-krovyu-i-potom-anaboliki-2013-pain/" data-duration="240000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/89083751/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SmJTTHhlZ2hXZHpNSFd0cnQ2MVA2UnIwdkdQdGNEdUIyUnEvRDV0b0I2dmMrakpVVVUxeVd4V1Z5WDRXOThNTm1GUU51YUNHbGdFR3ExT2hCNlNTTkc/coolio-feat-l.v.-gangsta-s-paradise-coolio-feat-l.v.-gangsta-s-paradise-ost-krovyu-i-potom-anaboliki-2013-pain_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio Feat L.v. - Gangsta's Paradise Coolio Feat L.v. - Gangsta's Paradise (OST Кровью и потом: Анаболики 2013 Pain &amp;  (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:00</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/60744-coolio-feat-l.v./">Coolio Feat L.v.</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/60744-coolio-feat-l.v./89083751-gangsta-s-paradise-coolio-feat-l.v.-gangsta-s-paradise-ost-krovyu-i-potom-anaboliki-2013-pain/">Gangsta's Paradise Coolio Feat L.v. - Gangsta's Paradise (OST Кровью и потом: Анаболики 2013 Pain &amp; </a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="21" data-id="93182305" data-mp3="https://storage.mp3cc.biz/listen/93182305/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SW1zbFg3RFFiRytZLzZVY3haRHpwMzVuNStkV1g5eWUyM0hGZlBtRlJLUXNXYWp4SHpmL09QZGVhUkpKOVE1VzhLdmlTdUFlSFp4M243R0xJdXFwTWc/coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com-coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/16355203-coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com/93182305-coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com/" data-duration="175000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/93182305/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SW1zbFg3RFFiRytZLzZVY3haRHpwMzVuNStkV1g5eWUyM0hGZlBtRlJLUXNXYWp4SHpmL09QZGVhUkpKOVE1VzhLdmlTdUFlSFp4M243R0xJdXFwTWc/coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com-coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio-Gangsta's Paradise Dj D twice extended mix (promodj.com) - Coolio-Gangsta's Paradise Dj D twice extended mix (promodj.com) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">02:55</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/16355203-coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com/">Coolio-Gangsta's Paradise Dj D twice extended mix (promodj.com)</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/16355203-coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com/93182305-coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com/">Coolio-Gangsta's Paradise Dj D twice extended mix (promodj.com)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="22" data-id="96664806" data-mp3="https://storage.mp3cc.biz/listen/96664806/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3JrSjczU3ZPY1FKRmQ5bERkK2JtSVhaNDNhOG15bEZxMkNZVlJycFpGOFEveUNUdTB5RTVWenQwam5ob3pmK2t5Z0REUVBxb096RXZaZjdib1lBWHM/coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-...-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-..._(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/10038565-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../96664806-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../" data-duration="217000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/96664806/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3JrSjczU3ZPY1FKRmQ5bERkK2JtSVhaNDNhOG15bEZxMkNZVlJycFpGOFEveUNUdTB5RTVWenQwam5ob3pmK2t5Z0REUVBxb096RXZaZjdib1lBWHM/coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-...-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-..._(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="COOLIO vs. KYLIAN MASH &amp; RICO BERNASCONI Gangsta's Paradise 2011 (Bernasconi ... - COOLIO vs. KYLIAN MASH &amp; RICO BERNASCONI Gangsta's Paradise 2011 (Bernasconi ... (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/8072227/dXhuZ09ZOURHWDBUdjMrYzFWM01WeFJVUHFoVnZSOG1pYWNTODJPaXlUSkVYcldHRkNpU1FUV3FSOTdvdHFnUEwxYTIrZldzcFBlT1VoYW1aY3hMaEhBZmVnVXR0NmNJaGt1a2hDU3J6WTNUNlJ4ejRONFVXNGdybVlpWXNhTE4/bassbin-twins-stone-lions-snow-over-arizona_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bassbin Twins - Stone Lions - Snow Over Arizona (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
@@ -679,67 +145,19 @@
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/10038565-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../">COOLIO vs. KYLIAN MASH &amp; RICO BERNASCONI Gangsta's Paradise 2011 (Bernasconi ...</a></b>
+				<b><a href="/m/275168-bassbin-twins/">Bassbin Twins</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/10038565-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../96664806-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../">COOLIO vs. KYLIAN MASH &amp; RICO BERNASCONI Gangsta's Paradise 2011 (Bernasconi ...</a></em>
+				<em><a href="https://mp3cc.biz/m/275168-bassbin-twins/8072227-stone-lions-snow-over-arizona/">Stone Lions - Snow Over Arizona</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="23" data-id="96664808" data-mp3="https://storage.mp3cc.biz/listen/96664808/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3JrSjczU3ZPY1FKRmQ5bERkK2JtSStKYlV3Z3BKNEJQYzRaVDdOaHNTdmVpTWgwcDlpK3FvU25iMnUraXBGQXNucmRVUTFReTBmYm9vdUpCUTRQMGk/coolio-vs-rico-bernasconi-gangsta-s-paradise-jake-cooper-remix-coolio-vs-rico-bernasconi-gangsta-s-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/16800807-coolio-vs-rico-bernasconi-gangsta-s-paradise-jake-cooper-remix/96664808-coolio-vs-rico-bernasconi-gangsta-s-paradise/" data-duration="387000">
+		<li class="track" data-index="1" data-id="38835076" data-mp3="https://storage.mp3cc.biz/listen/38835076/dXhuZ09ZOURHWDBUdjMrYzFWM01WeFJVUHFoVnZSOG1pYWNTODJPaXlUS3dPNTk4Z3VWMFo4ekJDUWZ5aC9TbWZidFFjSG9HYXVqdUhJdWhDRUxuemg0WnAvcWNQWUFhM0VpR2dCbUIrWnAxMTBZUmR0TndTdW9xY0oyL3V6c28/bassbin-twins-vs.-marine-parade-stone-lions-snow-over-arizona-bassbin-edit_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/588927-bassbin-twins-vs.-marine-parade/38835076-stone-lions-snow-over-arizona-bassbin-edit/" data-duration="217000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/96664808/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3JrSjczU3ZPY1FKRmQ5bERkK2JtSStKYlV3Z3BKNEJQYzRaVDdOaHNTdmVpTWgwcDlpK3FvU25iMnUraXBGQXNucmRVUTFReTBmYm9vdUpCUTRQMGk/coolio-vs-rico-bernasconi-gangsta-s-paradise-jake-cooper-remix-coolio-vs-rico-bernasconi-gangsta-s-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio vs Rico Bernasconi - Gangsta's Paradise (Jake &amp; Cooper Remix) - Coolio vs Rico Bernasconi - Gangsta's Paradise (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">06:27</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/16800807-coolio-vs-rico-bernasconi-gangsta-s-paradise-jake-cooper-remix/">Coolio vs Rico Bernasconi - Gangsta's Paradise (Jake &amp; Cooper Remix)</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/16800807-coolio-vs-rico-bernasconi-gangsta-s-paradise-jake-cooper-remix/96664808-coolio-vs-rico-bernasconi-gangsta-s-paradise/">Coolio vs Rico Bernasconi - Gangsta's Paradise</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="24" data-id="101714927" data-mp3="https://storage.mp3cc.biz/listen/101714927/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SlhrNTg5dWh0S1dwSkg5YlVVYllxYURmblMxZVpPNFhobkVqT1dmRnhNek9LazVMSDBYdTJTMy82KzVIaWk3ZElkUk9mN0xXREx6L0FaOGFuWFMrQUs/coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c-coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/17434140-coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c/101714927-coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c/" data-duration="200000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/101714927/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SlhrNTg5dWh0S1dwSkg5YlVVYllxYURmblMxZVpPNFhobkVqT1dmRnhNek9LazVMSDBYdTJTMy82KzVIaWk3ZElkUk9mN0xXREx6L0FaOGFuWFMrQUs/coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c-coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - ! Gangsters Paradise (Bombs Away Dubstep Remix)_ Electronic Music for c - Coolio - ! Gangsters Paradise (Bombs Away Dubstep Remix)_ Electronic Music for c (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:20</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/17434140-coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c/">Coolio - ! Gangsters Paradise (Bombs Away Dubstep Remix)_ Electronic Music for c</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/17434140-coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c/101714927-coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c/">Coolio - ! Gangsters Paradise (Bombs Away Dubstep Remix)_ Electronic Music for c</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="25" data-id="115261612" data-mp3="https://storage.mp3cc.biz/listen/115261612/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SldWamxSSlpNbDFiZlppVTlyK0FYMUhFUDN3ZFN2K2NCelhZamN6dU00YnlpbHNoZXN4bWpzK2pYUThGL1lMRmxBN1Y3UTQwMHY1ZGYxNFlUb2VIRVk/coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-.-coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-._(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/19374356-coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-./115261612-coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-./" data-duration="217000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/115261612/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SldWamxSSlpNbDFiZlppVTlyK0FYMUhFUDN3ZFN2K2NCelhZamN6dU00YnlpbHNoZXN4bWpzK2pYUThGL1lMRmxBN1Y3UTQwMHY1ZGYxNFlUb2VIRVk/coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-.-coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-._(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="COOLIO vs. KYLIAN MASH and RICO BERNASCONI Gangstas Paradise 2011 (Bernasconi . - COOLIO vs. KYLIAN MASH and RICO BERNASCONI Gangstas Paradise 2011 (Bernasconi . (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/38835076/dXhuZ09ZOURHWDBUdjMrYzFWM01WeFJVUHFoVnZSOG1pYWNTODJPaXlUS3dPNTk4Z3VWMFo4ekJDUWZ5aC9TbWZidFFjSG9HYXVqdUhJdWhDRUxuemg0WnAvcWNQWUFhM0VpR2dCbUIrWnAxMTBZUmR0TndTdW9xY0oyL3V6c28/bassbin-twins-vs.-marine-parade-stone-lions-snow-over-arizona-bassbin-edit_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bassbin Twins vs. Marine Parade - Stone Lions - Snow Over Arizona (Bassbin Edit) (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
@@ -751,594 +169,84 @@
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/19374356-coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-./">COOLIO vs. KYLIAN MASH and RICO BERNASCONI Gangstas Paradise 2011 (Bernasconi .</a></b>
+				<b><a href="/m/588927-bassbin-twins-vs.-marine-parade/">Bassbin Twins vs. Marine Parade</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/19374356-coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-./115261612-coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-./">COOLIO vs. KYLIAN MASH and RICO BERNASCONI Gangstas Paradise 2011 (Bernasconi .</a></em>
+				<em><a href="https://mp3cc.biz/m/588927-bassbin-twins-vs.-marine-parade/38835076-stone-lions-snow-over-arizona-bassbin-edit/">Stone Lions - Snow Over Arizona (Bassbin Edit)</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="26" data-id="115503404" data-mp3="https://storage.mp3cc.biz/listen/115503404/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S1BTc25rZTRSaFpwbDNNdUlIN1plOGxhRFNOMUdWNUlaVHpuZUJMN0NzVHJIQ2RvQ2J0Qi83d3FKYTJmSW55dWU3N3ZURFBMTmMwK1dNRmtDOWF4dEE/coolio-1995-gangsta_s-paradise-coolio-1995-gangsta_s-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/19411919-coolio-1995-gangsta_s-paradise/115503404-coolio-1995-gangsta_s-paradise/" data-duration="241000">
+		<li class="track" data-index="2" data-id="8072228" data-mp3="https://storage.mp3cc.biz/listen/8072228/dXhuZ09ZOURHWDBUdjMrYzFWM01WeFJVUHFoVnZSOG1pYWNTODJPaXlUSkVYcldHRkNpU1FUV3FSOTdvdHFnUHdsdHZHa1pjRi9OYS95anhOVE5GaGdVclE1ZjNPcHRNOEdvUEFNenFBQzhEMlZoc0lBNERmRFRkM0dHTjZYWWw/stone-lions-snow-over-arizona-bassbin-twins-edit_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/1605481-stone-lions/8072228-snow-over-arizona-bassbin-twins-edit/" data-duration="362000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/115503404/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S1BTc25rZTRSaFpwbDNNdUlIN1plOGxhRFNOMUdWNUlaVHpuZUJMN0NzVHJIQ2RvQ2J0Qi83d3FKYTJmSW55dWU3N3ZURFBMTmMwK1dNRmtDOWF4dEE/coolio-1995-gangsta_s-paradise-coolio-1995-gangsta_s-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio (1995) - Gangsta_s Paradise - Coolio (1995) - Gangsta_s Paradise (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/8072228/dXhuZ09ZOURHWDBUdjMrYzFWM01WeFJVUHFoVnZSOG1pYWNTODJPaXlUSkVYcldHRkNpU1FUV3FSOTdvdHFnUHdsdHZHa1pjRi9OYS95anhOVE5GaGdVclE1ZjNPcHRNOEdvUEFNenFBQzhEMlZoc0lBNERmRFRkM0dHTjZYWWw/stone-lions-snow-over-arizona-bassbin-twins-edit_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Stone Lions - Snow Over Arizona (Bassbin Twins Edit) (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">04:01</span>
+				<span class="playlist-duration">06:02</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/19411919-coolio-1995-gangsta_s-paradise/">Coolio (1995) - Gangsta_s Paradise</a></b>
+				<b><a href="/m/1605481-stone-lions/">Stone Lions</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/19411919-coolio-1995-gangsta_s-paradise/115503404-coolio-1995-gangsta_s-paradise/">Coolio (1995) - Gangsta_s Paradise</a></em>
+				<em><a href="https://mp3cc.biz/m/1605481-stone-lions/8072228-snow-over-arizona-bassbin-twins-edit/">Snow Over Arizona (Bassbin Twins Edit)</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="27" data-id="115699311" data-mp3="https://storage.mp3cc.biz/listen/115699311/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SUJseTJqMVNRR0I2WDJBYUFLSEdXU0plSC9pc05COWJVOXNxQ3V3WFVOa252ZHFTc0tYdTZUamlwMFRnVGVUdFpOWkt1WWx6ZmtxM3lralNWNnFtTzA/coolio-gangsta-s-paradise-feat.-l.v.-coolio-gangsta-s-paradise-feat.-l.v._(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/19444036-coolio-gangsta-s-paradise-feat.-l.v./115699311-coolio-gangsta-s-paradise-feat.-l.v./" data-duration="241000">
+		<li class="track" data-index="3" data-id="38835094" data-mp3="https://storage.mp3cc.biz/listen/38835094/dXhuZ09ZOURHWDBUdjMrYzFWM01WeFJVUHFoVnZSOG1pYWNTODJPaXlUS3dPNTk4Z3VWMFo4ekJDUWZ5aC9TbThYd3JudkgveGNsc20xdERNNmtJbGkxT1RRSjQ3c3BvNFdrS24zaXhJcXRHZDVmaGowRTVVS2VENWI3U2Y0ZUc/stone-lions-snow-over-arizona-bassbin-twins-edit_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/1605481-stone-lions/38835094-snow-over-arizona-bassbin-twins-edit/" data-duration="365000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/115699311/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SUJseTJqMVNRR0I2WDJBYUFLSEdXU0plSC9pc05COWJVOXNxQ3V3WFVOa252ZHFTc0tYdTZUamlwMFRnVGVUdFpOWkt1WWx6ZmtxM3lralNWNnFtTzA/coolio-gangsta-s-paradise-feat.-l.v.-coolio-gangsta-s-paradise-feat.-l.v._(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Gangsta's Paradise (feat. L.V.) - Coolio - Gangsta's Paradise (feat. L.V.) (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/38835094/dXhuZ09ZOURHWDBUdjMrYzFWM01WeFJVUHFoVnZSOG1pYWNTODJPaXlUS3dPNTk4Z3VWMFo4ekJDUWZ5aC9TbThYd3JudkgveGNsc20xdERNNmtJbGkxT1RRSjQ3c3BvNFdrS24zaXhJcXRHZDVmaGowRTVVS2VENWI3U2Y0ZUc/stone-lions-snow-over-arizona-bassbin-twins-edit_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Stone Lions - Snow Over Arizona - Bassbin Twins Edit (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">04:01</span>
+				<span class="playlist-duration">06:05</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/19444036-coolio-gangsta-s-paradise-feat.-l.v./">Coolio - Gangsta's Paradise (feat. L.V.)</a></b>
+				<b><a href="/m/1605481-stone-lions/">Stone Lions</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/19444036-coolio-gangsta-s-paradise-feat.-l.v./115699311-coolio-gangsta-s-paradise-feat.-l.v./">Coolio - Gangsta's Paradise (feat. L.V.)</a></em>
+				<em><a href="https://mp3cc.biz/m/1605481-stone-lions/38835094-snow-over-arizona-bassbin-twins-edit/">Snow Over Arizona - Bassbin Twins Edit</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="28" data-id="115903648" data-mp3="https://storage.mp3cc.biz/listen/115903648/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5Si9KeTNzV0RCeEdTWFF0ZG5HdzFsbCs0YnhiN1daUTFmVkJYWEo5UDRWNU1VUitUTDNDRHpzK1ZJR3grNXFaSmlvQUpwMEFJNU5qeG1SRTBlQ3ZOSUY/coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance-coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/19476783-coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance/115903648-coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance/" data-duration="270000">
+		<li class="track" data-index="4" data-id="82182816" data-mp3="https://storage.mp3cc.biz/listen/82182816/dXhuZ09ZOURHWDBUdjMrYzFWM01WeFJVUHFoVnZSOG1pYWNTODJPaXlUTGhJZFRYT2h6QmV6ZmZrYy94b0psRTZlOHhVaVY5bHJvOStuazh6Ykk2N3hqZndlaW9ab1g2MkEwYUVQZUFUSVY0QWYvOFl4WkJXT1ZoajlvUStLelk/stone-lions-snow-over-arizona-bassbin-twins-edit-marine-parade-catalog-mapacda006_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/1605481-stone-lions/82182816-snow-over-arizona-bassbin-twins-edit-marine-parade-catalog-mapacda006/" data-duration="362000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/115903648/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5Si9KeTNzV0RCeEdTWFF0ZG5HdzFsbCs0YnhiN1daUTFmVkJYWEo5UDRWNU1VUitUTDNDRHpzK1ZJR3grNXFaSmlvQUpwMEFJNU5qeG1SRTBlQ3ZOSUY/coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance-coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Gangsta Paradise (Cat DealersSimonetti Bootleg)GT-R Performance - Coolio - Gangsta Paradise (Cat DealersSimonetti Bootleg)GT-R Performance (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/82182816/dXhuZ09ZOURHWDBUdjMrYzFWM01WeFJVUHFoVnZSOG1pYWNTODJPaXlUTGhJZFRYT2h6QmV6ZmZrYy94b0psRTZlOHhVaVY5bHJvOStuazh6Ykk2N3hqZndlaW9ab1g2MkEwYUVQZUFUSVY0QWYvOFl4WkJXT1ZoajlvUStLelk/stone-lions-snow-over-arizona-bassbin-twins-edit-marine-parade-catalog-mapacda006_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Stone Lions - Snow Over Arizona (Bassbin Twins Edit)[Marine Parade CATALOG # MAPACDA006] (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">04:30</span>
+				<span class="playlist-duration">06:02</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/19476783-coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance/">Coolio - Gangsta Paradise (Cat DealersSimonetti Bootleg)GT-R Performance</a></b>
+				<b><a href="/m/1605481-stone-lions/">Stone Lions</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/19476783-coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance/115903648-coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance/">Coolio - Gangsta Paradise (Cat DealersSimonetti Bootleg)GT-R Performance</a></em>
+				<em><a href="https://mp3cc.biz/m/1605481-stone-lions/82182816-snow-over-arizona-bassbin-twins-edit-marine-parade-catalog-mapacda006/">Snow Over Arizona (Bassbin Twins Edit)[Marine Parade CATALOG # MAPACDA006]</a></em>
 			</h2>
 		</li>
-	
-		<li class="track" data-index="29" data-id="123798894" data-mp3="https://storage.mp3cc.biz/listen/123798894/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TGc2MjY4R0tHVndNVm9kS0p2ZUVkQ2lMdFRGenMyckd4bVgxdTk4WHJQemxDbVpMNmNkV1lRTC9CeG1rU010VzBQd1M4VjBCMjlwV1Y2Q0Q0cUFiNHE/coolio-gangsta-s-paradise-candyland-s-og-remix-hd-dl-coolio-gangsta-s-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/8530362-coolio-gangsta-s-paradise-candyland-s-og-remix-hd-dl/123798894-coolio-gangsta-s-paradise/" data-duration="173000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/123798894/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TGc2MjY4R0tHVndNVm9kS0p2ZUVkQ2lMdFRGenMyckd4bVgxdTk4WHJQemxDbVpMNmNkV1lRTC9CeG1rU010VzBQd1M4VjBCMjlwV1Y2Q0Q0cUFiNHE/coolio-gangsta-s-paradise-candyland-s-og-remix-hd-dl-coolio-gangsta-s-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Gangsta's Paradise (Candyland's OG Remix) [HD] (DL) - Coolio - Gangsta's Paradise (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">02:53</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/8530362-coolio-gangsta-s-paradise-candyland-s-og-remix-hd-dl/">Coolio - Gangsta's Paradise (Candyland's OG Remix) [HD] (DL)</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/8530362-coolio-gangsta-s-paradise-candyland-s-og-remix-hd-dl/123798894-coolio-gangsta-s-paradise/">Coolio - Gangsta's Paradise</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="30" data-id="125758608" data-mp3="https://storage.mp3cc.biz/listen/125758608/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SkxoMHFhbE9oRTQ0cnBBYkVkdDI2SzF4UUxMemxEWGx6ZEJ5UTlCUi9PbHJTcGkxQWRia0pSTzdpOTlzclcrSkdWZnNoVlNwQ3lWM3NGV29KKy9zcHo/coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix-coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/20861378-coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix/125758608-coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix/" data-duration="371000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/125758608/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SkxoMHFhbE9oRTQ0cnBBYkVkdDI2SzF4UUxMemxEWGx6ZEJ5UTlCUi9PbHJTcGkxQWRia0pSTzdpOTlzclcrSkdWZnNoVlNwQ3lWM3NGV29KKy9zcHo/coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix-coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Gangstas Paradise (Rico Bernasconi And Max Farenthide Remix) - Coolio - Gangstas Paradise (Rico Bernasconi And Max Farenthide Remix) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">06:11</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/20861378-coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix/">Coolio - Gangstas Paradise (Rico Bernasconi And Max Farenthide Remix)</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/20861378-coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix/125758608-coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix/">Coolio - Gangstas Paradise (Rico Bernasconi And Max Farenthide Remix)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="31" data-id="116484738" data-mp3="https://storage.mp3cc.biz/listen/116484738/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SlFJdEx4ZC9LMFpDU1hQUmQvYmxEWTVQcDhHWFZZWXZCQUMxbHdhbTNvMTlBRzIrUWJCR20rNHJXUEI5T0d2YXc2R2tDNGhTMWY5cllBY1p1Nndqdmg/coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mas-gangsta-s-paradise-2010-coolio-vs.-kylian-mash-rico-bernasconi_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/19568195-coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mas/116484738-gangsta-s-paradise-2010-coolio-vs.-kylian-mash-rico-bernasconi/" data-duration="223000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/116484738/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SlFJdEx4ZC9LMFpDU1hQUmQvYmxEWTVQcDhHWFZZWXZCQUMxbHdhbTNvMTlBRzIrUWJCR20rNHJXUEI5T0d2YXc2R2tDNGhTMWY5cllBY1p1Nndqdmg/coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mas-gangsta-s-paradise-2010-coolio-vs.-kylian-mash-rico-bernasconi_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio vs Kylian Mash &amp; Rico Bernasconi,Coolio vs Kylian Mash &amp; Rico Bernasconi,Coolio vs Kylian Mas - Gangsta's Paradise 2010 (Coolio vs. Kylian Mash &amp; Rico Bernasconi) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:43</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/19568195-coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mas/">Coolio vs Kylian Mash &amp; Rico Bernasconi,Coolio vs Kylian Mash &amp; Rico Bernasconi,Coolio vs Kylian Mas</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/19568195-coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mas/116484738-gangsta-s-paradise-2010-coolio-vs.-kylian-mash-rico-bernasconi/">Gangsta's Paradise 2010 (Coolio vs. Kylian Mash &amp; Rico Bernasconi)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="32" data-id="218350" data-mp3="https://storage.mp3cc.biz/listen/218350/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TDdWamMrWnFwU3JIK2JxRm1uNWE4R3dmTXVDYzdmMGhla3duSG93V3BVOE9Ja2srYnl1ZHNBVWpYaTJrMUZYY2Y1c0JzdFBqVG1tM0tuZGtWZ0JBN1I/coolio-bombs-away-coolio-gangsters-paradise-dubstep-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/60753-coolio-bombs-away/218350-coolio-gangsters-paradise-dubstep-remix/" data-duration="28000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/218350/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TDdWamMrWnFwU3JIK2JxRm1uNWE4R3dmTXVDYzdmMGhla3duSG93V3BVOE9Ja2srYnl1ZHNBVWpYaTJrMUZYY2Y1c0JzdFBqVG1tM0tuZGtWZ0JBN1I/coolio-bombs-away-coolio-gangsters-paradise-dubstep-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio &amp; Bombs Away - Coolio Gangsters Paradise (Dubstep Remix) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">00:28</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/60753-coolio-bombs-away/">Coolio &amp; Bombs Away</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/60753-coolio-bombs-away/218350-coolio-gangsters-paradise-dubstep-remix/">Coolio Gangsters Paradise (Dubstep Remix)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="33" data-id="648158" data-mp3="https://storage.mp3cc.biz/listen/648158/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S01kRHJHalNzbGpWYVRpOUJtUDFhd1I3b3FQV1o5T3FsVk5JcisydjR4cm0zZFIvKytWRmNxbXc3aGpMSERxcytreXZhRzgvK2xMOS9EeGJSWFNIb00/coolio-coolio-gangstas-paradise-2011-jackie-jones-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/648158-coolio-gangstas-paradise-2011-jackie-jones-remix/" data-duration="335000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/648158/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S01kRHJHalNzbGpWYVRpOUJtUDFhd1I3b3FQV1o5T3FsVk5JcisydjR4cm0zZFIvKytWRmNxbXc3aGpMSERxcytreXZhRzgvK2xMOS9EeGJSWFNIb00/coolio-coolio-gangstas-paradise-2011-jackie-jones-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Coolio - Gangstas Paradise 2011 (Jackie &amp; Jones Remix) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:35</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/648158-coolio-gangstas-paradise-2011-jackie-jones-remix/">Coolio - Gangstas Paradise 2011 (Jackie &amp; Jones Remix)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="34" data-id="1371776" data-mp3="https://storage.mp3cc.biz/listen/1371776/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3p5a0d5NkIwZFEvdmNDekphOWpqRjlOV3BBMGRvaWFjSS9EK1cyay9jTjBrYUNBbkptR0dVZ1Zla1F2L1ZMY1RFTFpzSGJrOTlSVXNrU0dRbFVQMUY/coolio-coolio_gangsta_s_paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/1371776-coolio_gangsta_s_paradise/" data-duration="241000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/1371776/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3p5a0d5NkIwZFEvdmNDekphOWpqRjlOV3BBMGRvaWFjSS9EK1cyay9jTjBrYUNBbkptR0dVZ1Zla1F2L1ZMY1RFTFpzSGJrOTlSVXNrU0dRbFVQMUY/coolio-coolio_gangsta_s_paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - COOLIO_GANGSTA_S_PARADISE (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:01</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/1371776-coolio_gangsta_s_paradise/">COOLIO_GANGSTA_S_PARADISE</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="35" data-id="6806073" data-mp3="https://storage.mp3cc.biz/listen/6806073/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S2dpOGQxSitIbEN0QWdDeEN3VmVZaWh2MWlFSisvYTZiZnFaTWN6SFRiUEZyRXZ2RUErS3J4dEZBWEtoeFJLN29WY2wxcFNPelJURGFqY2JtclowbDg/coolio-vs.-tim-resler-kylian-mash-gangsta-paradise-radio-version-coolio-vs-tim-resler_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/1401121-coolio-vs.-tim-resler-kylian-mash-gangsta-paradise-radio-version/6806073-coolio-vs-tim-resler/" data-duration="171000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/6806073/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S2dpOGQxSitIbEN0QWdDeEN3VmVZaWh2MWlFSisvYTZiZnFaTWN6SFRiUEZyRXZ2RUErS3J4dEZBWEtoeFJLN29WY2wxcFNPelJURGFqY2JtclowbDg/coolio-vs.-tim-resler-kylian-mash-gangsta-paradise-radio-version-coolio-vs-tim-resler_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio vs. Tim Resler &amp; Kylian Mash - Gangsta Paradise (Radio Version) - Coolio-vs-Tim-Resler (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">02:51</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/1401121-coolio-vs.-tim-resler-kylian-mash-gangsta-paradise-radio-version/">Coolio vs. Tim Resler &amp; Kylian Mash - Gangsta Paradise (Radio Version)</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/1401121-coolio-vs.-tim-resler-kylian-mash-gangsta-paradise-radio-version/6806073-coolio-vs-tim-resler/">Coolio-vs-Tim-Resler</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="36" data-id="17581644" data-mp3="https://storage.mp3cc.biz/listen/17581644/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5Sk9yZzUwYWc0SnMydGVid2dZOVFXSlJhdTE2MDllMmkrekNxTnBkQlMyR3lvYlJQNEZrb0VNTm9LVjQrNUNSTDF1QktyRkhjRWYyU2pEbXphWHZYZmI/coolio-rico-bernasconi-max-farenthide-muz-dj.at.ua-coolio-gangstas-paradise-rico-bernasconi-max-farenthide-remix-muz-dj.at.ua_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/3560615-coolio-rico-bernasconi-max-farenthide-muz-dj.at.ua/17581644-coolio-gangstas-paradise-rico-bernasconi-max-farenthide-remix-muz-dj.at.ua/" data-duration="371000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/17581644/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5Sk9yZzUwYWc0SnMydGVid2dZOVFXSlJhdTE2MDllMmkrekNxTnBkQlMyR3lvYlJQNEZrb0VNTm9LVjQrNUNSTDF1QktyRkhjRWYyU2pEbXphWHZYZmI/coolio-rico-bernasconi-max-farenthide-muz-dj.at.ua-coolio-gangstas-paradise-rico-bernasconi-max-farenthide-remix-muz-dj.at.ua_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio (Rico Bernasconi &amp; Max Farenthide) [muz-dj.at.ua] - Coolio - Gangstas Paradise (Rico Bernasconi &amp; Max Farenthide Remix) [muz-dj.at.ua] (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">06:11</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/3560615-coolio-rico-bernasconi-max-farenthide-muz-dj.at.ua/">Coolio (Rico Bernasconi &amp; Max Farenthide) [muz-dj.at.ua]</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/3560615-coolio-rico-bernasconi-max-farenthide-muz-dj.at.ua/17581644-coolio-gangstas-paradise-rico-bernasconi-max-farenthide-remix-muz-dj.at.ua/">Coolio - Gangstas Paradise (Rico Bernasconi &amp; Max Farenthide Remix) [muz-dj.at.ua]</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="37" data-id="35790810" data-mp3="https://storage.mp3cc.biz/listen/35790810/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SlZSTmF2SStJMXI3Zzl5Q1h2alpoOThRakxXVmlCcWF6QWl0K1pvZ2ZYSnNjVzlWOVNYY2pTYkttNHl2MWJuVjh0UlJTZ1hhaEorYVZtWnljaXYremg/coolio-vs.-rico-bernasconi-coolio-vs.-rico-bernasconi-gangsta-s-paradise-2010-splash-vs.-scotty-remix-musicdjs.com_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/60743-coolio-vs.-rico-bernasconi/35790810-coolio-vs.-rico-bernasconi-gangsta-s-paradise-2010-splash-vs.-scotty-remix-musicdjs.com/" data-duration="385000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/35790810/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SlZSTmF2SStJMXI3Zzl5Q1h2alpoOThRakxXVmlCcWF6QWl0K1pvZ2ZYSnNjVzlWOVNYY2pTYkttNHl2MWJuVjh0UlJTZ1hhaEorYVZtWnljaXYremg/coolio-vs.-rico-bernasconi-coolio-vs.-rico-bernasconi-gangsta-s-paradise-2010-splash-vs.-scotty-remix-musicdjs.com_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio vs. Rico Bernasconi - Coolio vs. Rico Bernasconi - Gangsta's Paradise 2010 (Splash vs. Scotty Remix) musicdjs.com (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">06:25</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/60743-coolio-vs.-rico-bernasconi/">Coolio vs. Rico Bernasconi</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/60743-coolio-vs.-rico-bernasconi/35790810-coolio-vs.-rico-bernasconi-gangsta-s-paradise-2010-splash-vs.-scotty-remix-musicdjs.com/">Coolio vs. Rico Bernasconi - Gangsta's Paradise 2010 (Splash vs. Scotty Remix) musicdjs.com</a></em>
-			</h2>
-		</li>
-			<li class="playlist-ad" id="in_playlist_2Banner">
-			<div>
-				<iframe src="/api/iframe/in_playlist_2"></iframe>
-			</div>
-		</li>
-		
-		
-		<li class="track" data-index="38" data-id="45287246" data-mp3="https://storage.mp3cc.biz/listen/45287246/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S0xIYmcrYWdEQjRFSWJsTjFYeGsrOWRNbXp0NFhjSEdPOEo4czltelc5TFJ0ZDMxNjJGZlVxNy9kcG1LT3RQcEhiTnBvYzRiMlc0Qk13YmFEUTJ2Y1E/coolio-kylian-mash-rico-bernasconi-gangsta-s-paradise-2010-coolio-vs.-kylian-mash-rico-bernasconi_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/374113-coolio-kylian-mash-rico-bernasconi/45287246-gangsta-s-paradise-2010-coolio-vs.-kylian-mash-rico-bernasconi/" data-duration="223000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/45287246/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S0xIYmcrYWdEQjRFSWJsTjFYeGsrOWRNbXp0NFhjSEdPOEo4czltelc5TFJ0ZDMxNjJGZlVxNy9kcG1LT3RQcEhiTnBvYzRiMlc0Qk13YmFEUTJ2Y1E/coolio-kylian-mash-rico-bernasconi-gangsta-s-paradise-2010-coolio-vs.-kylian-mash-rico-bernasconi_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio, Kylian Mash &amp; Rico Bernasconi - Gangsta's Paradise 2010 (Coolio vs. Kylian Mash &amp; Rico Bernasconi) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:43</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/374113-coolio-kylian-mash-rico-bernasconi/">Coolio, Kylian Mash &amp; Rico Bernasconi</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/374113-coolio-kylian-mash-rico-bernasconi/45287246-gangsta-s-paradise-2010-coolio-vs.-kylian-mash-rico-bernasconi/">Gangsta's Paradise 2010 (Coolio vs. Kylian Mash &amp; Rico Bernasconi)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="39" data-id="52255819" data-mp3="https://storage.mp3cc.biz/listen/52255819/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5THl3c2xobFp0dFo3Vzh3czNCanZzUmlBL0RvM3BGZ08yQ1VHZGlWZ3l6T1p5bCtlT2JLVHVHWXFGcndZWUJjaWI0THEzMnQyQnFDL2Z5SzJSVWJnS2k/coolio-coolio-gangstas-paradise-metal-cover_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/52255819-coolio-gangstas-paradise-metal-cover/" data-duration="267000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/52255819/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5THl3c2xobFp0dFo3Vzh3czNCanZzUmlBL0RvM3BGZ08yQ1VHZGlWZ3l6T1p5bCtlT2JLVHVHWXFGcndZWUJjaWI0THEzMnQyQnFDL2Z5SzJSVWJnS2k/coolio-coolio-gangstas-paradise-metal-cover_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Coolio - Gangstas Paradise (metal cover) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:27</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/52255819-coolio-gangstas-paradise-metal-cover/">Coolio - Gangstas Paradise (metal cover)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="40" data-id="81729286" data-mp3="https://storage.mp3cc.biz/listen/81729286/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SXkzY29HMVhWcnJnY25hOTJpc1lsOG50eDUrWkxXckJVNTY5b1FiMklCTWdiZWIyMHg2dUpPc3YzNnpnR0hsZjJpSGE0Z0ttQ2trcG9qeXVDOEZzek0/coolio-feat-gangster-s-paradise-coolio-cover_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/14901360-coolio-feat/81729286-gangster-s-paradise-coolio-cover/" data-duration="209000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/81729286/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SXkzY29HMVhWcnJnY25hOTJpc1lsOG50eDUrWkxXckJVNTY5b1FiMklCTWdiZWIyMHg2dUpPc3YzNnpnR0hsZjJpSGE0Z0ttQ2trcG9qeXVDOEZzek0/coolio-feat-gangster-s-paradise-coolio-cover_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio feat - Gangster's Paradise (Coolio Cover) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:29</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/14901360-coolio-feat/">Coolio feat</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/14901360-coolio-feat/81729286-gangster-s-paradise-coolio-cover/">Gangster's Paradise (Coolio Cover)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="41" data-id="82095150" data-mp3="https://storage.mp3cc.biz/listen/82095150/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SjhscGdSaWN5L21oU1BvTjZ4bjl6YncvN2c5VmlCM0lJUlErM3E0S1U4WndPQno1dVNRY3BhU3ZxRWlMK1ZCWGlydmdaNmJKZ0dyMDI5elpSNE5rTGo/coolio-l.v-coolio-l.v-gangsta-s-paradise-alex-mistery-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/374110-coolio-l.v/82095150-coolio-l.v-gangsta-s-paradise-alex-mistery-remix/" data-duration="172000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/82095150/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SjhscGdSaWN5L21oU1BvTjZ4bjl6YncvN2c5VmlCM0lJUlErM3E0S1U4WndPQno1dVNRY3BhU3ZxRWlMK1ZCWGlydmdaNmJKZ0dyMDI5elpSNE5rTGo/coolio-l.v-coolio-l.v-gangsta-s-paradise-alex-mistery-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio &amp; L.V - Coolio &amp; L.V - Gangsta's Paradise (Alex Mistery Remix) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">02:52</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/374110-coolio-l.v/">Coolio &amp; L.V</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/374110-coolio-l.v/82095150-coolio-l.v-gangsta-s-paradise-alex-mistery-remix/">Coolio &amp; L.V - Gangsta's Paradise (Alex Mistery Remix)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="42" data-id="83510698" data-mp3="https://storage.mp3cc.biz/listen/83510698/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SURDVGplQVVPQnE5dzJBQ25nWGlrelBYamlQUG1HNUtaSUJZaStMOVg0ejBHQURpaHYwVGlhcmN2QzhIZnFoTWNiYmdQcVRteitYTit3dmYxaGQ2NjU/coolio-coolio-gangsta-paradise-mix-artas_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/83510698-coolio-gangsta-paradise-mix-artas/" data-duration="96000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/83510698/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SURDVGplQVVPQnE5dzJBQ25nWGlrelBYamlQUG1HNUtaSUJZaStMOVg0ejBHQURpaHYwVGlhcmN2QzhIZnFoTWNiYmdQcVRteitYTit3dmYxaGQ2NjU/coolio-coolio-gangsta-paradise-mix-artas_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Coolio gangsta paradise mix ARTAS (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">01:36</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/83510698-coolio-gangsta-paradise-mix-artas/">Coolio gangsta paradise mix ARTAS</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="43" data-id="86266491" data-mp3="https://storage.mp3cc.biz/listen/86266491/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SzNBMmswTUQ2YzJnbnNpaDBXRUhZOTlNVllCRFc2c1NBZ2lIMWZNQVEybEZxUUJrZ3M1bHIzdE0xVHNNeUJRVGdFQkozMTN3VkkzRWR6cWhuMEhieHA/coolio-coolio-gangsta-s-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/86266491-coolio-gangsta-s-paradise/" data-duration="240000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/86266491/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SzNBMmswTUQ2YzJnbnNpaDBXRUhZOTlNVllCRFc2c1NBZ2lIMWZNQVEybEZxUUJrZ3M1bHIzdE0xVHNNeUJRVGdFQkozMTN3VkkzRWR6cWhuMEhieHA/coolio-coolio-gangsta-s-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Coolio - Gangsta's Paradise (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:00</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/86266491-coolio-gangsta-s-paradise/">Coolio - Gangsta's Paradise</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="44" data-id="91712737" data-mp3="https://storage.mp3cc.biz/listen/91712737/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SWcwRHh2aGN3N0pEcnFEUGRFT2xyb25IeG5abFBGcWpVWTlCWmxSQ3EwSi9jLzhUTmhwbXBMUy81bmkyZXZ5eEhsTmsvbTM5TkdCMnpsR1ZCSHB1c0Q/coolio-coolio-gangster-s-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/91712737-coolio-gangster-s-paradise/" data-duration="249000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/91712737/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SWcwRHh2aGN3N0pEcnFEUGRFT2xyb25IeG5abFBGcWpVWTlCWmxSQ3EwSi9jLzhUTmhwbXBMUy81bmkyZXZ5eEhsTmsvbTM5TkdCMnpsR1ZCSHB1c0Q/coolio-coolio-gangster-s-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Coolio - Gangster's Paradise (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:09</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/91712737-coolio-gangster-s-paradise/">Coolio - Gangster's Paradise</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="45" data-id="91914321" data-mp3="https://storage.mp3cc.biz/listen/91914321/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3hKVUZBR0d0RW10ZjdZZVNRYzJwUEIrZ3NvVjRYYUxSR1p1dElpcHNPRENHWWwwY2prVUtTWnZWd3ArNytuTDRxdE9jdnY3RnBiSlpWQWlpc01HVlg/coolio-feat-lv-coolio-gangsta-s-paradise-instrumental_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/374120-coolio-feat-lv/91914321-coolio-gangsta-s-paradise-instrumental/" data-duration="229000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/91914321/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3hKVUZBR0d0RW10ZjdZZVNRYzJwUEIrZ3NvVjRYYUxSR1p1dElpcHNPRENHWWwwY2prVUtTWnZWd3ArNytuTDRxdE9jdnY3RnBiSlpWQWlpc01HVlg/coolio-feat-lv-coolio-gangsta-s-paradise-instrumental_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio feat LV - Coolio - Gangsta's Paradise (Instrumental) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:49</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/374120-coolio-feat-lv/">Coolio feat LV</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/374120-coolio-feat-lv/91914321-coolio-gangsta-s-paradise-instrumental/">Coolio - Gangsta's Paradise (Instrumental)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="46" data-id="93896120" data-mp3="https://storage.mp3cc.biz/listen/93896120/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SnpkOXB3Q05yOWlOR1UxbG9LMmplMEg0aHRVVVVGc0ZMWnBNM2Z2SXZhOVkyMDVOMUg4UXIwUFR2dG9vMGhENk4xWUoxRG1NSDZWSnJqeTRoZmRmbEg/coolio-l.v.-coolio-l.v.-gangsta-s-paradise-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/374110-coolio-l.v./93896120-coolio-l.v.-gangsta-s-paradise-remix/" data-duration="303000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/93896120/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SnpkOXB3Q05yOWlOR1UxbG9LMmplMEg0aHRVVVVGc0ZMWnBNM2Z2SXZhOVkyMDVOMUg4UXIwUFR2dG9vMGhENk4xWUoxRG1NSDZWSnJqeTRoZmRmbEg/coolio-l.v.-coolio-l.v.-gangsta-s-paradise-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio,L.V. - Coolio,L.V.-Gangsta's Paradise remix (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">05:03</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/374110-coolio-l.v./">Coolio,L.V.</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/374110-coolio-l.v./93896120-coolio-l.v.-gangsta-s-paradise-remix/">Coolio,L.V.-Gangsta's Paradise remix</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="47" data-id="96233380" data-mp3="https://storage.mp3cc.biz/listen/96233380/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SWh6Q3duenp5WFF2WW52aHd3MG5mVmdYa05UZFR1S1ZZL244akNsZ1JhWUF2NEFQVGF3MXlBdjgyc1JleVBFSGpXWUF4MnJiNjdFMWtwZ1YxT2F1OFg/coolio-feat.-dj-pitchugin-tpau-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-dj-amada-mash-up-sax-version_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/14549550-coolio-feat.-dj-pitchugin-tpau/96233380-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-dj-amada-mash-up-sax-version/" data-duration="197000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/96233380/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SWh6Q3duenp5WFF2WW52aHd3MG5mVmdYa05UZFR1S1ZZL244akNsZ1JhWUF2NEFQVGF3MXlBdjgyc1JleVBFSGpXWUF4MnJiNjdFMWtwZ1YxT2F1OFg/coolio-feat.-dj-pitchugin-tpau-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-dj-amada-mash-up-sax-version_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio Feat. DJ Pitchugin &amp; TPau - Coolio Feat. DJ Pitchugin &amp; TPaul - Gangsta's Paradise (DJ Amada Mash Up Sax Version) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:17</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/14549550-coolio-feat.-dj-pitchugin-tpau/">Coolio Feat. DJ Pitchugin &amp; TPau</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/14549550-coolio-feat.-dj-pitchugin-tpau/96233380-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-dj-amada-mash-up-sax-version/">Coolio Feat. DJ Pitchugin &amp; TPaul - Gangsta's Paradise (DJ Amada Mash Up Sax Version)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="48" data-id="97663742" data-mp3="https://storage.mp3cc.biz/listen/97663742/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TFhuUElWUjNybUxVNzd3Qkp2QXR3eHFBSTkxQ25tQ3FTWUtMV2tVMERNS3IzTlQ1TGZvTlhyMm9oT0x5UTA5OFdPZmt1cHJnNTh2MzZRN0lsSGZvR3Q/coolio-coolio-gangsters-paradise-bombs-away-dubstep-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/97663742-coolio-gangsters-paradise-bombs-away-dubstep-remix/" data-duration="200000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/97663742/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TFhuUElWUjNybUxVNzd3Qkp2QXR3eHFBSTkxQ25tQ3FTWUtMV2tVMERNS3IzTlQ1TGZvTlhyMm9oT0x5UTA5OFdPZmt1cHJnNTh2MzZRN0lsSGZvR3Q/coolio-coolio-gangsters-paradise-bombs-away-dubstep-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Coolio - Gangsters Paradise (Bombs Away Dubstep Remix) (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:20</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/41721-coolio/">Coolio</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/41721-coolio/97663742-coolio-gangsters-paradise-bombs-away-dubstep-remix/">Coolio - Gangsters Paradise (Bombs Away Dubstep Remix)</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="49" data-id="98289159" data-mp3="https://storage.mp3cc.biz/listen/98289159/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SWoyUERGWDZRT1VOVFlDai9xRmJuTy90Y1lsTHZYTGdhMnFiZFhqU0FpRHhQNHB6VGgrQnZpUmVxYzRLNEdsUjRFa3VRcExtN0dGNEExbno4UEhsMW8/coolio-feat.-dj-daryat-coolio-feat.-dj-daryat-gangsta-s-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/17010207-coolio-feat.-dj-daryat/98289159-coolio-feat.-dj-daryat-gangsta-s-paradise/" data-duration="197000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/98289159/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SWoyUERGWDZRT1VOVFlDai9xRmJuTy90Y1lsTHZYTGdhMnFiZFhqU0FpRHhQNHB6VGgrQnZpUmVxYzRLNEdsUjRFa3VRcExtN0dGNEExbno4UEhsMW8/coolio-feat.-dj-daryat-coolio-feat.-dj-daryat-gangsta-s-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio Feat. DJ DARYAT - Coolio Feat. DJ DARYAT- Gangsta's Paradise (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:17</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/17010207-coolio-feat.-dj-daryat/">Coolio Feat. DJ DARYAT</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/17010207-coolio-feat.-dj-daryat/98289159-coolio-feat.-dj-daryat-gangsta-s-paradise/">Coolio Feat. DJ DARYAT- Gangsta's Paradise</a></em>
-			</h2>
-		</li>
-	</ul><div class="ctr-listalka"><ul class="listalka" data-next-page="/search/f/coolio+paradise/page/2/"><li class="listalka-arrow-back"><em>&larr;</em></li><li class="listalka-numbers"><em>1</em></li><li class="listalka-numbers"><a href="/search/f/coolio+paradise/page/2/">2</a></li><li class="listalka-numbers"><a href="/search/f/coolio+paradise/page/3/">3</a></li><li class="listalka-numbers"><a href="/search/f/coolio+paradise/page/4/">4</a></li><li class="listalka-numbers"><a href="/search/f/coolio+paradise/page/5/">5</a></li><li class="listalka-numbers"><a href="/search/f/coolio+paradise/page/6/">6</a></li><li class="listalka-numbers"><i>...</i></li><li class="listalka-numbers"><a href="/search/f/coolio+paradise/page/20/">20</a></li><li class="listalka-arrow-next"><a href="/search/f/coolio+paradise/page/2/">&rarr;</a></li></ul></div>
+	</ul><div class="ctr-listalka"><ul class="listalka" data-next-page="false"><li class="listalka-arrow-back"><em>&larr;</em></li><li class="listalka-numbers"><em>1</em></li><li class="listalka-arrow-next"><em>&rarr;</em></li></ul></div>
 	</div>
 				
 			</div>
@@ -1429,7 +337,7 @@
 							<div id="fixplayer-title"><span>
 								<b>mp3CC.biz</b>
 								<i>&ndash;</i>
-								<em>coolio paradise</em>
+								<em>bassbin twins stone lions</em>
 							</span></div>
 							<div id="fixplayer-notification"></div>
 						</div>
@@ -1463,4 +371,4 @@
 		
 </body>
 </html>
-<!-- 0.017868; 0 (0); 4 (0.0041861534118652); 0 (0). -->
+<!-- 0.015531; 0 (0); 4 (0.00043201446533203); 0 (0). -->
