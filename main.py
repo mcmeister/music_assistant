@@ -15,6 +15,7 @@ import wget
 from bs4 import BeautifulSoup
 from pyshorteners import Shortener
 from requests.packages.urllib3 import HTTPConnectionPool
+from mp3_tagger import MP3File, VERSION_1, VERSION_2, VERSION_BOTH
 
 banner = '''
 --------------------------------------------------------------------------------------------------
@@ -89,32 +90,49 @@ with open('parse.txt', 'r', encoding='UTF-8') as p:
     link = s.find(href=re.compile('download'))
     print(type(link))
     get_link = link.get('href')
+    
 try:
     shorten = Shortener('Tinyurl')
-except HTTPConnectionPool(host='tinyurl.com', port=80) as e:
-  raise requests.exceptions.ReadTimeout
-  pass
     shrink_url = shorten.short(get_link)
-    print('Downloading: ' + '(' + artistName + spaceInput + hyphenInput + spaceInput + songName + ')' +
-          ' via Short URL => ' + shrink_url + '\n')
+except HTTPConnectionPool(host='tinyurl.com', port=80) as e:
+  repeat
+else:
+  pass
+
+print('Downloading: ' + '(' + artistName + spaceInput + hyphenInput + spaceInput + songName + ')' +
+      ' via Short URL => ' + shrink_url + '\n')
+    
 try:
     mp3 = wget.download(shrink_url, out='/tmp/')
-    print(mp3 + ' Downloaded!' + '\n')
+except:
+  pass
+
+print(mp3 + ' Downloaded!' + '\n')
+    tags = mp3.get_tags()
+    del tags
+    mp3.set_version(VERSION_BOTH)
+    mp3.artist = artistName
+    mp3.song = songName
+    mp3.album = mixName
+    mp3.save()
     chat_id = '@my_id'
     token = 'my_token'
     tb = telebot.TeleBot(token)
     user = tb.get_me()
-    print(user)
+print(user)
     audio = open(mp3, 'rb')
-    print('Uploading File to Telegram Channel...\n')
+print('Uploading File to Telegram Channel...\n')
+
+try:
     tb.send_audio(chat_id, audio)
 except:
   pass
-    print('File Uploaded!\n')
+
+print('File Uploaded!\n')
     tb.send_message(chat_id, text)
-    print("Found: " + artistName + hyphenInput + songName)
-    print("Downloaded: " + artistName + hyphenInput + songName)
-    print("Uploaded to: " + chat_id)
+print("Found: " + artistName + hyphenInput + songName)
+print("Downloaded: " + artistName + hyphenInput + songName)
+print("Uploaded to: " + chat_id)
 
 #MessCleans
 
