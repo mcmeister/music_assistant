@@ -95,7 +95,7 @@ try:
     shorten = Shortener('Tinyurl')
     shrink_url = shorten.short(get_link)
 except HTTPConnectionPool(host='tinyurl.com', port=80) as e:
-  repeat
+  raise
 else:
   pass
 
