@@ -109,15 +109,17 @@ except:
 
 print(mp3 + ' Downloaded!' + '\n')
 
-'''
-    tags = mp3.get_tags()
-    del tags
-    mp3.set_version(VERSION_BOTH)
-    mp3.artist = artistName
-    mp3.song = songName
-    mp3.album = mixName
-    mp3.save()
-'''
+tags = mp3.get_tags()
+del tags
+art = mp3.artist
+sng = mp3.song
+alb = mp3.album
+mp3.set_version(VERSION_BOTH)
+mp3.artist = artistName
+mp3.song = songName
+mp3.album = mixName
+mp3.save()
+
 chat_id = '@my_id'
 token = 'my_token'
 tb = telebot.TeleBot(token)
