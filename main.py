@@ -108,6 +108,8 @@ except:
   pass
 
 print(mp3 + ' Downloaded!' + '\n')
+
+'''
     tags = mp3.get_tags()
     del tags
     mp3.set_version(VERSION_BOTH)
@@ -115,12 +117,13 @@ print(mp3 + ' Downloaded!' + '\n')
     mp3.song = songName
     mp3.album = mixName
     mp3.save()
-    chat_id = '@my_id'
-    token = 'my_token'
-    tb = telebot.TeleBot(token)
-    user = tb.get_me()
+'''
+chat_id = '@my_id'
+token = 'my_token'
+tb = telebot.TeleBot(token)
+user = tb.get_me()
 print(user)
-    audio = open(mp3, 'rb')
+audio = open(mp3, 'rb')
 print('Uploading File to Telegram Channel...\n')
 
 try:
@@ -129,7 +132,7 @@ except:
   pass
 
 print('File Uploaded!\n')
-    tb.send_message(chat_id, text)
+tb.send_message(chat_id, text)
 print("Found: " + artistName + hyphenInput + songName)
 print("Downloaded: " + artistName + hyphenInput + songName)
 print("Uploaded to: " + chat_id)
