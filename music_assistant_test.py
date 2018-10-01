@@ -8,7 +8,13 @@ All done!
 09.09.2018 @ 18:09
 '''
 
-## Banner Section
+import re
+import wget
+import telebot
+import requests
+from bs4 import BeautifulSoup
+from pyshorteners import Shortener
+from multiprocessing import Connection
 
 banner = '''
 --------------------------------------------------------------------------------------------------
@@ -21,39 +27,24 @@ banner = '''
          FOR TELEGRAM             v.1.01b          by Viacheslav Vorotilin aka "music meister"      
 --------------------------------------------------------------------------------------------------
 '''
-print(banner)
+print(banner + "\n")
 
-## Module Section
-
-import re
-import wget
-import telebot
-import requests
-from bs4 import BeautifulSoup
-from pyshorteners import Shortener
-
-## User Input Section
-
-artistName = input('Artist: ')                  ## Variable for Artist Name
-songName = input('Name: ')                      ## Variable for Song Name
-mixName = input('Mix Name: ')                   ## Variable for Remix Name
-blankInput = str()                              ## String Variable for Blank Input
-
-## Program Input Section
+artistName = input('Artist: ')  # Variable for Artist Name
+songName = input('Name: ')  # Variable for Song Name
+mixName = input('Mix Name: ')  # Variable for Remix Name
+blankInput = str()  # String Variable for Blank Input
 
 '''
-plusInput = '+'                                 ## Variable for a Plus [+]
-underInput = '_'                                ## Variable for an Underscore [_]
+plusInput = '+'                     # Variable for a Plus [+]
+underInput = '_'                    # Variable for an Underscore [_]
 '''
 
-spaceInput = ' '                                ## Variable for a Space [ ]
-hyphenInput = '-'                               ## Variable for a Hyphen [-]
-codeOpen = '<code>'                             ## Variable for Text-Formatting
-codeClose = '</code>'                           ## Variable for Text-Formatting
-boldOpen = '<b>'                                ## Variable for Text-Formatting
-boldClose = '</b>'                              ## Variable for Text-Formatting
-
-## Appropriate to Website's Search Query: Including or Excluding Remix Version
+spaceInput = ' '  # Variable for a Space [ ]
+hyphenInput = '-'  # Variable for a Hyphen [-]
+codeOpen = '<code>'  # Variable for Text-Formatting
+codeClose = '</code>'  # Variable for Text-Formatting
+boldOpen = '<b>'  # Variable for Text-Formatting
+boldClose = '</b>'  # Variable for Text-Formatting
 
 if mixName == blankInput:
     query = (artistName + spaceInput + songName)
@@ -65,96 +56,57 @@ else:
     query = (artistName + spaceInput + songName + spaceInput + mixName)
 print(query + "\n")
 
-## Headers to Access Website
-
 headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:45.0) \
     Gecko/20100101 Firefox/45.0'
 }
 
-## Appropriate URL-String to Access Website's Search
-
 url = 'https://mp3cc.biz/search/f/' + query + '/'
 
-## Save Search Results to Text-File
-
 with open('parse.txt', "wb") as lf:
-    response = requests.get(url, headers=headers, stream=True)
-    lf.write(response.content)
-    lf.close()
-
-## Parse Mp3-Link from Text-File
+    try:
+        response = requests.get(url, headers=headers, stream=True)
+        lf.write(response.content)
+        lf.close()
+    except ConnectionError as e:
+        raise Connection
 
 with open('parse.txt', "r", encoding='UTF-8') as fp:
     soup = BeautifulSoup(fp, 'html.parser')
     link = soup.find(href=re.compile("download"))
-    try:
-        file = link.get('href')
-        print("Long URL => " + file + "\n")
-    except:
-        pass
+    file = link.get('href')
+    print("Long URL => " + file + "\n")
 
-## shrinkApp - URL-Shortener Section
 
 class shrinkApp(Shortener):
-    def __init__(self):
-        try:
-            self.option = int(1)
-            self.url = str(file)
-            self.shortener = Shortener('Tinyurl')
-        except:
-            pass
-
-        if self.option == 1:
-            self.shrinkTheUrl()
-        else:
-            pass
-
-    def shrinkTheUrl(self):
-        try:
-            self.shrinkUrl = self.shortener.short(self.url)
-        except:
-            pass
-
-## Download Mp3-File with Tinyurl
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
+        self.shortener = Shortener('Tinyurl')
+        self.url = str(file)
+        self.shrinkUrl = self.shortener.short(self.url)
 
         print("Downloading File via Short URL => " + self.shrinkUrl + "\n")
-        mp3 = wget.download(self.shrinkUrl, out='/temp/')
+        mp3 = wget.download(self.shrinkUrl, out='/tmp/')
         print('File Downloaded!' + "\n")
 
-## Telegram Bot Section
-
-        TOKEN = '658217975:AAGpMceHLVj7M3PyJHXEMqIeqSDWzeT1E24'
-        tb = telebot.TeleBot(TOKEN)
+        token = '658217975:AAFIqRoLhfS7x4XpCNHoPGsqttQp_QFsPU0'
+        tb = telebot.TeleBot(token)
         chat_id = '@testing_now'
+
         audio = open(mp3, 'rb')
-
-## Send Audio File to Telegram Channel
-
-        tb.send_message(chat_id, text='<i>Uploading New Music...</i>', parse_mode='HTML')
         print('Uploading File to Telegram Channel...' + "\n")
-
         tb.send_audio(chat_id, audio)
-
-        tb.send_message(chat_id, text='<b>Music Uploaded!</b>', parse_mode='HTML')
         print('File Uploaded!' + "\n")
-
-## Send Message to Telegram Channel
 
         tb.send_message(chat_id, text=text, parse_mode='HTML')
 
-## Appropriate Text Message to Post After Upload Completed
+        if mixName == blankInput:
+            text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName + codeClose)
+        else:
+            text = {
+                codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName \
+                + spaceInput + '(' + mixName + ')' + codeClose
+            }
 
-if mixName == blankInput:
-    text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName + codeClose)
-else:
-    text = {
-        codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName \
-        + spaceInput + '(' + mixName + ')' + codeClose
-    }
 
 app = shrinkApp()
-
-## Delete Downloaded Mp3-File
-
-import delete_mp3

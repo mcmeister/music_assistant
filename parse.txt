@@ -2,8 +2,8 @@
 <html id="desktop" class="">
 <head>
 		<meta charset="utf-8" />
-		<title>g h i | mp3 скачать бесплатно | Скачать бесплатно музыку, скачать mp3</title>
-		<meta name="description" content="ÿþI r o n M a i d e n - ÿþG e n g h i s K h a n ►☢H I R U R G☢ - ►☢H I R U R G☢ O.n.e. .j.a.z.z. .b.a.n.d.. - B.i.r.d.s. .f.l.y.i.n.g. .h.i.g.h.,. .y.o.u .kn.o.w. .h.o.w. .I. .f.e.e.l. .(.b. mky" />
+		<title>coolio paradise | mp3 скачать бесплатно | Скачать бесплатно музыку, скачать mp3</title>
+		<meta name="description" content="Coolio - Paradise Coolio - paradise Coolio - Paradise Coolio - Paradise Coolio - Paradise Coolio - Paradise Coolio - paradise Coolio - Paradise Coolio - Paradise «Coolio - Paradise (Bombs Aw 1o4" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 		<link rel="search" type="application/opensearchdescription+xml" title="mp3CC.biz" href="/i/etc/opensearch.xml">
 		<link rel="dns-prefetch" href="//storage.mp3cc.biz">
@@ -11,8 +11,8 @@
 		<meta property="og:site_name" content="mp3CC.biz" />
 		<meta property="og:image" content="https://mp3cc.biz/i/img/site_prw0002.png" />
 		<meta property="og:type" content="music.song" />
-		<meta property="og:url" content="https://mp3cc.biz/search/f/g+h+i/" />
-		<meta property="og:title" content="g h i" />
+		<meta property="og:url" content="https://mp3cc.biz/search/f/coolio+paradise/" />
+		<meta property="og:title" content="coolio paradise" />
 
 
 		<link rel="stylesheet" href="/i/css/_main_min.92db4fe7.css" />
@@ -21,7 +21,7 @@
 		<meta name="robots" content="noarchive" />
 		
 		
-		<link rel="next" href="https://mp3cc.biz/search/f/g+h+i/page/2/" />
+		<link rel="next" href="https://mp3cc.biz/search/f/coolio+paradise/page/2/" />
 		 
 				<script src="//cdn.sendpulse.com/9dae6d62c816560a842268bde2cd317d/js/push/ca0599be0f0d52aad4a0d91f0af373eb_1.js" async></script>
 		 
@@ -36,7 +36,7 @@
 		<!-- player-page-title -->
 		<div id="player-page-title" class="hidden">
 			<b>mp3CC.biz</b>
-			<span>g h i</span>
+			<span>coolio paradise</span>
 		</div>
 		<!-- / player-page-title -->
 
@@ -70,7 +70,7 @@
 					
 						<form id="he-search" action="/api/search" method="post">
 							<div>
-								<input type="text" name="q" id="he-search-text" value="g h i" placeholder="Поиск &mdash; введите название песни или исполнителя" />
+								<input type="text" name="q" id="he-search-text" value="coolio paradise" placeholder="Поиск &mdash; введите название песни или исполнителя" />
 								<input type="submit" id="he-search-submit" value="" />
 							
 								<a href="#" class="hidden" id="search-submitter"></a>
@@ -106,192 +106,336 @@
 				<aside id="xbody-content">
 										
 			<div class="xblock">
-				<h1 class="title">g h i</h1>
+				<h1 class="title">coolio paradise</h1>
 				<div class="xblock-p">
 		<!-- == search_settings -->
 		<div class="search_settings">
 			<select name="mode" class="ajaxify_select_option_go">
-				<option value="f" data-url="/search/f/g+h+i/" selected="selected">поиск везде</option><option value="a" data-url="/search/a/g+h+i/">по исполнителю</option><option value="t" data-url="/search/t/g+h+i/">по названии песни</option>
+				<option value="f" data-url="/search/f/coolio+paradise/" selected="selected">поиск везде</option><option value="a" data-url="/search/a/coolio+paradise/">по исполнителю</option><option value="t" data-url="/search/t/coolio+paradise/">по названии песни</option>
 			</select>
 			
 			<label>
-				<input type="checkbox" id="search-filter-remix" data-url="/search/f/g+h+i/" />
+				<input type="checkbox" id="search-filter-remix" data-url="/search/f/coolio+paradise/" />
 				Скрыть копии\ремиксы и т.д.
 			</label>
 
 			<label>
-				<input type="checkbox" id="search-filter-strict" data-url="/search/f/g+h+i/" />
+				<input type="checkbox" id="search-filter-strict" data-url="/search/f/coolio+paradise/" />
 				Точный поиск
 			</label>
 		</div>
 		<!-- / == search_settings -->
 	
 		<ul class="playlist">
-		<li class="track" data-index="0" data-id="45928164" data-mp3="https://storage.mp3cc.biz/listen/45928164/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bEdINnVrL1ROVlhBRE9jU2xNWE1XakFWNy81aGNINUxDMW12b2ZFZ1lqa05VcW9tRWYwSXFFcGVmeFU1L29Ucnc1U21xeTUwQnRqYWdDSzZsSUdkWi8/i-r-o-n-m-a-i-d-e-n-g-e-n-g-h-i-s-k-h-a-n_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/79558-i-r-o-n-m-a-i-d-e-n/45928164-g-e-n-g-h-i-s-k-h-a-n/" data-duration="186000">
+		<li class="track" data-index="0" data-id="85651250" data-mp3="https://storage.mp3cc.biz/listen/85651250/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SXZHMmJFNWxOTXVpR2w5NU5tOGl1dXBvOFdjODZJMDdpNVRBa3NMN01RWUFXT2hnM1BzZjRQbndmNGNyYjlCWklkSzNSZjVDYmFqUFlyeVFiV2ZjYms/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/85651250-paradise/" data-duration="249000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/45928164/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bEdINnVrL1ROVlhBRE9jU2xNWE1XakFWNy81aGNINUxDMW12b2ZFZ1lqa05VcW9tRWYwSXFFcGVmeFU1L29Ucnc1U21xeTUwQnRqYWdDSzZsSUdkWi8/i-r-o-n-m-a-i-d-e-n-g-e-n-g-h-i-s-k-h-a-n_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="ÿþI r o n M a i d e n - ÿþG e n g h i s K h a n (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/85651250/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SXZHMmJFNWxOTXVpR2w5NU5tOGl1dXBvOFdjODZJMDdpNVRBa3NMN01RWUFXT2hnM1BzZjRQbndmNGNyYjlCWklkSzNSZjVDYmFqUFlyeVFiV2ZjYms/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">03:06</span>
+				<span class="playlist-duration">04:09</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/79558-i-r-o-n-m-a-i-d-e-n/">ÿþI r o n M a i d e n</a></b>
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/79558-i-r-o-n-m-a-i-d-e-n/45928164-g-e-n-g-h-i-s-k-h-a-n/">ÿþG e n g h i s K h a n</a></em>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/85651250-paradise/">Paradise</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="1" data-id="95087647" data-mp3="https://storage.mp3cc.biz/listen/95087647/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blJWN3g5QkliS2hjNk5CRVAxa0trQmRLQ2NUZWZML241WjBMWjlkZDhkcVluMTl6ci9QaFdkTTF0RGhrNW1Zajl6MEpiUStkcWpRTEZNcDlWVU1HYmU/h-i-r-u-r-g-h-i-r-u-r-g_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/16598134-h-i-r-u-r-g/95087647-h-i-r-u-r-g/" data-duration="31000">
+		<li class="track" data-index="1" data-id="85830480" data-mp3="https://storage.mp3cc.biz/listen/85830480/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3YvYjhLaW05V2kyc01aS0tUeFVMTFlUQzJLT1Q4TC9LU1N2YjNJSFdxdUlsV3ZGUnRtTWJsNXBlWVlPb053R25iS003bXpVWjBtbUN0ZHFMQ2h0K0k/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/85830480-paradise/" data-duration="243000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/95087647/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blJWN3g5QkliS2hjNk5CRVAxa0trQmRLQ2NUZWZML241WjBMWjlkZDhkcVluMTl6ci9QaFdkTTF0RGhrNW1Zajl6MEpiUStkcWpRTEZNcDlWVU1HYmU/h-i-r-u-r-g-h-i-r-u-r-g_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="[►]☢H I R U R G☢ - [►]☢H I R U R G☢ (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/85830480/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3YvYjhLaW05V2kyc01aS0tUeFVMTFlUQzJLT1Q4TC9LU1N2YjNJSFdxdUlsV3ZGUnRtTWJsNXBlWVlPb053R25iS003bXpVWjBtbUN0ZHFMQ2h0K0k/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - paradise (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">00:31</span>
+				<span class="playlist-duration">04:03</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/16598134-h-i-r-u-r-g/">[►]☢H I R U R G☢</a></b>
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/16598134-h-i-r-u-r-g/95087647-h-i-r-u-r-g/">[►]☢H I R U R G☢</a></em>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/85830480-paradise/">paradise</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="2" data-id="10584969" data-mp3="https://storage.mp3cc.biz/listen/10584969/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0k3ak1GRVB4aTRYS0NVcEFERDhvaSs4d1JzWlhLWVF3SEY5L1JpYktqZkxNeXV1K0tVUnl2cjlaQkVNNUQyRWxzQzFQZVUvT3pMajYrUnVkWUl0RVY/o.n.e.-.j.a.z.z.-.b.a.n.d..-b.i.r.d.s.-.f.l.y.i.n.g.-.h.i.g.h.-.-.y.o.u-.kn.o.w.-.h.o.w.-.i.-.f.e.e.l.-.-.b.y.-.v.i.p.z.o.n.e._(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2130857-o.n.e.-.j.a.z.z.-.b.a.n.d../10584969-b.i.r.d.s.-.f.l.y.i.n.g.-.h.i.g.h.-.-.y.o.u-.kn.o.w.-.h.o.w.-.i.-.f.e.e.l.-.-.b.y.-.v.i.p.z.o.n.e./" data-duration="226000">
+		<li class="track" data-index="2" data-id="86410263" data-mp3="https://storage.mp3cc.biz/listen/86410263/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TGJFaVEra0lRaHZ6R3lUUjF1dEQxL3RseHhaY2FyYWhoSm9uU2dNb0QzR1BGYkJocCtrWXV3VHdsaTQ4K0lkWER3RUR0ajZHRVhkMEZNZWkwU2hjdFE/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/86410263-paradise/" data-duration="303000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/10584969/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0k3ak1GRVB4aTRYS0NVcEFERDhvaSs4d1JzWlhLWVF3SEY5L1JpYktqZkxNeXV1K0tVUnl2cjlaQkVNNUQyRWxzQzFQZVUvT3pMajYrUnVkWUl0RVY/o.n.e.-.j.a.z.z.-.b.a.n.d..-b.i.r.d.s.-.f.l.y.i.n.g.-.h.i.g.h.-.-.y.o.u-.kn.o.w.-.h.o.w.-.i.-.f.e.e.l.-.-.b.y.-.v.i.p.z.o.n.e._(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="O.n.e. .j.a.z.z. .b.a.n.d.. - B.i.r.d.s. .f.l.y.i.n.g. .h.i.g.h.,. .y.o.u .kn.o.w. .h.o.w. .I. .f.e.e.l. .(.b.y. .v.i.p.z.o.n.e.) (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/86410263/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TGJFaVEra0lRaHZ6R3lUUjF1dEQxL3RseHhaY2FyYWhoSm9uU2dNb0QzR1BGYkJocCtrWXV3VHdsaTQ4K0lkWER3RUR0ajZHRVhkMEZNZWkwU2hjdFE/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">03:46</span>
+				<span class="playlist-duration">05:03</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/2130857-o.n.e.-.j.a.z.z.-.b.a.n.d../">O.n.e. .j.a.z.z. .b.a.n.d..</a></b>
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2130857-o.n.e.-.j.a.z.z.-.b.a.n.d../10584969-b.i.r.d.s.-.f.l.y.i.n.g.-.h.i.g.h.-.-.y.o.u-.kn.o.w.-.h.o.w.-.i.-.f.e.e.l.-.-.b.y.-.v.i.p.z.o.n.e./">B.i.r.d.s. .f.l.y.i.n.g. .h.i.g.h.,. .y.o.u .kn.o.w. .h.o.w. .I. .f.e.e.l. .(.b.y. .v.i.p.z.o.n.e.)</a></em>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/86410263-paradise/">Paradise</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="3" data-id="68381339" data-mp3="https://storage.mp3cc.biz/listen/68381339/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a2Z2VXBSZk54Rmc1QkhqWFpqSW9rUFJzUXhqcHoyTHJpbXBGcUJKUWtYazBoT00yc1F5NlE0T1lubHVEMnNMNk5QWEZCVzNvYVRaNlVZTUVhblF1ODI/hypocrisy-2009-a-taste-of-extreme-divinity-h-a-n-g-h-i-m-h-i-g-h_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/690537-hypocrisy-2009-a-taste-of-extreme-divinity/68381339-h-a-n-g-h-i-m-h-i-g-h/" data-duration="277000">
+		<li class="track" data-index="3" data-id="87488028" data-mp3="https://storage.mp3cc.biz/listen/87488028/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SlJ3V1NFMW1zcmI3K2lIYVRiMm5hempsVnJ2SExmN3NGUzhWYURZQnVPNVRyV3N3UStuTHRtYzdsM1JscmQ5aEx3S0VWWG5ZenFNcEJIMDdlOW5qUng/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/87488028-paradise/" data-duration="247000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/68381339/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a2Z2VXBSZk54Rmc1QkhqWFpqSW9rUFJzUXhqcHoyTHJpbXBGcUJKUWtYazBoT00yc1F5NlE0T1lubHVEMnNMNk5QWEZCVzNvYVRaNlVZTUVhblF1ODI/hypocrisy-2009-a-taste-of-extreme-divinity-h-a-n-g-h-i-m-h-i-g-h_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Hypocrisy [2009] A Taste Of Extreme Divinity - H a n g H i m H i g h (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/87488028/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SlJ3V1NFMW1zcmI3K2lIYVRiMm5hempsVnJ2SExmN3NGUzhWYURZQnVPNVRyV3N3UStuTHRtYzdsM1JscmQ5aEx3S0VWWG5ZenFNcEJIMDdlOW5qUng/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">04:37</span>
+				<span class="playlist-duration">04:07</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/690537-hypocrisy-2009-a-taste-of-extreme-divinity/">Hypocrisy [2009] A Taste Of Extreme Divinity</a></b>
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/690537-hypocrisy-2009-a-taste-of-extreme-divinity/68381339-h-a-n-g-h-i-m-h-i-g-h/">H a n g H i m H i g h</a></em>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/87488028-paradise/">Paradise</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="4" data-id="12506236" data-mp3="https://storage.mp3cc.biz/listen/12506236/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bDByM1YvYzJqSlplbGFqWUg2SlF4cVZUbzZEUWI3VGdLMmlTc3Q1MGNsNEZ0ZnhrRDJzK0toaitkSEk2Z211bUltbEJhNWVyZnh1bnU2T3VCU0FSb1I/1-l-i-z-z-y-m-e-r-c-i-e-r-d-e-s-c-l-o-u-x-m-o-r-n-i-n-g-h-i-g-h_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/1640586-1-l-i-z-z-y-m-e-r-c-i-e-r-d-e-s-c-l-o-u-x/12506236-m-o-r-n-i-n-g-h-i-g-h/" data-duration="183000">
+		<li class="track" data-index="4" data-id="92404869" data-mp3="https://storage.mp3cc.biz/listen/92404869/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SUJyZmwzR0xwalhjRHowbGpGeEEyT1E2eUVZVEJFTHY5TEtENDIxaWI3VFlGM2R2b0IxNzA4U2JBWGg0clN2VHJrV0svMVlzc1FLZldDbkNtV29ZYnc/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/92404869-paradise/" data-duration="200000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/12506236/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bDByM1YvYzJqSlplbGFqWUg2SlF4cVZUbzZEUWI3VGdLMmlTc3Q1MGNsNEZ0ZnhrRDJzK0toaitkSEk2Z211bUltbEJhNWVyZnh1bnU2T3VCU0FSb1I/1-l-i-z-z-y-m-e-r-c-i-e-r-d-e-s-c-l-o-u-x-m-o-r-n-i-n-g-h-i-g-h_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="1 ÿþL i z z y M e r c i e r D e s c l o u x - ÿþM o r n i n g H i g h (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/92404869/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SUJyZmwzR0xwalhjRHowbGpGeEEyT1E2eUVZVEJFTHY5TEtENDIxaWI3VFlGM2R2b0IxNzA4U2JBWGg0clN2VHJrV0svMVlzc1FLZldDbkNtV29ZYnc/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">03:03</span>
+				<span class="playlist-duration">03:20</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/1640586-1-l-i-z-z-y-m-e-r-c-i-e-r-d-e-s-c-l-o-u-x/">1 ÿþL i z z y M e r c i e r D e s c l o u x</a></b>
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/1640586-1-l-i-z-z-y-m-e-r-c-i-e-r-d-e-s-c-l-o-u-x/12506236-m-o-r-n-i-n-g-h-i-g-h/">ÿþM o r n i n g H i g h</a></em>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/92404869-paradise/">Paradise</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="5" data-id="47587896" data-mp3="https://storage.mp3cc.biz/listen/47587896/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bm1OZ01KRGhxaHVZVytUU2p5T2REVU1Mblc1N1IwbENjZFlqQnRKbndWWTRmY1VyRjBmRWV3a1QxOFE2cUJHZjVVMW9DRTBBaytzdDl2anJ2WUo5cHY/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-l-e-e-c-h_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/47587896-l-e-e-c-h/" data-duration="146000">
+		<li class="track" data-index="5" data-id="93084145" data-mp3="https://storage.mp3cc.biz/listen/93084145/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SW1XaXJEekV3Ykd3NXZrbmt5TjBzWkdjcmNvOHBnZ3RHbEYzZktGa3g1R2hialkya1NMNCtLZ3ZHeitWRzREanQyV051TzhDNTY3TG03TFZUZm1xaEk/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/93084145-paradise/" data-duration="219000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/47587896/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bm1OZ01KRGhxaHVZVytUU2p5T2REVU1Mblc1N1IwbENjZFlqQnRKbndWWTRmY1VyRjBmRWV3a1QxOFE2cUJHZjVVMW9DRTBBaytzdDl2anJ2WUo5cHY/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-l-e-e-c-h_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþL e e c h (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/93084145/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SW1XaXJEekV3Ykd3NXZrbmt5TjBzWkdjcmNvOHBnZ3RHbEYzZktGa3g1R2hialkya1NMNCtLZ3ZHeitWRzREanQyV051TzhDNTY3TG03TFZUZm1xaEk/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">02:26</span>
+				<span class="playlist-duration">03:39</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/47587896-l-e-e-c-h/">ÿþL e e c h</a></em>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/93084145-paradise/">Paradise</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="6" data-id="74222024" data-mp3="https://storage.mp3cc.biz/listen/74222024/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1R2bE9GVXZPQ0RyWWdJdndZczVBMlZOMG1tdkxQelVzTW8wSmRUOVUvMmFoUnVteWtnaUxXbW01dFJ5QkQwU0paamZBWEwzMGFLWmthaE5naEwvc24/j-a-h-k-h-a-l-i-b-s-g-h-i-g-a-y-a-d-o-t-l-a_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/1120620-j-a-h-k-h-a-l-i-b/74222024-s-g-h-i-g-a-y-a-d-o-t-l-a/" data-duration="224000">
+		<li class="track" data-index="6" data-id="99513002" data-mp3="https://storage.mp3cc.biz/listen/99513002/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SnBTUXVLQ2tOK2xDUjNvWEJTR1luZVptdW5VaFN5ZTNXUUNRK3A1Si95ZkUzMDBCZk1wVVB2ZHJicjNQMUl5MDVna2REQ0h4NllWOS9OV3RoUDFtTW0/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/99513002-paradise/" data-duration="174000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/74222024/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1R2bE9GVXZPQ0RyWWdJdndZczVBMlZOMG1tdkxQelVzTW8wSmRUOVUvMmFoUnVteWtnaUxXbW01dFJ5QkQwU0paamZBWEwzMGFLWmthaE5naEwvc24/j-a-h-k-h-a-l-i-b-s-g-h-i-g-a-y-a-d-o-t-l-a_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="J A H K H A L I B - S G H I G A Y A D O T L A (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/99513002/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SnBTUXVLQ2tOK2xDUjNvWEJTR1luZVptdW5VaFN5ZTNXUUNRK3A1Si95ZkUzMDBCZk1wVVB2ZHJicjNQMUl5MDVna2REQ0h4NllWOS9OV3RoUDFtTW0/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - paradise (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">03:44</span>
+				<span class="playlist-duration">02:54</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/1120620-j-a-h-k-h-a-l-i-b/">J A H K H A L I B</a></b>
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/1120620-j-a-h-k-h-a-l-i-b/74222024-s-g-h-i-g-a-y-a-d-o-t-l-a/">S G H I G A Y A D O T L A</a></em>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/99513002-paradise/">paradise</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="7" data-id="110470553" data-mp3="https://storage.mp3cc.biz/listen/110470553/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SUlyRXRsb3pta2lTUkdwdnVkWFVNdlBHTDRnZkRtVmVMaEN6R0xQWFhvUGYwNi9hQzVwQXBOYWFTUFNxQzUzcnRBZnRJM3JUWGhxLzRReEhsemhFaFo/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/110470553-paradise/" data-duration="252000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/110470553/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SUlyRXRsb3pta2lTUkdwdnVkWFVNdlBHTDRnZkRtVmVMaEN6R0xQWFhvUGYwNi9hQzVwQXBOYWFTUFNxQzUzcnRBZnRJM3JUWGhxLzRReEhsemhFaFo/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">04:12</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/110470553-paradise/">Paradise</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="8" data-id="111504826" data-mp3="https://storage.mp3cc.biz/listen/111504826/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S0ljL1grRDJDcTU4RkJOOEN1eHZuTUlLQ2FBUXNDTWU5aU15czhma1RjT2pXSkF4MHZQVGJlQkNaUU5MQVBsaUdBRUpTV1E0MmlndUc0RC85bzU2V0c/coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/111504826-paradise/" data-duration="237000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/111504826/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S0ljL1grRDJDcTU4RkJOOEN1eHZuTUlLQ2FBUXNDTWU5aU15czhma1RjT2pXSkF4MHZQVGJlQkNaUU5MQVBsaUdBRUpTV1E0MmlndUc0RC85bzU2V0c/coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:57</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/111504826-paradise/">Paradise</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="9" data-id="96922372" data-mp3="https://storage.mp3cc.biz/listen/96922372/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TFFwVU4waEYvL25jcXRvZ3Q1YUl0NCtJSDhoVEg3Q1Q2U3N3MmIralB0a1FzM2JUQmc1TksyRVdBL21sQ2t5V2RySVpERGdMd0lmUWNyYmhHaGhDaWk/coolio-paradise-bombs-away_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/96922372-paradise-bombs-away/" data-duration="200000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/96922372/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TFFwVU4waEYvL25jcXRvZ3Q1YUl0NCtJSDhoVEg3Q1Q2U3N3MmIralB0a1FzM2JUQmc1TksyRVdBL21sQ2t5V2RySVpERGdMd0lmUWNyYmhHaGhDaWk/coolio-paradise-bombs-away_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="«Coolio - Paradise (Bombs Away)» (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:20</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/41721-coolio/">«Coolio</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/96922372-paradise-bombs-away/">Paradise (Bombs Away)»</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="10" data-id="104095632" data-mp3="https://storage.mp3cc.biz/listen/104095632/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TGlJU0FlK0RVdUNyNWhHa3M3dlBmNjJFL0pQcTJWWkVldk9VSk1FUHlpUWtMZXY3Tm9XaGNRUEZoUEg3eis2L1RFakdPZFdFUU9aVWlCMmYrREZCU2Q/coolio-paradise-madbet-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/104095632-paradise-madbet-remix/" data-duration="327000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/104095632/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TGlJU0FlK0RVdUNyNWhHa3M3dlBmNjJFL0pQcTJWWkVldk9VSk1FUHlpUWtMZXY3Tm9XaGNRUEZoUEg3eis2L1RFakdPZFdFUU9aVWlCMmYrREZCU2Q/coolio-paradise-madbet-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise (MADBET Remix) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">05:27</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/104095632-paradise-madbet-remix/">Paradise (MADBET Remix)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="11" data-id="112856836" data-mp3="https://storage.mp3cc.biz/listen/112856836/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SWR4dWdsOStPbVQ1NFVmQU9oc1A5K0wyVTZNM2ZmZmZwZ2tSQ1p1NldWTkNNcWZycEJhdFFCdGMyU3dzSlFmSENiWjVrUUVDZG1LUWJWeG44V2t4Ni8/coolio-paradise-1995_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/112856836-paradise-1995/" data-duration="242000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/112856836/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SWR4dWdsOStPbVQ1NFVmQU9oc1A5K0wyVTZNM2ZmZmZwZ2tSQ1p1NldWTkNNcWZycEJhdFFCdGMyU3dzSlFmSENiWjVrUUVDZG1LUWJWeG44V2t4Ni8/coolio-paradise-1995_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Paradise [1995] (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">04:02</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/112856836-paradise-1995/">Paradise [1995]</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="12" data-id="32592742" data-mp3="https://storage.mp3cc.biz/listen/32592742/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SnlhWGJnTU5OOCtjaDBYQldBZTYvb0hBb3RQTFhPVlBKTlI3WG5Za1FaVmxmVjY5WjQzR0E1MWdqR0lGODFjRnovWTZsVFZEQ3lQcEtsNWpJYW4xVHY/need-for-speed-cover-piano-coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/6785526-need-for-speed-cover-piano-coolio/32592742-paradise/" data-duration="50000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/32592742/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SnlhWGJnTU5OOCtjaDBYQldBZTYvb0hBb3RQTFhPVlBKTlI3WG5Za1FaVmxmVjY5WjQzR0E1MWdqR0lGODFjRnovWTZsVFZEQ3lQcEtsNWpJYW4xVHY/need-for-speed-cover-piano-coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Need For Speed (Cover piano) Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">00:50</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/6785526-need-for-speed-cover-piano-coolio/">Need For Speed (Cover piano) Coolio</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/6785526-need-for-speed-cover-piano-coolio/32592742-paradise/">Paradise</a></em>
 			</h2>
 		</li>
 			<li class="playlist-ad" id="in_playlist_1Banner">
@@ -301,859 +445,13 @@
 		</li>
 		
 		
-		<li class="track" data-index="7" data-id="40033943" data-mp3="https://storage.mp3cc.biz/listen/40033943/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bmIvUTczMGYxNUJST3o5OVFHZC9SRzduNjRpWDRUYWJXVVZaYnIvNWNzNDA4emhER2xvSHl6L1lacVN1QzBNVWlVSlBsbm9Dd2R3Qi9rMGxvNVhXMlU/s-a-d-s-o-n-g-h-i-g-h-f-l-y-i-n_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/8221679-s-a-d-s-o-n-g/40033943-h-i-g-h-f-l-y-i-n/" data-duration="254000">
+		<li class="track" data-index="13" data-id="46266499" data-mp3="https://storage.mp3cc.biz/listen/46266499/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SkRRNEFYcXBHaTd4RWlEb25QZXhnMnpWQzdIZkpSdGlNdkJXcmFDSE8reTFlYWt0QmVIOEowNEdNdm91dG83dWUvRzB0ZHhiMVVrVExLNjJMV0hPckU/dj-asetin-and-coolio-paradise-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/9350676-dj-asetin-and-coolio/46266499-paradise-remix/" data-duration="196000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/40033943/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bmIvUTczMGYxNUJST3o5OVFHZC9SRzduNjRpWDRUYWJXVVZaYnIvNWNzNDA4emhER2xvSHl6L1lacVN1QzBNVWlVSlBsbm9Dd2R3Qi9rMGxvNVhXMlU/s-a-d-s-o-n-g-h-i-g-h-f-l-y-i-n_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="s a d s o n g - H I G H F L Y I ` N (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:14</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/8221679-s-a-d-s-o-n-g/">s a d s o n g</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/8221679-s-a-d-s-o-n-g/40033943-h-i-g-h-f-l-y-i-n/">H I G H F L Y I ` N</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="8" data-id="51709686" data-mp3="https://storage.mp3cc.biz/listen/51709686/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0hCdGFHdWlFdDVBZjd6VVpQSnFKcmNkMDQ5aGl3dEhMQUcwb1p0UkY0TWwwY09vZG9mbHhiNmNQVXlVdHBMSVBHbW5XajBuUktJRERiTXRpTFhlZ2s/a-u-t-e-a-m-f-l-y-i-n-g-h-i-g-h_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/10290551-a-u-t-e-a-m/51709686-f-l-y-i-n-g-h-i-g-h/" data-duration="476000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/51709686/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0hCdGFHdWlFdDVBZjd6VVpQSnFKcmNkMDQ5aGl3dEhMQUcwb1p0UkY0TWwwY09vZG9mbHhiNmNQVXlVdHBMSVBHbW5XajBuUktJRERiTXRpTFhlZ2s/a-u-t-e-a-m-f-l-y-i-n-g-h-i-g-h_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="A U T E A M - F L Y I N G H I G H (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">07:56</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/10290551-a-u-t-e-a-m/">A U T E A M</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/10290551-a-u-t-e-a-m/51709686-f-l-y-i-n-g-h-i-g-h/">F L Y I N G H I G H</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="9" data-id="63630535" data-mp3="https://storage.mp3cc.biz/listen/63630535/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a2FnaDZuWWhWbHVvb1o5R2xpSVlHRUtuemh1ai85K1FuTmFMUWRpNXhWY1dkTUdBTllFcGROOTJ2b2FjOWpzNmZIKzlvZDdQUUJYR2JEZFlJRGhOZjI/a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/63630535-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/" data-duration="187000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/63630535/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a2FnaDZuWWhWbHVvb1o5R2xpSVlHRUtuemh1ai85K1FuTmFMUWRpNXhWY1dkTUdBTllFcGROOTJ2b2FjOWpzNmZIKzlvZDdQUUJYR2JEZFlJRGhOZjI/a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="A B C D E F G H I J K L M N O P Q R S T U V W X Y Z - A B C D E F G H I J K L M N O P Q R S T U V W X Y Z (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:07</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/63630535-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="10" data-id="68706063" data-mp3="https://storage.mp3cc.biz/listen/68706063/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1Jzd3ExUkFtYy9jY3pKZSswMHA4UTljMjNudUdBNVNaNXZyNTdHWE9vWDBsUGMwb0tOeTN2S213SGpwV2ZnY3BPb3Q3VnlQTnp3eGIrb283WHY3K1g/j.e.s.s.i.e-j-w.h.o-s-l.a.u.g.h.i.n.g.-n.o.w_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/6899531-j.e.s.s.i.e-j/68706063-w.h.o-s-l.a.u.g.h.i.n.g.-n.o.w/" data-duration="234000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/68706063/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1Jzd3ExUkFtYy9jY3pKZSswMHA4UTljMjNudUdBNVNaNXZyNTdHWE9vWDBsUGMwb0tOeTN2S213SGpwV2ZnY3BPb3Q3VnlQTnp3eGIrb283WHY3K1g/j.e.s.s.i.e-j-w.h.o-s-l.a.u.g.h.i.n.g.-n.o.w_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="J.e.s.s.i.e J - W.h.o's L.a.u.g.h.i.n.g. N.o.w (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:54</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/6899531-j.e.s.s.i.e-j/">J.e.s.s.i.e J</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/6899531-j.e.s.s.i.e-j/68706063-w.h.o-s-l.a.u.g.h.i.n.g.-n.o.w/">W.h.o's L.a.u.g.h.i.n.g. N.o.w</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="11" data-id="79879318" data-mp3="https://storage.mp3cc.biz/listen/79879318/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVc2YUhYSU1kOGZsNXRlQkF6QTh1T0huTlcwT2JmeFhCU2NmWnRXVWlKblZwZlMvUytOZk5KOHFMdzdDb0N4cHM3TzlTSTF1K2doZzU2R1Z2SzlCeHI/a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/79879318-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/" data-duration="241000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/79879318/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVc2YUhYSU1kOGZsNXRlQkF6QTh1T0huTlcwT2JmeFhCU2NmWnRXVWlKblZwZlMvUytOZk5KOHFMdzdDb0N4cHM3TzlTSTF1K2doZzU2R1Z2SzlCeHI/a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="A B C D E F G H I J K L M N O P Q R S T U V W X Y Z - A B C D E F G H I J K L M N O P Q R S T U V W X Y Z (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:01</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/79879318-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="12" data-id="79879319" data-mp3="https://storage.mp3cc.biz/listen/79879319/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVc2YUhYSU1kOGZsNXRlQkF6QTh1T0NhazhOVXlDaXdCWGIwRVdWbnMwME1YeERNcHp1Z0VhL1ZxRmNqd3V1cHZJWmR6cDVSWi9oMW5CMVVPOHBkeDQ/a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/79879319-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/" data-duration="163000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/79879319/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVc2YUhYSU1kOGZsNXRlQkF6QTh1T0NhazhOVXlDaXdCWGIwRVdWbnMwME1YeERNcHp1Z0VhL1ZxRmNqd3V1cHZJWmR6cDVSWi9oMW5CMVVPOHBkeDQ/a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="A B C D E F G H I J K L M N O P Q R S T U V W X Y Z - A B C D E F G H I J K L M N O P Q R S T U V W X Y Z (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">02:43</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/12329243-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/79879319-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z/">A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="13" data-id="10724817" data-mp3="https://storage.mp3cc.biz/listen/10724817/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6azRpS1E4M3hjS24wcnNRU2VRNm5MNUpjbFhlclQzd0o1aGJkVWR5UnZmUGd1UXhqeklERHlPc1hWbEFsZlFpaW8xd0xFWmRlNXhjQ21zSkFQdzBTY3I/f-r-a-n-k-s-l-e-e-p-i-n-g-d-a-n-c-i-n-g-l-a-u-g-h-i-n-g_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/139231-f-r-a-n-k/10724817-s-l-e-e-p-i-n-g-d-a-n-c-i-n-g-l-a-u-g-h-i-n-g/" data-duration="380000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/10724817/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6azRpS1E4M3hjS24wcnNRU2VRNm5MNUpjbFhlclQzd0o1aGJkVWR5UnZmUGd1UXhqeklERHlPc1hWbEFsZlFpaW8xd0xFWmRlNXhjQ21zSkFQdzBTY3I/f-r-a-n-k-s-l-e-e-p-i-n-g-d-a-n-c-i-n-g-l-a-u-g-h-i-n-g_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="♔ F r a n K ♔ - s l e e p i n g , d a n c i n g , l a u g h i n g (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">06:20</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/139231-f-r-a-n-k/">♔ F r a n K ♔</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/139231-f-r-a-n-k/10724817-s-l-e-e-p-i-n-g-d-a-n-c-i-n-g-l-a-u-g-h-i-n-g/">s l e e p i n g , d a n c i n g , l a u g h i n g</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="14" data-id="123179184" data-mp3="https://storage.mp3cc.biz/listen/123179184/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a240dGF3RGhnSE10ejFoWVlmNGpZaTB6c3I1Zmo2MVU0TVFxYklOcTR3M3NRMEcvdHc3cTdtWUNyL0tEa0Rzd3ZYY3Bhd3NsQjl0V05EZTVaMmZSaHg/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-a-g-o-n-y_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/123179184-a-g-o-n-y/" data-duration="136000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/123179184/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a240dGF3RGhnSE10ejFoWVlmNGpZaTB6c3I1Zmo2MVU0TVFxYklOcTR3M3NRMEcvdHc3cTdtWUNyL0tEa0Rzd3ZYY3Bhd3NsQjl0V05EZTVaMmZSaHg/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-a-g-o-n-y_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþA g o n y (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">02:16</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/123179184-a-g-o-n-y/">ÿþA g o n y</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="15" data-id="124296227" data-mp3="https://storage.mp3cc.biz/listen/124296227/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bExaaEJuaFVnOVExU3FrcmZMWEhMcXp3SXJzME91R2E3T0o1MGNFMEc0N2Mwbm0ySjRob3ZBNWp3SlltT1BWcUl1dWcvYVkrbVphQS9DdzRDRnYvdXA/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-e-d-g-e_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/124296227-e-d-g-e/" data-duration="104000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/124296227/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bExaaEJuaFVnOVExU3FrcmZMWEhMcXp3SXJzME91R2E3T0o1MGNFMEc0N2Mwbm0ySjRob3ZBNWp3SlltT1BWcUl1dWcvYVkrbVphQS9DdzRDRnYvdXA/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-e-d-g-e_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþE d g e (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">01:44</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/124296227-e-d-g-e/">ÿþE d g e</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="16" data-id="48731471" data-mp3="https://storage.mp3cc.biz/listen/48731471/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bFZjRzJscGxlZ0JyMDFkT3EvQndNdDdKT0djS2c0V2N4M205QnpjRHZGanZ4WlVuN3JUSGltOVZFK0N2a2xTVEFQZmdEbGlValNuZHF0MXEyREt1dVg/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-w-i-l-l-o-w_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/48731471-w-i-l-l-o-w/" data-duration="69000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/48731471/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bFZjRzJscGxlZ0JyMDFkT3EvQndNdDdKT0djS2c0V2N4M205QnpjRHZGanZ4WlVuN3JUSGltOVZFK0N2a2xTVEFQZmdEbGlValNuZHF0MXEyREt1dVg/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-w-i-l-l-o-w_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþW i l l o w (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">01:09</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/48731471-w-i-l-l-o-w/">ÿþW i l l o w</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="17" data-id="55903714" data-mp3="https://storage.mp3cc.biz/listen/55903714/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bmVuTEZMTS9CWmtaZktDQ0ErRkhuTmt6TUdUb2FTQjE0VjNPVmdpbnpROFYrTis5aEdFUHA0MW5vUEprSXRHd3liQUQxZ1RNWWJEOGNtaDB5cGhud3o/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-r-e-q-u-i-e-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/55903714-r-e-q-u-i-e-m/" data-duration="90000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/55903714/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bmVuTEZMTS9CWmtaZktDQ0ErRkhuTmt6TUdUb2FTQjE0VjNPVmdpbnpROFYrTis5aEdFUHA0MW5vUEprSXRHd3liQUQxZ1RNWWJEOGNtaDB5cGhud3o/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-r-e-q-u-i-e-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþR e q u i e m (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">01:30</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/55903714-r-e-q-u-i-e-m/">ÿþR e q u i e m</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="18" data-id="66649324" data-mp3="https://storage.mp3cc.biz/listen/66649324/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0ErdUR2cXZxTTJIajVYN2owWjh4ZHRJYTZxZTk0K1lXR2lyTUU2clVoNFpyTXR3d2NRKzN3Y2dFZk13UXFQajUxcHIwRVYvQktMd3BtK1VEN0ZrVGM/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-c-o-n-d-u-i-t_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/66649324-c-o-n-d-u-i-t/" data-duration="64000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/66649324/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a0ErdUR2cXZxTTJIajVYN2owWjh4ZHRJYTZxZTk0K1lXR2lyTUU2clVoNFpyTXR3d2NRKzN3Y2dFZk13UXFQajUxcHIwRVYvQktMd3BtK1VEN0ZrVGM/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-c-o-n-d-u-i-t_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþC o n d u i t (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">01:04</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/66649324-c-o-n-d-u-i-t/">ÿþC o n d u i t</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="19" data-id="90510179" data-mp3="https://storage.mp3cc.biz/listen/90510179/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bTZQb1hSNkF3QkVzUnB6VUVsbjhHazBERUYwRStBcDNvS0pZOFl1VTdOVXN5NzN6NHFWZkJ0aEJRcEp5V0lhUi9KTFJ1V2t1Z002alBUV09mM3NDeUU/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-v-o-i-d_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/90510179-v-o-i-d/" data-duration="106000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/90510179/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bTZQb1hSNkF3QkVzUnB6VUVsbjhHazBERUYwRStBcDNvS0pZOFl1VTdOVXN5NzN6NHFWZkJ0aEJRcEp5V0lhUi9KTFJ1V2t1Z002alBUV09mM3NDeUU/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-v-o-i-d_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþV o i d (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">01:46</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/90510179-v-o-i-d/">ÿþV o i d</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="20" data-id="38156350" data-mp3="https://storage.mp3cc.biz/listen/38156350/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bG1pQUJrRFptb3JHV1JCTW5OOExzSCtxZnZBdndGNzA5YTg1OXpTeFFUd0Y1OXdoVWMzS0IySUhXUFhKb2VFdUVRV3NDR1FYVTNDSmRmTmE4SVhLM0U/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-f-o-r-c-e-f-e-d_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/38156350-f-o-r-c-e-f-e-d/" data-duration="71000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/38156350/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bG1pQUJrRFptb3JHV1JCTW5OOExzSCtxZnZBdndGNzA5YTg1OXpTeFFUd0Y1OXdoVWMzS0IySUhXUFhKb2VFdUVRV3NDR1FYVTNDSmRmTmE4SVhLM0U/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-f-o-r-c-e-f-e-d_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþF o r c e - F e d (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">01:11</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/38156350-f-o-r-c-e-f-e-d/">ÿþF o r c e - F e d</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="21" data-id="45028083" data-mp3="https://storage.mp3cc.biz/listen/45028083/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bC9BY0Jzc2czUXdZZ1BkbHk0M0Uxak0yN1JuZzRNSjBkRWpZalA1UU96U3JtZm9qQ3YwZFRKMnFjVDJuamgxd2Y4cHg0WnVvcElRUDl1T0pBeUVoeE4/arch-enemy-a-c-e-s-h-i-g-h-i-r-o-n-m-a-i-d-e-n-c-o-v-e-r_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/67109-arch-enemy/45028083-a-c-e-s-h-i-g-h-i-r-o-n-m-a-i-d-e-n-c-o-v-e-r/" data-duration="264000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/45028083/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bC9BY0Jzc2czUXdZZ1BkbHk0M0Uxak0yN1JuZzRNSjBkRWpZalA1UU96U3JtZm9qQ3YwZFRKMnFjVDJuamgxd2Y4cHg0WnVvcElRUDl1T0pBeUVoeE4/arch-enemy-a-c-e-s-h-i-g-h-i-r-o-n-m-a-i-d-e-n-c-o-v-e-r_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Arch Enemy - ? ÿþA c e s H i g h [ I r o n M a i d e n C o v e r ] (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:24</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/67109-arch-enemy/">Arch Enemy</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/67109-arch-enemy/45028083-a-c-e-s-h-i-g-h-i-r-o-n-m-a-i-d-e-n-c-o-v-e-r/">? ÿþA c e s H i g h [ I r o n M a i d e n C o v e r ]</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="22" data-id="46199810" data-mp3="https://storage.mp3cc.biz/listen/46199810/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWowd0dNN2RKWXNCV01QVjNpZ2tDZ3lEbkJ2S081Y0szdlhQS1FDWWtqa2h3RGZ4bzJQRUxHcVdENUFHeGxVS2dIV05MR1ZBdTBLM1JpUWJJWk91K1c/nation-_-trap-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/9339320-nation-_-trap/46199810-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m/" data-duration="224000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/46199810/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWowd0dNN2RKWXNCV01QVjNpZ2tDZ3lEbkJ2S081Y0szdlhQS1FDWWtqa2h3RGZ4bzJQRUxHcVdENUFHeGxVS2dIV05MR1ZBdTBLM1JpUWJJWk91K1c/nation-_-trap-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Nation-_-TRAP - T R V P x M U S I C -C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:44</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/9339320-nation-_-trap/">Nation-_-TRAP</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/9339320-nation-_-trap/46199810-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m/">T R V P x M U S I C -C H O K I N G H I M</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="23" data-id="49135182" data-mp3="https://storage.mp3cc.biz/listen/49135182/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bklXNEFqYUNWVlVZZC9lQ1h5Z0tPZnV1dC80YWoyWWxocldVdnNlSmRKTTF1MkZjYzNvMXVuekorRDZoOUV5OFVkR2tNWmxnTGFKSDlmNGtBblNCU1Y/zd-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/45938-zd/49135182-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m/" data-duration="224000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/49135182/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bklXNEFqYUNWVlVZZC9lQ1h5Z0tPZnV1dC80YWoyWWxocldVdnNlSmRKTTF1MkZjYzNvMXVuekorRDZoOUV5OFVkR2tNWmxnTGFKSDlmNGtBblNCU1Y/zd-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="ZD⚡️ - T R V P x M U S I C -C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:44</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/45938-zd/">ZD⚡️</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/45938-zd/49135182-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m/">T R V P x M U S I C -C H O K I N G H I M</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="24" data-id="52236122" data-mp3="https://storage.mp3cc.biz/listen/52236122/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bW5JN3daSGsraGkxbFZyZkdUNlpBYUZCcjV0dU40UHpSU2lBdDlZeHZVVnNoRzJtTlBOL0RGdk9YdkFFL2tENGN2S3plWHhSU0JWdEtRcE04VTNRMDE/chagor-night-club-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/10170595-chagor-night-club/52236122-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m/" data-duration="224000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/52236122/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bW5JN3daSGsraGkxbFZyZkdUNlpBYUZCcjV0dU40UHpSU2lBdDlZeHZVVnNoRzJtTlBOL0RGdk9YdkFFL2tENGN2S3plWHhSU0JWdEtRcE04VTNRMDE/chagor-night-club-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="CHAGOR NIGHT CLUB - T R V P x M U S I C -C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:44</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/10170595-chagor-night-club/">CHAGOR NIGHT CLUB</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/10170595-chagor-night-club/52236122-t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m/">T R V P x M U S I C -C H O K I N G H I M</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="25" data-id="59731171" data-mp3="https://storage.mp3cc.biz/listen/59731171/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bm5LYW51N3U5bEN6Q2RuUWpHU1pzMmpZVmhCYnFPbDYvcGZCemRHKzR6RnpsdDFib3YyRGZxTnpNWEM2WnJ0RjFFdXpidnBFL00zZERaUzBSSkovcDA/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-1-6-1_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/59731171-1-6-1/" data-duration="117000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/59731171/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bm5LYW51N3U5bEN6Q2RuUWpHU1pzMmpZVmhCYnFPbDYvcGZCemRHKzR6RnpsdDFib3YyRGZxTnpNWEM2WnJ0RjFFdXpidnBFL00zZERaUzBSSkovcDA/a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g-1-6-1_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g - ÿþ1 6 1 (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">01:57</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/">= ÿþA M i l l i o n D e a d B i r d s L a u g h i n g</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/7875032-a-m-i-l-l-i-o-n-d-e-a-d-b-i-r-d-s-l-a-u-g-h-i-n-g/59731171-1-6-1/">ÿþ1 6 1</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="26" data-id="80532921" data-mp3="https://storage.mp3cc.biz/listen/80532921/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bTJIWTU3eVQ0dDNkb2xqVnJPbEVKRUxHaGx2eFFHOGFuaDFJTWZoNDhUVVAwUUkvV3JNVGVwV3cxWFd6MUJUMFd5c1ZVYlJZRE9uOHMzNU9ucjNCdlg/t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/293187-t-r-v-p-x-m-u-s-i-c/80532921-c-h-o-k-i-n-g-h-i-m/" data-duration="224000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/80532921/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bTJIWTU3eVQ0dDNkb2xqVnJPbEVKRUxHaGx2eFFHOGFuaDFJTWZoNDhUVVAwUUkvV3JNVGVwV3cxWFd6MUJUMFd5c1ZVYlJZRE9uOHMzNU9ucjNCdlg/t-r-v-p-x-m-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="T R V P x M U S I C - C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:44</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/293187-t-r-v-p-x-m-u-s-i-c/">T R V P x M U S I C</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/293187-t-r-v-p-x-m-u-s-i-c/80532921-c-h-o-k-i-n-g-h-i-m/">C H O K I N G H I M</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="27" data-id="107595946" data-mp3="https://storage.mp3cc.biz/listen/107595946/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVd0UTlMNWF0SjQvbW1lU3J0MXhDYTNtajlSbXhHWWhlMEFyV25EakcxcGFSaG1QcU9FZHNENU1VeUVzSll3N3pGN05ydEJYQXhDaGJWU2YyTVFHdEg/t-r-v-pm-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/8936058-t-r-v-pm-u-s-i-c/107595946-c-h-o-k-i-n-g-h-i-m/" data-duration="224000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/107595946/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVd0UTlMNWF0SjQvbW1lU3J0MXhDYTNtajlSbXhHWWhlMEFyV25EakcxcGFSaG1QcU9FZHNENU1VeUVzSll3N3pGN05ydEJYQXhDaGJWU2YyTVFHdEg/t-r-v-pm-u-s-i-c-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="T R V PM U S I C - C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:44</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/8936058-t-r-v-pm-u-s-i-c/">T R V PM U S I C</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/8936058-t-r-v-pm-u-s-i-c/107595946-c-h-o-k-i-n-g-h-i-m/">C H O K I N G H I M</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="28" data-id="10540963" data-mp3="https://storage.mp3cc.biz/listen/10540963/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blZUSWkzNDlnaXp4M0VHTEk3OWRkaWl6T25DM1lBVm5FWXlFT2lpSzN3WkowTHdIYmZWOXlGUW52MXBMbFZZa1R3blUwVmpVbWtZTFJXZGQ2V3EwaDE/original-london-cast-b-r-i-n-g-h-i-m-h-o-m-e_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/222753-original-london-cast/10540963-b-r-i-n-g-h-i-m-h-o-m-e/" data-duration="207000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/10540963/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blZUSWkzNDlnaXp4M0VHTEk3OWRkaWl6T25DM1lBVm5FWXlFT2lpSzN3WkowTHdIYmZWOXlGUW52MXBMbFZZa1R3blUwVmpVbWtZTFJXZGQ2V3EwaDE/original-london-cast-b-r-i-n-g-h-i-m-h-o-m-e_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Original London Cast - B r i n g H i m H o m e (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:27</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/222753-original-london-cast/">Original London Cast</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/222753-original-london-cast/10540963-b-r-i-n-g-h-i-m-h-o-m-e/">B r i n g H i m H o m e</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="29" data-id="54876262" data-mp3="https://storage.mp3cc.biz/listen/54876262/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bDFZRFJ3U0YzQmdaTUdCajh0cGVQRVFqZERYZWZjWGZLMS9EUjR1eGZkWFJqeS9hVE1kdTMvanc2ZndJUDh3Sm1ScjFiQ2RWc2xoeDBOaUlNU2JrSm4/trap-music-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/19024-trap-music/54876262-c-h-o-k-i-n-g-h-i-m/" data-duration="224000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/54876262/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bDFZRFJ3U0YzQmdaTUdCajh0cGVQRVFqZERYZWZjWGZLMS9EUjR1eGZkWFJqeS9hVE1kdTMvanc2ZndJUDh3Sm1ScjFiQ2RWc2xoeDBOaUlNU2JrSm4/trap-music-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="▲TRAP✖MUSIC▼ - C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:44</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/19024-trap-music/">▲TRAP✖MUSIC▼</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/19024-trap-music/54876262-c-h-o-k-i-n-g-h-i-m/">C H O K I N G H I M</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="30" data-id="56892813" data-mp3="https://storage.mp3cc.biz/listen/56892813/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1N3bUx5Z0lmSjczTlU2OVd6VkxyeXhJSml6NjdzTDZURE41SjJHdzBzMXZsdEZZN1dvelVZN2w0TjVrY3hhZjN3UlY5UTB3WkhBR0xWNlJNUE5kZHI/fap-girls-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/8502477-fap-girls/56892813-c-h-o-k-i-n-g-h-i-m/" data-duration="224000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/56892813/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1N3bUx5Z0lmSjczTlU2OVd6VkxyeXhJSml6NjdzTDZURE41SjJHdzBzMXZsdEZZN1dvelVZN2w0TjVrY3hhZjN3UlY5UTB3WkhBR0xWNlJNUE5kZHI/fap-girls-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Fap Girls - C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:44</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/8502477-fap-girls/">Fap Girls</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/8502477-fap-girls/56892813-c-h-o-k-i-n-g-h-i-m/">C H O K I N G H I M</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="31" data-id="70031071" data-mp3="https://storage.mp3cc.biz/listen/70031071/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWRLaGh5L0pxNnVCUGVaMFE3UzhLVHU0Q1hQOWVFQnFIbmR2Z0UvUitEWHZKa0pDWGZnNHhPaUJMYmZFRFJkVFBJeTducnRBYnltZUNaUzd1bnFvVHQ/pvrtxcisum-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/13219450-pvrtxcisum/70031071-c-h-o-k-i-n-g-h-i-m/" data-duration="222000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/70031071/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWRLaGh5L0pxNnVCUGVaMFE3UzhLVHU0Q1hQOWVFQnFIbmR2Z0UvUitEWHZKa0pDWGZnNHhPaUJMYmZFRFJkVFBJeTducnRBYnltZUNaUzd1bnFvVHQ/pvrtxcisum-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="PVRTxCISUM - C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:42</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/13219450-pvrtxcisum/">PVRTxCISUM</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/13219450-pvrtxcisum/70031071-c-h-o-k-i-n-g-h-i-m/">C H O K I N G H I M</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="32" data-id="87871635" data-mp3="https://storage.mp3cc.biz/listen/87871635/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bEZjR3ZkNVh5Q2NSb3paT3dqNldycmNaMlFDc0pHKzEzUmFMbmp0MlViaktEUFdTTmtqMUhmT1YyeHlyNm9QRC83ZlQwdFFNZXFJNG5pLzZkU1BkU04/x-m-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/5986521-x-m/87871635-c-h-o-k-i-n-g-h-i-m/" data-duration="224000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/87871635/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bEZjR3ZkNVh5Q2NSb3paT3dqNldycmNaMlFDc0pHKzEzUmFMbmp0MlViaktEUFdTTmtqMUhmT1YyeHlyNm9QRC83ZlQwdFFNZXFJNG5pLzZkU1BkU04/x-m-c-h-o-k-i-n-g-h-i-m_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="x M - C H O K I N G H I M (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:44</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/5986521-x-m/">x M</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/5986521-x-m/87871635-c-h-o-k-i-n-g-h-i-m/">C H O K I N G H I M</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="33" data-id="43196271" data-mp3="https://storage.mp3cc.biz/listen/43196271/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bW5WVVNLRUhzc3ArYzZ4NXYxN0VyNHFpMnJURlYyYW52dzFubFphNlBPYVRLU2ovLzVRc1kwNkUrZkhJKzN5MGFPTGxkbm1WMlUyTDB3VFZxQUdWSlI/q-y-n-m-g-h-i-like-to-think-i-m-stronger-nowvictim-of-common-sensethe-truth-is-that-i-know-i-stillconfuse-the-pa_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/8810682-q-y-n-m-g-h/43196271-i-like-to-think-i-m-stronger-nowvictim-of-common-sensethe-truth-is-that-i-know-i-stillconfuse-the-pa/" data-duration="280000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/43196271/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bW5WVVNLRUhzc3ArYzZ4NXYxN0VyNHFpMnJURlYyYW52dzFubFphNlBPYVRLU2ovLzVRc1kwNkUrZkhJKzN5MGFPTGxkbm1WMlUyTDB3VFZxQUdWSlI/q-y-n-m-g-h-i-like-to-think-i-m-stronger-nowvictim-of-common-sensethe-truth-is-that-i-know-i-stillconfuse-the-pa_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Q Y N M G H - I like to think I'm stronger nowVictim of common senseThe truth is that I know I stillConfuse the pa (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:40</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/8810682-q-y-n-m-g-h/">Q Y N M G H</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/8810682-q-y-n-m-g-h/43196271-i-like-to-think-i-m-stronger-nowvictim-of-common-sensethe-truth-is-that-i-know-i-stillconfuse-the-pa/">I like to think I'm stronger nowVictim of common senseThe truth is that I know I stillConfuse the pa</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="34" data-id="46050883" data-mp3="https://storage.mp3cc.biz/listen/46050883/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bldGMzB4N3gyQ0dLMUV6UHRLRHl5RzNIdnFqS0pKMEZCdTdNeG1rS2RpZHpOeFZXcm9rSUkySFpSOVYxQ2lQL2RoTjZ4TDVNWHlOWGhUSzBUaHdxdEU/s-vi-iy-s-h-i-g-h-i_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/8044580-s-vi-iy/46050883-s-h-i-g-h-i/" data-duration="208000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/46050883/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bldGMzB4N3gyQ0dLMUV6UHRLRHl5RzNIdnFqS0pKMEZCdTdNeG1rS2RpZHpOeFZXcm9rSUkySFpSOVYxQ2lQL2RoTjZ4TDVNWHlOWGhUSzBUaHdxdEU/s-vi-iy-s-h-i-g-h-i_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="S∆VIŁIY∆ - S H ∆ И G H ∆ I (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:28</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/8044580-s-vi-iy/">S∆VIŁIY∆</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/8044580-s-vi-iy/46050883-s-h-i-g-h-i/">S H ∆ И G H ∆ I</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="35" data-id="10912043" data-mp3="https://storage.mp3cc.biz/listen/10912043/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a3ZpR2N1azlMWXBZeHJZeDR4Syt0Njc2QjdQcmgyb05mVkxPcWtqb3hRU1Z4NFpGVnVyc2o5Wmp5TDAzazh5UDdpekprMjhzaXFRMlFJTUdXSStPYUE/_-_-richard-wells-a-wonderful-thing-la-divina-commedia-di-d-a-n-t-e-a-l-i-g-h-i-e-r-i-damon-salvatore-_-__(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/746516-_-_-richard-wells/10912043-a-wonderful-thing-la-divina-commedia-di-d-a-n-t-e-a-l-i-g-h-i-e-r-i-damon-salvatore-_-_/" data-duration="142000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/10912043/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a3ZpR2N1azlMWXBZeHJZeDR4Syt0Njc2QjdQcmgyb05mVkxPcWtqb3hRU1Z4NFpGVnVyc2o5Wmp5TDAzazh5UDdpekprMjhzaXFRMlFJTUdXSStPYUE/_-_-richard-wells-a-wonderful-thing-la-divina-commedia-di-d-a-n-t-e-a-l-i-g-h-i-e-r-i-damon-salvatore-_-__(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="†_☜|☞_ † Richard Wells - A Wonderful Thing [La Divina Commedia di̶D̶a̶n̶t̶e̶ ̶A̶l̶i̶g̶h̶i̶e̶r̶i Damon Salvatore™ ® ©] †_☜|☞_  (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">02:22</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/746516-_-_-richard-wells/">†_☜|☞_ † Richard Wells</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/746516-_-_-richard-wells/10912043-a-wonderful-thing-la-divina-commedia-di-d-a-n-t-e-a-l-i-g-h-i-e-r-i-damon-salvatore-_-_/">A Wonderful Thing [La Divina Commedia di̶D̶a̶n̶t̶e̶ ̶A̶l̶i̶g̶h̶i̶e̶r̶i Damon Salvatore™ ® ©] †_☜|☞_ </a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="36" data-id="21420678" data-mp3="https://storage.mp3cc.biz/listen/21420678/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bjFUcThranlhQTZ5Tkx2ZllndkJ3ay9MSHJ4RDV0bnlkYTRud3BmWDY1VlFKQi9TUEM3b3F5THhXdHhvV0VpQXIvU3dNelM3WDFub1lxZXI1dGppY0I/_-_-la-divina-commedia-di-d-a-n-t-e-a-l-i-g-h-i-e-r-i-damon-salvatore-_-__(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/2200898-_-_-la-divina-commedia/21420678-di-d-a-n-t-e-a-l-i-g-h-i-e-r-i-damon-salvatore-_-_/" data-duration="38000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/21420678/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bjFUcThranlhQTZ5Tkx2ZllndkJ3ay9MSHJ4RDV0bnlkYTRud3BmWDY1VlFKQi9TUEM3b3F5THhXdHhvV0VpQXIvU3dNelM3WDFub1lxZXI1dGppY0I/_-_-la-divina-commedia-di-d-a-n-t-e-a-l-i-g-h-i-e-r-i-damon-salvatore-_-__(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="†_☜|☞_ † La Divina Commedia - di̶D̶a̶n̶t̶e̶ ̶A̶l̶i̶g̶h̶i̶e̶r̶i Damon Salvatore™ ® © †_☜|☞_ † (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">00:38</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/2200898-_-_-la-divina-commedia/">†_☜|☞_ † La Divina Commedia</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/2200898-_-_-la-divina-commedia/21420678-di-d-a-n-t-e-a-l-i-g-h-i-e-r-i-damon-salvatore-_-_/">di̶D̶a̶n̶t̶e̶ ̶A̶l̶i̶g̶h̶i̶e̶r̶i Damon Salvatore™ ® © †_☜|☞_ †</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="37" data-id="31371248" data-mp3="https://storage.mp3cc.biz/listen/31371248/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bElkQ2QrVjcvQzQ2OUU0akdlUEYxNUtJTTNuNG0rYVJTVmd5SlRXS2R5L3hOcFBVMCtPZkxrQXZGcytvODcwelFudU1uanpNM3h0a0hkQTVxaUREckk/l-a-u-g-h-i-n-g-o-u-t-l-o-u-d-heart-on-fire_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/6524671-l-a-u-g-h-i-n-g-o-u-t-l-o-u-d/31371248-heart-on-fire/" data-duration="240000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/31371248/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bElkQ2QrVjcvQzQ2OUU0akdlUEYxNUtJTTNuNG0rYVJTVmd5SlRXS2R5L3hOcFBVMCtPZkxrQXZGcytvODcwelFudU1uanpNM3h0a0hkQTVxaUREckk/l-a-u-g-h-i-n-g-o-u-t-l-o-u-d-heart-on-fire_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="l a u g h i n g o u t l o u d - Heart On Fire (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:00</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/6524671-l-a-u-g-h-i-n-g-o-u-t-l-o-u-d/">l a u g h i n g o u t l o u d</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/6524671-l-a-u-g-h-i-n-g-o-u-t-l-o-u-d/31371248-heart-on-fire/">Heart On Fire</a></em>
-			</h2>
-		</li>
-			<li class="playlist-ad" id="in_playlist_2Banner">
-			<div>
-				<iframe src="/api/iframe/in_playlist_2"></iframe>
-			</div>
-		</li>
-		
-		
-		<li class="track" data-index="38" data-id="42903349" data-mp3="https://storage.mp3cc.biz/listen/42903349/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bnhuci9GQU9pTVdaVzNaODFUTFhrVXV3T21YMmVmWi8zcFdSUWlyVXFRZk1rQVNNbk92ZjVOUUx6RTFUUk5yeUp0T2pPQWtlTFhaakRXQTh1RFkxYW8/st.-vincent-l-a-u-g-h-i-n-g-with-a-mouth-full-of-blood_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/15968-st.-vincent/42903349-l-a-u-g-h-i-n-g-with-a-mouth-full-of-blood/" data-duration="181000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/42903349/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bnhuci9GQU9pTVdaVzNaODFUTFhrVXV3T21YMmVmWi8zcFdSUWlyVXFRZk1rQVNNbk92ZjVOUUx6RTFUUk5yeUp0T2pPQWtlTFhaakRXQTh1RFkxYW8/st.-vincent-l-a-u-g-h-i-n-g-with-a-mouth-full-of-blood_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="st. vincent - L A U G H I N G with a mouth full of blood (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">03:01</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/15968-st.-vincent/">st. vincent</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/15968-st.-vincent/42903349-l-a-u-g-h-i-n-g-with-a-mouth-full-of-blood/">L A U G H I N G with a mouth full of blood</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="39" data-id="287960" data-mp3="https://storage.mp3cc.biz/listen/287960/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bitKdHZUQ0JyMG1VUzZnaEtRcGhGajVGSnAzUkt1a1VTakp5TWtLRW5jMmx4U05rVEU3K1hac0xCckNqZWx1cjVsMU9vZlRUckcvOUowNWdiNThoSVM/abc-the-alphabet-song-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-and-z-now-i-know-my-abc-next-tim_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/79186-abc/287960-the-alphabet-song-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-and-z-now-i-know-my-abc-next-tim/" data-duration="92000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/287960/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bitKdHZUQ0JyMG1VUzZnaEtRcGhGajVGSnAzUkt1a1VTakp5TWtLRW5jMmx4U05rVEU3K1hac0xCckNqZWx1cjVsMU9vZlRUckcvOUowNWdiNThoSVM/abc-the-alphabet-song-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-and-z-now-i-know-my-abc-next-tim_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="ABC - The alphabet song A B C D E F G H I J K L M N O P Q R S T U V W X Y and Z Now I know my ABC Next tim (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">01:32</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/79186-abc/">ABC</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/79186-abc/287960-the-alphabet-song-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-and-z-now-i-know-my-abc-next-tim/">The alphabet song A B C D E F G H I J K L M N O P Q R S T U V W X Y and Z Now I know my ABC Next tim</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="40" data-id="15904585" data-mp3="https://storage.mp3cc.biz/listen/15904585/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVRLSjE2Sy9oQVVYWXBkK2h2a1dKdkRid2QyTi8wejU3aFFXN0RiRXp1SVQxbzBaQ1NiY3RZOUpBa1BnQXdML0xUWFVLUnoyNlZGMGRmMHpuVTFnSEI/d-r-b-r-o-w-s-i-n-g-h-i-s-t-o-r-y_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/293178-d-r/15904585-b-r-o-w-s-i-n-g-h-i-s-t-o-r-y/" data-duration="256000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/15904585/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bVRLSjE2Sy9oQVVYWXBkK2h2a1dKdkRid2QyTi8wejU3aFFXN0RiRXp1SVQxbzBaQ1NiY3RZOUpBa1BnQXdML0xUWFVLUnoyNlZGMGRmMHpuVTFnSEI/d-r-b-r-o-w-s-i-n-g-h-i-s-t-o-r-y_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="D∑∆▲° R∆▼ǝ✝ - b r o w s i n g h i s t o r y (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:16</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/293178-d-r/">D∑∆▲° R∆▼ǝ✝</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/293178-d-r/15904585-b-r-o-w-s-i-n-g-h-i-s-t-o-r-y/">b r o w s i n g h i s t o r y</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="41" data-id="41780968" data-mp3="https://storage.mp3cc.biz/listen/41780968/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWFvM09POHpCMTZUM0Ywcjc3b0ptSTJlODlWZS9YNjlFcVdsbk02VG14RCtWYllrZlVNdCttczFTOUgvWkRNYXFtbjlra1VZTlUwRkF4RU1GTnRVWHA/m-v-l-a-m-b-o-r-g-h-i-n-i_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/1803916-m-v/41780968-l-a-m-b-o-r-g-h-i-n-i/" data-duration="279000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/41780968/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWFvM09POHpCMTZUM0Ywcjc3b0ptSTJlODlWZS9YNjlFcVdsbk02VG14RCtWYllrZlVNdCttczFTOUgvWkRNYXFtbjlra1VZTlUwRkF4RU1GTnRVWHA/m-v-l-a-m-b-o-r-g-h-i-n-i_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="▲M∀ŘVłŇ - L A M B O R G H I N I (mp3CC.biz).mp3">(скачать)</a>
-				
-			</div>
-
-			<em>
-				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
-
-				<span class="playlist-duration">04:39</span>
-			</em>
-			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
-
-			<h2 class="playlist-name">
-				<b><a href="/m/1803916-m-v/">▲M∀ŘVłŇ</a></b>
-				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/1803916-m-v/41780968-l-a-m-b-o-r-g-h-i-n-i/">L A M B O R G H I N I</a></em>
-			</h2>
-		</li>
-	
-		<li class="track" data-index="42" data-id="44668134" data-mp3="https://storage.mp3cc.biz/listen/44668134/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkxOUmdDYkFKU05UOFJscHhwUUphVEpqNjlRRmFqdXNYV1o4NWVQNml0aUNURVlvUXVSYUt6akVZbjROSDZSNDVPenNLbVF1QnFIeUF5cndIdmpLV2Q/rambo-k-kutta-squirm-g-h.i.d.i._(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/8923953-rambo-k-kutta-squirm-g/44668134-h.i.d.i./" data-duration="196000">
-
-			
-
-			<div class="playlist-btn">
-				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/44668134/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bkxOUmdDYkFKU05UOFJscHhwUUphVEpqNjlRRmFqdXNYV1o4NWVQNml0aUNURVlvUXVSYUt6akVZbjROSDZSNDVPenNLbVF1QnFIeUF5cndIdmpLV2Q/rambo-k-kutta-squirm-g-h.i.d.i._(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Rambo K Kutta &amp; Squirm G - H.I.D.I. (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/46266499/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SkRRNEFYcXBHaTd4RWlEb25QZXhnMnpWQzdIZkpSdGlNdkJXcmFDSE8reTFlYWt0QmVIOEowNEdNdm91dG83dWUvRzB0ZHhiMVVrVExLNjJMV0hPckU/dj-asetin-and-coolio-paradise-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="DJ ASETIN and Coolio - Paradise (REMIX) (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
@@ -1165,180 +463,882 @@
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/8923953-rambo-k-kutta-squirm-g/">Rambo K Kutta &amp; Squirm G</a></b>
+				<b><a href="/m/9350676-dj-asetin-and-coolio/">DJ ASETIN and Coolio</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/8923953-rambo-k-kutta-squirm-g/44668134-h.i.d.i./">H.I.D.I.</a></em>
+				<em><a href="https://mp3cc.biz/m/9350676-dj-asetin-and-coolio/46266499-paradise-remix/">Paradise (REMIX)</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="43" data-id="47087110" data-mp3="https://storage.mp3cc.biz/listen/47087110/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bUpWcUNFbzVCeGdON1dkQ2pXdjVkMjNIZ3Rqb3VUeGJMS3drNzROZU1iL1pRN1dXZTVSYTJYRFV2bzhqMmdVTk9wcEI2bjJJL29UREdCcGpSZHNtOHY/a_m_e_d_e_o-m_i_n_g_h_i-ost-edera_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/9492596-a_m_e_d_e_o-m_i_n_g_h_i/47087110-ost-edera/" data-duration="238000">
+		<li class="track" data-index="14" data-id="88947080" data-mp3="https://storage.mp3cc.biz/listen/88947080/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S1ZLbjduY3E5ZTdOYWd6bndtb1l3RWU2WVJPMUlERDBEVmNBTnJHYzZnU3VzRTAvdVRUdUlXVW5QdlcxMWhUTDRSbVNLS096Q2xVeStQVDQyY0VMVmE/cover-piano-coolio-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/15830486-cover-piano-coolio/88947080-paradise/" data-duration="50000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/47087110/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bUpWcUNFbzVCeGdON1dkQ2pXdjVkMjNIZ3Rqb3VUeGJMS3drNzROZU1iL1pRN1dXZTVSYTJYRFV2bzhqMmdVTk9wcEI2bjJJL29UREdCcGpSZHNtOHY/a_m_e_d_e_o-m_i_n_g_h_i-ost-edera_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="A_m_e_d_e_o M_i_n_g_h_i - (OST Эдера) (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/88947080/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S1ZLbjduY3E5ZTdOYWd6bndtb1l3RWU2WVJPMUlERDBEVmNBTnJHYzZnU3VzRTAvdVRUdUlXVW5QdlcxMWhUTDRSbVNLS096Q2xVeStQVDQyY0VMVmE/cover-piano-coolio-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="(Cover piano) Coolio - Paradise (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">03:58</span>
+				<span class="playlist-duration">00:50</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/9492596-a_m_e_d_e_o-m_i_n_g_h_i/">A_m_e_d_e_o M_i_n_g_h_i</a></b>
+				<b><a href="/m/15830486-cover-piano-coolio/">(Cover piano) Coolio</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/9492596-a_m_e_d_e_o-m_i_n_g_h_i/47087110-ost-edera/">(OST Эдера)</a></em>
+				<em><a href="https://mp3cc.biz/m/15830486-cover-piano-coolio/88947080-paradise/">Paradise</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="44" data-id="48301978" data-mp3="https://storage.mp3cc.biz/listen/48301978/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blJnUFI1T25jSDdJV0thK2U4M0E5K09hdGpIaFRXMEh1RXZBVjRXSDdwYkZDRDNhZGY4ZTZUZWJxeXpYMXRNUGxZclZnM00zTVNhOFZaTFBaWUttekk/voice-ask-g-h-i-b-l-i-so-privetstvie_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/9703652-voice-ask-g-h-i-b-l-i-so/48301978-privetstvie/" data-duration="35000">
+		<li class="track" data-index="15" data-id="24856438" data-mp3="https://storage.mp3cc.biz/listen/24856438/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TEZJdkVza3JoVWtIVTVhTThuNXgxY3YrTlhKSUlZTnMrNzFaV3BTUzYzc05SY2R0NUtmakthQXArKzdVRUdKeUVaSzVkdXdQbldjTnRYOVpsODdaamo/coolio-gangster-s-paradise-eurodance-rave-remix-coolio-gangster-s-paradise-eurodance-rave-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/5084757-coolio-gangster-s-paradise-eurodance-rave-remix/24856438-coolio-gangster-s-paradise-eurodance-rave-remix/" data-duration="488000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/48301978/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blJnUFI1T25jSDdJV0thK2U4M0E5K09hdGpIaFRXMEh1RXZBVjRXSDdwYkZDRDNhZGY4ZTZUZWJxeXpYMXRNUGxZclZnM00zTVNhOFZaTFBaWUttekk/voice-ask-g-h-i-b-l-i-so-privetstvie_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Voice Ask  [ G H I B L I ]|So - Приветствие (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/24856438/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TEZJdkVza3JoVWtIVTVhTThuNXgxY3YrTlhKSUlZTnMrNzFaV3BTUzYzc05SY2R0NUtmakthQXArKzdVRUdKeUVaSzVkdXdQbldjTnRYOVpsODdaamo/coolio-gangster-s-paradise-eurodance-rave-remix-coolio-gangster-s-paradise-eurodance-rave-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio-Gangster's Paradise(Eurodance Rave Remix) - Coolio-Gangster's Paradise(Eurodance Rave Remix) (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">00:35</span>
+				<span class="playlist-duration">08:08</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/9703652-voice-ask-g-h-i-b-l-i-so/">Voice Ask  [ G H I B L I ]|So</a></b>
+				<b><a href="/m/5084757-coolio-gangster-s-paradise-eurodance-rave-remix/">Coolio-Gangster's Paradise(Eurodance Rave Remix)</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/9703652-voice-ask-g-h-i-b-l-i-so/48301978-privetstvie/">Приветствие</a></em>
+				<em><a href="https://mp3cc.biz/m/5084757-coolio-gangster-s-paradise-eurodance-rave-remix/24856438-coolio-gangster-s-paradise-eurodance-rave-remix/">Coolio-Gangster's Paradise(Eurodance Rave Remix)</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="45" data-id="54473929" data-mp3="https://storage.mp3cc.biz/listen/54473929/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWw2Mlp1dFBTWFgrK1k5bkgrYlp5U2xQcnN0SFdWOUVTWWFCSVRlOVkvOERHSndORHZONFAvR1RpbzVHNUxxMDZaM0FwbWlvemtRa3hCYmlVSkRkUWM/voice-ask-g-h-i-b-l-i.-san-2_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/10773333-voice-ask-g-h-i-b-l-i./54473929-san-2/" data-duration="9000">
+		<li class="track" data-index="16" data-id="50261690" data-mp3="https://storage.mp3cc.biz/listen/50261690/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SXFFT2NudXRKUWtqYmx1Uk5YQjVsZG42blF1a3NDRk5PWXpoWTlqWkV5QVVtSWtCbkdETjNpdy81Z2hFQTY1cU5RSXN5ZHpLdzhPZkNMcWpDcHh3Zlk/coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-...-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-..._(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/10038565-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../50261690-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../" data-duration="167000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/54473929/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWw2Mlp1dFBTWFgrK1k5bkgrYlp5U2xQcnN0SFdWOUVTWWFCSVRlOVkvOERHSndORHZONFAvR1RpbzVHNUxxMDZaM0FwbWlvemtRa3hCYmlVSkRkUWM/voice-ask-g-h-i-b-l-i.-san-2_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Voice Ask — G H I B L I. - Сан (2) (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/50261690/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SXFFT2NudXRKUWtqYmx1Uk5YQjVsZG42blF1a3NDRk5PWXpoWTlqWkV5QVVtSWtCbkdETjNpdy81Z2hFQTY1cU5RSXN5ZHpLdzhPZkNMcWpDcHh3Zlk/coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-...-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-..._(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="COOLIO vs. KYLIAN MASH &amp; RICO BERNASCONI Gangsta's Paradise 2011 (Bernasconi ... - COOLIO vs. KYLIAN MASH &amp; RICO BERNASCONI Gangsta's Paradise 2011 (Bernasconi ... (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">00:09</span>
+				<span class="playlist-duration">02:47</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/10773333-voice-ask-g-h-i-b-l-i./">Voice Ask — G H I B L I.</a></b>
+				<b><a href="/m/10038565-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../">COOLIO vs. KYLIAN MASH &amp; RICO BERNASCONI Gangsta's Paradise 2011 (Bernasconi ...</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/10773333-voice-ask-g-h-i-b-l-i./54473929-san-2/">Сан (2)</a></em>
+				<em><a href="https://mp3cc.biz/m/10038565-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../50261690-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../">COOLIO vs. KYLIAN MASH &amp; RICO BERNASCONI Gangsta's Paradise 2011 (Bernasconi ...</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="46" data-id="54473937" data-mp3="https://storage.mp3cc.biz/listen/54473937/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWw2Mlp1dFBTWFgrK1k5bkgrYlp5U1NrYWRTK2xIWXNDaS9kOWROeHJMYXl2Q21yREJJWnN4VkFwWTlScDlUOHBmM3U4MnBGZTBsYmZ4cm5OdE40Q24/voice-ask-g-h-i-b-l-i.-otvet-san-1_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/10773333-voice-ask-g-h-i-b-l-i./54473937-otvet-san-1/" data-duration="20000">
+		<li class="track" data-index="17" data-id="85727762" data-mp3="https://storage.mp3cc.biz/listen/85727762/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TGc2eEZNZjhtbHl5QkJOYVc0WGV0dVlGdm1FZDR4eE03QVpuUk42aVA4MG5MUElRZTYwVXBBRXA0SFVNVC9GeGFnaXMvWitHeE5mRnExNXk1MXVjR04/coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-dj-amada-mash-up-sax-version_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/15448165-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise/85727762-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-dj-amada-mash-up-sax-version/" data-duration="197000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/54473937/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bWw2Mlp1dFBTWFgrK1k5bkgrYlp5U1NrYWRTK2xIWXNDaS9kOWROeHJMYXl2Q21yREJJWnN4VkFwWTlScDlUOHBmM3U4MnBGZTBsYmZ4cm5OdE40Q24/voice-ask-g-h-i-b-l-i.-otvet-san-1_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Voice Ask — G H I B L I. - Ответ Сан (1) (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/85727762/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TGc2eEZNZjhtbHl5QkJOYVc0WGV0dVlGdm1FZDR4eE03QVpuUk42aVA4MG5MUElRZTYwVXBBRXA0SFVNVC9GeGFnaXMvWitHeE5mRnExNXk1MXVjR04/coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-dj-amada-mash-up-sax-version_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio Feat. DJ Pitchugin &amp; TPaul - Gangsta's Paradise - Coolio Feat. DJ Pitchugin &amp; TPaul - Gangsta's Paradise (DJ Amada Mash Up Sax Version) (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">00:20</span>
+				<span class="playlist-duration">03:17</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/10773333-voice-ask-g-h-i-b-l-i./">Voice Ask — G H I B L I.</a></b>
+				<b><a href="/m/15448165-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise/">Coolio Feat. DJ Pitchugin &amp; TPaul - Gangsta's Paradise</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/10773333-voice-ask-g-h-i-b-l-i./54473937-otvet-san-1/">Ответ Сан (1)</a></em>
+				<em><a href="https://mp3cc.biz/m/15448165-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise/85727762-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-dj-amada-mash-up-sax-version/">Coolio Feat. DJ Pitchugin &amp; TPaul - Gangsta's Paradise (DJ Amada Mash Up Sax Version)</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="47" data-id="59297087" data-mp3="https://storage.mp3cc.biz/listen/59297087/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bFZxYWkxTTluSGtoS1FGZnhXenZoN3pWbWpJS0kxOHNwd2hYT0ZzZDFDb0hZckJXMHBDS0NlU0lSMUM3NDVqS3FReDdGd2pjcHppSjliSFk5WXVKT1Y/skrillex-rickross-p-u-r-p-l-e-l-a-m-b-o-r-g-h-i-n-i_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/11603020-skrillex-rickross/59297087-p-u-r-p-l-e-l-a-m-b-o-r-g-h-i-n-i/" data-duration="210000">
+		<li class="track" data-index="18" data-id="87342044" data-mp3="https://storage.mp3cc.biz/listen/87342044/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5Sm5jUVFQVGREVmk0TW1NYkVqZjR2QlNKcnIvV2VkUFp1ckFYdkNkNXEvQlVQdnhDY3g5dTlKb0JZU1NhYlo2Yk1VYks5RlVERVNPS0RzdDlxWWZGMU4/coolio-gangsta-s-paradise-kulkid-remix-coolio-gangsta-s-paradise-kulkid-remix-revolution-radio_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/15633803-coolio-gangsta-s-paradise-kulkid-remix/87342044-coolio-gangsta-s-paradise-kulkid-remix-revolution-radio/" data-duration="334000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/59297087/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6bFZxYWkxTTluSGtoS1FGZnhXenZoN3pWbWpJS0kxOHNwd2hYT0ZzZDFDb0hZckJXMHBDS0NlU0lSMUM3NDVqS3FReDdGd2pjcHppSjliSFk5WXVKT1Y/skrillex-rickross-p-u-r-p-l-e-l-a-m-b-o-r-g-h-i-n-i_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="SKRILLEX RICKROSS - P U R P L E L A M B O R G H I N I (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/87342044/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5Sm5jUVFQVGREVmk0TW1NYkVqZjR2QlNKcnIvV2VkUFp1ckFYdkNkNXEvQlVQdnhDY3g5dTlKb0JZU1NhYlo2Yk1VYks5RlVERVNPS0RzdDlxWWZGMU4/coolio-gangsta-s-paradise-kulkid-remix-coolio-gangsta-s-paradise-kulkid-remix-revolution-radio_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio – Gangsta's Paradise (Kulkid Remix) - Coolio – Gangsta's Paradise (Kulkid Remix) [Revolution Radio] (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">03:30</span>
+				<span class="playlist-duration">05:34</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/11603020-skrillex-rickross/">SKRILLEX RICKROSS</a></b>
+				<b><a href="/m/15633803-coolio-gangsta-s-paradise-kulkid-remix/">Coolio – Gangsta's Paradise (Kulkid Remix)</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/11603020-skrillex-rickross/59297087-p-u-r-p-l-e-l-a-m-b-o-r-g-h-i-n-i/">P U R P L E L A M B O R G H I N I</a></em>
+				<em><a href="https://mp3cc.biz/m/15633803-coolio-gangsta-s-paradise-kulkid-remix/87342044-coolio-gangsta-s-paradise-kulkid-remix-revolution-radio/">Coolio – Gangsta's Paradise (Kulkid Remix) [Revolution Radio]</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="48" data-id="66143823" data-mp3="https://storage.mp3cc.biz/listen/66143823/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blhybTc4THNCKzlCdGtFaUFueU5TSlIrMm9KanBodFhhV0F5TzdCblhMZk9MejZVSEZ5Y0xoSmJnZXpBNm9jQ3hQVWlXTjkrNVYvMVJkME91RlMwMHU/vbots.ru-a-b-c-d-e-f-g-h-i-j-k-l-m-n-i-p-q-r-a-tic-jf-and-the-other-is-the-not-a_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/9617916-vbots.ru/66143823-a-b-c-d-e-f-g-h-i-j-k-l-m-n-i-p-q-r-a-tic-jf-and-the-other-is-the-not-a/" data-duration="6000">
+		<li class="track" data-index="19" data-id="88947073" data-mp3="https://storage.mp3cc.biz/listen/88947073/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SnF1dFNJbHdvUm9MWnNzUU5VbzdtM2FZZUwySUhMRG83MlRnSldTdkFXZEYraG16dloxY0NwVEt3bVRPUEdLYU1CT1RWN2NySWdJd3cxNGpha3AxTHY/coolio-feat.-l.-v.-gangsta-s-paradise-piano-coolio-feat.-l.-v.-gangsta-s-paradise-piano_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/15830484-coolio-feat.-l.-v.-gangsta-s-paradise-piano/88947073-coolio-feat.-l.-v.-gangsta-s-paradise-piano/" data-duration="297000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/66143823/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6blhybTc4THNCKzlCdGtFaUFueU5TSlIrMm9KanBodFhhV0F5TzdCblhMZk9MejZVSEZ5Y0xoSmJnZXpBNm9jQ3hQVWlXTjkrNVYvMVJkME91RlMwMHU/vbots.ru-a-b-c-d-e-f-g-h-i-j-k-l-m-n-i-p-q-r-a-tic-jf-and-the-other-is-the-not-a_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="vbots.ru - a b c d e f g h I j k l m n I p q r a tic jf and the other is the not a (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/88947073/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SnF1dFNJbHdvUm9MWnNzUU5VbzdtM2FZZUwySUhMRG83MlRnSldTdkFXZEYraG16dloxY0NwVEt3bVRPUEdLYU1CT1RWN2NySWdJd3cxNGpha3AxTHY/coolio-feat.-l.-v.-gangsta-s-paradise-piano-coolio-feat.-l.-v.-gangsta-s-paradise-piano_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio feat. L. V. – Gangsta s Paradise (Piano) - Coolio feat. L. V. – Gangsta s Paradise (Piano) (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">00:06</span>
+				<span class="playlist-duration">04:57</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/9617916-vbots.ru/">vbots.ru</a></b>
+				<b><a href="/m/15830484-coolio-feat.-l.-v.-gangsta-s-paradise-piano/">Coolio feat. L. V. – Gangsta s Paradise (Piano)</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/9617916-vbots.ru/66143823-a-b-c-d-e-f-g-h-i-j-k-l-m-n-i-p-q-r-a-tic-jf-and-the-other-is-the-not-a/">a b c d e f g h I j k l m n I p q r a tic jf and the other is the not a</a></em>
+				<em><a href="https://mp3cc.biz/m/15830484-coolio-feat.-l.-v.-gangsta-s-paradise-piano/88947073-coolio-feat.-l.-v.-gangsta-s-paradise-piano/">Coolio feat. L. V. – Gangsta s Paradise (Piano)</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="49" data-id="68362739" data-mp3="https://storage.mp3cc.biz/listen/68362739/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1Jrb0dnTTR2QnMzZWpNN1ZHRWFrd25heHVpdmViS2xESmxEeGhMWjNrT08wR200eGRrTWNLajlqb01XLzBUbTJMak5qNkhCMVFPUUNpdWxzVG5oS0w/b-l-o-w-p-u-r-l-el-a-m-b-o-r-g-h-i-n-i_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/7640945-b-l-o-w/68362739-p-u-r-l-el-a-m-b-o-r-g-h-i-n-i/" data-duration="236000">
+		<li class="track" data-index="20" data-id="89083751" data-mp3="https://storage.mp3cc.biz/listen/89083751/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SmJTTHhlZ2hXZHpNSFd0cnQ2MVA2UnIwdkdQdGNEdUIyUnEvRDV0b0I2dmMrakpVVVUxeVd4V1Z5WDRXOThNTm1GUU51YUNHbGdFR3ExT2hCNlNTTkc/coolio-feat-l.v.-gangsta-s-paradise-coolio-feat-l.v.-gangsta-s-paradise-ost-krovyu-i-potom-anaboliki-2013-pain_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/60744-coolio-feat-l.v./89083751-gangsta-s-paradise-coolio-feat-l.v.-gangsta-s-paradise-ost-krovyu-i-potom-anaboliki-2013-pain/" data-duration="240000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/68362739/Mmw4c21XVngyZUN5R3ZETXRzU0FNdmNNdnQ3eHhtdWdIS0lZT3dqVVF6a1Jrb0dnTTR2QnMzZWpNN1ZHRWFrd25heHVpdmViS2xESmxEeGhMWjNrT08wR200eGRrTWNLajlqb01XLzBUbTJMak5qNkhCMVFPUUNpdWxzVG5oS0w/b-l-o-w-p-u-r-l-el-a-m-b-o-r-g-h-i-n-i_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="B L O W - P U R L EL A M B O R G H I N I (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/89083751/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SmJTTHhlZ2hXZHpNSFd0cnQ2MVA2UnIwdkdQdGNEdUIyUnEvRDV0b0I2dmMrakpVVVUxeVd4V1Z5WDRXOThNTm1GUU51YUNHbGdFR3ExT2hCNlNTTkc/coolio-feat-l.v.-gangsta-s-paradise-coolio-feat-l.v.-gangsta-s-paradise-ost-krovyu-i-potom-anaboliki-2013-pain_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio Feat L.v. - Gangsta's Paradise Coolio Feat L.v. - Gangsta's Paradise (OST Кровью и потом: Анаболики 2013 Pain &amp;  (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">03:56</span>
+				<span class="playlist-duration">04:00</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/7640945-b-l-o-w/">B L O W</a></b>
+				<b><a href="/m/60744-coolio-feat-l.v./">Coolio Feat L.v.</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/7640945-b-l-o-w/68362739-p-u-r-l-el-a-m-b-o-r-g-h-i-n-i/">P U R L EL A M B O R G H I N I</a></em>
+				<em><a href="https://mp3cc.biz/m/60744-coolio-feat-l.v./89083751-gangsta-s-paradise-coolio-feat-l.v.-gangsta-s-paradise-ost-krovyu-i-potom-anaboliki-2013-pain/">Gangsta's Paradise Coolio Feat L.v. - Gangsta's Paradise (OST Кровью и потом: Анаболики 2013 Pain &amp; </a></em>
 			</h2>
 		</li>
-	</ul><div class="ctr-listalka"><ul class="listalka" data-next-page="/search/f/g+h+i/page/2/"><li class="listalka-arrow-back"><em>&larr;</em></li><li class="listalka-numbers"><em>1</em></li><li class="listalka-numbers"><a href="/search/f/g+h+i/page/2/">2</a></li><li class="listalka-numbers"><a href="/search/f/g+h+i/page/3/">3</a></li><li class="listalka-numbers"><a href="/search/f/g+h+i/page/4/">4</a></li><li class="listalka-numbers"><a href="/search/f/g+h+i/page/5/">5</a></li><li class="listalka-numbers"><a href="/search/f/g+h+i/page/6/">6</a></li><li class="listalka-numbers"><i>...</i></li><li class="listalka-numbers"><a href="/search/f/g+h+i/page/20/">20</a></li><li class="listalka-arrow-next"><a href="/search/f/g+h+i/page/2/">&rarr;</a></li></ul></div>
+	
+		<li class="track" data-index="21" data-id="93182305" data-mp3="https://storage.mp3cc.biz/listen/93182305/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SW1zbFg3RFFiRytZLzZVY3haRHpwMzVuNStkV1g5eWUyM0hGZlBtRlJLUXNXYWp4SHpmL09QZGVhUkpKOVE1VzhLdmlTdUFlSFp4M243R0xJdXFwTWc/coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com-coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/16355203-coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com/93182305-coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com/" data-duration="175000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/93182305/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SW1zbFg3RFFiRytZLzZVY3haRHpwMzVuNStkV1g5eWUyM0hGZlBtRlJLUXNXYWp4SHpmL09QZGVhUkpKOVE1VzhLdmlTdUFlSFp4M243R0xJdXFwTWc/coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com-coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio-Gangsta's Paradise Dj D twice extended mix (promodj.com) - Coolio-Gangsta's Paradise Dj D twice extended mix (promodj.com) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">02:55</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/16355203-coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com/">Coolio-Gangsta's Paradise Dj D twice extended mix (promodj.com)</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/16355203-coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com/93182305-coolio-gangsta-s-paradise-dj-d-twice-extended-mix-promodj.com/">Coolio-Gangsta's Paradise Dj D twice extended mix (promodj.com)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="22" data-id="96664806" data-mp3="https://storage.mp3cc.biz/listen/96664806/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3JrSjczU3ZPY1FKRmQ5bERkK2JtSVhaNDNhOG15bEZxMkNZVlJycFpGOFEveUNUdTB5RTVWenQwam5ob3pmK2t5Z0REUVBxb096RXZaZjdib1lBWHM/coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-...-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-..._(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/10038565-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../96664806-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../" data-duration="217000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/96664806/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3JrSjczU3ZPY1FKRmQ5bERkK2JtSVhaNDNhOG15bEZxMkNZVlJycFpGOFEveUNUdTB5RTVWenQwam5ob3pmK2t5Z0REUVBxb096RXZaZjdib1lBWHM/coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-...-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-..._(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="COOLIO vs. KYLIAN MASH &amp; RICO BERNASCONI Gangsta's Paradise 2011 (Bernasconi ... - COOLIO vs. KYLIAN MASH &amp; RICO BERNASCONI Gangsta's Paradise 2011 (Bernasconi ... (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:37</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/10038565-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../">COOLIO vs. KYLIAN MASH &amp; RICO BERNASCONI Gangsta's Paradise 2011 (Bernasconi ...</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/10038565-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../96664806-coolio-vs.-kylian-mash-rico-bernasconi-gangsta-s-paradise-2011-bernasconi-.../">COOLIO vs. KYLIAN MASH &amp; RICO BERNASCONI Gangsta's Paradise 2011 (Bernasconi ...</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="23" data-id="96664808" data-mp3="https://storage.mp3cc.biz/listen/96664808/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3JrSjczU3ZPY1FKRmQ5bERkK2JtSStKYlV3Z3BKNEJQYzRaVDdOaHNTdmVpTWgwcDlpK3FvU25iMnUraXBGQXNucmRVUTFReTBmYm9vdUpCUTRQMGk/coolio-vs-rico-bernasconi-gangsta-s-paradise-jake-cooper-remix-coolio-vs-rico-bernasconi-gangsta-s-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/16800807-coolio-vs-rico-bernasconi-gangsta-s-paradise-jake-cooper-remix/96664808-coolio-vs-rico-bernasconi-gangsta-s-paradise/" data-duration="387000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/96664808/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3JrSjczU3ZPY1FKRmQ5bERkK2JtSStKYlV3Z3BKNEJQYzRaVDdOaHNTdmVpTWgwcDlpK3FvU25iMnUraXBGQXNucmRVUTFReTBmYm9vdUpCUTRQMGk/coolio-vs-rico-bernasconi-gangsta-s-paradise-jake-cooper-remix-coolio-vs-rico-bernasconi-gangsta-s-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio vs Rico Bernasconi - Gangsta's Paradise (Jake &amp; Cooper Remix) - Coolio vs Rico Bernasconi - Gangsta's Paradise (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">06:27</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/16800807-coolio-vs-rico-bernasconi-gangsta-s-paradise-jake-cooper-remix/">Coolio vs Rico Bernasconi - Gangsta's Paradise (Jake &amp; Cooper Remix)</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/16800807-coolio-vs-rico-bernasconi-gangsta-s-paradise-jake-cooper-remix/96664808-coolio-vs-rico-bernasconi-gangsta-s-paradise/">Coolio vs Rico Bernasconi - Gangsta's Paradise</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="24" data-id="101714927" data-mp3="https://storage.mp3cc.biz/listen/101714927/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SlhrNTg5dWh0S1dwSkg5YlVVYllxYURmblMxZVpPNFhobkVqT1dmRnhNek9LazVMSDBYdTJTMy82KzVIaWk3ZElkUk9mN0xXREx6L0FaOGFuWFMrQUs/coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c-coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/17434140-coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c/101714927-coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c/" data-duration="200000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/101714927/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SlhrNTg5dWh0S1dwSkg5YlVVYllxYURmblMxZVpPNFhobkVqT1dmRnhNek9LazVMSDBYdTJTMy82KzVIaWk3ZElkUk9mN0xXREx6L0FaOGFuWFMrQUs/coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c-coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - ! Gangsters Paradise (Bombs Away Dubstep Remix)_ Electronic Music for c - Coolio - ! Gangsters Paradise (Bombs Away Dubstep Remix)_ Electronic Music for c (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:20</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/17434140-coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c/">Coolio - ! Gangsters Paradise (Bombs Away Dubstep Remix)_ Electronic Music for c</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/17434140-coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c/101714927-coolio-gangsters-paradise-bombs-away-dubstep-remix-_-electronic-music-for-c/">Coolio - ! Gangsters Paradise (Bombs Away Dubstep Remix)_ Electronic Music for c</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="25" data-id="115261612" data-mp3="https://storage.mp3cc.biz/listen/115261612/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SldWamxSSlpNbDFiZlppVTlyK0FYMUhFUDN3ZFN2K2NCelhZamN6dU00YnlpbHNoZXN4bWpzK2pYUThGL1lMRmxBN1Y3UTQwMHY1ZGYxNFlUb2VIRVk/coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-.-coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-._(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/19374356-coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-./115261612-coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-./" data-duration="217000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/115261612/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SldWamxSSlpNbDFiZlppVTlyK0FYMUhFUDN3ZFN2K2NCelhZamN6dU00YnlpbHNoZXN4bWpzK2pYUThGL1lMRmxBN1Y3UTQwMHY1ZGYxNFlUb2VIRVk/coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-.-coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-._(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="COOLIO vs. KYLIAN MASH and RICO BERNASCONI Gangstas Paradise 2011 (Bernasconi . - COOLIO vs. KYLIAN MASH and RICO BERNASCONI Gangstas Paradise 2011 (Bernasconi . (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:37</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/19374356-coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-./">COOLIO vs. KYLIAN MASH and RICO BERNASCONI Gangstas Paradise 2011 (Bernasconi .</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/19374356-coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-./115261612-coolio-vs.-kylian-mash-and-rico-bernasconi-gangstas-paradise-2011-bernasconi-./">COOLIO vs. KYLIAN MASH and RICO BERNASCONI Gangstas Paradise 2011 (Bernasconi .</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="26" data-id="115503404" data-mp3="https://storage.mp3cc.biz/listen/115503404/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S1BTc25rZTRSaFpwbDNNdUlIN1plOGxhRFNOMUdWNUlaVHpuZUJMN0NzVHJIQ2RvQ2J0Qi83d3FKYTJmSW55dWU3N3ZURFBMTmMwK1dNRmtDOWF4dEE/coolio-1995-gangsta_s-paradise-coolio-1995-gangsta_s-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/19411919-coolio-1995-gangsta_s-paradise/115503404-coolio-1995-gangsta_s-paradise/" data-duration="241000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/115503404/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S1BTc25rZTRSaFpwbDNNdUlIN1plOGxhRFNOMUdWNUlaVHpuZUJMN0NzVHJIQ2RvQ2J0Qi83d3FKYTJmSW55dWU3N3ZURFBMTmMwK1dNRmtDOWF4dEE/coolio-1995-gangsta_s-paradise-coolio-1995-gangsta_s-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio (1995) - Gangsta_s Paradise - Coolio (1995) - Gangsta_s Paradise (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">04:01</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/19411919-coolio-1995-gangsta_s-paradise/">Coolio (1995) - Gangsta_s Paradise</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/19411919-coolio-1995-gangsta_s-paradise/115503404-coolio-1995-gangsta_s-paradise/">Coolio (1995) - Gangsta_s Paradise</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="27" data-id="115699311" data-mp3="https://storage.mp3cc.biz/listen/115699311/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SUJseTJqMVNRR0I2WDJBYUFLSEdXU0plSC9pc05COWJVOXNxQ3V3WFVOa252ZHFTc0tYdTZUamlwMFRnVGVUdFpOWkt1WWx6ZmtxM3lralNWNnFtTzA/coolio-gangsta-s-paradise-feat.-l.v.-coolio-gangsta-s-paradise-feat.-l.v._(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/19444036-coolio-gangsta-s-paradise-feat.-l.v./115699311-coolio-gangsta-s-paradise-feat.-l.v./" data-duration="241000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/115699311/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SUJseTJqMVNRR0I2WDJBYUFLSEdXU0plSC9pc05COWJVOXNxQ3V3WFVOa252ZHFTc0tYdTZUamlwMFRnVGVUdFpOWkt1WWx6ZmtxM3lralNWNnFtTzA/coolio-gangsta-s-paradise-feat.-l.v.-coolio-gangsta-s-paradise-feat.-l.v._(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Gangsta's Paradise (feat. L.V.) - Coolio - Gangsta's Paradise (feat. L.V.) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">04:01</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/19444036-coolio-gangsta-s-paradise-feat.-l.v./">Coolio - Gangsta's Paradise (feat. L.V.)</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/19444036-coolio-gangsta-s-paradise-feat.-l.v./115699311-coolio-gangsta-s-paradise-feat.-l.v./">Coolio - Gangsta's Paradise (feat. L.V.)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="28" data-id="115903648" data-mp3="https://storage.mp3cc.biz/listen/115903648/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5Si9KeTNzV0RCeEdTWFF0ZG5HdzFsbCs0YnhiN1daUTFmVkJYWEo5UDRWNU1VUitUTDNDRHpzK1ZJR3grNXFaSmlvQUpwMEFJNU5qeG1SRTBlQ3ZOSUY/coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance-coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/19476783-coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance/115903648-coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance/" data-duration="270000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/115903648/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5Si9KeTNzV0RCeEdTWFF0ZG5HdzFsbCs0YnhiN1daUTFmVkJYWEo5UDRWNU1VUitUTDNDRHpzK1ZJR3grNXFaSmlvQUpwMEFJNU5qeG1SRTBlQ3ZOSUY/coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance-coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Gangsta Paradise (Cat DealersSimonetti Bootleg)GT-R Performance - Coolio - Gangsta Paradise (Cat DealersSimonetti Bootleg)GT-R Performance (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">04:30</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/19476783-coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance/">Coolio - Gangsta Paradise (Cat DealersSimonetti Bootleg)GT-R Performance</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/19476783-coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance/115903648-coolio-gangsta-paradise-cat-dealerssimonetti-bootleg-gt-r-performance/">Coolio - Gangsta Paradise (Cat DealersSimonetti Bootleg)GT-R Performance</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="29" data-id="123798894" data-mp3="https://storage.mp3cc.biz/listen/123798894/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TGc2MjY4R0tHVndNVm9kS0p2ZUVkQ2lMdFRGenMyckd4bVgxdTk4WHJQemxDbVpMNmNkV1lRTC9CeG1rU010VzBQd1M4VjBCMjlwV1Y2Q0Q0cUFiNHE/coolio-gangsta-s-paradise-candyland-s-og-remix-hd-dl-coolio-gangsta-s-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/8530362-coolio-gangsta-s-paradise-candyland-s-og-remix-hd-dl/123798894-coolio-gangsta-s-paradise/" data-duration="173000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/123798894/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TGc2MjY4R0tHVndNVm9kS0p2ZUVkQ2lMdFRGenMyckd4bVgxdTk4WHJQemxDbVpMNmNkV1lRTC9CeG1rU010VzBQd1M4VjBCMjlwV1Y2Q0Q0cUFiNHE/coolio-gangsta-s-paradise-candyland-s-og-remix-hd-dl-coolio-gangsta-s-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Gangsta's Paradise (Candyland's OG Remix) [HD] (DL) - Coolio - Gangsta's Paradise (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">02:53</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/8530362-coolio-gangsta-s-paradise-candyland-s-og-remix-hd-dl/">Coolio - Gangsta's Paradise (Candyland's OG Remix) [HD] (DL)</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/8530362-coolio-gangsta-s-paradise-candyland-s-og-remix-hd-dl/123798894-coolio-gangsta-s-paradise/">Coolio - Gangsta's Paradise</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="30" data-id="125758608" data-mp3="https://storage.mp3cc.biz/listen/125758608/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SkxoMHFhbE9oRTQ0cnBBYkVkdDI2SzF4UUxMemxEWGx6ZEJ5UTlCUi9PbHJTcGkxQWRia0pSTzdpOTlzclcrSkdWZnNoVlNwQ3lWM3NGV29KKy9zcHo/coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix-coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/20861378-coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix/125758608-coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix/" data-duration="371000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/125758608/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SkxoMHFhbE9oRTQ0cnBBYkVkdDI2SzF4UUxMemxEWGx6ZEJ5UTlCUi9PbHJTcGkxQWRia0pSTzdpOTlzclcrSkdWZnNoVlNwQ3lWM3NGV29KKy9zcHo/coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix-coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Gangstas Paradise (Rico Bernasconi And Max Farenthide Remix) - Coolio - Gangstas Paradise (Rico Bernasconi And Max Farenthide Remix) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">06:11</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/20861378-coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix/">Coolio - Gangstas Paradise (Rico Bernasconi And Max Farenthide Remix)</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/20861378-coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix/125758608-coolio-gangstas-paradise-rico-bernasconi-and-max-farenthide-remix/">Coolio - Gangstas Paradise (Rico Bernasconi And Max Farenthide Remix)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="31" data-id="116484738" data-mp3="https://storage.mp3cc.biz/listen/116484738/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SlFJdEx4ZC9LMFpDU1hQUmQvYmxEWTVQcDhHWFZZWXZCQUMxbHdhbTNvMTlBRzIrUWJCR20rNHJXUEI5T0d2YXc2R2tDNGhTMWY5cllBY1p1Nndqdmg/coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mas-gangsta-s-paradise-2010-coolio-vs.-kylian-mash-rico-bernasconi_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/19568195-coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mas/116484738-gangsta-s-paradise-2010-coolio-vs.-kylian-mash-rico-bernasconi/" data-duration="223000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/116484738/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SlFJdEx4ZC9LMFpDU1hQUmQvYmxEWTVQcDhHWFZZWXZCQUMxbHdhbTNvMTlBRzIrUWJCR20rNHJXUEI5T0d2YXc2R2tDNGhTMWY5cllBY1p1Nndqdmg/coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mas-gangsta-s-paradise-2010-coolio-vs.-kylian-mash-rico-bernasconi_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio vs Kylian Mash &amp; Rico Bernasconi,Coolio vs Kylian Mash &amp; Rico Bernasconi,Coolio vs Kylian Mas - Gangsta's Paradise 2010 (Coolio vs. Kylian Mash &amp; Rico Bernasconi) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:43</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/19568195-coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mas/">Coolio vs Kylian Mash &amp; Rico Bernasconi,Coolio vs Kylian Mash &amp; Rico Bernasconi,Coolio vs Kylian Mas</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/19568195-coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mash-rico-bernasconi-coolio-vs-kylian-mas/116484738-gangsta-s-paradise-2010-coolio-vs.-kylian-mash-rico-bernasconi/">Gangsta's Paradise 2010 (Coolio vs. Kylian Mash &amp; Rico Bernasconi)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="32" data-id="218350" data-mp3="https://storage.mp3cc.biz/listen/218350/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TDdWamMrWnFwU3JIK2JxRm1uNWE4R3dmTXVDYzdmMGhla3duSG93V3BVOE9Ja2srYnl1ZHNBVWpYaTJrMUZYY2Y1c0JzdFBqVG1tM0tuZGtWZ0JBN1I/coolio-bombs-away-coolio-gangsters-paradise-dubstep-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/60753-coolio-bombs-away/218350-coolio-gangsters-paradise-dubstep-remix/" data-duration="28000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/218350/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TDdWamMrWnFwU3JIK2JxRm1uNWE4R3dmTXVDYzdmMGhla3duSG93V3BVOE9Ja2srYnl1ZHNBVWpYaTJrMUZYY2Y1c0JzdFBqVG1tM0tuZGtWZ0JBN1I/coolio-bombs-away-coolio-gangsters-paradise-dubstep-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio &amp; Bombs Away - Coolio Gangsters Paradise (Dubstep Remix) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">00:28</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/60753-coolio-bombs-away/">Coolio &amp; Bombs Away</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/60753-coolio-bombs-away/218350-coolio-gangsters-paradise-dubstep-remix/">Coolio Gangsters Paradise (Dubstep Remix)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="33" data-id="648158" data-mp3="https://storage.mp3cc.biz/listen/648158/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S01kRHJHalNzbGpWYVRpOUJtUDFhd1I3b3FQV1o5T3FsVk5JcisydjR4cm0zZFIvKytWRmNxbXc3aGpMSERxcytreXZhRzgvK2xMOS9EeGJSWFNIb00/coolio-coolio-gangstas-paradise-2011-jackie-jones-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/648158-coolio-gangstas-paradise-2011-jackie-jones-remix/" data-duration="335000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/648158/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S01kRHJHalNzbGpWYVRpOUJtUDFhd1I3b3FQV1o5T3FsVk5JcisydjR4cm0zZFIvKytWRmNxbXc3aGpMSERxcytreXZhRzgvK2xMOS9EeGJSWFNIb00/coolio-coolio-gangstas-paradise-2011-jackie-jones-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Coolio - Gangstas Paradise 2011 (Jackie &amp; Jones Remix) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">05:35</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/648158-coolio-gangstas-paradise-2011-jackie-jones-remix/">Coolio - Gangstas Paradise 2011 (Jackie &amp; Jones Remix)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="34" data-id="1371776" data-mp3="https://storage.mp3cc.biz/listen/1371776/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3p5a0d5NkIwZFEvdmNDekphOWpqRjlOV3BBMGRvaWFjSS9EK1cyay9jTjBrYUNBbkptR0dVZ1Zla1F2L1ZMY1RFTFpzSGJrOTlSVXNrU0dRbFVQMUY/coolio-coolio_gangsta_s_paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/1371776-coolio_gangsta_s_paradise/" data-duration="241000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/1371776/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3p5a0d5NkIwZFEvdmNDekphOWpqRjlOV3BBMGRvaWFjSS9EK1cyay9jTjBrYUNBbkptR0dVZ1Zla1F2L1ZMY1RFTFpzSGJrOTlSVXNrU0dRbFVQMUY/coolio-coolio_gangsta_s_paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - COOLIO_GANGSTA_S_PARADISE (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">04:01</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/1371776-coolio_gangsta_s_paradise/">COOLIO_GANGSTA_S_PARADISE</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="35" data-id="6806073" data-mp3="https://storage.mp3cc.biz/listen/6806073/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S2dpOGQxSitIbEN0QWdDeEN3VmVZaWh2MWlFSisvYTZiZnFaTWN6SFRiUEZyRXZ2RUErS3J4dEZBWEtoeFJLN29WY2wxcFNPelJURGFqY2JtclowbDg/coolio-vs.-tim-resler-kylian-mash-gangsta-paradise-radio-version-coolio-vs-tim-resler_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/1401121-coolio-vs.-tim-resler-kylian-mash-gangsta-paradise-radio-version/6806073-coolio-vs-tim-resler/" data-duration="171000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/6806073/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S2dpOGQxSitIbEN0QWdDeEN3VmVZaWh2MWlFSisvYTZiZnFaTWN6SFRiUEZyRXZ2RUErS3J4dEZBWEtoeFJLN29WY2wxcFNPelJURGFqY2JtclowbDg/coolio-vs.-tim-resler-kylian-mash-gangsta-paradise-radio-version-coolio-vs-tim-resler_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio vs. Tim Resler &amp; Kylian Mash - Gangsta Paradise (Radio Version) - Coolio-vs-Tim-Resler (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">02:51</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/1401121-coolio-vs.-tim-resler-kylian-mash-gangsta-paradise-radio-version/">Coolio vs. Tim Resler &amp; Kylian Mash - Gangsta Paradise (Radio Version)</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/1401121-coolio-vs.-tim-resler-kylian-mash-gangsta-paradise-radio-version/6806073-coolio-vs-tim-resler/">Coolio-vs-Tim-Resler</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="36" data-id="17581644" data-mp3="https://storage.mp3cc.biz/listen/17581644/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5Sk9yZzUwYWc0SnMydGVid2dZOVFXSlJhdTE2MDllMmkrekNxTnBkQlMyR3lvYlJQNEZrb0VNTm9LVjQrNUNSTDF1QktyRkhjRWYyU2pEbXphWHZYZmI/coolio-rico-bernasconi-max-farenthide-muz-dj.at.ua-coolio-gangstas-paradise-rico-bernasconi-max-farenthide-remix-muz-dj.at.ua_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/3560615-coolio-rico-bernasconi-max-farenthide-muz-dj.at.ua/17581644-coolio-gangstas-paradise-rico-bernasconi-max-farenthide-remix-muz-dj.at.ua/" data-duration="371000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/17581644/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5Sk9yZzUwYWc0SnMydGVid2dZOVFXSlJhdTE2MDllMmkrekNxTnBkQlMyR3lvYlJQNEZrb0VNTm9LVjQrNUNSTDF1QktyRkhjRWYyU2pEbXphWHZYZmI/coolio-rico-bernasconi-max-farenthide-muz-dj.at.ua-coolio-gangstas-paradise-rico-bernasconi-max-farenthide-remix-muz-dj.at.ua_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio (Rico Bernasconi &amp; Max Farenthide) [muz-dj.at.ua] - Coolio - Gangstas Paradise (Rico Bernasconi &amp; Max Farenthide Remix) [muz-dj.at.ua] (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">06:11</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/3560615-coolio-rico-bernasconi-max-farenthide-muz-dj.at.ua/">Coolio (Rico Bernasconi &amp; Max Farenthide) [muz-dj.at.ua]</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/3560615-coolio-rico-bernasconi-max-farenthide-muz-dj.at.ua/17581644-coolio-gangstas-paradise-rico-bernasconi-max-farenthide-remix-muz-dj.at.ua/">Coolio - Gangstas Paradise (Rico Bernasconi &amp; Max Farenthide Remix) [muz-dj.at.ua]</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="37" data-id="35790810" data-mp3="https://storage.mp3cc.biz/listen/35790810/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SlZSTmF2SStJMXI3Zzl5Q1h2alpoOThRakxXVmlCcWF6QWl0K1pvZ2ZYSnNjVzlWOVNYY2pTYkttNHl2MWJuVjh0UlJTZ1hhaEorYVZtWnljaXYremg/coolio-vs.-rico-bernasconi-coolio-vs.-rico-bernasconi-gangsta-s-paradise-2010-splash-vs.-scotty-remix-musicdjs.com_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/60743-coolio-vs.-rico-bernasconi/35790810-coolio-vs.-rico-bernasconi-gangsta-s-paradise-2010-splash-vs.-scotty-remix-musicdjs.com/" data-duration="385000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/35790810/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SlZSTmF2SStJMXI3Zzl5Q1h2alpoOThRakxXVmlCcWF6QWl0K1pvZ2ZYSnNjVzlWOVNYY2pTYkttNHl2MWJuVjh0UlJTZ1hhaEorYVZtWnljaXYremg/coolio-vs.-rico-bernasconi-coolio-vs.-rico-bernasconi-gangsta-s-paradise-2010-splash-vs.-scotty-remix-musicdjs.com_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio vs. Rico Bernasconi - Coolio vs. Rico Bernasconi - Gangsta's Paradise 2010 (Splash vs. Scotty Remix) musicdjs.com (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">06:25</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/60743-coolio-vs.-rico-bernasconi/">Coolio vs. Rico Bernasconi</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/60743-coolio-vs.-rico-bernasconi/35790810-coolio-vs.-rico-bernasconi-gangsta-s-paradise-2010-splash-vs.-scotty-remix-musicdjs.com/">Coolio vs. Rico Bernasconi - Gangsta's Paradise 2010 (Splash vs. Scotty Remix) musicdjs.com</a></em>
+			</h2>
+		</li>
+			<li class="playlist-ad" id="in_playlist_2Banner">
+			<div>
+				<iframe src="/api/iframe/in_playlist_2"></iframe>
+			</div>
+		</li>
+		
+		
+		<li class="track" data-index="38" data-id="45287246" data-mp3="https://storage.mp3cc.biz/listen/45287246/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S0xIYmcrYWdEQjRFSWJsTjFYeGsrOWRNbXp0NFhjSEdPOEo4czltelc5TFJ0ZDMxNjJGZlVxNy9kcG1LT3RQcEhiTnBvYzRiMlc0Qk13YmFEUTJ2Y1E/coolio-kylian-mash-rico-bernasconi-gangsta-s-paradise-2010-coolio-vs.-kylian-mash-rico-bernasconi_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/374113-coolio-kylian-mash-rico-bernasconi/45287246-gangsta-s-paradise-2010-coolio-vs.-kylian-mash-rico-bernasconi/" data-duration="223000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/45287246/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S0xIYmcrYWdEQjRFSWJsTjFYeGsrOWRNbXp0NFhjSEdPOEo4czltelc5TFJ0ZDMxNjJGZlVxNy9kcG1LT3RQcEhiTnBvYzRiMlc0Qk13YmFEUTJ2Y1E/coolio-kylian-mash-rico-bernasconi-gangsta-s-paradise-2010-coolio-vs.-kylian-mash-rico-bernasconi_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio, Kylian Mash &amp; Rico Bernasconi - Gangsta's Paradise 2010 (Coolio vs. Kylian Mash &amp; Rico Bernasconi) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:43</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/374113-coolio-kylian-mash-rico-bernasconi/">Coolio, Kylian Mash &amp; Rico Bernasconi</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/374113-coolio-kylian-mash-rico-bernasconi/45287246-gangsta-s-paradise-2010-coolio-vs.-kylian-mash-rico-bernasconi/">Gangsta's Paradise 2010 (Coolio vs. Kylian Mash &amp; Rico Bernasconi)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="39" data-id="52255819" data-mp3="https://storage.mp3cc.biz/listen/52255819/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5THl3c2xobFp0dFo3Vzh3czNCanZzUmlBL0RvM3BGZ08yQ1VHZGlWZ3l6T1p5bCtlT2JLVHVHWXFGcndZWUJjaWI0THEzMnQyQnFDL2Z5SzJSVWJnS2k/coolio-coolio-gangstas-paradise-metal-cover_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/52255819-coolio-gangstas-paradise-metal-cover/" data-duration="267000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/52255819/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5THl3c2xobFp0dFo3Vzh3czNCanZzUmlBL0RvM3BGZ08yQ1VHZGlWZ3l6T1p5bCtlT2JLVHVHWXFGcndZWUJjaWI0THEzMnQyQnFDL2Z5SzJSVWJnS2k/coolio-coolio-gangstas-paradise-metal-cover_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Coolio - Gangstas Paradise (metal cover) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">04:27</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/52255819-coolio-gangstas-paradise-metal-cover/">Coolio - Gangstas Paradise (metal cover)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="40" data-id="81729286" data-mp3="https://storage.mp3cc.biz/listen/81729286/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SXkzY29HMVhWcnJnY25hOTJpc1lsOG50eDUrWkxXckJVNTY5b1FiMklCTWdiZWIyMHg2dUpPc3YzNnpnR0hsZjJpSGE0Z0ttQ2trcG9qeXVDOEZzek0/coolio-feat-gangster-s-paradise-coolio-cover_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/14901360-coolio-feat/81729286-gangster-s-paradise-coolio-cover/" data-duration="209000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/81729286/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SXkzY29HMVhWcnJnY25hOTJpc1lsOG50eDUrWkxXckJVNTY5b1FiMklCTWdiZWIyMHg2dUpPc3YzNnpnR0hsZjJpSGE0Z0ttQ2trcG9qeXVDOEZzek0/coolio-feat-gangster-s-paradise-coolio-cover_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio feat - Gangster's Paradise (Coolio Cover) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:29</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/14901360-coolio-feat/">Coolio feat</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/14901360-coolio-feat/81729286-gangster-s-paradise-coolio-cover/">Gangster's Paradise (Coolio Cover)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="41" data-id="82095150" data-mp3="https://storage.mp3cc.biz/listen/82095150/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SjhscGdSaWN5L21oU1BvTjZ4bjl6YncvN2c5VmlCM0lJUlErM3E0S1U4WndPQno1dVNRY3BhU3ZxRWlMK1ZCWGlydmdaNmJKZ0dyMDI5elpSNE5rTGo/coolio-l.v-coolio-l.v-gangsta-s-paradise-alex-mistery-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/374110-coolio-l.v/82095150-coolio-l.v-gangsta-s-paradise-alex-mistery-remix/" data-duration="172000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/82095150/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SjhscGdSaWN5L21oU1BvTjZ4bjl6YncvN2c5VmlCM0lJUlErM3E0S1U4WndPQno1dVNRY3BhU3ZxRWlMK1ZCWGlydmdaNmJKZ0dyMDI5elpSNE5rTGo/coolio-l.v-coolio-l.v-gangsta-s-paradise-alex-mistery-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio &amp; L.V - Coolio &amp; L.V - Gangsta's Paradise (Alex Mistery Remix) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">02:52</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/374110-coolio-l.v/">Coolio &amp; L.V</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/374110-coolio-l.v/82095150-coolio-l.v-gangsta-s-paradise-alex-mistery-remix/">Coolio &amp; L.V - Gangsta's Paradise (Alex Mistery Remix)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="42" data-id="83510698" data-mp3="https://storage.mp3cc.biz/listen/83510698/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SURDVGplQVVPQnE5dzJBQ25nWGlrelBYamlQUG1HNUtaSUJZaStMOVg0ejBHQURpaHYwVGlhcmN2QzhIZnFoTWNiYmdQcVRteitYTit3dmYxaGQ2NjU/coolio-coolio-gangsta-paradise-mix-artas_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/83510698-coolio-gangsta-paradise-mix-artas/" data-duration="96000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/83510698/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SURDVGplQVVPQnE5dzJBQ25nWGlrelBYamlQUG1HNUtaSUJZaStMOVg0ejBHQURpaHYwVGlhcmN2QzhIZnFoTWNiYmdQcVRteitYTit3dmYxaGQ2NjU/coolio-coolio-gangsta-paradise-mix-artas_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Coolio gangsta paradise mix ARTAS (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">01:36</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/83510698-coolio-gangsta-paradise-mix-artas/">Coolio gangsta paradise mix ARTAS</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="43" data-id="86266491" data-mp3="https://storage.mp3cc.biz/listen/86266491/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SzNBMmswTUQ2YzJnbnNpaDBXRUhZOTlNVllCRFc2c1NBZ2lIMWZNQVEybEZxUUJrZ3M1bHIzdE0xVHNNeUJRVGdFQkozMTN3VkkzRWR6cWhuMEhieHA/coolio-coolio-gangsta-s-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/86266491-coolio-gangsta-s-paradise/" data-duration="240000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/86266491/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SzNBMmswTUQ2YzJnbnNpaDBXRUhZOTlNVllCRFc2c1NBZ2lIMWZNQVEybEZxUUJrZ3M1bHIzdE0xVHNNeUJRVGdFQkozMTN3VkkzRWR6cWhuMEhieHA/coolio-coolio-gangsta-s-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Coolio - Gangsta's Paradise (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">04:00</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/86266491-coolio-gangsta-s-paradise/">Coolio - Gangsta's Paradise</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="44" data-id="91712737" data-mp3="https://storage.mp3cc.biz/listen/91712737/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SWcwRHh2aGN3N0pEcnFEUGRFT2xyb25IeG5abFBGcWpVWTlCWmxSQ3EwSi9jLzhUTmhwbXBMUy81bmkyZXZ5eEhsTmsvbTM5TkdCMnpsR1ZCSHB1c0Q/coolio-coolio-gangster-s-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/91712737-coolio-gangster-s-paradise/" data-duration="249000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/91712737/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SWcwRHh2aGN3N0pEcnFEUGRFT2xyb25IeG5abFBGcWpVWTlCWmxSQ3EwSi9jLzhUTmhwbXBMUy81bmkyZXZ5eEhsTmsvbTM5TkdCMnpsR1ZCSHB1c0Q/coolio-coolio-gangster-s-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Coolio - Gangster's Paradise (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">04:09</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/91712737-coolio-gangster-s-paradise/">Coolio - Gangster's Paradise</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="45" data-id="91914321" data-mp3="https://storage.mp3cc.biz/listen/91914321/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3hKVUZBR0d0RW10ZjdZZVNRYzJwUEIrZ3NvVjRYYUxSR1p1dElpcHNPRENHWWwwY2prVUtTWnZWd3ArNytuTDRxdE9jdnY3RnBiSlpWQWlpc01HVlg/coolio-feat-lv-coolio-gangsta-s-paradise-instrumental_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/374120-coolio-feat-lv/91914321-coolio-gangsta-s-paradise-instrumental/" data-duration="229000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/91914321/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5S3hKVUZBR0d0RW10ZjdZZVNRYzJwUEIrZ3NvVjRYYUxSR1p1dElpcHNPRENHWWwwY2prVUtTWnZWd3ArNytuTDRxdE9jdnY3RnBiSlpWQWlpc01HVlg/coolio-feat-lv-coolio-gangsta-s-paradise-instrumental_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio feat LV - Coolio - Gangsta's Paradise (Instrumental) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:49</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/374120-coolio-feat-lv/">Coolio feat LV</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/374120-coolio-feat-lv/91914321-coolio-gangsta-s-paradise-instrumental/">Coolio - Gangsta's Paradise (Instrumental)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="46" data-id="93896120" data-mp3="https://storage.mp3cc.biz/listen/93896120/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SnpkOXB3Q05yOWlOR1UxbG9LMmplMEg0aHRVVVVGc0ZMWnBNM2Z2SXZhOVkyMDVOMUg4UXIwUFR2dG9vMGhENk4xWUoxRG1NSDZWSnJqeTRoZmRmbEg/coolio-l.v.-coolio-l.v.-gangsta-s-paradise-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/374110-coolio-l.v./93896120-coolio-l.v.-gangsta-s-paradise-remix/" data-duration="303000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/93896120/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SnpkOXB3Q05yOWlOR1UxbG9LMmplMEg0aHRVVVVGc0ZMWnBNM2Z2SXZhOVkyMDVOMUg4UXIwUFR2dG9vMGhENk4xWUoxRG1NSDZWSnJqeTRoZmRmbEg/coolio-l.v.-coolio-l.v.-gangsta-s-paradise-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio,L.V. - Coolio,L.V.-Gangsta's Paradise remix (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">05:03</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/374110-coolio-l.v./">Coolio,L.V.</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/374110-coolio-l.v./93896120-coolio-l.v.-gangsta-s-paradise-remix/">Coolio,L.V.-Gangsta's Paradise remix</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="47" data-id="96233380" data-mp3="https://storage.mp3cc.biz/listen/96233380/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SWh6Q3duenp5WFF2WW52aHd3MG5mVmdYa05UZFR1S1ZZL244akNsZ1JhWUF2NEFQVGF3MXlBdjgyc1JleVBFSGpXWUF4MnJiNjdFMWtwZ1YxT2F1OFg/coolio-feat.-dj-pitchugin-tpau-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-dj-amada-mash-up-sax-version_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/14549550-coolio-feat.-dj-pitchugin-tpau/96233380-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-dj-amada-mash-up-sax-version/" data-duration="197000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/96233380/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SWh6Q3duenp5WFF2WW52aHd3MG5mVmdYa05UZFR1S1ZZL244akNsZ1JhWUF2NEFQVGF3MXlBdjgyc1JleVBFSGpXWUF4MnJiNjdFMWtwZ1YxT2F1OFg/coolio-feat.-dj-pitchugin-tpau-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-dj-amada-mash-up-sax-version_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio Feat. DJ Pitchugin &amp; TPau - Coolio Feat. DJ Pitchugin &amp; TPaul - Gangsta's Paradise (DJ Amada Mash Up Sax Version) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:17</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/14549550-coolio-feat.-dj-pitchugin-tpau/">Coolio Feat. DJ Pitchugin &amp; TPau</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/14549550-coolio-feat.-dj-pitchugin-tpau/96233380-coolio-feat.-dj-pitchugin-tpaul-gangsta-s-paradise-dj-amada-mash-up-sax-version/">Coolio Feat. DJ Pitchugin &amp; TPaul - Gangsta's Paradise (DJ Amada Mash Up Sax Version)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="48" data-id="97663742" data-mp3="https://storage.mp3cc.biz/listen/97663742/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TFhuUElWUjNybUxVNzd3Qkp2QXR3eHFBSTkxQ25tQ3FTWUtMV2tVMERNS3IzTlQ1TGZvTlhyMm9oT0x5UTA5OFdPZmt1cHJnNTh2MzZRN0lsSGZvR3Q/coolio-coolio-gangsters-paradise-bombs-away-dubstep-remix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/41721-coolio/97663742-coolio-gangsters-paradise-bombs-away-dubstep-remix/" data-duration="200000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/97663742/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5TFhuUElWUjNybUxVNzd3Qkp2QXR3eHFBSTkxQ25tQ3FTWUtMV2tVMERNS3IzTlQ1TGZvTlhyMm9oT0x5UTA5OFdPZmt1cHJnNTh2MzZRN0lsSGZvR3Q/coolio-coolio-gangsters-paradise-bombs-away-dubstep-remix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio - Coolio - Gangsters Paradise (Bombs Away Dubstep Remix) (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:20</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/41721-coolio/">Coolio</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/41721-coolio/97663742-coolio-gangsters-paradise-bombs-away-dubstep-remix/">Coolio - Gangsters Paradise (Bombs Away Dubstep Remix)</a></em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="49" data-id="98289159" data-mp3="https://storage.mp3cc.biz/listen/98289159/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SWoyUERGWDZRT1VOVFlDai9xRmJuTy90Y1lsTHZYTGdhMnFiZFhqU0FpRHhQNHB6VGgrQnZpUmVxYzRLNEdsUjRFa3VRcExtN0dGNEExbno4UEhsMW8/coolio-feat.-dj-daryat-coolio-feat.-dj-daryat-gangsta-s-paradise_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/17010207-coolio-feat.-dj-daryat/98289159-coolio-feat.-dj-daryat-gangsta-s-paradise/" data-duration="197000">
+
+			
+
+			<div class="playlist-btn">
+				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
+				<a href="https://storage.mp3cc.biz/download/98289159/dUZIMHNMQ0RPT2I5dkxOK1pnekhyQXZjOVd5aUR0RkwwR1k2QmtUVjU5SWoyUERGWDZRT1VOVFlDai9xRmJuTy90Y1lsTHZYTGdhMnFiZFhqU0FpRHhQNHB6VGgrQnZpUmVxYzRLNEdsUjRFa3VRcExtN0dGNEExbno4UEhsMW8/coolio-feat.-dj-daryat-coolio-feat.-dj-daryat-gangsta-s-paradise_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Coolio Feat. DJ DARYAT - Coolio Feat. DJ DARYAT- Gangsta's Paradise (mp3CC.biz).mp3">(скачать)</a>
+				
+			</div>
+
+			<em>
+				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
+
+				<span class="playlist-duration">03:17</span>
+			</em>
+			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
+
+			<h2 class="playlist-name">
+				<b><a href="/m/17010207-coolio-feat.-dj-daryat/">Coolio Feat. DJ DARYAT</a></b>
+				<i>&ndash;</i>
+				<em><a href="https://mp3cc.biz/m/17010207-coolio-feat.-dj-daryat/98289159-coolio-feat.-dj-daryat-gangsta-s-paradise/">Coolio Feat. DJ DARYAT- Gangsta's Paradise</a></em>
+			</h2>
+		</li>
+	</ul><div class="ctr-listalka"><ul class="listalka" data-next-page="/search/f/coolio+paradise/page/2/"><li class="listalka-arrow-back"><em>&larr;</em></li><li class="listalka-numbers"><em>1</em></li><li class="listalka-numbers"><a href="/search/f/coolio+paradise/page/2/">2</a></li><li class="listalka-numbers"><a href="/search/f/coolio+paradise/page/3/">3</a></li><li class="listalka-numbers"><a href="/search/f/coolio+paradise/page/4/">4</a></li><li class="listalka-numbers"><a href="/search/f/coolio+paradise/page/5/">5</a></li><li class="listalka-numbers"><a href="/search/f/coolio+paradise/page/6/">6</a></li><li class="listalka-numbers"><i>...</i></li><li class="listalka-numbers"><a href="/search/f/coolio+paradise/page/20/">20</a></li><li class="listalka-arrow-next"><a href="/search/f/coolio+paradise/page/2/">&rarr;</a></li></ul></div>
 	</div>
 				
 			</div>
@@ -1429,7 +1429,7 @@
 							<div id="fixplayer-title"><span>
 								<b>mp3CC.biz</b>
 								<i>&ndash;</i>
-								<em>g h i</em>
+								<em>coolio paradise</em>
 							</span></div>
 							<div id="fixplayer-notification"></div>
 						</div>
@@ -1463,4 +1463,4 @@
 		
 </body>
 </html>
-<!-- 0,015909; 0 (0); 3 (0,0051877498626709); 0 (0). -->
+<!-- 0.017868; 0 (0); 4 (0.0041861534118652); 0 (0). -->
