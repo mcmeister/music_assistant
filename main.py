@@ -96,8 +96,8 @@ mp3.album = 'Telegram'
 mp3.save()
 
 audio = open(file, 'rb')
-token = '658217975:AAEsRGGeVoArqhuEH4D_-iw5qok45fi6aM8'
-chat_id = '@now_testing'
+token = 'my_token'
+chat_id = '@my_chat'
 tb = telebot.TeleBot(token)
 tb.config['api_key'] = token
 tb.config['chat_id'] = chat_id
