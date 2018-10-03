@@ -30,14 +30,14 @@ banner = '''
 '''
 print(banner + '\n')
 
-# UserInput
+# userInput
 
 artistName = input('Artist: ')  # Variable for Artist Name
 songName = input('Name: ')      # Variable for Song Name
 mixName = input('Mix Name: ')   # Variable for Remix Name
 blankInput = str()              # String Variable for Blank Input
 
-# ProgramInput
+# programInput
 
 '''
 plusInput = '+'                 # Variable for a Plus [+]
@@ -50,7 +50,7 @@ codeClose = '</code>'           # Variable for Text-Formatting
 boldOpen = '<b>'                # Variable for Text-Formatting
 boldClose = '</b>'              # Variable for Text-Formatting
 
-# CuteQueries
+# cuteQueries
 
 if mixName == blankInput:
     query = (artistName + spaceInput + songName)
@@ -67,7 +67,11 @@ else:
     text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName
             + spaceInput + '(' + mixName + ')' + codeClose)
 
+# someLink
+
 url = 'https://mp3cc.biz/search/f/' + query + '/'
+
+# mess
 
 req_proxy = RequestProxy()
 req_proxy.generate_proxied_request(url)
@@ -102,18 +106,19 @@ tb = telebot.TeleBot(token)
 tb.config['api_key'] = token
 tb.config['chat_id'] = chat_id
 tb.config['audio'] = audio
-user = tb.get_me()
-print(user)
+status = tb.get_me()
+print(status)
 
-chat_id = '@testing_now'
 tb.send_message(chat_id, text='TESTING')
 
 print('Uploading File to Telegram Channel...\n')
 tb.send_audio(chat_id, audio)
-tb.send_message(chat_id, text, parse_mode="Markdown")
+tb.send_message(chat_id, text, parse_mode="HTML")
 print('File Uploaded!\n')
 
 print("Found: " + artistName + hyphenInput + songName)
 print("Downloaded: " + artistName + hyphenInput + songName)
 print("Uploaded to: " + chat_id)
+
+import cleaner
 
