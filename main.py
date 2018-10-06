@@ -10,8 +10,8 @@ All done!
 
 import re
 import requests
-import telebot
 import wget
+from telebot import TeleBot
 from bs4 import BeautifulSoup
 from http_request_randomizer.requests.proxy.requestProxy import RequestProxy
 from mp3_tagger import MP3File, VERSION_BOTH
@@ -30,14 +30,14 @@ banner = '''
 '''
 print(banner + '\n')
 
-# userInput
+# UserInput
 
 artistName = input('Artist: ')  # Variable for Artist Name
 songName = input('Name: ')      # Variable for Song Name
 mixName = input('Mix Name: ')   # Variable for Remix Name
 blankInput = str()              # String Variable for Blank Input
 
-# programInput
+# ProgramInput
 
 '''
 plusInput = '+'                 # Variable for a Plus [+]
@@ -50,7 +50,7 @@ codeClose = '</code>'           # Variable for Text-Formatting
 boldOpen = '<b>'                # Variable for Text-Formatting
 boldClose = '</b>'              # Variable for Text-Formatting
 
-# cuteQueries
+# CuteQueries
 
 if mixName == blankInput:
     query = (artistName + spaceInput + songName)
@@ -67,13 +67,10 @@ else:
     text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName
             + spaceInput + '(' + mixName + ')' + codeClose)
 
-# someLink
-
 url = 'https://mp3cc.biz/search/f/' + query + '/'
 
-# mess
-
 req_proxy = RequestProxy()
+print('Connecting to ' + url + ' using a proxy' + '\n')
 req_proxy.generate_proxied_request(url)
 
 with open('parse.txt', 'wb') as f:
@@ -84,13 +81,16 @@ with open('parse.txt', 'r', encoding='UTF-8') as p:
     s = BeautifulSoup(p, 'html.parser')
     link = s.find(href=re.compile('download'))
     get_link = link.get('href')
+    print('Connecting to ' + get_link + ' using a proxy' + '\n')
     req_proxy.generate_proxied_request(get_link)
     shorten = Shortener('Tinyurl')
     shrink_url = shorten.short(get_link)
 
+print('Connecting to ' + shrink_url + ' using a proxy' + '\n')
+req_proxy.generate_proxied_request(shrink_url)
 print('Downloading: ' + '(' + artistName + spaceInput + hyphenInput + spaceInput + songName + ')' +
       ' via Short URL => ' + shrink_url + '\n')
-file = wget.download(shrink_url, out='/tmp/')
+file = wget.download(shrink_url, out='/tmp')
 print(file + ' Downloaded!' + '\n')
 mp3 = MP3File(file)
 mp3.set_version(VERSION_BOTH)
@@ -100,16 +100,15 @@ mp3.album = 'Telegram'
 mp3.save()
 
 audio = open(file, 'rb')
+print(audio)
 token = 'my_token'
-chat_id = '@my_chat'
+chat_id = '@my_channel'
 tb = telebot.TeleBot(token)
 tb.config['api_key'] = token
-tb.config['chat_id'] = chat_id
-tb.config['audio'] = audio
-status = tb.get_me()
-print(status)
+user = tb.get_me()
+print(user)
 
-tb.send_message(chat_id, text='TESTING')
+tb.send_message(chat_id, text='<b>TESTING</b>', parse_mode='HTML')
 
 print('Uploading File to Telegram Channel...\n')
 tb.send_audio(chat_id, audio)
@@ -118,7 +117,6 @@ print('File Uploaded!\n')
 
 print("Found: " + artistName + hyphenInput + songName)
 print("Downloaded: " + artistName + hyphenInput + songName)
-print("Uploaded to: " + chat_id)
+print("Uploaded to: " + chat_id + '\n')
 
 import cleaner
-
