@@ -10,8 +10,8 @@ All done!
 
 import re
 import requests
+import telebot
 import wget
-from telebot import TeleBot
 from bs4 import BeautifulSoup
 from http_request_randomizer.requests.proxy.requestProxy import RequestProxy
 from mp3_tagger import MP3File, VERSION_BOTH
@@ -67,31 +67,46 @@ else:
     text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName
             + spaceInput + '(' + mixName + ')' + codeClose)
 
+# someURL
+
 url = 'https://mp3cc.biz/search/f/' + query + '/'
 
+# proxiedRequest
+
 req_proxy = RequestProxy()
-print('Connecting to ' + url + ' using a proxy' + '\n')
+print('Connecting to "Base URL" using a proxy\n')
 req_proxy.generate_proxied_request(url)
+
+# saveToFile
 
 with open('parse.txt', 'wb') as f:
     response = requests.get(url)
     f.write(response.content)
 
+# parseFromFile
+
 with open('parse.txt', 'r', encoding='UTF-8') as p:
     s = BeautifulSoup(p, 'html.parser')
     link = s.find(href=re.compile('download'))
     get_link = link.get('href')
-    print('Connecting to ' + get_link + ' using a proxy' + '\n')
-    req_proxy.generate_proxied_request(get_link)
-    shorten = Shortener('Tinyurl')
-    shrink_url = shorten.short(get_link)
 
-print('Connecting to ' + shrink_url + ' using a proxy' + '\n')
+# shortenParsedURL
+
+print('Connecting to "Parsed URL" using a proxy\n')
+req_proxy.generate_proxied_request(get_link)
+shorten = Shortener('Tinyurl')
+shrink_url = shorten.short(get_link)
+
+# downloadShortenedURL
+print('Connecting to "Shrinked URL" using a proxy\n')
 req_proxy.generate_proxied_request(shrink_url)
 print('Downloading: ' + '(' + artistName + spaceInput + hyphenInput + spaceInput + songName + ')' +
-      ' via Short URL => ' + shrink_url + '\n')
+      ' via Short URL\n')
 file = wget.download(shrink_url, out='/tmp')
 print(file + ' Downloaded!' + '\n')
+
+# editID3Tags
+
 mp3 = MP3File(file)
 mp3.set_version(VERSION_BOTH)
 mp3.artist = artistName
@@ -99,21 +114,23 @@ mp3.song = songName
 mp3.album = 'Telegram'
 mp3.save()
 
+# telegramBot
+
 audio = open(file, 'rb')
-print(audio)
 token = 'my_token'
 chat_id = '@my_channel'
 tb = telebot.TeleBot(token)
-tb.config['api_key'] = token
 user = tb.get_me()
 print(user)
 
-tb.send_message(chat_id, text='<b>TESTING</b>', parse_mode='HTML')
+# uploadFile
 
-print('Uploading File to Telegram Channel...\n')
+print('Uploading File to Telegram Channel: ' + chat_id + '\n')
 tb.send_audio(chat_id, audio)
 tb.send_message(chat_id, text, parse_mode="HTML")
 print('File Uploaded!\n')
+
+# statusImprint
 
 print("Found: " + artistName + hyphenInput + songName)
 print("Downloaded: " + artistName + hyphenInput + songName)
