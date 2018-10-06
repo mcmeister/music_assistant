@@ -8,8 +8,6 @@ All done!
 09.09.2018 @ 18:09
 """
 
-# importInput
-
 import re
 import requests
 import telebot
@@ -18,8 +16,6 @@ from bs4 import BeautifulSoup
 from http_request_randomizer.requests.proxy.requestProxy import RequestProxy
 from mp3_tagger import MP3File, VERSION_BOTH
 from pyshorteners import Shortener
-
-# bannerInput
 
 banner = '''
 --------------------------------------------------------------------------------------------------
@@ -34,14 +30,14 @@ banner = '''
 '''
 print(banner + '\n')
 
-# userInput
+# UserInput
 
 artistName = input('Artist: ')  # Variable for Artist Name
 songName = input('Name: ')      # Variable for Song Name
 mixName = input('Mix Name: ')   # Variable for Remix Name
 blankInput = str()              # String Variable for Blank Input
 
-# programInput
+# ProgramInput
 
 '''
 plusInput = '+'                 # Variable for a Plus [+]
@@ -54,7 +50,7 @@ codeClose = '</code>'           # Variable for Text-Formatting
 boldOpen = '<b>'                # Variable for Text-Formatting
 boldClose = '</b>'              # Variable for Text-Formatting
 
-# cuteQueries
+# CuteQueries
 
 if mixName == blankInput:
     query = (artistName + spaceInput + songName)
@@ -69,9 +65,9 @@ if mixName == blankInput:
     text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName + codeClose)
 else:
     text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName
-            + spaceInput + '(' + mixName + 'Mix' + ')' + codeClose)
+            + spaceInput + '(' + mixName + ')' + codeClose)
 
-# baseURL
+# someURL
 
 url = 'https://mp3cc.biz/search/f/' + query + '/'
 
@@ -107,8 +103,8 @@ print('Connecting to "Shrink URL" using a proxy\n')
 req_proxy.generate_proxied_request(shrink_url)
 print('Downloading: ' + '(' + artistName + spaceInput + hyphenInput + spaceInput + songName + ')' +
       ' via Short URL --> ' + shrink_url + '\n')
-file = wget.download(shrink_url, out='/tmp')
-print(file + ' Downloaded!\n')
+file = wget.download(shrink_url, out='/storage/emulated/0/temp')
+print(file + ' Downloaded!' + '\n')
 
 # editID3Tags
 
@@ -137,8 +133,8 @@ print('File Uploaded!\n')
 
 # statusImprint
 
-print("Found: " + artistName + hyphenInput + songName + '(' + mixName + ')')
-print("Downloaded: " + artistName + hyphenInput + songName + '(' + mixName + ')')
+print("Found: " + artistName + hyphenInput + songName)
+print("Downloaded: " + artistName + hyphenInput + songName)
 print("Uploaded to: " + chat_id + '\n')
 
 # messCleaner

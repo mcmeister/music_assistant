@@ -4,7 +4,7 @@ import glob
 
 # Delete Downloaded Files from a Disk
 
-os.chdir('/tmp/')
+os.chdir('/storage/emulated/0/temp')
 for file_tmp in glob.glob('*.tmp'):
     if os.path.exists(file_tmp):
         os.remove(file_tmp)
