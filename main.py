@@ -102,7 +102,7 @@ shrink_url = shorten.short(get_link)
 print('Connecting to "Shrink URL" using a proxy\n')
 req_proxy.generate_proxied_request(shrink_url)
 print('Downloading: ' + '(' + artistName + spaceInput + hyphenInput + spaceInput + songName + ')' +
-      ' via Short URL\n')
+      ' via Short URL --> ' + shrink_url + '\n')
 file = wget.download(shrink_url, out='/tmp')
 print(file + ' Downloaded!' + '\n')
 
