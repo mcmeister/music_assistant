@@ -70,6 +70,7 @@ else:
 url = 'https://mp3cc.biz/search/f/' + query + '/'
 
 req_proxy = RequestProxy()
+print('Connecting to "Base URL" using a proxy\n')
 req_proxy.generate_proxied_request(url)
 
 with open('parse.txt', 'wb') as f:
@@ -80,13 +81,16 @@ with open('parse.txt', 'r', encoding='UTF-8') as p:
     s = BeautifulSoup(p, 'html.parser')
     link = s.find(href=re.compile('download'))
     get_link = link.get('href')
+    print('Connecting to "Parsed URL" using a proxy\n')
     req_proxy.generate_proxied_request(get_link)
     shorten = Shortener('Tinyurl')
     shrink_url = shorten.short(get_link)
 
+print('Connecting to "Shrinked URL" using a proxy\n')
+req_proxy.generate_proxied_request(shrink_url)
 print('Downloading: ' + '(' + artistName + spaceInput + hyphenInput + spaceInput + songName + ')' +
-      ' via Short URL => ' + shrink_url + '\n')
-file = wget.download(shrink_url, out='/tmp/')
+      ' via Short URL\n')
+file = wget.download(shrink_url, out='/tmp')
 print(file + ' Downloaded!' + '\n')
 mp3 = MP3File(file)
 mp3.set_version(VERSION_BOTH)
@@ -97,23 +101,18 @@ mp3.save()
 
 audio = open(file, 'rb')
 token = '658217975:AAEsRGGeVoArqhuEH4D_-iw5qok45fi6aM8'
-chat_id = '@now_testing'
+chat_id = '@testing_now'
 tb = telebot.TeleBot(token)
-tb.config['api_key'] = token
-tb.config['chat_id'] = chat_id
-tb.config['audio'] = audio
 user = tb.get_me()
 print(user)
 
-chat_id = '@testing_now'
-tb.send_message(chat_id, text='TESTING')
-
 print('Uploading File to Telegram Channel...\n')
 tb.send_audio(chat_id, audio)
-tb.send_message(chat_id, text, parse_mode="Markdown")
+tb.send_message(chat_id, text, parse_mode="HTML")
 print('File Uploaded!\n')
 
 print("Found: " + artistName + hyphenInput + songName)
 print("Downloaded: " + artistName + hyphenInput + songName)
-print("Uploaded to: " + chat_id)
+print("Uploaded to: " + chat_id + '\n')
 
+import cleaner
