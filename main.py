@@ -71,7 +71,7 @@ else:
 
 url = 'https://mp3cc.biz/search/f/' + query + '/'
 
-# proxiedRequest
+# proxyRequest
 
 req_proxy = RequestProxy()
 print('Connecting to "Base URL" using a proxy\n')
@@ -90,15 +90,16 @@ with open('parse.txt', 'r', encoding='UTF-8') as p:
     link = s.find(href=re.compile('download'))
     get_link = link.get('href')
 
-# shortenParsedURL
+# shrinkParsedURL
 
 print('Connecting to "Parsed URL" using a proxy\n')
 req_proxy.generate_proxied_request(get_link)
 shorten = Shortener('Tinyurl')
 shrink_url = shorten.short(get_link)
 
-# downloadShortenedURL
-print('Connecting to "Shrinked URL" using a proxy\n')
+# downloadShrinkURL
+
+print('Connecting to "Shrink URL" using a proxy\n')
 req_proxy.generate_proxied_request(shrink_url)
 print('Downloading: ' + '(' + artistName + spaceInput + hyphenInput + spaceInput + songName + ')' +
       ' via Short URL\n')
@@ -118,7 +119,7 @@ mp3.save()
 
 audio = open(file, 'rb')
 token = 'my_token'
-chat_id = '@my_channel'
+chat_id = '@my_chat_id'
 tb = telebot.TeleBot(token)
 user = tb.get_me()
 print(user)
@@ -135,5 +136,7 @@ print('File Uploaded!\n')
 print("Found: " + artistName + hyphenInput + songName)
 print("Downloaded: " + artistName + hyphenInput + songName)
 print("Uploaded to: " + chat_id + '\n')
+
+# messCleaner
 
 import cleaner
