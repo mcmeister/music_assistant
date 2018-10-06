@@ -140,3 +140,135 @@ print("Uploaded to: " + chat_id + '\n')
 # messCleaner
 
 import cleaner
+"""
+We're going to search for the music(done)
+Download track as mp3-file(done)
+And upload it to Telegram channel(done)
+Let's Go! :)
+12.08.2018 @ 4:03
+All done!
+09.09.2018 @ 18:09
+"""
+
+import re
+import wget
+import telebot
+import requests
+from bs4 import BeautifulSoup
+from pyshorteners import Shortener
+from mp3_tagger import MP3File, VERSION_BOTH
+
+banner = '''
+--------------------------------------------------------------------------------------------------
+  __  __                 _                                   _         _                     _    
+ |  \/  |               (_)              /\                 (_)       | |                   | |   
+ | \  / |  _   _   ___   _    ___       /  \     ___   ___   _   ___  | |_    __ _   _ __   | |_  
+ | |\/| | | | | | / __| | |  / __|     / /\ \   / __| / __| | | / __| | __|  / _` | | '_ \  | __| 
+ | |  | | | |_| | \__ \ | | | (__     / ____ \  \__ \ \__ \ | | \__ \ | |_  | (_| | | | | | | |_  
+ |_|  |_|  \__,_| |___/ |_|  \___|   /_/    \_\ |___/ |___/ |_| |___/  \__|  \__,_| |_| |_|  \__| 
+         FOR TELEGRAM           v.1.01b         by Viacheslav Vorotilin aka "music meister"      
+--------------------------------------------------------------------------------------------------
+'''
+print(banner + '\n')
+
+# UserInput
+
+artistName = input('Artist: ')  # Variable for Artist Name
+songName = input('Name: ')      # Variable for Song Name
+mixName = input('Mix Name: ')   # Variable for Remix Name
+blankInput = str()              # String Variable for Blank Input
+
+# ProgramInput
+
+'''
+plusInput = '+'                 # Variable for a Plus [+]
+underInput = '_'                # Variable for an Underscore [_]
+'''
+spaceInput = ' '                # Variable for a Space [ ]
+hyphenInput = '-'               # Variable for a Hyphen [-]
+codeOpen = '<code>'             # Variable for Text-Formatting
+codeClose = '</code>'           # Variable for Text-Formatting
+boldOpen = '<b>'                # Variable for Text-Formatting
+boldClose = '</b>'              # Variable for Text-Formatting
+
+# CuteQueries
+
+if mixName == blankInput:
+    query = (artistName + spaceInput + songName)
+elif songName == blankInput:
+    query = (artistName + spaceInput + mixName + ' Mix')
+elif artistName == blankInput:
+    query = (songName + spaceInput + mixName + ' Mix')
+else:
+    query = (artistName + spaceInput + songName + spaceInput + mixName + ' Mix')
+
+if mixName == blankInput:
+    text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName + '(Original Mix)' + codeClose)
+else:
+    text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName
+            + spaceInput + '(' + mixName + ')' + codeClose)
+
+# someURL
+
+url = 'https://mp3cc.biz/search/f/' + query + '/'
+print(url)
+
+# saveToFile
+
+with open('parse.txt', 'wb') as f:
+    response = requests.get(url)
+    f.write(response.content)
+
+# parseFromFile
+
+with open('parse.txt', 'r', encoding='UTF-8') as p:
+    s = BeautifulSoup(p, 'html.parser')
+    link = s.find(href=re.compile('download'))
+    get_link = link.get('href')
+
+# shrinkParsedURL
+
+shorten = Shortener('Tinyurl')
+shrink_url = shorten.short(get_link)
+
+# downloadShrinkURL
+
+print('Downloading: ' + '(' + artistName + spaceInput + hyphenInput + spaceInput + songName + ')' +
+      ' via Short URL --> ' + shrink_url + '\n')
+file = wget.download(shrink_url, out='/storage/emulated/0/temp')
+print(file + ' Downloaded!' + '\n')
+
+# editID3Tags
+
+mp3 = MP3File(file)
+mp3.set_version(VERSION_BOTH)
+mp3.artist = artistName
+mp3.song = songName
+mp3.album = 'Telegram'
+mp3.save()
+
+# telegramBot
+
+audio = open(file, 'rb')
+token = 'my_token'
+chat_id = '@my_chat_id'
+tb = telebot.TeleBot(token)
+user = tb.get_me()
+print(user)
+
+# uploadFile
+
+print('Uploading File to Telegram Channel: ' + chat_id + '\n')
+tb.send_audio(chat_id, audio)
+tb.send_message(chat_id, text, parse_mode="HTML")
+print('File Uploaded!\n')
+
+# statusImprint
+
+print("Found: " + artistName + hyphenInput + songName + '(' + mixName + ')')
+print("Downloaded: " + artistName + hyphenInput + songName + '(' + mixName + ')')
+print("Uploaded to: " + chat_id + '\n')
+
+# messCleaner
+
+import cleaner_mob
