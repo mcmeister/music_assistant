@@ -67,7 +67,7 @@ else:
 print('\nQuery: ' + query)
 
 if mixName == blankInput:
-    text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName + '(Original Mix)' + codeClose)
+    text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName + codeClose)
 else:
     text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName
             + '(' + mixName + ')' + codeClose)
