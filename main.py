@@ -11,13 +11,13 @@ All done!
 # importInput
 
 import re
-import requests
-import telebot
 import wget
+import telebot
+import requests
 from bs4 import BeautifulSoup
-from http_request_randomizer.requests.proxy.requestProxy import RequestProxy
-from mp3_tagger import MP3File, VERSION_BOTH
 from pyshorteners import Shortener
+from mp3_tagger import MP3File, VERSION_BOTH
+from http_request_randomizer.requests.proxy.requestProxy import RequestProxy
 
 # bannerInput
 
@@ -36,50 +36,51 @@ print(banner + '\n')
 
 # userInput
 
-artistName = input('Artist: ')  # Variable for Artist Name
-songName = input('Name: ')      # Variable for Song Name
-mixName = input('Mix Name: ')   # Variable for Remix Name
-blankInput = str()              # String Variable for Blank Input
+artistName = input('Artist: ')      # Variable for Artist Name
+songName = input('Name: ')          # Variable for Song Name
+mixName = input('Remixed by: ')     # Variable for DJ Name
+blankInput = str()                  # String Variable for Blank Input
 
 # programInput
 
 '''
-plusInput = '+'                 # Variable for a Plus [+]
-underInput = '_'                # Variable for an Underscore [_]
+plusInput = '+'                     # Variable for a Plus [+]
+underInput = '_'                    # Variable for an Underscore [_]
 '''
-spaceInput = ' '                # Variable for a Space [ ]
-hyphenInput = '-'               # Variable for a Hyphen [-]
-codeOpen = '<code>'             # Variable for Text-Formatting
-codeClose = '</code>'           # Variable for Text-Formatting
-boldOpen = '<b>'                # Variable for Text-Formatting
-boldClose = '</b>'              # Variable for Text-Formatting
+spaceInput = ' '                    # Variable for a Space [ ]
+hyphenInput = '-'                   # Variable for a Hyphen [-]
+codeOpen = '<code>'                 # Variable for Text-Formatting
+codeClose = '</code>'               # Variable for Text-Formatting
+boldOpen = '<b>'                    # Variable for Text-Formatting
+boldClose = '</b>'                  # Variable for Text-Formatting
 
 # cuteQueries
 
 if mixName == blankInput:
     query = (artistName + spaceInput + songName)
 elif songName == blankInput:
-    query = (artistName + spaceInput + mixName + ' Mix')
+    query = (artistName + spaceInput + mixName)
 elif artistName == blankInput:
-    query = (songName + spaceInput + mixName + ' Mix')
+    query = (songName + spaceInput + mixName)
 else:
-    query = (artistName + spaceInput + songName + spaceInput + mixName + ' Mix')
+    query = (artistName + spaceInput + songName + spaceInput + mixName)
+print('\nQuery: ' + query)
 
 if mixName == blankInput:
-    text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName + codeClose)
+    text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName + '(Original Mix)' + codeClose)
 else:
     text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName
-            + spaceInput + '(' + mixName + 'Mix' + ')' + codeClose)
+            + '(' + mixName + ')' + codeClose)
 
 # baseURL
 
 url = 'https://mp3cc.biz/search/f/' + query + '/'
 
-# proxyRequest
+# proxy_headersRequest
 
 req_proxy = RequestProxy()
-print('Connecting to "Base URL" using a proxy\n')
 req_proxy.generate_proxied_request(url)
+print('\nConnecting to "Base URL"...\n')
 
 # saveToFile
 
@@ -96,19 +97,18 @@ with open('parse.txt', 'r', encoding='UTF-8') as p:
 
 # shrinkParsedURL
 
-print('Connecting to "Parsed URL" using a proxy\n')
 req_proxy.generate_proxied_request(get_link)
+print('\nConnecting to "Parsed URL"...\n')
 shorten = Shortener('Tinyurl')
 shrink_url = shorten.short(get_link)
 
 # downloadShrinkURL
 
-print('Connecting to "Shrink URL" using a proxy\n')
 req_proxy.generate_proxied_request(shrink_url)
-print('Downloading: ' + '(' + artistName + spaceInput + hyphenInput + spaceInput + songName + ')' +
-      ' via Short URL --> ' + shrink_url + '\n')
+print('\nConnecting to "Shrink URL"...')
 file = wget.download(shrink_url, out='/tmp')
-print(file + ' Downloaded!\n')
+print('\nDownloading: ' + '(' + query + ')' + ' via Short URL --> ' + shrink_url)
+print('\nFile: ' + file + ' Downloaded!')
 
 # editID3Tags
 
@@ -125,21 +125,21 @@ audio = open(file, 'rb')
 token = 'my_token'
 chat_id = '@my_chat_id'
 tb = telebot.TeleBot(token)
-user = tb.get_me()
-print(user)
+tb_status = str(tb.get_me())
+print('\nStatus: ' + tb_status)
 
 # uploadFile
 
-print('Uploading File to Telegram Channel: ' + chat_id + '\n')
+print('\nUploading File to a Telegram Channel: ' + chat_id)
 tb.send_audio(chat_id, audio)
 tb.send_message(chat_id, text, parse_mode="HTML")
-print('File Uploaded!\n')
+print('\nFile Uploaded!')
 
 # statusImprint
 
-print("Found: " + artistName + hyphenInput + songName + '(' + mixName + ')')
-print("Downloaded: " + artistName + hyphenInput + songName + '(' + mixName + ')')
-print("Uploaded to: " + chat_id + '\n')
+print('\nFound: ' + query)
+print('\nDownloaded: ' + query)
+print('\nUploaded to: ' + chat_id)
 
 # messCleaner
 
