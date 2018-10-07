@@ -109,7 +109,7 @@ with open('parse.txt', 'r', encoding='UTF-8') as p:
 
 # shrinkParsedURL
 
-access_token = "44e124bc4dba4890ded9e039fb9babb900086723"
+access_token = 'my_Bitly_token'
 tinyurl_short = Shortener('Tinyurl')
 bitly_short = Shortener('Bitly', bitly_token=access_token)
 
@@ -157,8 +157,8 @@ print(tags)
 
 os.rename(str(file), newName)
 audio = open(newName, 'rb')
-token = '658217975:AAEsRGGeVoArqhuEH4D_-iw5qok45fi6aM8'
-chat_id = '@testing_now'
+token = 'my_token'
+chat_id = '@my_chat_id'
 tb = telebot.TeleBot(token)
 tb_status = str(tb.get_me())
 print('\nStatus: ' + tb_status)
