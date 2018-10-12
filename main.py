@@ -33,7 +33,7 @@ banner = '''
          FOR TELEGRAM           v.1.01b         by Viacheslav Vorotilin aka "music meister"      
 --------------------------------------------------------------------------------------------------
 '''
-print(banner + '\n')
+print(banner)
 
 # userInput
 
@@ -77,7 +77,6 @@ if mixName == blankInput:
     newName = ('/tmp/' + artistName + hyphenInput + songName + '.mp3')
 else:
     newName = ('/tmp/' + artistName + hyphenInput + songName + hyphenInput + mixName + '.mp3')
-print('\nNew filename gonna be: ' + newName + '\n')
 
 # baseURL
 
@@ -87,9 +86,8 @@ url = 'https://mp3cc.biz/search/f/' + query + '/'
 
 req_proxy = RequestProxy()
 
-req1 = req_proxy.generate_proxied_request(url)
-if not req1:
-    print('\nNext proxy... Base URL')
+while not req_proxy.generate_proxied_request(url):
+    print('\nNext proxy for Base URL')
 else:
     print('\nConnected to Base URL!')
     pass
@@ -113,34 +111,28 @@ access_token = "44e124bc4dba4890ded9e039fb9babb900086723"
 tinyurl_short = Shortener('Tinyurl')
 bitly_short = Shortener('Bitly', bitly_token=access_token)
 
-req2 = req_proxy.generate_proxied_request(get_link)
-if not req2:
-    print('\nNext proxy... Parsed URL')
+while not req_proxy.generate_proxied_request(get_link):
+    print('\nNext proxy for Parsed URL')
 else:
     print('\nConnected to Parsed URL!')
-    pass
 
 shrink_url = bitly_short.short(get_link)
-if not shrink_url:
+if shrink_url:
+    print('\nBitLy: ' + str(shrink_url))
+else:
     shrink_url = tinyurl_short.short(get_link)
     print('\nTinyurl: ' + str(shrink_url))
-    pass
-else:
-    print('\nBitLy: ' + str(shrink_url))
-    pass
 
 # downloadShrinkURL
 
-req3 = req_proxy.generate_proxied_request(shrink_url)
-if not req3:
-    print('\nNext proxy... Shrink URL')
+while not req_proxy.generate_proxied_request(shrink_url):
+    print('\nNext proxy for Shrink URL')
 else:
     print('\nConnected to Shrink URL!')
-    pass
 
 print('\nDownloading: ' + query + ' via Short URL --> ' + shrink_url)
 file = wget.download(shrink_url, out='/tmp')
-print('\nFile: ' + file + ' Downloaded!\n')
+print('\nDownloaded!: ' + str(file))
 
 # editID3Tags
 
@@ -149,16 +141,18 @@ mp3.set_version(VERSION_BOTH)
 mp3.artist = artistName
 mp3.song = songName
 mp3.album = 'Telegram'
+mp3.publisher = ''
 mp3.save()
 tags = mp3.get_tags()
 print(tags)
 
 # telegramBot
 
+print('\nFilename will be: ' + newName)
 os.rename(str(file), newName)
 audio = open(newName, 'rb')
-token = '658217975:AAEsRGGeVoArqhuEH4D_-iw5qok45fi6aM8'
-chat_id = '@testing_now'
+token = 'my_bot_token'
+chat_id = '@my_chat_id'
 tb = telebot.TeleBot(token)
 tb_status = str(tb.get_me())
 print('\nStatus: ' + tb_status)
@@ -166,8 +160,11 @@ print('\nStatus: ' + tb_status)
 # uploadFile
 
 print('\nUploading File to a Telegram Channel: ' + chat_id)
-tb.send_audio(chat_id, audio)
-tb.send_message(chat_id, text, parse_mode="HTML")
+print('\nMessage will be: ' + str(text))
+send = tb.send_audio(chat_id, audio)
+message_id = send.message_id
+caption = str(text)
+tb.edit_message_caption(caption, chat_id, message_id, parse_mode='HTML')
 print('\nFile Uploaded!')
 
 # statusImprint
