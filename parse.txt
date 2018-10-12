@@ -2,8 +2,8 @@
 <html id="desktop" class="">
 <head>
 		<meta charset="utf-8" />
-		<title>bassbin twins stone lions | mp3 скачать бесплатно | Скачать бесплатно музыку, скачать mp3</title>
-		<meta name="description" content="Bassbin Twins - Stone Lions - Snow Over Arizona Bassbin Twins vs. Marine Parade - Stone Lions - Snow Over Arizona (Bassbin Edit) Stone Lions - Snow Over Arizona (Bassbin Twins Edit) Stone Li lq1" />
+		<title>bootasaurus booty calamity | mp3 скачать бесплатно | Скачать бесплатно музыку, скачать mp3</title>
+		<meta name="description" content="Bootasaurus - Booty Calamity ♪ Bootasaurus - Booty Calamity BOOTASAURUS - Booty Calamity Bootasaurus - Booty Calamity (Original Mix) Record Breaks - Bootasaurus - Booty Calamity radiorecord. 1o0" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 		<link rel="search" type="application/opensearchdescription+xml" title="mp3CC.biz" href="/i/etc/opensearch.xml">
 		<link rel="dns-prefetch" href="//storage.mp3cc.biz">
@@ -11,8 +11,8 @@
 		<meta property="og:site_name" content="mp3CC.biz" />
 		<meta property="og:image" content="https://mp3cc.biz/i/img/site_prw0002.png" />
 		<meta property="og:type" content="music.song" />
-		<meta property="og:url" content="https://mp3cc.biz/search/f/bassbin+twins+stone+lions/" />
-		<meta property="og:title" content="bassbin twins stone lions" />
+		<meta property="og:url" content="https://mp3cc.biz/search/f/bootasaurus+booty+calamity/" />
+		<meta property="og:title" content="bootasaurus booty calamity" />
 
 
 		<link rel="stylesheet" href="/i/css/_main_min.92db4fe7.css" />
@@ -36,7 +36,7 @@
 		<!-- player-page-title -->
 		<div id="player-page-title" class="hidden">
 			<b>mp3CC.biz</b>
-			<span>bassbin twins stone lions</span>
+			<span>bootasaurus booty calamity</span>
 		</div>
 		<!-- / player-page-title -->
 
@@ -70,7 +70,7 @@
 					
 						<form id="he-search" action="/api/search" method="post">
 							<div>
-								<input type="text" name="q" id="he-search-text" value="bassbin twins stone lions" placeholder="Поиск &mdash; введите название песни или исполнителя" />
+								<input type="text" name="q" id="he-search-text" value="bootasaurus booty calamity" placeholder="Поиск &mdash; введите название песни или исполнителя" />
 								<input type="submit" id="he-search-submit" value="" />
 							
 								<a href="#" class="hidden" id="search-submitter"></a>
@@ -106,144 +106,144 @@
 				<aside id="xbody-content">
 										
 			<div class="xblock">
-				<h1 class="title">bassbin twins stone lions</h1>
+				<h1 class="title">bootasaurus booty calamity</h1>
 				<div class="xblock-p">
 		<!-- == search_settings -->
 		<div class="search_settings">
 			<select name="mode" class="ajaxify_select_option_go">
-				<option value="f" data-url="/search/f/bassbin+twins+stone+lions/" selected="selected">поиск везде</option><option value="a" data-url="/search/a/bassbin+twins+stone+lions/">по исполнителю</option><option value="t" data-url="/search/t/bassbin+twins+stone+lions/">по названии песни</option>
+				<option value="f" data-url="/search/f/bootasaurus+booty+calamity/" selected="selected">поиск везде</option><option value="a" data-url="/search/a/bootasaurus+booty+calamity/">по исполнителю</option><option value="t" data-url="/search/t/bootasaurus+booty+calamity/">по названии песни</option>
 			</select>
 			
 			<label>
-				<input type="checkbox" id="search-filter-remix" data-url="/search/f/bassbin+twins+stone+lions/" />
+				<input type="checkbox" id="search-filter-remix" data-url="/search/f/bootasaurus+booty+calamity/" />
 				Скрыть копии\ремиксы и т.д.
 			</label>
 
 			<label>
-				<input type="checkbox" id="search-filter-strict" data-url="/search/f/bassbin+twins+stone+lions/" />
+				<input type="checkbox" id="search-filter-strict" data-url="/search/f/bootasaurus+booty+calamity/" />
 				Точный поиск
 			</label>
 		</div>
 		<!-- / == search_settings -->
 	
 		<ul class="playlist">
-		<li class="track" data-index="0" data-id="8072227" data-mp3="https://storage.mp3cc.biz/listen/8072227/N1VZNnlmN3dXM2x2SWh1MThPNFZiUkJUTTByV2Y5dzlTekpLc0kxN3l2YmRYRlZVQ0JtQTl3d281T3ZZMi9GQUEyZ1docSt6V2l4d09SNjhtakZnOWFTeGVRa3U3NHpLRnlYSTlPZm1kUzhtVGlGUTlnQ0JXS0wyN0M2cWoydUc/bassbin-twins-stone-lions-snow-over-arizona_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/275168-bassbin-twins/8072227-stone-lions-snow-over-arizona/" data-duration="217000">
+		<li class="track" data-index="0" data-id="21545992" data-mp3="https://storage.mp3cc.biz/listen/21545992/R2s5MUNyOWwvaTd1WkphTVFpTjNhblBPN3o0RXVrYUtrbWxFc1FQbitGY1VzazRqMXY0YTNDR0YrZmJSWnpGVFhSSWwrZEUvSkc5bHFZNnowNk9DaTBMN0wwMXhlMkp0eWNzZk9iVXNlZURXWmswWTlYeEM0WlJCdThWWWh1VC8/bootasaurus-booty-calamity_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/4344535-bootasaurus/21545992-booty-calamity/" data-duration="427000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/8072227/N1VZNnlmN3dXM2x2SWh1MThPNFZiUkJUTTByV2Y5dzlTekpLc0kxN3l2YmRYRlZVQ0JtQTl3d281T3ZZMi9GQUEyZ1docSt6V2l4d09SNjhtakZnOWFTeGVRa3U3NHpLRnlYSTlPZm1kUzhtVGlGUTlnQ0JXS0wyN0M2cWoydUc/bassbin-twins-stone-lions-snow-over-arizona_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bassbin Twins - Stone Lions - Snow Over Arizona (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/21545992/R2s5MUNyOWwvaTd1WkphTVFpTjNhblBPN3o0RXVrYUtrbWxFc1FQbitGY1VzazRqMXY0YTNDR0YrZmJSWnpGVFhSSWwrZEUvSkc5bHFZNnowNk9DaTBMN0wwMXhlMkp0eWNzZk9iVXNlZURXWmswWTlYeEM0WlJCdThWWWh1VC8/bootasaurus-booty-calamity_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bootasaurus - Booty Calamity (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">03:37</span>
+				<span class="playlist-duration">07:07</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/275168-bassbin-twins/">Bassbin Twins</a></b>
+				<b><a href="/m/4344535-bootasaurus/">Bootasaurus</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/275168-bassbin-twins/8072227-stone-lions-snow-over-arizona/">Stone Lions - Snow Over Arizona</a></em>
+				<em><a href="https://mp3cc.biz/m/4344535-bootasaurus/21545992-booty-calamity/">Booty Calamity</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="1" data-id="38835076" data-mp3="https://storage.mp3cc.biz/listen/38835076/N1VZNnlmN3dXM2x2SWh1MThPNFZiUkJUTTByV2Y5dzlTekpLc0kxN3l2WTVpYlBXa3laYlZRMTdvNkE0dE01ZWRqeGtmRGc5VTlzZDZzV09pdHZ4eGF4dlNpaXlERkRJYmlsRjR2WHF5MnpTSjB2Q1RXUEFLZm5FSkY5M1NKNHU/bassbin-twins-vs.-marine-parade-stone-lions-snow-over-arizona-bassbin-edit_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/588927-bassbin-twins-vs.-marine-parade/38835076-stone-lions-snow-over-arizona-bassbin-edit/" data-duration="217000">
+		<li class="track" data-index="1" data-id="21546031" data-mp3="https://storage.mp3cc.biz/listen/21546031/R2s5MUNyOWwvaTd1WkphTVFpTjNhblBPN3o0RXVrYUtrbWxFc1FQbitGZDB2R0NsaWdRblI3WGdYU1cxY0svdGdvMGxOc1dmMTdBTis1aFBnTUM4S1VsWHRKcjNqVi92MTRsamZvWCt2a0YvUDQ1S1dGOGhnZDZjSGFOa3kveEU/bootasaurus-booty-calamity_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/4344535-bootasaurus/21546031-booty-calamity/" data-duration="427000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/38835076/N1VZNnlmN3dXM2x2SWh1MThPNFZiUkJUTTByV2Y5dzlTekpLc0kxN3l2WTVpYlBXa3laYlZRMTdvNkE0dE01ZWRqeGtmRGc5VTlzZDZzV09pdHZ4eGF4dlNpaXlERkRJYmlsRjR2WHF5MnpTSjB2Q1RXUEFLZm5FSkY5M1NKNHU/bassbin-twins-vs.-marine-parade-stone-lions-snow-over-arizona-bassbin-edit_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bassbin Twins vs. Marine Parade - Stone Lions - Snow Over Arizona (Bassbin Edit) (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/21546031/R2s5MUNyOWwvaTd1WkphTVFpTjNhblBPN3o0RXVrYUtrbWxFc1FQbitGZDB2R0NsaWdRblI3WGdYU1cxY0svdGdvMGxOc1dmMTdBTis1aFBnTUM4S1VsWHRKcjNqVi92MTRsamZvWCt2a0YvUDQ1S1dGOGhnZDZjSGFOa3kveEU/bootasaurus-booty-calamity_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="♪ Bootasaurus - Booty Calamity (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">03:37</span>
+				<span class="playlist-duration">07:07</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/588927-bassbin-twins-vs.-marine-parade/">Bassbin Twins vs. Marine Parade</a></b>
+				<b><a href="/m/4344535-bootasaurus/">♪ Bootasaurus</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/588927-bassbin-twins-vs.-marine-parade/38835076-stone-lions-snow-over-arizona-bassbin-edit/">Stone Lions - Snow Over Arizona (Bassbin Edit)</a></em>
+				<em><a href="https://mp3cc.biz/m/4344535-bootasaurus/21546031-booty-calamity/">Booty Calamity</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="2" data-id="8072228" data-mp3="https://storage.mp3cc.biz/listen/8072228/N1VZNnlmN3dXM2x2SWh1MThPNFZiUkJUTTByV2Y5dzlTekpLc0kxN3l2YmRYRlZVQ0JtQTl3d281T3ZZMi9GQVZjd3hSTUlVV0FyYTdDZUFHSThDOUV6SmNrZ0h1MHh2RUpsSHNIWlpQTHdjUzcxSTRBZkswZXZhcWdGVUtvWmU/stone-lions-snow-over-arizona-bassbin-twins-edit_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/1605481-stone-lions/8072228-snow-over-arizona-bassbin-twins-edit/" data-duration="362000">
+		<li class="track" data-index="2" data-id="21546116" data-mp3="https://storage.mp3cc.biz/listen/21546116/R2s5MUNyOWwvaTd1WkphTVFpTjNhblBPN3o0RXVrYUtrbWxFc1FQbitGY1dXUzIwUHgvMEhNNUpZK1ZPVnNIVXlLZnRtbkdYNFFDY2ROYlNKRU1nOUlQQzF2NzlrVXhYSHhBMlhaL3FVS1h0M0xWQkZXNkpqSWlEVEJHZlVXQ1g/bootasaurus-booty-calamity_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/4344535-bootasaurus/21546116-booty-calamity/" data-duration="278000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/8072228/N1VZNnlmN3dXM2x2SWh1MThPNFZiUkJUTTByV2Y5dzlTekpLc0kxN3l2YmRYRlZVQ0JtQTl3d281T3ZZMi9GQVZjd3hSTUlVV0FyYTdDZUFHSThDOUV6SmNrZ0h1MHh2RUpsSHNIWlpQTHdjUzcxSTRBZkswZXZhcWdGVUtvWmU/stone-lions-snow-over-arizona-bassbin-twins-edit_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Stone Lions - Snow Over Arizona (Bassbin Twins Edit) (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/21546116/R2s5MUNyOWwvaTd1WkphTVFpTjNhblBPN3o0RXVrYUtrbWxFc1FQbitGY1dXUzIwUHgvMEhNNUpZK1ZPVnNIVXlLZnRtbkdYNFFDY2ROYlNKRU1nOUlQQzF2NzlrVXhYSHhBMlhaL3FVS1h0M0xWQkZXNkpqSWlEVEJHZlVXQ1g/bootasaurus-booty-calamity_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="BOOTASAURUS - Booty Calamity (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">06:02</span>
+				<span class="playlist-duration">04:38</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/1605481-stone-lions/">Stone Lions</a></b>
+				<b><a href="/m/4344535-bootasaurus/">BOOTASAURUS</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/1605481-stone-lions/8072228-snow-over-arizona-bassbin-twins-edit/">Snow Over Arizona (Bassbin Twins Edit)</a></em>
+				<em><a href="https://mp3cc.biz/m/4344535-bootasaurus/21546116-booty-calamity/">Booty Calamity</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="3" data-id="38835094" data-mp3="https://storage.mp3cc.biz/listen/38835094/N1VZNnlmN3dXM2x2SWh1MThPNFZiUkJUTTByV2Y5dzlTekpLc0kxN3l2WTVpYlBXa3laYlZRMTdvNkE0dE01ZUV2bUFVa2QvSCswSEZCalczRHcwYmpnTC9PMlczT1k0MXYxeVh2b3JVQ2NwTm83WTVEZk00MmdqRG55dU5STE4/stone-lions-snow-over-arizona-bassbin-twins-edit_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/1605481-stone-lions/38835094-snow-over-arizona-bassbin-twins-edit/" data-duration="365000">
+		<li class="track" data-index="3" data-id="21546015" data-mp3="https://storage.mp3cc.biz/listen/21546015/R2s5MUNyOWwvaTd1WkphTVFpTjNhblBPN3o0RXVrYUtrbWxFc1FQbitGZDB2R0NsaWdRblI3WGdYU1cxY0svdHVQbll1U1JpUnZKemtKMEhwTElUSjkweE9MSjM0bllrMGVVM1VnN2g4Rm5ZSHc0bExjam1Mek1hOXkxV1I0RjM/bootasaurus-booty-calamity-original-mix_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/4344535-bootasaurus/21546015-booty-calamity-original-mix/" data-duration="427000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/38835094/N1VZNnlmN3dXM2x2SWh1MThPNFZiUkJUTTByV2Y5dzlTekpLc0kxN3l2WTVpYlBXa3laYlZRMTdvNkE0dE01ZUV2bUFVa2QvSCswSEZCalczRHcwYmpnTC9PMlczT1k0MXYxeVh2b3JVQ2NwTm83WTVEZk00MmdqRG55dU5STE4/stone-lions-snow-over-arizona-bassbin-twins-edit_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Stone Lions - Snow Over Arizona - Bassbin Twins Edit (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/21546015/R2s5MUNyOWwvaTd1WkphTVFpTjNhblBPN3o0RXVrYUtrbWxFc1FQbitGZDB2R0NsaWdRblI3WGdYU1cxY0svdHVQbll1U1JpUnZKemtKMEhwTElUSjkweE9MSjM0bllrMGVVM1VnN2g4Rm5ZSHc0bExjam1Mek1hOXkxV1I0RjM/bootasaurus-booty-calamity-original-mix_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Bootasaurus - Booty Calamity (Original Mix) (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">06:05</span>
+				<span class="playlist-duration">07:07</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/1605481-stone-lions/">Stone Lions</a></b>
+				<b><a href="/m/4344535-bootasaurus/">Bootasaurus</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/1605481-stone-lions/38835094-snow-over-arizona-bassbin-twins-edit/">Snow Over Arizona - Bassbin Twins Edit</a></em>
+				<em><a href="https://mp3cc.biz/m/4344535-bootasaurus/21546015-booty-calamity-original-mix/">Booty Calamity (Original Mix)</a></em>
 			</h2>
 		</li>
 	
-		<li class="track" data-index="4" data-id="82182816" data-mp3="https://storage.mp3cc.biz/listen/82182816/N1VZNnlmN3dXM2x2SWh1MThPNFZiUkJUTTByV2Y5dzlTekpLc0kxN3l2WUlSZ3VNUHVnUFVoVTBVdXdHekwxajVKb0JGWFhrWTZPODhqNm9rb1ZOQTJhTXhIOXJOcEFkL1FwbHpidm1IWlIvRVFPbmxKQUNTemlaWTkrSEVaVHI/stone-lions-snow-over-arizona-bassbin-twins-edit-marine-parade-catalog-mapacda006_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/1605481-stone-lions/82182816-snow-over-arizona-bassbin-twins-edit-marine-parade-catalog-mapacda006/" data-duration="362000">
+		<li class="track" data-index="4" data-id="42531980" data-mp3="https://storage.mp3cc.biz/listen/42531980/R2s5MUNyOWwvaTd1WkphTVFpTjNhblBPN3o0RXVrYUtrbWxFc1FQbitGZi93RVVGM0V2N3E5K3pkWUtuT0wrVHJQc2NOK2hpSGFLNHkzR3JscWJaeTJLWWpoSFJ2aVNmR0l2UmxCNGlFciszUWhqUUZLckNYZ2VSR1o0OEJzZmc/record-breaks-bootasaurus-booty-calamity-radiorecord.ru_(mp3CC.biz).mp3" data-url_song="https://mp3cc.biz/m/1026014-record-breaks/42531980-bootasaurus-booty-calamity-radiorecord.ru/" data-duration="278000">
 
 			
 
 			<div class="playlist-btn">
 				<a href="javascript:void(0);" class="playlist-btn-play playlist-btn-playback no-ajaxy" title="слушать онлайн">(слушать онлайн)</a>
-				<a href="https://storage.mp3cc.biz/download/82182816/N1VZNnlmN3dXM2x2SWh1MThPNFZiUkJUTTByV2Y5dzlTekpLc0kxN3l2WUlSZ3VNUHVnUFVoVTBVdXdHekwxajVKb0JGWFhrWTZPODhqNm9rb1ZOQTJhTXhIOXJOcEFkL1FwbHpidm1IWlIvRVFPbmxKQUNTemlaWTkrSEVaVHI/stone-lions-snow-over-arizona-bassbin-twins-edit-marine-parade-catalog-mapacda006_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Stone Lions - Snow Over Arizona (Bassbin Twins Edit)[Marine Parade CATALOG # MAPACDA006] (mp3CC.biz).mp3">(скачать)</a>
+				<a href="https://storage.mp3cc.biz/download/42531980/R2s5MUNyOWwvaTd1WkphTVFpTjNhblBPN3o0RXVrYUtrbWxFc1FQbitGZi93RVVGM0V2N3E5K3pkWUtuT0wrVHJQc2NOK2hpSGFLNHkzR3JscWJaeTJLWWpoSFJ2aVNmR0l2UmxCNGlFciszUWhqUUZLckNYZ2VSR1o0OEJzZmc/record-breaks-bootasaurus-booty-calamity-radiorecord.ru_(mp3CC.biz).mp3" class="playlist-btn-down no-ajaxy" title="скачать" target="_blank" download="Record Breaks - Bootasaurus - Booty Calamity radiorecord.ru (mp3CC.biz).mp3">(скачать)</a>
 				
 			</div>
 
 			<em>
 				<a href="javascript:void(0);" class="playlist-btn-addfav no-ajaxy" title="добавить в избранное (плейлист)"></a>
 
-				<span class="playlist-duration">06:02</span>
+				<span class="playlist-duration">04:38</span>
 			</em>
 			<a href="javascript:void(0);" class="rbt-list hide" rel="nofollow"></a>
 
 			<h2 class="playlist-name">
-				<b><a href="/m/1605481-stone-lions/">Stone Lions</a></b>
+				<b><a href="/m/1026014-record-breaks/">Record Breaks</a></b>
 				<i>&ndash;</i>
-				<em><a href="https://mp3cc.biz/m/1605481-stone-lions/82182816-snow-over-arizona-bassbin-twins-edit-marine-parade-catalog-mapacda006/">Snow Over Arizona (Bassbin Twins Edit)[Marine Parade CATALOG # MAPACDA006]</a></em>
+				<em><a href="https://mp3cc.biz/m/1026014-record-breaks/42531980-bootasaurus-booty-calamity-radiorecord.ru/">Bootasaurus - Booty Calamity radiorecord.ru</a></em>
 			</h2>
 		</li>
 	</ul><div class="ctr-listalka"><ul class="listalka" data-next-page="false"><li class="listalka-arrow-back"><em>&larr;</em></li><li class="listalka-numbers"><em>1</em></li><li class="listalka-arrow-next"><em>&rarr;</em></li></ul></div>
@@ -337,7 +337,7 @@
 							<div id="fixplayer-title"><span>
 								<b>mp3CC.biz</b>
 								<i>&ndash;</i>
-								<em>bassbin twins stone lions</em>
+								<em>bootasaurus booty calamity</em>
 							</span></div>
 							<div id="fixplayer-notification"></div>
 						</div>
@@ -371,4 +371,4 @@
 		
 </body>
 </html>
-<!-- 0.029002; 2 (0.001223087310791); 5 (0.00032520294189453); 1 (0.0047571659088135). -->
+<!-- 0.018715; 0 (0); 4 (0.00054192543029785); 0 (0). -->

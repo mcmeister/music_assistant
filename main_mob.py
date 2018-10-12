@@ -106,7 +106,7 @@ with open('parse.txt', 'r', encoding='UTF-8') as p:
 
 # shrinkParsedURL
 
-access_token = "44e124bc4dba4890ded9e039fb9babb900086723"
+access_token = 'my_bitly_token'
 tinyurl_short = Shortener('Tinyurl')
 bitly_short = Shortener('Bitly', bitly_token=access_token)
 

@@ -107,7 +107,7 @@ with open('parse.txt', 'r', encoding='UTF-8') as p:
 
 # shrinkParsedURL
 
-access_token = "44e124bc4dba4890ded9e039fb9babb900086723"
+access_token = 'my_bitly_token'
 tinyurl_short = Shortener('Tinyurl')
 bitly_short = Shortener('Bitly', bitly_token=access_token)
 
@@ -115,6 +115,7 @@ while not req_proxy.generate_proxied_request(get_link):
     print('\nNext proxy for Parsed URL')
 else:
     print('\nConnected to Parsed URL!')
+    pass
 
 shrink_url = bitly_short.short(get_link)
 if shrink_url:
@@ -129,6 +130,7 @@ while not req_proxy.generate_proxied_request(shrink_url):
     print('\nNext proxy for Shrink URL')
 else:
     print('\nConnected to Shrink URL!')
+    pass
 
 print('\nDownloading: ' + query + ' via Short URL --> ' + shrink_url)
 file = wget.download(shrink_url, out='/tmp')
