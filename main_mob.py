@@ -17,8 +17,8 @@ import telebot
 import requests
 from bs4 import BeautifulSoup
 from pyshorteners import Shortener
-from fake_useragent import UserAgent
 from mp3_tagger import MP3File, VERSION_BOTH
+from http_request_randomizer.requests.proxy.requestProxy import RequestProxy
 
 # bannerInput
 
@@ -65,13 +65,13 @@ elif artistName == blankInput:
     query = (songName + spaceInput + mixName)
 else:
     query = (artistName + spaceInput + songName + spaceInput + mixName)
-print('\nQuery: ' + query)
+print('\nWorking on Request: ' + query)
 
 if mixName == blankInput:
     text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName + codeClose)
 else:
     text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName
-            + '(' + mixName + ')' + codeClose)
+            + '(' + mixName + ' Remix' + ')' + codeClose)
 
 if mixName == blankInput:
     newName = ('/tmp/' + artistName + hyphenInput + songName + '.mp3')
@@ -82,19 +82,20 @@ else:
 
 url = 'https://mp3cc.biz/search/f/' + query + '/'
 
-# userAgent
+# proxy_headersRequest
 
-ua = UserAgent()
-ua.update()
+req_proxy = RequestProxy()
 
-# headers
-
-headers = ua.random
+while not req_proxy.generate_proxied_request(url):
+    print('\nNext proxy for Base URL')
+else:
+    print('\nConnected to Base URL!')
+    pass
 
 # saveToFile
 
 with open('parse.txt', 'wb') as f:
-    response = requests.get(url, headers=headers)
+    response = requests.get(url)
     f.write(response.content)
 
 # parseFromFile
@@ -110,17 +111,28 @@ access_token = 'my_bitly_token'
 tinyurl_short = Shortener('Tinyurl')
 bitly_short = Shortener('Bitly', bitly_token=access_token)
 
-shrink_url = bitly_short.short(get_link)
-if shrink_url:
-    print('\nBitLy: ' + str(shrink_url))
-else:
+try:
+    shrink_url = bitly_short.short(get_link)
+except requests.exceptions.Timeout as ert:
+    print("Timeout Error:", ert)
+    pass
+
+try:
     shrink_url = tinyurl_short.short(get_link)
-    print('\nTinyurl: ' + str(shrink_url))
+except requests.exceptions.Timeout as ert:
+    print("Timeout Error:", ert)
+    pass
 
 # downloadShrinkURL
 
+while not req_proxy.generate_proxied_request(shrink_url):
+    print('\nNext proxy for Shrink URL')
+else:
+    print('\nConnected to Shrink URL!')
+    pass
+
 print('\nDownloading: ' + query + ' via Short URL --> ' + shrink_url)
-file = wget.download(shrink_url, out='/storage/emulated/0/temp')
+file = wget.download(shrink_url, out='/tmp')
 print('\nDownloaded!: ' + str(file))
 
 # editID3Tags
@@ -162,4 +174,4 @@ print('\nFound: ' + query)
 print('\nDownloaded: ' + query)
 print('\nUploaded to: ' + chat_id)
 
-import cleaner_mob
+import cleaner
