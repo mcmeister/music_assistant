@@ -87,9 +87,9 @@ url = 'https://mp3cc.biz/search/f/' + query + '/'
 req_proxy = RequestProxy()
 
 while not req_proxy.generate_proxied_request(url):
-    print('\nNext proxy for Base URL')
+    print('\nNext proxy for "Base URL"')
 else:
-    print('\nConnected to Base URL!')
+    print('\nConnected to "Base URL!"')
     pass
 
 # saveToFile
@@ -126,14 +126,14 @@ except requests.exceptions.Timeout as ert:
 # downloadShrinkURL
 
 while not req_proxy.generate_proxied_request(shrink_url):
-    print('\nNext proxy for Shrink URL')
+    print('\nNext proxy for "Shrink URL"')
 else:
-    print('\nConnected to Shrink URL!')
+    print('\nConnected to "Shrink URL!"')
     pass
 
 print('\nDownloading: ' + query + ' via Short URL --> ' + shrink_url)
 file = wget.download(shrink_url, out='/tmp')
-print('\nDownloaded!: ' + str(file))
+print('\nDownloaded: ' + str(file))
 
 # editID3Tags
 
@@ -149,7 +149,7 @@ print(tags)
 
 # telegramBot
 
-print('\nFilename will be: ' + newName)
+print('\nNew Filename is: ' + newName)
 os.rename(str(file), newName)
 audio = open(newName, 'rb')
 token = 'my_bot_token'
@@ -160,8 +160,8 @@ print('\nStatus: ' + tb_status)
 
 # uploadFile
 
-print('\nUploading File to a Telegram Channel: ' + chat_id)
-print('\nMessage will be: ' + str(text))
+print('\nUploading File to Telegram Channel: ' + chat_id)
+print('\nThe Caption is: ' + str(text))
 send = tb.send_audio(chat_id, audio)
 message_id = send.message_id
 caption = str(text)
@@ -171,7 +171,7 @@ print('\nFile Uploaded!')
 # statusImprint
 
 print('\nFound: ' + query)
-print('\nDownloaded: ' + query)
-print('\nUploaded to: ' + chat_id)
+print('Downloaded: ' + query)
+print('Uploaded to: ' + chat_id)
 
 import cleaner
