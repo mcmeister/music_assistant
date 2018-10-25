@@ -56,24 +56,15 @@ boldClose = '</b>'                  # Variable for Text-Formatting
 
 if mixName == blankInput:
     query = (artistName + spaceInput + songName)
-elif songName == blankInput:
-    query = (artistName + spaceInput + mixName)
-elif artistName == blankInput:
-    query = (songName + spaceInput + mixName)
+    text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName + codeClose)
+    newName = ('/storage/emulated/0/temp/' + artistName + hyphenInput + songName + '.mp3')
 else:
     query = (artistName + spaceInput + songName + spaceInput + mixName)
-print('\nWorking on Request: ' + query)
-
-if mixName == blankInput:
-    text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName + codeClose)
-else:
-    text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName
+    text = (codeOpen + artistName + spaceInput + hyphenInput + spaceInput + songName 
             + '(' + mixName + ' Remix' + ')' + codeClose)
+    newName = ('/storage/emulated/0/temp/' + artistName + hyphenInput + songName + hyphenInput + mixName + '.mp3')
 
-if mixName == blankInput:
-    newName = ('/tmp/' + artistName + hyphenInput + songName + '.mp3')
-else:
-    newName = ('/tmp/' + artistName + hyphenInput + songName + hyphenInput + mixName + '.mp3')
+print('\nWorking on Request: ' + query)
 
 # baseURL
 
