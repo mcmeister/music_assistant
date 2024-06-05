@@ -1,20 +1,29 @@
 import os
 import glob
+import logging
 
+# Setup logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Delete Downloaded Files from a Disk
+def clean_downloaded_files(directory='/tmp/'):
+    """
+    Delete temporary and mp3 files from the specified directory.
+    
+    :param directory: The directory to clean. Defaults to '/tmp/'.
+    """
+    os.chdir(directory)
+    file_patterns = ['*.tmp', '*.mp3']
+    
+    for pattern in file_patterns:
+        for file_path in glob.glob(pattern):
+            try:
+                if os.path.exists(file_path):
+                    os.remove(file_path)
+                    logging.info(f'Deleted: {file_path}')
+                else:
+                    logging.warning(f'The file does not exist: {file_path}')
+            except Exception as e:
+                logging.error(f'Error deleting file {file_path}: {e}')
 
-os.chdir('/tmp/')
-for file_tmp in glob.glob('*.tmp'):
-    if os.path.exists(file_tmp):
-        os.remove(file_tmp)
-        print('\nDeleted: ' + file_tmp)
-    else:
-        print('\nThe file does not exist')
-
-for file_mp3 in glob.glob('*.mp3'):
-    if os.path.exists(file_mp3):
-        os.remove(file_mp3)
-        print('\nDeleted: ' + file_mp3)
-    else:
-        print('\nThe file does not exist')
+# Execute the cleaning function
+clean_downloaded_files()
