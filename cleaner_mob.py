@@ -1,20 +1,32 @@
 import os
 import glob
+import logging
 
+# Setup logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Delete Downloaded Files from a Disk
+def delete_files(directory, pattern):
+    """
+    Delete files matching the pattern in the specified directory.
 
-os.chdir('/storage/emulated/0/temp')
-for file_tmp in glob.glob('*.tmp'):
-    if os.path.exists(file_tmp):
-        os.remove(file_tmp)
-        print('Deleted: ' + file_tmp)
-    else:
-        print('The file does not exist')
+    :param directory: The directory to search for files.
+    :param pattern: The pattern of files to delete.
+    """
+    try:
+        if os.path.exists(directory):
+            os.chdir(directory)
+            for file in glob.glob(pattern):
+                try:
+                    os.remove(file)
+                    logging.info(f'Deleted: {file}')
+                except OSError as e:
+                    logging.error(f'Error deleting {file}: {e}')
+        else:
+            logging.error(f'The directory {directory} does not exist')
+    except OSError as e:
+        logging.error(f'Error changing directory to {directory}: {e}')
 
-for file_mp3 in glob.glob('*.mp3'):
-    if os.path.exists(file_mp3):
-        os.remove(file_mp3)
-        print('Deleted: ' + file_mp3)
-    else:
-        print('The file does not exist')
+if __name__ == "__main__":
+    temp_directory = '/storage/emulated/0/temp'
+    delete_files(temp_directory, '*.tmp')
+    delete_files(temp_directory, '*.mp3')
